@@ -1,4 +1,4 @@
-# high-rise-residential 0520
+# 0520graphic code
 # 基地環境與都市紋理 (基地)
 都市紋理密度
 介面鄰接條件
