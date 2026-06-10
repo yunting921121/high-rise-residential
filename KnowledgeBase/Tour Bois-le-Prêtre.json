@@ -1,0 +1,126 @@
+{
+  "case_name": "Tour_Bois-le-Pretre",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height_original": "50m",
+      "floors": {
+        "above_ground": 16,
+        "levels": "R+15"
+      },
+      "gfa_sqm": {
+        "original": 8900,
+        "post_transformation": 12460
+      },
+      "residential_units": 96,
+      "timeline": {
+        "original_construction": 1957,
+        "transformation_start": 2009,
+        "completion": 2011
+      },
+      "coordinates": "48°53'55\"N, 2°19'11\"E",
+      "key_stakeholders": {
+        "original_architect": "Raymond Lopez",
+        "transformation_architects": ["Frederic Druot", "Anne Lacaton", "Jean-Philippe Vassal"],
+        "structural_engineering": ["Secser", "VP & Green"],
+        "mep_engineering": "Inex",
+        "general_contractor": "Brezillon",
+        "client": "Paris Habitat"
+      },
+      "international_awards": [
+        "Equerre d'Argent 2011",
+        "Design of the Year 2013 (London Design Museum)"
+      ]
+    },
+    "urban_context": {
+      "city": "Paris, France",
+      "district": "Porte de Saint-Ouen, 17eme arrondissement",
+      "zoning_constraints": "PLU Paris heritage protection restrictions, Paris ring-road infrastructure acoustic buffers, strict perimeter footprint limits",
+      "project_origin": "Inversion and transformation of a post-war mass housing social tower targeted for demolition into a sustainable open habitat"
+    },
+    "tectonic_systems": {
+      "structure": "Original cast-in-place concrete post-beam frames reinforced with a lightweight self-supporting galvanized steel framework extensions matrix",
+      "facade": "Unitized anodized aluminum sliding window wall with low-E multi-layered double glazing doors, integrated inside a 3-meter deep wintergarden balcony ring",
+      "environmental_tech": "Passive thermodynamic wintergarden buffer zones, interior reflective thermal curtains, natural cross stack-effect ventilation layout, structural high-durability thermal break insulated pads"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/5017/63b3/28ba/0d44/1400/0b1c/large_jpg/stringio.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5017/65be/28ba/0d44/1400/0b40/large_jpg/stringio.jpg",
+      "building_section": "https://images.adsttc.com/media/images/5017/63c5/28ba/0d44/1400/0b21/large_jpg/stringio.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/5017/643b/28ba/0d44/1400/0b2e/large_jpg/stringio.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Confronts the severe acoustic aggression and heavy particulate pollution of the adjacent Paris ring-road infrastructure. Inverts a socio-spatial residue into an ecological gateway.",
+    "scale_and_geometry": "Transforms a rigid modernist mineral solid into a porous crystalline envelope by extending floor plate projections 3 meters outward via a regular structural modular steel frame.",
+    "user_sociology": "Enforces profound socio-spatial dignity for social housing tenants by expanding living surfaces up to 50% without rent increases, creating a transitional buffer loggia that secures domestic safe territoriality.",
+    "lifecycle_events": "Pioneers an innovative dry prefabrication modular delivery timeline on an occupied construction site, saving over 60% of embodied carbon emissions compared to demolition-reconstruction models.",
+    "performance_physics": "The perimeter wintergarden acts as a passive thermodynamic heating/cooling engine reducing annual space-heating demands by over 50% while operating as an effective multicomponent sound trap."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "局部熱阻斷構造",
+      "keyword_en": "Thermal Break Construction",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Prevents catastrophic structural thermal bridges where the new outdoor cantilevered lightweight steel framework elements couple mechanically with the historical cast-in-place concrete floor plates, avoiding internal wall condensation and heating losses in winter.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The technical joint layout blueprint details high-density insulation thermal separation pads sandwiched tightly at the steel anchor connection interface."
+      }
+    },
+    {
+      "keyword_zh": "被動式遮陽",
+      "keyword_en": "Passive Shading",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Optimizes solar heat gain control throughout varying seasonal path changes. The deep 3-meter cantilever horizontal floor plates cast direct geometric shadow profiles over lower glazed window layers during summer peak solar angles, eliminating artificial cooling requirements.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The technical building section marks out geometric sun angles proving how the overhanging upper balcony decks act as effective shade umbrellas for lower flat interiors."
+      }
+    },
+    {
+      "keyword_zh": "預製混凝土單元組裝",
+      "keyword_en": "Prefabricated Module Assembly",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Solves structural weight limits and extreme high-altitude delivery hazards on an occupied site by shifting components to dry prefabrication modular logistics, gruting preassembled light concrete planks directly onto facade anchor brackets.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The floor grid charts a highly uniform 3m-span modular framework expanding symmetrically past the historical brick/concrete envelope line."
+      }
+    },
+    {
+      "keyword_zh": "煙囪效應通風",
+      "keyword_en": "Stack Effect Ventilation",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Combats urban heat island microclimate over-heating during summer cycles. The fully sliding double glazing facade windows unchain natural fluid cross-ventilation, drawing fresh breeze into the flat core driven by height-induced low-pressure zones.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The thermodynamic fluid section profile isolates natural wind vectors streaming through the deep open balcony cavities straight across the living rooms."
+      }
+    },
+    {
+      "keyword_zh": "古蹟活化與結構介入",
+      "keyword_en": "Adaptive Reuse Structural Intervention",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Rejects the high-carbon capitalist tabula rasa demolition of modernist mass housing estates. Preserving the 1957 concrete skeleton while executing an active geometric slicing and facade extension enforces absolute social equity and low-carbon urban resource inversion.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "High-resolution photographs explicitly document the contrast of the original modernist raw concrete shell wrapped seamlessly in the contemporary light open glass-and-steel bioclimatic skin."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent by intent. The tower layout relies on human-driven low-tech adjustments (manual sliding windows and reflective interior thermal curtains) to prioritize tenant usage autonomy over complex, high-maintenance automated IoT kinetic machinery grids.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Design taxonomy preference of the late 2000s. Druot, Lacaton & Vassal prioritized low-maintenance material resilience, passive bioclimatic physics, and human domestic stewardship over computer-automated active building management systems, excluding motorized cabling telemetry graphics."
+      }
+    }
+  ]
+}

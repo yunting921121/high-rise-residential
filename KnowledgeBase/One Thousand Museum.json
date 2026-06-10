@@ -1,0 +1,123 @@
+{
+  "case_name": "One_Thousand_Museum",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height": "215.1m",
+      "floors": {
+        "above_ground": 62,
+        "basements": 1
+      },
+      "site_area_sqm": 4200,
+      "gfa_sqm": 84650,
+      "residential_units": 84,
+      "timeline": {
+        "construction_start": 2014,
+        "completion": 2019
+      },
+      "coordinates": "25°47'03\"N, 80°11'24\"W",
+      "key_stakeholders": {
+        "lead_architect": "Zaha Hadid Architects (扎哈·哈蒂)",
+        "partner_in_charge": "Chris Lepine",
+        "local_architect": "O'Donnell Dannwolf Partners Architects (ODP)",
+        "structural_engineering": "DeSimone Consulting Engineers",
+        "landscape_botanical": "Enea Garden Design",
+        "developer": "1000 Biscayne Tower, LLC"
+      },
+      "structural_awards": [
+        "ACEC Engineering Excellence Grand Award 2020",
+        "ENR Best Custom Tall Tower Construction Project Award"
+      ]
+    },
+    "urban_context": {
+      "city": "Miami, USA",
+      "district": "Downtown Miami / Biscayne Boulevard Waterfront Node",
+      "zoning_constraints": "Miami 21 Zoning Code compliance, solar envelope slope protection boundaries, coastal wind tunnel regulations, public view corridors control",
+      "project_origin": "Inverting a premium commercial waterfront residue lot into an ultra-high-density biomimetic structuralism skyscraper地標"
+    },
+    "tectonic_systems": {
+      "structure": "Exoskeleton system comprising prefabricated GFRC shell modules backfilled with High-Strength Self-Compacting Concrete (SCC), coupled with an orthogonal central concrete shear core",
+      "facade": "Unitized window wall with Low-E multi-layered double glazing doors, nested tightly inside the continuous curvilinear concrete exoskeleton nodes",
+      "environmental_tech": "Aerodynamic wind-fragmentation fluid massing, passive thermodynamic self-shading overhang slabs, high-durability thermal break insulation pads, automated high-zone water pressure distribution, drone landing platform infrastructure"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/5db8/a883/284d/d1d7/6800/017c/large_jpg/Hufton___Crow_One_Thousand_Museum_01.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5db8/ab8f/284d/d12b/7e00/01d0/large_jpg/02_Typical_Floor_Plan.jpg",
+      "building_section": "https://images.adsttc.com/media/images/5db8/abc0/284d/d12b/7e00/01d3/large_jpg/04_Section.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/5db8/ad0d/284d/d1d7/6800/019a/large_jpg/10_Facade_Detail.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context_ontology": "Sutures the sharp friction boundary along Downtown Miami's dense financial waterfront. Releases the ground footprint to establish a landscaped public podium base, mitigating structural skyline oppression against Biscayne Bay.",
+    "scale_and_geometry_morphology": "Deconstructs the vertical standalone skyscraper silhouette into a continuous fluid concrete exoskeleton via parametric volumetric carving, narrowing and bifurcating asymmetrically past 3D coordinates.",
+    "user_sociology_syntax": "Prioritizes high-altitude safe sensory territoriality against extreme maritime transparency using deep-framed box loggias acting as structural armor, while integrating an automated drone landing platform at the crown.",
+    "lifecycle_events_logistics": "Defies permanent high-velocity hurricane wind torques and交變 stresses by prefabricating 4,800 custom GFRC permanent mold templates from Dubai, tracking long-term structural integrity via embedded fiber-optic tracking networks.",
+    "performance_physics": "The fluid sloped organic exoskeleton works as an aerodynamic wind-attenuation envelope breaking up vortex shedding forces, while the protruding structural floor plates establish an efficient passive self-shading engine."
+  },
+  "stage_3_ontology_mapping_verification": [
+    {
+      "keyword_zh": "結構與立面合一",
+      "keyword_en": "Integrated Structure and Facade",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Eschews generic industrial non-structural glass curtain wall skins. The raw curvilinear concrete exoskeleton columns extend vertically to form the tower's primary grid enclosure, functioning simultaneously as load-bearing column walls and expressive finish facades, unchaining wide column-free interior flexible flat plans.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The standard apartment blueprint documents a total absence of internal partition columns inside the units; all vertical gravity structures align precisely with the perimeter exoskeleton grid framework boxes."
+      }
+    },
+    {
+      "keyword_zh": "預製混凝土單元組裝",
+      "keyword_en": "Prefabricated GFRC Module Assembly",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Solves high-altitude execution hazards of complex double-curved fluid exoskeleton shapes under coastal gale paths. Pre-fabricates 4,800 precision GFRC shell components in a controlled factory environment to act as permanent formwork, backfilled on site with self-compacting concrete to ensure tectonic honesty.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The tectonic wall detailing charts the composite cross-section revealing the external high-precision GFRC precast sleeve jacket tightly bounding the inner core reinforcement bars and high-strength concrete fill."
+      }
+    },
+    {
+      "keyword_zh": "模糊邊界灰空間",
+      "keyword_en": "Ambiguous Grey Space",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Bridges open maritime ecosystem views directly with high-altitude indoor luxury living. Embedding flush structural floor frame tracks erases physical barriers, allowing interior luxury spaces to flow seamlessly onto the expansive loggia decks framed by the concrete exoskeleton mesh.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The construction detail isolates the perfectly flush track profile interface where the low-E window system meets the structural slab edge without vertical water-retaining curbs."
+      }
+    },
+    {
+      "keyword_zh": "被動式遮陽",
+      "keyword_en": "Passive Shading",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Neutralizes high solar heat gains characteristic of sub-tropical maritime tracks. The shifting, extended structural exoskeleton boundaries project deep shadows over the glazing layers of lower floors, creating an architectural self-shading geometry that blocks up to 85% of high-angle solar radiation.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The sectional perspective maps out the precise sun-path geometric shading projection cast by the upper overhanging plates over the double-glazed facades below."
+      }
+    },
+    {
+      "keyword_zh": "局部熱阻斷構造",
+      "keyword_en": "Thermal Break Construction",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Eliminates dangerous thermal bridge corridors where massive external exoskeleton concrete masses and extended floor decks project directly from the interior shells, preventing wall condensation, molding, and rapid heating loss under hot maritime cycles.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The blueprint detail reveals high-durability thermal separation pads sandwiched tightly between external GFRC attachments and internal concrete slabs."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent by tectonic design choice. The structure targets permanent passive material durability (precast GFRC shells) and static mass self-shading parameters instead of mechanical motorized louvers or active responsive sensor networks.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Prioritized absolute material permanence, low-maintenance structural honesty, and robust passive geometric climatic controls over complex high-maintenance electromechanical motorized kinetics, omitting automated cabling telemetry drawings."
+      }
+    }
+  ]
+}

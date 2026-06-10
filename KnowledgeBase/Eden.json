@@ -1,0 +1,126 @@
+{
+  "case_name": "Eden",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height": "104.5m",
+      "floors": {
+        "above_ground": 20,
+        "basements": 1,
+        "piloti_void_height": "27m"
+      },
+      "site_area_sqm": 1930,
+      "gfa_sqm": 6400,
+      "residential_units": {
+        "total": 20,
+        "layout_modularity": "One unit per premium floor"
+      },
+      "timeline": {
+        "construction_start": 2016,
+        "completion": 2019
+      },
+      "coordinates": "1°18'32\"N, 103°49'44\"E",
+      "key_stakeholders": {
+        "lead_architect": "Heatherwick Studio (Thomas Heatherwick)",
+        "executive_architect": "RSP Architects Planners & Engineers",
+        "structural_engineering": "Arup Singapore",
+        "mep_engineering": "Arup Singapore",
+        "landscape_botanical": "COEN Design International",
+        "developer": "Swire Properties (太古地產)"
+      },
+      "international_awards": [
+        "BCA Green Mark Award Platinum (Singapore Highest Ecology Award)"
+      ]
+    },
+    "urban_context": {
+      "city": "Singapore",
+      "district": "2 Draycott Park, Orchard Residential Zone",
+      "zoning_constraints": "LUSH (Landscaping for Urban Spaces and High-Rises) plot bonus guidelines, solar envelope setback restrictions",
+      "project_origin": "Reinventing high-density tropical luxury housing by re-introducing the traditional single-family house garden lifestyle vertically"
+    },
+    "tectonic_systems": {
+      "structure": "Integrated structural load-bearing concrete facade walls with post-tensioned slab hybrid system, no internal columns",
+      "facade": "Exposed aggregate sandblasted skin stamped with parametric 3D topographical contour molds on east/west, three-dimensional precast concrete shell balconies on south",
+      "environmental_tech": "Natural stack effect ventilation optimization, severe passive shading via deep organic cantilevered shell profiles, automated smart irrigation with integrated dynamic nutrient mixing, rainwater harvesting retention ponds"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/5e38/1922/b357/655f/5400/0172/large_jpg/Swire_Properties__EDEN_by_Heatherwick_Studio_credit_Swire_Properties.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5e38/1cf5/b357/655f/5400/0179/large_jpg/EDEN_by_Heatherwick_Studio_Typical_Floor_Plan_credit_Swire_Properties.jpg",
+      "building_section": "https://images.adsttc.com/media/images/5e38/1ce9/b357/655f/5400/0178/large_jpg/EDEN_by_Heatherwick_Studio_North-South_Sectional_Perspective_credit_Swire_Properties.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/5e38/1cdc/b357/65bf/7700/02b4/large_jpg/EDEN_by_Heatherwick_Studio_Detail_Drawing_of_Balcony_credit_Swire_Properties.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Nestled in the ultra-dense luxury cul-de-sac of Draycott Park. Juxtaposes a highly crafted organic biological tower against the adjacent rigid 1980s mineral blocks.",
+    "scale_and_geometry": "Concave facade geometry with localized parametric narrowing. Re-allocates service zones to the north and east boundaries while projecting active living programs into deep southern three-dimensional shell profiles.",
+    "user_sociology": "Prioritizes ultimate elite privacy and psychological territoriality via rear-detached core elevator terminals that unlock uninterrupted 360-degree personal layout boundaries.",
+    "lifecycle_events": "Addresses structural mass dynamic variations during tropical vegetation growth lifecycle by calculating worst-case wind load combinations using Arup's integrated computational models.",
+    "performance_physics": "The heavy external load-bearing thermal mass acts as a high-durability heat shield against harsh equatorial east/west sun tracks, while structural shell geometries induce the venturi effect for full-building air circulation."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "結構與立面合一",
+      "keyword_en": "Integrated Structure and Facade",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Discards conventional interior structural column grids by transferring all gravity and lateral loads to the perimeter east/west concrete mass. This creates a completely column-free interior while simultaneously utilizing the structural wall's thermal mass to block severe equatorial solar heat gain.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The standard floor plan explicitly confirms zero columns inside the 280 sqm apartment shell, proving that all structural loads are entirely handled by the thick perimeter embossed concrete facades."
+      }
+    },
+    {
+      "keyword_zh": "煙囪效應通風",
+      "keyword_en": "Stack Effect Ventilation",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Rejects mechanical HVAC air dependency in the humid tropical climate. The building's concave massing combined with deep open balcony apertures creates localized negative pressure, pulling cool fresh air from the landscaped ground plinth straight through the living spaces.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The environmental diagram metrics display thermodynamic wind vectors streaming from the shaded pilotis base up into the central curved voids, proving geometric induction of cross ventilation."
+      }
+    },
+    {
+      "keyword_zh": "預製混凝土單元組裝",
+      "keyword_en": "Prefabricated Concrete Module Assembly",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Solves high-altitude execution hazards of complex double-curved shell balcony geometries. Pre-fabricates the organic concrete modules using CNC-milled high-precision steel molds in a controlled factory environment before hoisting and locking them via post-tensioned rebar couplers.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The detailed tectonic section charts the precast modular junction interface, embedded shear keys, EPDM waterproof gaskets, and precise high-strength thermal isolation connection pads."
+      }
+    },
+    {
+      "keyword_zh": "模糊邊界灰空間",
+      "keyword_en": "Ambiguous Grey Space",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Revitalizes traditional tropical verandah living. Erases structural boundaries by upturning slab beams and integrating fully pocketed sliding window systems, matching interior floor planes directly with the outdoor forest terraces.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "High-resolution close-ups confirm a completely flush floor finish track transition where the internal premium wood planks meet the external washed aggregate planter bed finishes."
+      }
+    },
+    {
+      "keyword_zh": "地面層挑空開放",
+      "keyword_en": "Ground-Floor Piloti Openness",
+      "category": "3. 都市邊界與交通導向 (Zoning, Context & TOD)",
+      "causal_dialectic": "Enforces a highly altruistic urban gesture by lifting the first habitable residential level 27 meters above the street. This eliminates heavy streetwall oppression and dedicates the entire ground plane to a naturally ventilated micro-pocket park for the urban fabric.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The elevation view clearly tracks a dramatic 27-meter hollow void zone supported by slender tapering concrete pilotis below the main residential stacking sequence."
+      }
+    },
+    {
+      "keyword_zh": "數位孿生風場模擬",
+      "keyword_en": "Digital Twin Ventilation Simulation",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent due to conceptual intent. The tower prioritizes robust, permanent passive bioclimatic geometry and physical thermal mass over motorized dynamic robotic facades or cloud-linked fiber-optic IoT sensory twin systems.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Tectonic design philosophy choice. The 2016-2019 execution favored structural honesty and low-maintenance natural self-adaptation over electromechanical dynamic systems, omitting live digital twin tracking telemetry."
+      }
+    }
+  ]
+}

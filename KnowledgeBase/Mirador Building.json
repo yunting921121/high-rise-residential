@@ -1,0 +1,121 @@
+{
+  "case_name": "Mirador_Building",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height": "63.4m",
+      "floors": {
+        "above_ground": 21,
+        "basements": 1,
+        "sky_square_level": [12, 13, 14]
+      },
+      "site_area_sqm": 7200,
+      "gfa_sqm": 23260,
+      "residential_units": 156,
+      "timeline": {
+        "international_competition": 2001,
+        "completion": 2005
+      },
+      "coordinates": "40°29'42\"N, 3°39'25\"W",
+      "key_stakeholders": {
+        "lead_architect": "MVRDV",
+        "co_architect": "Blancas Laso Group",
+        "structural_engineering": "APIM",
+        "client_agency": "EMVS (马德里市政住宅发展局)"
+      },
+      "international_awards": [
+        "Premios de Urbanismo Ayuntamiento de Madrid 2006 (马德里城市最佳建筑奖)"
+      ]
+    },
+    "urban_context": {
+      "city": "Madrid, Spain",
+      "district": "Sanchinarro PAU Residential Grid Zone",
+      "zoning_constraints": "Severe building footprint coverage constraints, sky exposure plane slope regulations, strict legal solar envelope shadow protection limits",
+      "project_origin": "Inverting a monotonous, highly densified mineralized regular corporate block residue yard into a highly porous social housing village landmark"
+    },
+    "tectonic_systems": {
+      "structure": "Steel Reinforced Concrete (SRC) heavy columns structure integrated with large-span post-tensioned flat slabs and a high-altitude steel Vierendel truss framework",
+      "facade": "Structure-facade honesty via perimeter prefabricated concrete wall boxes mixed with exposed aggregate skin, black marble dry-cladding, and Low-E glazing curtain units",
+      "environmental_tech": "Aerodynamic wind-attenuation 3D Boolean openings, passive thermodynamic self-shading overhang plates, high-durability thermal break insulated pads, automated smart water recycling center"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/5008/5b8f/28ba/0d44/1400/0cf7/large_jpg/stringio.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5008/5bda/28ba/0d44/1400/0d05/large_jpg/0d05.jpg",
+      "building_section": "https://images.adsttc.com/media/images/5008/5baa/28ba/0d44/1400/0cfb/large_jpg/0cfb.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/5008/5bc6/28ba/0d44/1400/0d01/large_jpg/0d01.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context_ontology": "Sutures the sharp friction boundary within Madrid's highly densified closed regular housing block fabric. Inverts a negative gray site into a continuous socio-ecological civic terminal incorporating a 40-meter wide sky public square.",
+    "scale_and_geometry_morphology": "Employs an intense 3D Boolean subtraction on a regular square blocks volume, fracturing the exterior skin into 9 distinct neighborhood blocks stacked in shifting coordinates to match human visual grains.",
+    "user_sociology_syntax": "Prioritizes high-altitude resident safe psychological territoriality via recessed framed boxes, while enforcing total socio-economic dignity and de-segregation through a uniform homogeneous mixed-income social housing layout.",
+    "lifecycle_events_logistics": "Defies permanent high-altitude wind and heavy load variations by shifting component framing fabrication to precast prefabrication modular assembly, using heavy hydraulic vertical lifting structural techniques.",
+    "performance_physics": "The heavy external load-bearing concrete walls provide massive thermal mass thickness that delays solar heat transfers during hot Madrid summers, while the central sky aperture induces severe cross-ventilation."
+  },
+  "stage_3_ontology_mapping_verification": [
+    {
+      "keyword_zh": "三維布林運算開口",
+      "keyword_en": "3D Boolean Subtraction",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Transforms a punitive rigid zoning footprint and layout constraint into an high-altitude civic spatial opportunity. Carving out a massive 14m x 40m canyon void from the solid rectangular matrix legally lifts the missing public courtyard space 36 meters into the sky, avoiding ground overcrowding.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "High-resolution exterior snapshots confirm the cavernous, hollow square volumetric incision tearing completely through the center of the pixelated towers."
+      }
+    },
+    {
+      "keyword_zh": "像素化體量",
+      "keyword_en": "Pixelated Massing",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Fractures the rigid monolithic skyscraper typology into 9 distinct neighborhood boxes finished in varying concrete color parameters. This volumetric fragmentation effectively dissolves the block's imposing mass, scaling it to an human physical rhythm.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "The visual data tracks distinct rhythmic advancement and recession of custom multi-colored concrete cubical blocks wrapping the tower silhouette."
+      }
+    },
+    {
+      "keyword_zh": "結構與立面合一",
+      "keyword_en": "Integrated Structure and Facade",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Eliminates interior partition columns by treating the external precast concrete modular box shell as the primary load-bearing exoskeleton structure. The raw concrete surfaces function directly as the finish facade boundary, preserving absolute tectonic honesty.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The apartment floor grids document completely clear interior plan layouts devoid of freestanding columns; all gravity受力 tracks directly line with the outer pixel walls."
+      }
+    },
+    {
+      "keyword_zh": "混合收入均質平面",
+      "keyword_en": "De-stigmatized Mixed-Income Floor Plan",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Eradicates the spatial profiling and low-cost cheap stigma of public social housing. Integrates heterogeneous layout configurations seamlessly inside an uniform, highly avant-garde pixelated shell to enforce absolute cross-class socio-economic dignity.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The standard unit configurations reveal uniform structural grid modularity and equal orientation access across all blocks, proving spatial de-stigmatization."
+      }
+    },
+    {
+      "keyword_zh": "局部熱阻斷構造",
+      "keyword_en": "Thermal Break Construction",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Eliminates destructive thermal bridge corridors where conductive steel trusses and massive cantilevered concrete overhang plates project from the interior shells to support the central sky plaza base, preventing winter internal wall condensation and heating losses under Madrid's freezing cycles.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The structural detail blueprint explicitly charts high-durability thermal separation pads sandwiched tightly between external dry-hanging masonry joints and internal concrete floor slabs."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent by tectonic design choice. The structure targets absolute permanent passive material durability (precast concrete walls) and static mass self-shading geometries instead of motorized active IoT responsive shutters or dynamic electronic glazing networks.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Technological choice paradigm of mid-2000s. OMA and MVRDV prioritized material solid permanence, low-maintenance structural honesty, and robust passive geometric climatic controls over complex high-maintenance electromechanical motorized electronics."
+      }
+    }
+  ]
+}

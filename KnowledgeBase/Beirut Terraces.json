@@ -1,0 +1,121 @@
+{
+  "case_name": "Beirut_Terraces",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height": "119.5m",
+      "floors": {
+        "above_ground": 26,
+        "basements": 5
+      },
+      "site_area_sqm": 4422,
+      "building_footprint_sqm": {
+        "podium_base": 4273,
+        "tower_typical_slab": 2884
+      },
+      "gfa_sqm": 44000,
+      "residential_units": 130,
+      "timeline": {
+        "construction_start": 2011,
+        "completion": 2017
+      },
+      "coordinates": "33°53′59.00″N 35°29′46.50″E",
+      "key_stakeholders": {
+        "lead_architect": "Herzog & de Meuron",
+        "executive_architect": "Khatib & Alami",
+        "structural_environmental_engineering": "Arup (Design Phase)",
+        "developer": "Benchmark"
+      }
+    },
+    "urban_context": {
+      "city": "Beirut, Lebanon",
+      "district": "Minet el-Hosn, Beirut Central District",
+      "zoning_constraints": "Coastal view corridor controls, solar envelope shade restrictions, horizontal green boulevard continuity expansion",
+      "project_origin": "Suturing and regenerating a war-scarred premium waterfront residual plot into a high-density luxury stratified habitat"
+    },
+    "tectonic_systems": {
+      "structure": "Integrated structural load-bearing slab grid with 4 symmetric central concrete cores and an exterior regular column-grid spanning up to 14.7 meters",
+      "facade": "Structure-facade integration via perimeter circumferential concrete slab overhangs protruding by a minimum of 60cm, infill double-glazed window walls with Low-E glazing",
+      "environmental_tech": "Thermodynamic passive thermal mass energy storage, severe passive shading via deep horizontal architectural cantilevers, perforated static shading screens, integrated sub-slab stormwater dynamic retention and automated irrigation"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/58ff/1ab5/e58e/cedf/3300/0410/large_jpg/beirut-terraces-herzog-and-de-meuron-photo.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5151/aedb/b3fc/4b31/b000/000d/large_jpg/beirut-terraces-herzog-de-meuron-image.jpg",
+      "building_section": "https://images.adsttc.com/media/images/5151/aea5/b3fc/4b31/b000/000b/large_jpg/beirut-terraces-herzog-de-meuron-image.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/5151/ae9b/b3fc/4b31/b000/0009/large_jpg/beirut-terraces-herzog-de-meuron-image.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Confronts the traumatic post-war mineral ruins of Beirut. Inverts a highly fractured waterfront residue into a vertically layered neighborhood mirroring the city's rich archaeological strata.",
+    "scale_and_geometry": "Employs 5 distinct parametric modular floor slabs stacked in varying combinations to break the 119.5-meter vertical massing into a room-scaled pixelated rhythm.",
+    "user_sociology": "Implements an ultra-private 4-core distribution scheme providing high-altitude exclusivity, while simultaneously facing deep socioeconomic scrutiny regarding windowless sub-standard maid rooms within the service zones.",
+    "lifecycle_events": "Addresses variable botanical loads and maritime wind tunnel pressures by simulating wet soil conditions against extreme earthquake design codes overseen by Arup's structural analytics.",
+    "performance_physics": "Capitalizes on Mediterranean climatic luxury by integrating substantial slab thermal mass thicknesses that absorb daily temperature cycles, releasing cool air harvested at night during high-heat daytime windows."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "結構與立面合一",
+      "keyword_en": "Integrated Structure and Facade",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Eschews generic industrial non-structural glass curtain wall skins. The raw cast-in-place white concrete structural slabs extend outward to form the building's exterior perimeter, functioning simultaneously as floor decks, facades, and weather protection boards to enforce absolute tectonic honesty.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The technical section blueprint details the monolithic concrete flat slab continuing past the interior window line to form the raw, deep exterior cantilevered profile."
+      }
+    },
+    {
+      "keyword_zh": "模糊邊界灰空間",
+      "keyword_en": "Ambiguous Grey Space",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Adapts to Beirut's mild地中海 urban culture where outdoor living is essential. Integrates completely flush sliding window frame joints within the sub-floors, allowing the interior formal entertaining halls to blend seamlessly with the deep high-altitude terrace landscape.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The modular grid charts expansive private terrace zones immediately flanking the living spaces without rigid partition walls, enabling a fluid indoor-outdoor lifestyle."
+      }
+    },
+    {
+      "keyword_zh": "被動式遮陽",
+      "keyword_en": "Passive Shading",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Neutralizes high solar heat gains characteristic of Middle Eastern tracks. The shifting, extended structural slab boundaries project deep shadows over the glazing layers of the lower floors, creating an architectural self-shading geometry that blocks up to 85% of high-angle solar radiation.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The sectional perspective delineates the precise sun-path geometric shading projection cast by the upper overhang plates over the double-glazed facades below."
+      }
+    },
+    {
+      "keyword_zh": "像素化體量",
+      "keyword_en": "Pixelated Massing",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Fractures the heavy vertical tower silhouette into an alternating stratified matrix. By sliding and shifting 5 modular slab layers independently across 4 directions, the architectural footprint is pixelated into a dynamic vertical neighborhood that lightens streetwall oppression.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "The Iwan Baan photograph captures the dramatic staggered rhythmic advancement and recession of the white concrete bands defining the tower silhouette."
+      }
+    },
+    {
+      "keyword_zh": "多中心核心筒佈局",
+      "keyword_en": "Multi-Centric Core Layout",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Abolishes the typical central corridor layout to ensure maximum elite privacy. Splits the vertical traffic核 into 4 independent正方形 structural cores across four grid quadrants, delivering dual-apartment private elevator entries while maximizing symmetrical structural resistance against twisting wind torques.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The general plan highlights 4 isolated concrete core boxes symmetrically reinforcing the open-plan residential layouts.",
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent by intent. The architecture prioritizes material durability, high thermal mass and permanent passive self-shading geometries over electromechanical responsive dynamic shutters or fiber-optic linked digital twin automated building networks.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Tectonic design ideology. HdM prioritized structural permanence, raw materiality honest expression and passive atmospheric cooling over complex motorized IoT cabling systems, omitting automated telemetry schematics."
+      }
+    }
+  ]
+}

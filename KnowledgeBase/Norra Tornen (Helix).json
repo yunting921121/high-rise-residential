@@ -1,0 +1,122 @@
+{
+  "case_name": "Norra_Tornen_Helix",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height": "110m",
+      "floors": {
+        "above_ground": 33,
+        "basements": 2
+      },
+      "site_area_sqm": 3500,
+      "gfa_sqm": 41500,
+      "residential_units_estimated": 148,
+      "timeline": {
+        "construction_start": 2015,
+        "completion": 2020
+      },
+      "coordinates": "59°20'44\"N, 18°02'02\"E",
+      "key_stakeholders": {
+        "lead_architect": "OMA (Office for Metropolitan Architecture)",
+        "partner_in_charge": "Reinier de Graaf",
+        "local_architect": "AIX Arkitekter",
+        "structural_engineering": ["AKT II", "Manneby Fastighetskonsult"],
+        "mep_engineering": "SWECO",
+        "developer": "Oscar Properties"
+      },
+      "international_awards": [
+        "International Highrise Award 2020 (Frankfurt DAM)"
+      ]
+    },
+    "urban_context": {
+      "city": "Stockholm, Sweden",
+      "district": "Hagastaden Gateway Zone",
+      "zoning_constraints": "Solar envelope shadow protection envelope, infrastructure boundary alignment, skyline rhythm regulations",
+      "project_origin": "Suturing a highly fractured urban node split by active highway and railway infrastructure via a prefabricated vertical village"
+    },
+    "tectonic_systems": {
+      "structure": "Nordic load-bearing prefabricated precast concrete modular box assembly with integrated core shear walls",
+      "facade": "Exposed aggregate sandblasted skin mixed with local colored Swedish stone ribs and gravel multi-layered wall panels",
+      "environmental_tech": "High-density thermal break insulation pad integration, multi-layered acoustic buffer windows, Envac pneumatic automated vacuum refuse shuttle, building micro-grid energy systems"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/5c06/3392/08a5/e5ee/6e00/017c/large_jpg/Norra_Tornen_Laurian_Ghitiuoiu_3.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5c06/3067/08a5/e524/1100/025b/large_jpg/02_plans.jpg",
+      "building_section": "https://images.adsttc.com/media/images/5c06/30a5/08a5/e5ee/6e00/0166/large_jpg/04_sections.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/5c06/30e3/08a5/e5ee/6e00/016c/large_jpg/08_details.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Acts as the strategic architectural twin gateway bridging Stockholm's traditional low-rise stone masonry quarters and the new high-density medical tech hub. Inverts the negative spatial experience of adjacent heavy infrastructure.",
+    "scale_and_geometry": "Employs an intense orthogonal grid rotation and interlocking pixelated geometry that scales the 110m massing down to a human physical rhythm.",
+    "user_sociology": "Transforms high-altitude balconies into recessed sheltered 'outdoor rooms', redefining spatial domain safety and thermal comfort for Nordic climates.",
+    "lifecycle_events": "Defies the brutal sub-zero Nordic winters by shifting construction logistics to factory prefabrication assembly, setting unprecedented execution speed records.",
+    "performance_physics": "Combines structural honesty with high thermal performance, achieving German-equivalent Passive House envelopes using structural insulated thermal pads."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "像素化體量",
+      "keyword_en": "Pixelated Massing",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Fractures the monolithic high-rise slab profile into room-sized modular cubes. This volumetric fragmentation effectively dissolves the skyline oppression while generating unique alternating geometric shadow patterns.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "The high-resolution photograph documents the distinct rhythmic protrusion and recession of precast concrete cubical modules texture across the towers."
+      }
+    },
+    {
+      "keyword_zh": "預製混凝土單元組裝",
+      "keyword_en": "Prefabricated Concrete Module Assembly",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Solves high-altitude cast-in-place concrete freezing risks during severe winters. Shifting construction to factory-controlled module prefabrication achieves a rapid assembly lifecycle of 2 floors per week without exterior scaffolding.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The structural detail drawing illustrates mechanical dry joint connectors, concrete shear keys, and double EPDM waterproof synthetic gaskets sealing the assembly gaps."
+      }
+    },
+    {
+      "keyword_zh": "結構與立面合一",
+      "keyword_en": "Integrated Structure and Facade",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Eliminates interior partition columns by treating the external precast concrete modular box skin as the primary load-bearing exoskeleton. The raw structure functions directly as the finish facade, preserving absolute tectonic honesty.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The layout shows a column-free domestic interior surrounding the central elevator core; all vertical gravity loads align perfectly with the thick external pixel walls."
+      }
+    },
+    {
+      "keyword_zh": "模糊邊界灰空間",
+      "keyword_en": "Ambiguous Grey Space",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Inverts the vulnerable cantilevered balcony into a three-sided recessed sheltered room. Integrating a completely flush structural floor track track allows living programs to flow seamlessly outdoors even in cold seasons.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The floor grid maps out deep square balcony voids nested within the building footprint, providing a protected psychological micro-climate."
+      }
+    },
+    {
+      "keyword_zh": "基礎設施退縮邊界",
+      "keyword_en": "Infrastructure Setback",
+      "category": "3. 都市邊界與交通導向 (Zoning, Context & TOD)",
+      "causal_dialectic": "Sutures urban residue left by active rail and highway lines. Implements high-performance low-frequency vibration isolation bearings under the podium and acoustic buffer fenestrations to enable luxury high-density housing directly above rapid transit infrastructure.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The structural cross-section highlights the direct geometric confrontation and precise setback compliance line relative to the underground rapid transit tunnels."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Omitted. The building targets absolute tectonic structural permanence and static mass self-shading parameters instead of mechanical motorized louvers or active responsive sensor networks.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Tectonic design philosophy. OMA prioritized low-maintenance materials durability and pure precast structural masonry over complex, high-maintenance electromechanical IoT kinetic facades, excluding automated cabling sensor telemetry drawings."
+      }
+    }
+  ]
+}

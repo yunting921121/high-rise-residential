@@ -1,0 +1,117 @@
+{
+  "case_name": "Agora_Garden",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height": "93.2m",
+      "floors": {
+        "above_ground": 21,
+        "basements": 4
+      },
+      "site_area_sqm": 8160,
+      "gfa_sqm": 42900,
+      "residential_units": 40,
+      "timeline": {
+        "construction_start": 2012,
+        "completion_facade": 2018
+      },
+      "coordinates": "25°02'23\"N, 121°34'12\"E",
+      "key_stakeholders": {
+        "lead_architect": "Vincent Callebaut Architecture",
+        "local_architect": "元宏聯合建築師事務所 (LKP & Partners)",
+        "structural_engineering": "King-Le Chang & Associates (傑聯國際)",
+        "developer": "威京總部集團 (Core Pacific Group / BES Engineering)"
+      }
+    },
+    "urban_context": {
+      "city": "Taipei, Taiwan",
+      "district": "Xinyi Planning District, Downtown Core",
+      "zoning_constraints": "Solar envelope slope compliance, legal city center setback boundaries, visual corridor restrictions, greening plot ratio bonus mechanisms",
+      "project_origin": "Inverting a high-density commercial site (former Agora Club) into an ultra-luxury eco-centric biometric vertical forest village landmark"
+    },
+    "tectonic_systems": {
+      "structure": "Exoskeleton Mega-Frame System coupled with Steel Reinforced Concrete (SRC) structures, large-span Vierendel truss frames, and nuclear-grade EPS spherical sliding base isolation bearings",
+      "facade": "Unitized glass curtain wall system with Low-E multi-layered double glazing doors, wrapped over double-curved cantilevered reinforced concrete planting troughs and thermal break insulation grids",
+      "environmental_tech": "Aerodynamic wind-deflection double-helix sloped massing, passive thermodynamic self-shading overhang plates, smart greywater & groundwater recycling center for high-altitude microclimatic smart irrigation, integrated rooftop BIPV energy systems"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/571a/40db/e58e/cebc/ee00/08be/large_jpg/01_Agora_Garden_Vincent_Callebaut_Architecture.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/571a/40ea/e58e/ce66/df00/017c/large_jpg/02_Agora_Garden_Vincent_Callebaut_Architecture.jpg",
+      "building_section": "https://images.adsttc.com/media/images/571a/41a5/e58e/cebc/ee00/08cf/large_jpg/09_Agora_Garden_Vincent_Callebaut_Architecture.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/571a/4125/e58e/cebc/ee00/08c3/large_jpg/05_Agora_Garden_Vincent_Callebaut_Architecture.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context_ontology": "Sutures the sharp friction boundary within Taipei's dense mineralized commercial skyline. Releases the ground footprint to establish a landscaped public podium base, incorporating over 23,000 trees to absorb 130+ tons of carbon annually.",
+    "scale_and_geometry_morphology": "Deconstructs the vertical standalone skyscraper profile into a dynamic DNA double-helix geometry, rotating precisely 4.5 degrees per floor for a total of 90 degrees to mitigate structural streetwall oppression.",
+    "user_sociology_syntax": "Prioritizes ultimate occupant safety and safe sensory territoriality using massive deep-framed 8-meter cantilevered fan-shaped balconies acting as living biological curtains, while integrating a centralized vertical supercar elevator hub straight into the suites.",
+    "lifecycle_events_logistics": "Defies extreme structural seismic and wind twisting torques in active earthquake zones by deploying 48 nuclear-grade EPS base isolators coupled with long-term structural health fiber-optic sensor array networks across the lifecycle.",
+    "performance_thermodynamics": "The rotating double-helix massing works as an aerodynamic wind-attenuation envelope breaking up typhoon forces, while the protruding structural floor plates establish an efficient passive self-shading thermodynamic engine."
+  },
+  "stage_3_ontology_mapping_verification": [
+    {
+      "keyword_zh": "形體變形",
+      "keyword_en": "Mass Transformation",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Rejects the generic vertical skyscraper silhouette by implementing an active clock-wise rotation of 4.5 degrees per floor. This parametric double-helix transformation successfully dissolves skyline massing oppression while maximizing continuous daylighting catchment angles.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "High-resolution photographs capture the distinct, fluid twisting path of the white concrete slab edges and structural exoskeleton framing columns stepping through space."
+      }
+    },
+    {
+      "keyword_zh": "結構與立面合一",
+      "keyword_en": "Integrated Structure and Facade",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Eradicates conventional internal structural columns by transferring all critical vertical and seismic loads to the centralized concrete core and the exterior twisting Vierendel truss framework columns, unlocking an absolute column-free interior flexible flat plan.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The domestic blueprint documents a total absence of internal structural column grids within the core luxury起居 zones; all gravity structures align precisely at the perimeter boundary frames."
+      }
+    },
+    {
+      "keyword_zh": "模糊邊界灰空間",
+      "keyword_en": "Ambiguous Grey Space",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Dismantles hermetically sealed glass environments to revive sub-tropical high-altitude forest living. Embedding flush structural floor tracks erases physical barriers, allowing interior luxury spaces to flow seamlessly onto the expansive 8-meter deep cantilevered terrace decks.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The construction detail captures the perfectly flush track profile interface where the low-E fenestration meets the structural planter plate without vertical water-retaining curbs."
+      }
+    },
+    {
+      "keyword_zh": "被動式遮陽",
+      "keyword_en": "Passive Shading",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Neutralizes high solar heat gains characteristic of sub-tropical tracks. The shifting, extended structural slab boundaries project deep shadows over the glazing layers of lower floors, creating an architectural self-shading geometry that blocks excessive high-angle solar radiation.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The sectional engineering schematic maps out the precise sun-path geometric shading projection cast by the upper overhang plates over the double-glazed facades below."
+      }
+    },
+    {
+      "keyword_zh": "局部熱阻斷構造",
+      "keyword_en": "Thermal Break Construction",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Eliminates dangerous thermal bridge corridors where conductive steel exoskeleton attachment pins and extended concrete planter plates project directly from the interior shells, preventing wall condensation, molding, and rapid heating loss.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The structural detail blueprint explicitly charts high-durability thermal separation pads sandwiched tightly between external steel attachment anchors and internal concrete slabs."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent by tectonic design choice. The structure targets permanent passive material durability (concrete planters) and static mass self-shading geometries instead of motorized active IoT responsive shutters or dynamic electronic glazing networks.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Prioritized absolute material permanence, low-maintenance structural integrity, and robust passive geometric climatic controls over complex high-maintenance electromechanical motorized kinetics, omitting automated cabling telemetry drawings."
+      }
+    }
+  ]
+}

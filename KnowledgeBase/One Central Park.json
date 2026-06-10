@@ -1,0 +1,126 @@
+{
+  "case_name": "One_Central_Park",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height_towers": {
+        "East_Tower": "117m",
+        "West_Tower": "84m"
+      },
+      "floors": {
+        "East_Tower": 34,
+        "West_Tower": 15,
+        "basements": 5
+      },
+      "site_area_sqm": 6000,
+      "gfa_sqm": 255500,
+      "residential_units": 623,
+      "timeline": {
+        "construction_start": 2010,
+        "completion": 2014
+      },
+      "coordinates": "33°53'02\"S, 151°12'03\"E",
+      "key_stakeholders": {
+        "lead_architect": "Ateliers Jean Nouvel (Jean Nouvel)",
+        "local_architect": "PTW Architects",
+        "structural_engineering": "Arup",
+        "mep_environmental": ["Surface Design", "WSP"],
+        "vertical_green_botanist": "Patrick Blanc",
+        "developers": ["Frasers Property (星獅地產)", "Sekisui House (積水房屋)"]
+      },
+      "international_awards": [
+        "CTBUH Best Tall Building Worldwide 2014 Grand Award"
+      ]
+    },
+    "urban_context": {
+      "city": "Sydney, Australia",
+      "district": "Chippendale, Downtown South",
+      "zoning_constraints": "Central Park solar envelope shadow restrictions, rapid transit setback lines, skyline rhythm regulations",
+      "project_origin": "Suturing and regenerating the heavily contaminated post-industrial Carlton & United Brewery residual yard into an eco-centric vertical habitat"
+    },
+    "tectonic_systems": {
+      "structure": "Steel Reinforced Concrete (SRC) column-beam structures coupled with large-span post-tensioned slab frames and a high-altitude steel truss cantilever cantilever system",
+      "facade": "Insulated masonry window wall backing with low-E multi-layered double glazing fenestrations, wrapped in Patrick Blanc's patented hydroponic steel mesh frames",
+      "environmental_tech": "Motorized dynamic heliostat sensor array with 320 programmable tracking mirrors, subterranean high-performance Trigeneration energy micro-grid, automated multi-zone wastewater treatment plant (MBR)"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/543b/7e4e/c340/79c9/db00/01f0/large_jpg/02.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/543b/7f92/c340/79df/f600/01f0/large_jpg/19.jpg",
+      "building_section": "https://images.adsttc.com/media/images/543b/7df8/c340/79df/f600/01ee/large_jpg/16.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/543b/7f29/c340/79c9/db00/01f6/large_jpg/18.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Bridges the highly fractured urban fabric at the confluence of Sydney's major railway corridors, University of Technology Sydney, and University of Sydney. Inverts a brownfield negative site into an ecological gateway.",
+    "scale_and_geometry": "Implements an intense orthogonal grid rotation to align the double towers outside the strict legal solar shade envelope lines, scaling the 117m mass down via a 3D fine-grain biological skin lattice.",
+    "user_sociology": "Expands high-altitude premium residential privacy and sensory territorial safety via Patrick Blanc's living hydroponic curtains that shield visibility while providing cross-class social contact spaces across the public podium base.",
+    "lifecycle_events": "Addresses dynamic variations in biological loads and wind pressures across the 350 plant species lifecycle by coordinating FEA stress calculations with regular maintenance intervals by high-altitude professional climbing gardeners.",
+    "performance_physics": "The subterranean closed-loop MBR water plant cleans graywater to directly feed high-altitude smart irrigation lines, while the integrated automated heliostat cantilever actively distributes light to shaded public parks below."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "水耕植生牆",
+      "keyword_en": "Hydroponic Green Wall",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Abolishes the excessive dead weight load constraints of traditional soil-based planters by fixing 35,000 root systems into lightweight polyamide fiber felt layers hung on external stainless steel grids, linked to recycled wastewater loops.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The detailed tectonic section captures the multi-layered build-up including steel supporting clips, root-proof sheaths, dual polyamide felt tracks, and embedded automated sub-irrigation capillary lines."
+      }
+    },
+    {
+      "keyword_zh": "極限懸挑",
+      "keyword_en": "Extreme Cantilever",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Projects a massive 42-meter unbraced heavy structural steel arm out from East Tower's 28th floor to suspend the heliostat mirrors. Transfers critical asymmetric overturning moments directly back into concrete shear structures using post-tensioned cable tension grids.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "High-resolution exterior perspectives illustrate the bold, black horizontal cantilevered frame stretching across space over the lower tower roof void without any vertical supports."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Combats static solar blocking downfalls by embedding micro-motor servos into 320 reflective panels. Real-time sensory coupling constantly pivots the cladding mirrors to redirect high-altitude sun tracks straight into shaded municipal park footprints.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The technical lighting section traces dynamic light reflection vector paths bending down from the motorized upper wing deep into the low-level shopping atrium and civic greens.",
+      }
+    },
+    {
+      "keyword_zh": "心理安全領域感界定",
+      "keyword_en": "Psychological Territoriality Definition",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Mitigates high-rise exposure anxiety and neighbor visual cross-talk by weaving an active organic vegetative screen around luxury floor-to-ceiling windows, creating a cocooning sensory buffer zone.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "Exterior snapshots document how large luxury windows are beautifully framed and obscured by deep, mature cascading trailing vines to preserve privacy."
+      }
+    },
+    {
+      "keyword_zh": "綠化容積獎勵",
+      "keyword_en": "都市邊界與交通導向 (Zoning, Context & TOD)",
+      "category": "3. 都市邊界與交通導向 (Zoning, Context & TOD)",
+      "causal_dialectic": "Secures an extra 15-20% usable GFA and height allocation from Sydney planning boards by mapping 100% of the flat site footprint vertically onto the facade skin via 3D ecological compensation matrices, liberating the ground plane for POPS.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The master layout shows extensive ground perimeter setbacks dedicated to civic garden extensions, balanced by highly maximized structural volume limits achieved through perimeter green scaling."
+      }
+    },
+    {
+      "keyword_zh": "數位孿生風場模擬",
+      "keyword_en": "Digital Twin Ventilation Simulation",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent in this era's execution. The 2010-2014 design system relied on static, one-way electromechanical automation for heliostat motors and irrigation rather than live cloud-computed BIM sensory twinned multidirectional physics feedback loops.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Technological shift constraints of the early 2010s. Heavy reliance was placed on pre-construction physical wind tunnel mockups and rigid structural safety margins by Arup instead of continuous predictive operational digital twin telemetry tracking."
+      }
+    }
+  ]
+}

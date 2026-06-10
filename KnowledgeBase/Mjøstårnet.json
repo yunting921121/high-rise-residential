@@ -1,0 +1,122 @@
+{
+  "case_name": "Mjoestaernet",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height": "85.4m",
+      "floors": {
+        "above_ground": 18,
+        "basements": 1
+      },
+      "site_area_sqm": 2200,
+      "gfa_sqm": 11300,
+      "residential_units": 33,
+      "timeline": {
+        "construction_start": 2017,
+        "completion": 2019
+      },
+      "coordinates": "60°55'42\"N, 11°02'02\"E",
+      "key_stakeholders": {
+        "lead_architect": "Voll Arkitekter (Øystein Elgsaas)",
+        "timber_construction_contractor": "Moelven Limtre",
+        "structural_mep_engineering": "Sweco",
+        "developer": "Arthur Buchardt (AB Invest)"
+      },
+      "international_certifications": [
+        "CTBUH Certified Tallest Timber Building Worldwide 2019",
+        "New York Design Awards Gold Winner",
+        "CTBUH Innovation Award 2021 Winner"
+      ]
+    },
+    "urban_context": {
+      "city": "Brumunddal, Norway",
+      "district": "Mjøsa Lakefront Regeneration Node",
+      "zoning_constraints": "Coastal legal solar envelope limitations, PEFC/FSC sustainable material mandates, strict regional infrastructure view corridor controls",
+      "project_origin": "Inverting a post-industrial timber residue yard into an eco-centric vertical timber village landmark"
+    },
+    "tectonic_systems": {
+      "structure": "Mass timber framework comprising glue-laminated timber (Glulam) columns and diagonal structural truss grids, with precast cross-laminated timber (CLT) vertical shear walls, paired with concrete floor slabs at levels 12-18",
+      "facade": "Unitized precast timber wall panels wrapped in weathered pine cladding aggregate slots, coupled with Low-E multi-layered double glazing doors",
+      "environmental_tech": "Aerodynamic wind-deflection sloped massing, massive timber charcoal charring fireproof parameters, high-durability thermal break insulated pads, integrated life-cycle carbon footprint BIM matrix"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/5c86/30be/284d/d15a/7000/0173/large_jpg/01_Mjo_sta_rnet_Voll_Arkitekter_Ricardo_Foto.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5c86/303a/284d/d12b/3d00/0187/large_jpg/10_Floor_plan_12-15th.jpg",
+      "building_section": "https://images.adsttc.com/media/images/5c86/2fff/284d/d15a/7000/016e/large_jpg/04_Axonometric_Structure.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/5c86/3011/284d/d12b/3d00/0185/large_jpg/06_Detail_Facade_and_Floor.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context_ontology": "Sutures the sharp friction boundary along Brumunddal's scenic lakefront. Inverts a carbon-heavy industrial landscape into a continuous vertical ecological gateway locking up thousands of tons of CO2 permanently.",
+    "scale_and_geometry_morphology": "Deconstructs the vertical tower silhouette by deploying a structural non-homogeneous massing layout; balances high-altitude wind sway velocity cycles by casting 30cm thick heavy concrete floor decks exclusively across levels 12-18.",
+    "user_sociology_syntax": "Prioritizes resident safe psychological territoriality against intense high-altitude lakefront winds via deep glulam diagonal perimeter grids, while establishing an altruistic public rooftop amenity mechanism across levels 17-18.",
+    "lifecycle_events_logistics": "Pioneers the dry mass prefabrication modular assembly timeline (1 floor per 4 days), eliminating external scaffolding to insulate organic wood components from Nordic freezing winter weathering risks.",
+    "performance_physics": "The heavy external glulam framework provides a natural charcoal charring system forming a self-protecting insulation layer that withstands fire exposure for 2+ hours without structural collapse."
+  },
+  "stage_3_ontology_mapping_verification": [
+    {
+      "keyword_zh": "CLT木造混合結構",
+      "keyword_en": "CLT Hybrid Structure",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Replaces traditional high-carbon concrete frames with sustainable mass glulam and CLT members. Mitigates high-altitude wind wind-drift acceleration by strategically replacing timber decks with heavy concrete floors across levels 12-18, optimizing structural self-weight balancing.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The structural axonometric breakdown explicitly charts timber members flanking lower hotel floors balanced by heavy concrete slab plates capping the upper housing levels."
+      }
+    },
+    {
+      "keyword_zh": "大斷面木構防火構造",
+      "keyword_en": "Mass Timber Charcoal Charring",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Eradicates public vertigo regarding high-rise timber fire hazards. Utilizing thick 40-50cm glulam pillars allows the timber skin to form an un-oxygenated charcoal charring insulation shell under fire exposure, preserving structural inner cores for 90+ minutes without mechanical failure.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The detailed tectonic cross-section charts the exact structural glulam beam dimensions highlighting the designated sacrificial charring boundary lines."
+      }
+    },
+    {
+      "keyword_zh": "預製混凝土單元組裝",
+      "keyword_en": "Prefabricated Module Assembly",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Avoids typical construction timeline moisture risks caused by severe Nordic winter cycles. Shifting structural frame and facade envelope cassette manufacturing to factory-controlled CNC预制 enables dry joint locking techniques.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The blueprint details the unitized premanufactured wall cassete node interface, lined with high-elastic double EPDM synthetic weather gaskets."
+      }
+    },
+    {
+      "keyword_zh": "模糊邊界灰空間",
+      "keyword_en": "Ambiguous Grey Space",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Bridges coastal lake park views directly with high-altitude indoor domestic living. Integrating a completely flush sliding track profile erases step thresholds, projecting premium interior floor surfaces into the shaded balcony decks.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The residential plan layout notes wide balcony openings immediately flanking the unbraced column-free living rooms, establishing a fluid indoor-outdoor lifestyle."
+      }
+    },
+    {
+      "keyword_zh": "頂層公設公共化條款",
+      "keyword_en": "Rooftop Amenity Open Mechanism",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Deconstructs typical real estate capitalism which seals premium roofs for multi-millionaire penthouses. Mandating levels 17-18 as a public conference center and scenic deck enforces community integration.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The sectional profile charts an isolated express vertical pathway traveling straight to the opened sky terminal, fully independent from private residential floor levels."
+      }
+    },
+    {
+      "keyword_zh": "數位孿生風場模擬",
+      "keyword_en": "Digital Twin Ventilation Simulation",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent by intent. The building targets absolute material structural solid capture and permanent passive self-shading profiles over active motorized electronics or cloud-computed predictive digital twins.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Prioritized robust material permanence, carbon sequestration efficiency, and pre-construction wind tunnel mockup safety parameters overseen by Sweco over high-maintenance motorized IoT active digital twin tracking loops."
+      }
+    }
+  ]
+}

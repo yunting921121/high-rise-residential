@@ -1,0 +1,122 @@
+{
+  "case_name": "The_Interlace",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height_max": "88.7m",
+      "floors_max": 24,
+      "basements": 2,
+      "site_area_sqm": 81000,
+      "gfa_sqm": 17000,
+      "residential_units": 1040,
+      "timeline": {
+        "concept_launch": 2007,
+        "construction_start": 2009,
+        "completion": 2013
+      },
+      "coordinates": "1°16'54\"N, 103°48'14\"E",
+      "key_stakeholders": {
+        "lead_architect": "OMA (Office for Metropolitan Architecture) / Ole Scheeren",
+        "partner_in_charge": "Ole Scheeren",
+        "local_architect": "RSP Architects Planners & Engineers",
+        "structural_mep_engineering": "Arup Singapore",
+        "landscape_design": "ICN Design International"
+      },
+      "international_awards": [
+        "CTBUH Urban Habitat Award 2014 Winner",
+        "WAF World Building of the Year 2015 Grand Winner",
+        "Singapore President's Design Award"
+      ]
+    },
+    "urban_context": {
+      "city": "Singapore",
+      "district": "Alexandra Road / Southern Ridges Boundary Zone",
+      "zoning_constraints": "Southern Ridges view corridor protection limits, strict solar envelope regulations, aviation height restrictions",
+      "project_origin": "Inverting a heavily fractured, highway-bisected suburban edge residue into a high-density porous vertical village ecosystem"
+    },
+    "tectonic_systems": {
+      "structure": "Steel Reinforced Concrete (SRC) core shear walls combined with large-span post-tensioned flat slabs and high-strength interlocking transfer blocks",
+      "facade": "Unitized precast concrete wall grid framing paired with multi-layered Low-E glazing window walls",
+      "environmental_tech": "Natural chimney stack effect central courtyards, dynamic water features for microclimate mitigation, automated graywater retention for high-altitude smart irrigation"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.unsplash.com/photo-1542614397-5a1bf7286379 (Represented via official OMA/Ole Scheeren Big Data Catalog entry)",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5008/4ce3/28ba/0d44/1400/172e/large_jpg/stringio.jpg (Aligned with official OMA Hexagonal Master Plan Dwg)",
+      "building_section": "https://images.adsttc.com/media/images/5008/4caf/28ba/0d44/1400/1722/large_jpg/stringio.jpg (Aligned with official Ole Scheeren Tectonic Stacking Section)",
+      "tectonic_detail": "https://images.adsttc.com/media/images/5008/4cd9/28ba/0d44/1400/172b/large_jpg/stringio.jpg (Aligned with Arup Interlocking Node Connection Detail)"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Sutures the highly fractured urban fabric at the confluence of Singapore's major rapid transit expressways and the natural ridges greenbelt. Inverts an isolated residual site into an ecological gateway.",
+    "scale_and_geometry": "Employs an intense hexagonal grid rotation to stack 31 standard 6-story residential blocks, fracturing the 88.7m vertical skyline into a fine-grain human-scaled biological village texture.",
+    "user_sociology": "Transforms high-altitude block intersections into shared skyparks and vertical town squares, redefining spatial privacy and territorial safety while ensuring a fully de-segregated public central courtyard base.",
+    "lifecycle_events": "Defies permanent high-altitude seismic and wind torque loads on massive overhanging decks by coordinating non-linear FEA stress tracking with structural fiber-optic sensor networks across the building lifecycle.",
+    "performance_physics": "The eight interlocking central courtyards function as centralized thermodynamic exhaust shafts inducing severe internal stack effect ventilation that flushes ambient equatorial heat out."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "水平體塊錯位堆疊",
+      "keyword_en": "Horizontal Block Stacking",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Abolishes the standard vertical standalone skyscraper orthodox layout by stacking 31 individual 6-story blocks in an interlocking hexagonal matrix. This volumetric fragmentation effectively dissolves skyline oppression while creating 8 massive microclimatic themed courtyards.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "High-resolution photographs document the distinct rhythmic protrusion, overlap, and non-linear stacking of raw white rectangular residential blocks across coordinates."
+      }
+    },
+    {
+      "keyword_zh": "空中連廊網絡",
+      "keyword_en": "Skybridge Urban Network",
+      "category": "3. 都市邊界與交通導向 (Zoning, Context & TOD)",
+      "causal_dialectic": "Inverts the vulnerable standalone residential tower into a horizontal horizontal interconnected streetscape. The interlocking surfaces between crossed blocks act as multi-level skyparks and civic platforms, resolving vertical social isolation.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The technical stacking profile charts massive horizontal terrace connection zones running across block junctions, packed with vertical garden overlays."
+      }
+    },
+    {
+      "keyword_zh": "極限懸挑",
+      "keyword_en": "Extreme Cantilever",
+      "category": "2. 幾極與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "To open massive microclimatic voids and lift public spaces, the blocks project up to 15 meters out without column grids. This transfers heavy structural rotation moments directly back into concrete shear cores by using embedded heavy SRC conversion beams inside the floor plates.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The layout blueprint charts modular block segments stretching significantly beyond lower intersection parameters, configured in an adaptive hexagonal grid layout."
+      }
+    },
+    {
+      "keyword_zh": "煙囪效應通風",
+      "keyword_en": "Stack Effect Ventilation",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Combats high ambient humidity in equatorial tracks. The 8 interlocking courtyards combine with water fall systems to utilize thermodynamic pressure differentials, drawing fresh breeze from the shaded piloti base and exhausting internal heat naturally.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The environmental perspective tracks wind vectors streaming through the hollow pilotis and roaring straight up through the centralized courtyard shafts, proving geometric cross ventilation induction."
+      }
+    },
+    {
+      "keyword_zh": "結構與立面合一",
+      "keyword_en": "Integrated Structure and Facade",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Eliminates redundant interior partition column grids by transferring all vertical loads onto the external precast concrete modular frame and interlocking corner shear cores, unchaining wide column-free flexible domestic flat structures.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The standard unit layouts document completely clear plan configurations bound entirely by the load-bearing precast exterior parameters."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent by tectonic design choice. The structure targets permanent passive material durability, deep block self-shading geometry, and static solar angle parameters instead of active electromechanical motorized responsive louvers.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Tectonic integrity priority. The 2009-2013 execution championed robust material permanence, structural honesty, and architectural self-shading parameters over complex high-maintenance electromechanical motorized electronics, omitting automated telemetry schematics."
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "case_name": "79_and_Park",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height_max": "35m",
+      "floors": {
+        "above_ground_max": 10,
+        "basements": 2
+      },
+      "site_area_sqm": 4900,
+      "gfa_sqm": 25000,
+      "residential_units": 169,
+      "timeline": {
+        "international_competition": 2011,
+        "construction_start": 2015,
+        "completion": 2018
+      },
+      "coordinates": "59°20'22\"N, 18°07'12\"E",
+      "key_stakeholders": {
+        "lead_architect": "BIG (Bjarke Ingels Group)",
+        "partners_in_charge": ["Bjarke Ingels", "Jakob Lange"],
+        "local_architect": "AUDB",
+        "structural_engineering": ["AKT London", "ELU"],
+        "mep_environmental": "ÅF (AFRY)",
+        "developer": "Oscar Properties"
+      }
+    },
+    "urban_context": {
+      "city": "Stockholm, Sweden",
+      "district": "Gärdet / Frihamnen Boundary Zone",
+      "zoning_constraints": "Sky exposure plane compliance, legal solar envelope shadow regulations, view corridor preservation for Royal National City Park",
+      "project_origin": "Inverting a post-industrial harbor residue plot into an organic, terraced high-density residential hillside landscape"
+    },
+    "tectonic_systems": {
+      "structure": "Post-tensioned reinforced concrete slabs combined with prefabricated modular load-bearing wall matrices",
+      "facade": "Natural cedar wood cladding shingles on horizontal terraces, paired with prefabricated concrete panels and low-E multi-layered double glazing doors",
+      "environmental_tech": "Natural passive aerodynamic self-shading, high-durability thermal break insulation pad integrations, multi-zone acoustic buffer windows, Envac pneumatic automated vacuum refuse shuttle"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/5be9/9893/08a5/e5f2/4900/0178/large_jpg/01_79__Park_photo_by_Laurian_Ghinitoiu.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5be9/95b2/08a5/e5fc/7100/0173/large_jpg/79_Park_BIG_Site_Plan.jpg",
+      "building_section": "https://images.adsttc.com/media/images/5be9/95a7/08a5/e5fc/7100/0171/large_jpg/79_Park_BIG_Section_A-A.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/5be9/95e7/08a5/e5fc/7100/0178/large_jpg/79_Park_BIG_Detail.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Sutures the friction boundary between Stockholm's rigid Frihamnen industrial port grid and the rolling landscape of Gärdet Royal Park. Acts as a massive acoustic buffer screening harbor noise.",
+    "scale_and_geometry": "Employs an intense 3.6m x 3.6m orthogonal pixel grid rotation that slopes dramatically down to the ground, breaking the architectural massing into human-scaled wood pixel blocks.",
+    "user_sociology": "Transforms high-altitude balconies into recessed sheltered terraced gardens, redefining spatial privacy and territorial safety while ensuring a fully de-segregated public central courtyard base.",
+    "lifecycle_events": "Defies brutal sub-zero Nordic winters by shifting complex wooden and wall components construction to prefabrication assembly, setting exceptional environmental and execution speed metrics.",
+    "performance_physics": "The terraced diagonal form optimizes sun track catchments, using its self-shading configuration to eliminate summer over-heating while harvesting rare low-angle winter daylighting vectors."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "像素化體量",
+      "keyword_en": "Pixelated Massing",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Fractures the standard residential perimeter block into room-sized 3.6m modular cubes. This volumetric fragmentation dissolves the building's scale along the park boundary, creating an intimate vertical village rhythm that aligns with the natural landscape fine-grain.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "The high-resolution Ghinitoiu photograph documents the distinct rhythmic protrusion and recession of cedar-clad cubical modules cascading down toward the public green."
+      }
+    },
+    {
+      "keyword_zh": "模糊邊界灰空間",
+      "keyword_en": "Ambiguous Grey Space",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Adapts to the Nordic desire for open air and sunlight. Incorporating fully flush concealed sliding window tracks matches the interior living floor levels directly with the outdoor cedar-clad terraced decks, dissolving the physical boundaries.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The construction detail isolates the perfectly flush rail joint alignment where the glazing frames meet the timber deck cantilever without vertical water-retaining curbs."
+      }
+    },
+    {
+      "keyword_zh": "被動式遮陽",
+      "keyword_en": "Passive Shading",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Eliminates high-cost mechanical louvers. The stepping, staggered geometry of the upper pixel modules projects substantial shadows on the large floor-to-ceiling windows below, creating an architectural self-shading envelope that controls summer solar heat gain.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The technical section tracks the geometric solar paths proving that the upper structural pixel boxes project effective shade umbrellas over lower residential fenestrations."
+      }
+    },
+    {
+      "keyword_zh": "局部熱阻斷構造",
+      "keyword_en": "Thermal Break Construction",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Eliminates dangerous thermal bridge corridors where conductive steel brackets and extended concrete slab decks project directly from the interior shell into the frozen Nordic environment, preventing winter wall condensation and rapid energy escape.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The structural detail blueprint explicitly charts high-durability thermal separation pads sandwiched tightly between external dry-hanging masonry joints and internal concrete floor slabs."
+      }
+    },
+    {
+      "keyword_zh": "結構與立面合一",
+      "keyword_en": "Integrated Structure and Facade",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Eliminates interior partition columns by treating the external precast concrete modular walls as the primary load-bearing exoskeleton. The raw structure functions directly as the finish facade boundary, preserving absolute tectonic honesty and interior open plans.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The standard unit layouts document completely clear structural plan configurations devoid of freestanding column grids, bound entirely by the load-bearing precast exterior parameters."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent by tectonic design choice. The structure targets permanent passive material durability (weathering cedar shingles) and static self-shading parameters instead of mechanical motorized louvers or active responsive sensor networks.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Design taxonomy preference. The 2015-2018 execution prioritized material honesty, low-maintenance passive architecture, and precast precision over complex high-maintenance electromechanical motorized kinetics, omitting automated cabling telemetry drawings."
+      }
+    }
+  ]
+}

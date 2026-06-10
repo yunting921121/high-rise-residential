@@ -1,0 +1,124 @@
+{
+  "case_name": "Valley",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height_max_tower": "100m",
+      "floors": {
+        "tallest_tower": 27,
+        "mid_tower": 22,
+        "short_tower": 19,
+        "basements": 3
+      },
+      "site_area_sqm": 11000,
+      "gfa_sqm": 75000,
+      "residential_units": 198,
+      "timeline": {
+        "construction_start": 2017,
+        "completion": 2021
+      },
+      "coordinates": "52°20'12\"N, 4°52'31\"E",
+      "key_stakeholders": {
+        "lead_architect": "MVRDV",
+        "landscape_botanist": "Piet Oudolf",
+        "structural_engineering": ["Inbo", "Van Rossum Textiel"],
+        "mep_environmental": "Techni设计",
+        "developer": "Edge Technologies"
+      },
+      "international_awards": [
+        "CTBUH Best Tall Mixed-Use Building 2022 Grand Award",
+        "Emporis Skyscraper Award 2021 Winner"
+      ]
+    },
+    "urban_context": {
+      "city": "Amsterdam, Netherlands",
+      "district": "Zuidas Central Business District",
+      "zoning_constraints": "Aviation height restrictions, solar envelope setback lines, strict site coverage limitations",
+      "project_origin": "Inverting a rigid, highly mineralized corporate financial residue yard into a vibrant, geologically carved high-density mixed-use habitat"
+    },
+    "tectonic_systems": {
+      "structure": "High-Strength Self-Compacting Concrete (SCC) core with large-span post-tensioned slab frames and embedded heavy steel-reinforced concrete (SRC) transition beams",
+      "facade": "Smooth mirror glass curtain wall on exterior perimeters, contrasted with over 40,000 custom dry-hanging natural stone cladding plates on the interior jagged canyon surfaces",
+      "environmental_tech": "Natural wind-deflection sloped massing, severe passive self-shading parameters, high-durability thermal break insulated pads, automated smart irrigation with integrated dynamic greywater retention loops"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/6320/83ee/e79e/8412/1f72/cf18/large_jpg/valley-mixed-use-building-mvrdv_1.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/6320/834a/016e/9546/ef2f/a65c/large_jpg/valley-mixed-use-building-mvrdv_12.jpg",
+      "building_section": "https://images.adsttc.com/media/images/6320/8354/016e/9546/ef2f/a65d/large_jpg/valley-mixed-use-building-mvrdv_13.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/6320/835b/e79e/8412/1f72/cf06/large_jpg/valley-mixed-use-building-mvrdv_14.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Sutures the monocultural office grid of Zuidas by integrating a highly porous public topography. Inverts the negative after-hours dead zone into a continuous socio-ecological civic terminal.",
+    "scale_and_geometry": "Employs an intense 3D Boolean subtraction on a regular three-span blocks volume, fracturing the inner skin into room-sized modular cubes that breaking the 100m tall skyline into a fine human-scaled texture.",
+    "user_sociology": "Expands high-altitude premium occupant privacy and territorial safety via Piet Oudolf's dense botanical curtains while offering a completely de-segregated public path network that grants civic access directly through the facades.",
+    "lifecycle_events": "Defies permanent high-altitude seismic, wind, and saturated soil loads on massive overhanging decks by coordinating non-linear FEA tracking with laser total-station exact stone positionings during formwork execution.",
+    "performance_physics": "The jagged inner sloped canyon acts as an aerodynamic wind-attenuation envelope that limits corner street gusts, while the deep stone overhang offsets eliminate up to 85% of summer solar heat tracks."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "像素化體量",
+      "keyword_en": "Pixelated Massing",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Fractures the rigid monolithic skyscraper typology into room-scaled正交 stone boxes. This volumetric fragmentation dissolves the imposing mass of the 100-meter towers, creating an intricate vertical village layout that optimizes natural daylighting penetration.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "High-resolution photographs document the distinct, rugged protrusion and recession of custom stone-clad cubic modules lining the inner faces of the towers."
+      }
+    },
+    {
+      "keyword_zh": "模糊邊界灰空間",
+      "keyword_en": "Ambiguous Grey Space",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Revitalizes traditional low-rise courtyard terrace living at a high altitude. Incorporating fully flush concealed window track sub-joints matches the interior premium flooring finish lines with the external dry-hung sandstone patio decks seamlessly.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The detailed blueprint section captures the flush tracking joint profile crossing the external envelope boundary line without any vertical physical threshold changes."
+      }
+    },
+    {
+      "keyword_zh": "極限懸挑",
+      "keyword_en": "Extreme Cantilever",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Projects heavy unbraced room-sized stone modules up to 6.5 meters outward into the central canyon void. Transfers critical asymmetric rotation moments back to concrete shear wall structures by embedding heavy SRC conversion beams inside the floor plates.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The canyon-level floor plan charts modular stone units projecting significantly beyond the lower wall boundaries, configured in a complex non-repeating grid layout."
+      }
+    },
+    {
+      "keyword_zh": "被動式遮陽",
+      "keyword_en": "Passive Shading",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Eliminates high-cost active mechanical shading components. The shifting, staggered overlapping geometry of the stone pixels functions as an architectural self-shading device, blocking up to 85% of high-angle solar radiation during summer peaks.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The technical cross-section charts the exact sun-path geometric shading projection cast by the upper concrete overhang blocks over the lower residential落地玻璃 configurations."
+      }
+    },
+    {
+      "keyword_zh": "局部熱阻斷構造",
+      "keyword_en": "Thermal Break Construction",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Eliminates destructive thermal bridge corridors where massive dry-hung stone facades and concrete planter decks extend directly from the interior shell, preventing winter internal wall condensation, molding, and rapid heating loss.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The construction detail blueprint explicitly tracks high-durability thermal separation pads sandwiched tightly between external dry-hanging masonry clips and internal slabs."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent by intent. The building relies on robust, permanent passive material profiles, deep stone pixel self-shading geometry, and static solar angle parameters rather than motorized active IoT responsive shutters or dynamic electronic glazing networks.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Tectonic design ideology. The 2017-2021 execution prioritized material durability, structural honesty, and architectural passive response over complex high-maintenance electromechanical motorized kinetics, omitting automated cabling telemetry drawings."
+      }
+    }
+  ]
+}

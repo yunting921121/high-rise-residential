@@ -1,0 +1,127 @@
+{
+  "case_name": "VIA_57_West",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height": "142m",
+      "floors": {
+        "above_ground": 32,
+        "basements": 1
+      },
+      "site_area_sqm": 11000,
+      "gfa_sqm": 80000,
+      "residential_units": {
+        "total": 709,
+        "market_rate": 558,
+        "affordable_subsidy": 151
+      },
+      "timeline": {
+        "construction_start": 2012,
+        "completion": 2016
+      },
+      "coordinates": "40°46'18\"N, 73°59'43\"W",
+      "key_stakeholders": {
+        "lead_architect": "BIG (Bjarke Ingels Group)",
+        "executive_architect": "SLCE Architects",
+        "structural_engineering": "Thornton Tomasetti",
+        "mep_engineering": "Cosentini Associates",
+        "landscape_design": "Starr Whitehouse",
+        "developer": "The Durst Organization"
+      },
+      "international_awards": [
+        "CTBUH Best Tall Building Americas 2016",
+        "International Highrise Award 2017 Nominee"
+      ]
+    },
+    "urban_context": {
+      "city": "New York City, USA",
+      "district": "Hell's Kitchen, Manhattan",
+      "zoning_constraints": "Sky Exposure Plane compliance, Hudson River view corridor controls, 80/20 inclusionary housing plot incentive",
+      "project_origin": "Transformation of industrial residue waterfront block into high-density hybrid residential gateway"
+    },
+    "tectonic_systems": {
+      "structure": "Post-Tensioned Concrete slabs with Steel Reinforced Concrete (SRC) shear walls and diagonal corner high-strength steel tie-rods",
+      "facade": "Precision stamped stainless steel cladding cladding shingles on south/west slopes, unitized curtain wall glass on north/east facades",
+      "environmental_tech": "Greywater collection for courtyard dynamic irrigation, low-E multi-layered double glazing, structural thermal breaks, aerodynamic wind-deflection sloped massing"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/57cf/06a0/e58e/ce27/df00/00bf/large_jpg/01_VIA_57_West_photo_by_Iwan_Baan.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/57cf/05d0/e58e/ce14/6600/0175/large_jpg/VIA_Site_Plan.jpg",
+      "building_section": "https://images.adsttc.com/media/images/57cf/05ab/e58e/ce27/df00/00ba/large_jpg/VIA_Section.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/57cf/0663/e58e/ce14/6600/0178/large_jpg/VIA_Facade_Detail.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Sutures the rigid Manhattan grid with the natural edge of the Hudson River Park. Inverts the negative spatial experience of adjacent heavy infrastructure.",
+    "scale_and_geometry": "The 'Courtscraper' typology merges the European low-rise courtyard block with the American high-rise tower via parametric 3D Boolean subtraction.",
+    "user_sociology": "Implements deep socio-economic integration. Eliminates class-segregated entries ('poor doors') through unified entrance design and homogeneous floor layout.",
+    "lifecycle_events": "Demands intensive異型 surface facility maintenance solved by integrating continuous robotic window washing rails along the architectural ridge lines.",
+    "performance_physics": "The 45-degree sloped hyperbolic form acts as a structural self-shading envelope and optimizes wind tunnel flows to eliminate dangerous corner street gusts."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "天空暴露面法規順應",
+      "keyword_en": "Sky Exposure Plane Compliance",
+      "category": "3. 都市邊界與交通導向 (Zoning, Context & TOD)",
+      "causal_dialectic": "Avoids the generic wedding-cake setbacks required by NYC zoning laws. The single sloped parametric surface maximizes interior GFA while perfectly clearing the legal solar envelope lines to preserve street daylight.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The technical section illustrates the dramatic diagonal boundary line from the 142m peak down to the waterfront, echoing the exact slope of legal sky exposure planes."
+      }
+    },
+    {
+      "keyword_zh": "混合收入均質平面",
+      "keyword_en": "De-stigmatized Mixed-Income Floor Plan",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Rejects the spatial profiling of affordable housing. Integrates subsidized units seamlessly into the same spatial layout matrix as market-rate luxury units to enforce absolute social equity.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The standard layout reveals uniform structural modularity and equal courtyard/river orientation access across all units, proving architectural de-stigmatization."
+      }
+    },
+    {
+      "keyword_zh": "三維布林運算開口",
+      "keyword_en": "3D Boolean Subtraction",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Carves out a massive volume from the block's interior to insert a micro-scale Central Park layout, ensuring natural light and views can penetrate deep into the high-density residential core.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "The low-angle Baan photograph documents the cavernous, stepped volumetric incision tearing through the center of the metallic pyramid form."
+      }
+    },
+    {
+      "keyword_zh": "去階級化統一入口",
+      "keyword_en": "De-classified Common Entrance Design",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Combats real-estate capitalism's trend of segregated access. Channels all residents through a singular grand lobby terminal on 57th street to encourage spontaneous cross-class social contact.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The ground perimeter layout marks a singular massive main residential entrance terminal on 57th Street with no auxiliary poor-door pathways."
+      }
+    },
+    {
+      "keyword_zh": "後拉式預力系統",
+      "keyword_en": "Post-Tensioned System",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Solves column alignment failures caused by the shifting sloped exterior boundary. Embedded post-tensioned cables actively eliminate structural tension and deflection, allowing wide column-free living rooms.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The technical facade detail explicitly charts the cross-section of the concrete deck showing high-strength PT anchoring sleeves embedded right at the skin interface."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent due to era constraints. The facade uses a passive, static geometry with highly durable stamped stainless steel shingles rather than motorized dynamic louvers linked to an active digital twin network.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Technological choice paradigm of mid-2010s. Prioritized the tectonic durability and fluid dynamic self-shading properties of the static metal envelope over active motorized IoT digital facades."
+      }
+    }
+  ]
+}

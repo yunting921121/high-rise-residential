@@ -1,0 +1,121 @@
+{
+  "case_name": "L_Arbre_Blanc",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height": "56m",
+      "floors": {
+        "above_ground": 17,
+        "basements": 2
+      },
+      "site_area_sqm": 1025,
+      "gfa_sqm": 10225,
+      "residential_units": 113,
+      "timeline": {
+        "construction_start": 2015,
+        "completion": 2019
+      },
+      "coordinates": "43°36'44\"N, 3°53'44\"E",
+      "key_stakeholders": {
+        "lead_architect": "Sou Fujimoto Architects (藤本壯真)",
+        "co_architects": ["Nicolas Laisné Associés (NL*)", "DREAM (Dimitri Roussel)", "Oxo Architectes (Manal Rachdi)"],
+        "structural_engineering": "Andre Verdier",
+        "mep_engineering": "GEC Ingénierie",
+        "landscape_design": "Landscape Design"
+      },
+      "international_awards": [
+        "ArchDaily Building of the Year 2020 Winner"
+      ]
+    },
+    "urban_context": {
+      "city": "Montpellier, France",
+      "district": "Lez River / Intersection Zone",
+      "zoning_constraints": "Mediterranean solar envelope controls, riverfront height limits, Folie architecture competition plot incentives",
+      "project_origin": "Transforming a residual wedge plot bounded by rapid transit highway and a river into a high-density porous vertical community"
+    },
+    "tectonic_systems": {
+      "structure": "High-Strength Self-Compacting Concrete (SCC) core shear walls with lightweight high-strength cantilevered steel truss balcony modules",
+      "facade": "Insulated concrete wall envelope with low-E multi-layered double glazing doors, wrapped in precision stamped anodized aluminum frame shingle panels",
+      "environmental_tech": "Natural chimney stack effect ventilation, passive thermodynamic self-shading sloped balconies, high-durability thermal break insulated pads, integrated concealed sub-deck rainwater collection and automated irrigation"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/5d09/e5ba/284d/d1a7/d100/01be/large_jpg/Sou_Fujimoto__L_Arbre_Blanc__Montpellier__02.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5d09/e3fe/284d/d1a7/d100/01b8/large_jpg/Plans_Arbre_Blanc_p1.jpg",
+      "building_section": "https://images.adsttc.com/media/images/5d09/e491/284d/d1a7/d100/01bb/large_jpg/Coupes_Arbre_Blanc.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/5d0a/1fb9/284d/d1a7/d100/02fb/large_jpg/D%C3%A9tails_Arbre_Blanc.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Sutures the historically rich urban core of Montpellier with the fast-growing Port Marianne district. Reclaims a highly constrained urban residue highway corner block into an ecological landmark.",
+    "scale_and_geometry": "Features an intense parametric staggered balcony matrix projecting in 3D coordinates, breaking the 56m tower volume into a fine room-scaled biological lattice.",
+    "user_sociology": "Enforces profound socio-spatial inclusion via a strict rooftop public amenity clause that prevents elite privatization of view cones, offering a de-stigmatized common observation floor.",
+    "lifecycle_events": "Defies permanent high-altitude seismic and wind torque loads on massive overhanging decks by utilizing finite element analysis (FEA) to implement structural pre-camber arching layouts during steel execution.",
+    "performance_physics": "The dense lattice of projecting metal plates works as a passive thermodynamic heat shield that eliminates up to 80% of summer equatorial sun tracks while inducing cross venturi breezes from the river."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "極限懸挑",
+      "keyword_en": "Extreme Cantilever",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Breaks standard structural safety limits by extending lightweight steel structural balconies up to 7.5 meters outward without vertical column grids. This transfers heavy rotation moments back to the main concrete shear cores to unchain high-altitude open rooms.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The layout diagrams show cantilevered balcony modules projecting far beyond the interior flat footprint dimensions, arranged in an asymmetric zigzag matrix."
+      }
+    },
+    {
+      "keyword_zh": "模糊邊界灰空間",
+      "keyword_en": "Ambiguous Grey Space",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Capitalizes on Mediterranean outdoor lifestyle traditions by integrating fully flush concealed window track junctions, continuing premium indoor finishes directly into the expansive timber-decked cantilevered forest wings.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The technical section blueprint details the flush sub-floor track node crossing the external facade border without any vertical physical threshold changes."
+      }
+    },
+    {
+      "keyword_zh": "被動式遮陽",
+      "keyword_en": "Passive Shading",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Rejects high-cost active motorized mechanical shading devices. The multi-layered overlapping geometry of upper steel balconies projects substantial shadows on the large glazing expanses below, blocking harsh solar heat gains.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The technical building cross-section maps out geometric solar angle paths proving that upper structural plates cast effective shade umbrellas over lower residential fenestrations."
+      }
+    },
+    {
+      "keyword_zh": "頂層公設公共化條款",
+      "keyword_en": "Rooftop Amenity Open Mechanism",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Deconstructs typical high-rise real estate capitalism which isolates premium roofs for multi-millionaire penthouses. Legally mandates the 17th floor as a shared civic bar and observation patio to enforce cross-class social contact.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The building section charts the 17th floor layout distinctly split from standard housing modules, designated as a high-altitude common destination."
+      }
+    },
+    {
+      "keyword_zh": "局部熱阻斷構造",
+      "keyword_en": "Thermal Break Construction",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Eliminates dangerous thermal bridge corridors where conductive steel truss elements slice through the building envelope interface into raw concrete floor plates, preventing winter interior condensation, molding, and heat escape.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The blueprint detail reveals high-durability thermal separation pads sandwiched tightly between steel attachment anchors and internal concrete slabs."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent by tectonic design choice. The structure relies on robust, permanent passive material profiles and parametric geometric positioning instead of motorized active IoT responsive shutters or dynamic electronic glazing networks.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Design taxonomy preference. The 2015-2019 execution favored structural honesty, static self-shading parameters and low-maintenance material durability over high-maintenance motorized electromechanical robotics, excluding sensor wiring telemetry graphics."
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "case_name": "The_Smile",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height": "40m-42m",
+      "floors": {
+        "above_ground": 11,
+        "basements": 1
+      },
+      "site_area_sqm": 2400,
+      "gfa_sqm": 24155,
+      "residential_units": {
+        "total": 233,
+        "market_rate": 163,
+        "affordable_subsidy": 70
+      },
+      "timeline": {
+        "concept_launch": 2016,
+        "construction_start": 2017,
+        "completion": 2020
+      },
+      "coordinates": "40°48'14\"N, 73°56'22\"W",
+      "key_stakeholders": {
+        "lead_architect": "BIG (Bjarke Ingels Group)",
+        "executive_architect": "SLCE Architects",
+        "structural_engineering": "Thornton Tomasetti",
+        "mep_engineering": "Cosentini Associates",
+        "developer": "Blumenfeld Development Group (BDG)"
+      }
+    },
+    "urban_context": {
+      "city": "New York City, USA",
+      "district": "East Harlem, Manhattan",
+      "zoning_constraints": "Sky Exposure Plane compliance, East 125th Street historic view corridor controls, Inclusionary Housing plot density bonus mechanism",
+      "project_origin": "Inverting a rigid, fractured streetwall urban block into an organic, curved high-density mixed-income habitat"
+    },
+    "tectonic_systems": {
+      "structure": "Post-Tensioned Concrete flat slabs with Steel Reinforced Concrete (SRC) structures and an inclined walking columns matrix",
+      "facade": "Unitized window wall with Low-E multi-layered double glazing doors, wrapped in interlocking precision-stamped black aluminum cladding shingles",
+      "environmental_tech": "Aerodynamic wind-deflection sloped massing, passive self-shading parameter lattice, high-durability thermal break insulated pads, integrated graywater retention loops"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/5f7c/8d2b/63c0/17ab/6800/017a/large_jpg/01_The_Smile_photo_by_Thomas_Loof.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5f7c/868f/63c0/1785/2900/00bf/large_jpg/01_Site_Plan.jpg",
+      "building_section": "https://images.adsttc.com/media/images/5f7c/8687/63c0/17ab/6800/0166/large_jpg/02_Building_Sections.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/5f7c/8c7e/63c0/1785/2900/0101/large_jpg/09_Tower_Wall_Detail.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Sutures the historically rich urban fabric of East Harlem. Inverts the negative spatial experience of surrounding rigid public housing brick blocks into a continuous pedestrian art interface.",
+    "scale_and_geometry": "Employs an intense concave facade geometry on an regular orthogonal grid, fracturing the exterior skin into room-sized modular pixel panels that scale the massing down to an human rhythm.",
+    "user_sociology": "Prioritizes ultimate elite privacy and de-segregated socio-economic integration. Eliminates class-segregated entries ('poor doors') through unified entrance design and homogeneous mixed-income floor layouts.",
+    "lifecycle_events": "Defies permanent wind loads and asymmetric gravity loading on curved panels by shifting framing fabrication to factory-controlled module prefabrication, setting exceptional execution speed records.",
+    "performance_physics": "The curved aerodynamic envelope actively handles high-altitude wind currents to eliminate dangerous street gusts, while the deep stamped black checker lattice functions as a passive self-shading matrix."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "內凹曲面幾何",
+      "keyword_en": "Concave Facade Geometry",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Rejects the rigid, stepped setbacks required by typical Manhattan zoning laws. The single concave parametric curved surface maximizes interior GFA while smoothly clearing the legal sky exposure plane, liberating wider public walkways on the ground.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The technical section documents the smooth parabolic curve boundary line shifting away from the historic street grid, tracing legal solar envelope lines."
+      }
+    },
+    {
+      "keyword_zh": "混合收入均質平面",
+      "keyword_en": "De-stigmatized Mixed-Income Floor Plan",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Eradicates the spatial segregation of affordable housing within luxury developments. Integrates subsidized units seamlessly into the uniform structural grid matrix alongside market-rate units to enforce total socio-economic dignity.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The standard unit layouts reveal highly uniform structural modularity and equal orientation access across all apartments, proving spatial de-stigmatization."
+      }
+    },
+    {
+      "keyword_zh": "天空暴露面法規順應",
+      "keyword_en": "Sky Exposure Plane Compliance",
+      "category": "3. 都市邊界與交通導向 (Zoning, Context & TOD)",
+      "causal_dialectic": "Avoids the generic wedding-cake setbacks of New York's historic 1916 zoning envelope. The parabolic concave indentation curves back gracefully to guarantee daylight penetration into the 125th street cultural corridor.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The sectional diagram overlays the legal zoning envelope envelope with the building's smooth curve, illustrating a perfect, fluid compliance profile."
+      }
+    },
+    {
+      "keyword_zh": "頂層公設公共化條款",
+      "keyword_en": "Rooftop Amenity Open Mechanism",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Deconstructs typical high-rise real estate capitalism which isolates premium roofs for exclusive multi-millionaire penthouses. Legally mandates the entire 11th floor rooftop as a shared civic skypark with pocket gardens to foster cross-class social contact.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The structural profile tracks the 11th floor open deck layout distinctly split from standard housing modules, designated as a high-altitude common destination."
+      }
+    },
+    {
+      "keyword_zh": "去階級化統一入口",
+      "keyword_en": "De-classified Common Entrance Design",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Combats real-estate capitalism's trend of segregated access. Channels all residents through a singular grand lobby terminal on 126th street to encourage spontaneous cross-class social contact.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The ground layout details a singular main residential lobby entry matrix on 126th Street with zero auxiliary poor-door pathways."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent by tectonic design choice. The structure targets permanent passive material durability (stamped aluminum panels) and static mass self-shading parameters instead of mechanical motorized louvers or active responsive sensor networks.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Technological taxonomy limits of the late 2010s. The team maximized structural honesty, static self-shading parameters, and low-maintenance material durability over high-maintenance motorized electromechanical robotics, excluding sensor wiring telemetry graphics."
+      }
+    }
+  ]
+}

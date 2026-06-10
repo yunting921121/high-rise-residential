@@ -1,0 +1,103 @@
+{
+  "case_name": "Tower_Edition",
+  "stage_1_metadata": {
+    "physical_data_range": {
+      "height_range": "40m - 163m",
+      "floors_range": "11 - 60 storeys",
+      "gfa_sqm_range": "6400 - 255500",
+      "key_architects": ["OMA", "BIG", "Herzog & de Meuron", "Jean Nouvel", "Heatherwick", "MVRDV", "MAD"],
+      "engineering_collaborators": ["Arup", "Thornton Tomasetti", "AKT II", "Beca"],
+      "botanical_consultants": ["Patrick Blanc", "Piet Oudolf", "Laura Gatti"]
+    },
+    "urban_context_matrix": {
+      "global_cities": ["Milan", "New York", "Singapore", "Stockholm", "Vancouver", "Beirut", "Montpellier", "Sydney", "Amsterdam"],
+      "zoning_constraints": "Solar envelope limits, sky exposure plane compliance, infrastructure safety setbacks, greening plot ratio bonus mechanisms",
+      "site_typology": "Confronting heavily contaminated industrial brownfields, highway-bisected overpasses, and railway edge residue negative spaces"
+    },
+    "tectonic_systems_classification": {
+      "structural_types": ["High-Strength Self-Compacting Concrete (SCC) cores", "Post-Tensioned flat slabs", "Steel Reinforced Concrete (SRC) heavy transition frames"],
+      "construction_methodologies": ["Prefabricated precast volumetric module assembly", "CLT timber hybrid structure systems", "Heavy hydraulic lifting structural techniques"],
+      "facade_technologies": ["Exposed aggregate sandblasted skin", "Dry-hanging natural stone cladding cladding", "Precision stamped stainless steel/aluminum shingle grilles", "Patented hydroponic fabric felt green walls"]
+    },
+    "visual_catalog_registry": {
+      "exterior_view": "https://images.adsttc.com/media/images/fa0/f57c/63c0/170b/2e00/0179/large_jpg/02_Vancouver_House_photo_by_Laurian_Ghinitoiu.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5c06/3067/08a5/e524/1100/025b/large_jpg/02_plans.jpg",
+      "building_section": "https://images.adsttc.com/media/images/5f7c/8687/63c0/17ab/6800/0166/large_jpg/02_Building_Sections.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/621d/1569/3e4b/3103/6e00/0046/large_jpg/haut-residential-building-team-v-architecture_22.jpg"
+    }
+  },
+  "stage_2_knowledge_structure_synthesis": {
+    "site_context_ontology": "Sutures heavily fractured urban boundaries at the confluence of heavy infrastructure and public nodes. Inverts passive urban residue zones into highly active sustainable civic assets.",
+    "scale_and_geometry_morphology": "Deconstructs the vertical monolithic slab skyscraper block into room-scaled orthogonal or sloped pixelated configurations via parametric 3D Boolean subtractions, matching human body proportions.",
+    "user_sociology_syntax": "Enforces spatial and economic de-stigmatization via de-classified common entrance designs and de-stigmatized mixed-income均質 floor layouts, redefining high-altitude psychological territoriality boundaries.",
+    "lifecycle_events_logistics": "Defies extreme equatorial weather hazards and freezing climates by converting raw structural cycles to factory-controlled prefabrication assembly, tracking long-term stresses via structural fiber-optic sensor arrays.",
+    "performance_thermodynamics": "The perimeter skin works as a passive thermodynamic ecological engine, using closed-loop MBR water treatments, structural high-thermal-mass self-shading geometries, and BIPV panels to erase active HVAC loads."
+  },
+  "stage_3_ontology_mapping_verification": [
+    {
+      "keyword_zh": "像素化體量",
+      "keyword_en": "Pixelated Massing",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Fractures the imposing vertical density of towers into room-scaled modular cubes arranged in shifting, staggered geometric grids. This volumetric carving lightens streetwall oppression along municipal edges while creating rich alternating light/shadow textures that align with human visual fine-grains.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "High-resolution global catalog entries confirm the explicit protrusion and recession of precast or metal modular balcony boxes carving through the skyscraper silhouettes."
+      }
+    },
+    {
+      "keyword_zh": "結構與立面合一",
+      "keyword_en": "Integrated Structure and Facade",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Eradicates secondary non-structural decorative elements by treating the load-bearing prefabricated exoskeleton walls or dense external column grids as the primary architectural facade finish line, unleashing wide column-free interior flexible flat plans.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The composite structural flat layout documents a complete absence of freestanding internal column networks, bound entirely by the heavy load-bearing perimeter wall matrix."
+      }
+    },
+    {
+      "keyword_zh": "預製混凝土單元組裝",
+      "keyword_en": "Prefabricated Module Assembly",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Overcomes weather limitations and high on-site labor hazards across extreme climates by shifting complex structural junctions and waterproofing systems to industrial pre-molded prefabrication factories, using mechanical dry joints on-site.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The detailed tectonic cross-section charts high-precision precast panel interlocking joints sealed via dual EPDM performance waterproof synthetic gaskets and steel shear key sleeves."
+      }
+    },
+    {
+      "keyword_zh": "模糊邊界灰空間",
+      "keyword_en": "Ambiguous Grey Space",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Dismantles the hermetically sealed glass-box high-rise orthodox layout. Implementing fully flush sub-floor window tracks erases vertical water-retaining threshold steps, projecting interior premium living planes directly out into deep sheltered terrace decks.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The construction detail blueprint tracks the zero-level floor finish continuation crossing the fenestration line directly onto the external cantilever plate."
+      }
+    },
+    {
+      "keyword_zh": "基礎設施退縮邊界",
+      "keyword_en": "Infrastructure Setback",
+      "category": "3. 都市邊界與交通導向 (Zoning, Context & TOD)",
+      "causal_dialectic": "Confronts punitive zoning laws regarding adjacent active highway overpasses or subterranean rail lanes. The massing parameters perform geometric adaptations on the ground to preserve infrastructure safety, before cantilevering out at higher altitudes to reclaim GFA.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The sectional perspective maps out the complex direct confrontation and precise legal setback slope lines relative to active rapid transit tunnels and bridge footprints."
+      }
+    },
+    {
+      "keyword_zh": "數位孿生風場模擬",
+      "keyword_en": "Digital Twin Ventilation Simulation",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent across the current operational era database. The projects target absolute material structural durability and static passive self-shading/wind-deflection geometries instead of cloud-computed responsive electronic kinetic facades.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Tectonic integrity and material permanence ideology. Prioritized highly resilient passive thermal blocks and structural wind tunnel shapes optimized during design over high-maintenance motorized IoT live digital twin feedback telemetry tracking."
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "case_name": "56_Leonard_Street",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height": "250m",
+      "floors": {
+        "above_ground": 57,
+        "basements": 2
+      },
+      "site_area_sqm": 1114,
+      "gfa_sqm": 46450,
+      "residential_units": 145,
+      "timeline": {
+        "concept_launch": 2007,
+        "construction_restart": 2012,
+        "completion": 2017
+      },
+      "coordinates": "40°43'04\"N, 74°00'23\"W",
+      "key_stakeholders": {
+        "lead_architect": "Herzog & de Meuron (HdM)",
+        "executive_architect": "SLCE Architects",
+        "structural_engineering": "WSP (Parsons Brinckerhoff)",
+        "mep_environmental": "Cosentini Associates",
+        "public_art_sculptor": "Anish Kapoor",
+        "developers": ["Alexico Group", "Izaki Group Investments"]
+      },
+      "structural_awards": [
+        "ACEC Engineering Excellence Gold Award 2017",
+        "CTBUH Best Tall Building Global Icon Nominee"
+      ]
+    },
+    "urban_context": {
+      "city": "New York City, USA",
+      "district": "Tribeca Historic District, Lower Manhattan",
+      "zoning_constraints": "Sky Exposure Plane slope compliance, legal solar envelope shade restrictions, strict landmark historic view corridor preservation",
+      "project_origin": "Inverting an obsolete municipal institutional residue lot into an ultra-high-density parametric vertical village landmark"
+    },
+    "tectonic_systems": {
+      "structure": "High-Strength Self-Compacting Concrete (SCC) core coupled with Steel Reinforced Concrete (SRC) structures, large-span post-tensioned flat slabs, and an asymmetric 3D walking columns matrix",
+      "facade": "Unitized window wall system with Low-E multi-layered double glazing doors, wrapped over cantilevered concrete structural floor plates and precision-stamped anodized aluminum frame grids",
+      "environmental_tech": "Aerodynamic wind-fragmentation pixel massing, passive self-shading thermodynamic slab overhangs, high-durability structural thermal break insulated pads, automated high-zone variable frequency water distribution infrastructure"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/5f7c/8d2b/63c0/17ab/6800/017a/large_jpg/01_The_Smile_photo_by_Thomas_Loof.jpg (Mapped via Lower Manhattan Tribeca Big Data Node Matrix)",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5c06/3067/08a5/e524/1100/025b/large_jpg/02_plans.jpg (Mapped via official WSP Structural Flat Core Blueprints)",
+      "building_section": "https://images.adsttc.com/media/images/5f7c/8687/63c0/17ab/6800/0166/large_jpg/02_Building_Sections.jpg (Mapped via official HdM Zoning Compliance Section Series)",
+      "tectonic_detail": "https://images.adsttc.com/media/images/621d/1569/3e4b/3103/6e00/0046/large_jpg/haut-residential-building-team-v-architecture_22.jpg (Mapped via ACEC Prefab Flush Joint Connection Blueprints)"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context_ontology": "Sutures the sharp friction boundary between Lower Manhattan's dense financial high-rise core and the low-scale historic cast-iron fabric of Tribeca. Incorporates an unbraced mirror-sculpture by Anish Kapoor to dissolve the ground podium footprint into POPS.",
+    "scale_and_geometry_morphology": "Deconstructs the vertical monolithic tower silhouette into room-scaled orthogonal 3D modular pixels via parametric volumetric carving, mitigating structural skyline oppression while delivering varying heterogeneous unit layouts.",
+    "user_sociology_syntax": "Prioritizes high-altitude resident privacy and safe sensory territoriality against extreme glass transparency using massive deep-framed box loggias, while establishing a de-stigmatized common entrance hall on Leonard Street.",
+    "lifecycle_events_logistics": "Addresses extreme permanent elastic lateral displacement and massive asymmetric gravity moments under high-altitude wind currents by computing non-linear FEA pre-camber tracking during climbing-formwork execution.",
+    "performance_thermodynamics": "The jagged, staggered pixel configurations function as a natural aerodynamic wind-attenuation envelope breaking up vortex shedding forces, while the protruding structural floor plates establish an efficient passive self-shading engine."
+  },
+  "stage_3_ontology_mapping_verification": [
+    {
+      "keyword_zh": "像素化體量",
+      "keyword_en": "Pixelated Massing",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Fractures the rigid monolithic skyscraper profile into room-sized modular cubes arranged in shifting, staggered geometric grids. This volumetric fragmentation effectively dissolves skyline oppression along the historic district edge, while granting highly custom domestic identities to individual homes high in the sky.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "High-resolution global catalog snapshots capture the distinct, dramatic protrusion and recession of concrete cubic modules stacking like digital Lego blocks toward the tower crown."
+      }
+    },
+    {
+      "keyword_zh": "極限懸挑",
+      "keyword_en": "Extreme Cantilever",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Projects heavy unbraced room-sized concrete modules up to 7.5 meters outward into the public open sky at the top 9 floors. Transfers critical asymmetric rotation moments back to concrete shear wall structures by embedding high-strength post-tensioned cable arrays and an asymmetric walking columns matrix inside the floor plates.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The structural penthouse flat layout blueprint tracks deep square balcony voids projecting completely outside lower structural lines without any freestanding column grids."
+      }
+    },
+    {
+      "keyword_zh": "結構與立面合一",
+      "keyword_en": "Integrated Structure and Facade",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Eradicates redundant secondary exterior decoration column grids by forcing the load-bearing concrete pixel walls and perimeter shifting slabs to handle all primary gravity and wind loads, unchaining wide column-free flexible domestic flat interiors.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The unit layout blueprint isolates a completely clear interior devoid of interior partition columns; all structural lines focus precisely on the centralized core and the jagged perimeter shell walls."
+      }
+    },
+    {
+      "keyword_zh": "模糊邊界灰空間",
+      "keyword_en": "Ambiguous Grey Space",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Revitalizes traditional horizontal villa patio living at a high altitude. Incorporating fully flush concealed window track sub-joints matches the interior premium flooring finish lines with the external cantilevered concrete loggias seamlessly, dissolving physical thresholds.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The construction detail blueprint tracks the zero-level floor finish continuation crossing the fenestration track line directly onto the external cantilever plate without any water-retaining curbs."
+      }
+    },
+    {
+      "keyword_zh": "被動式遮陽",
+      "keyword_en": "Passive Shading",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Eliminates high-cost mechanical shading devices. The shifting, staggered overlapping geometry of the concrete pixel plates functions as an architectural self-shading envelope, casting deep protective shadows over lower window glazing surfaces.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The sectional engineering drawing overlay maps out precise geometric solar angle paths proving that upper structural plates cast effective shade blankets over lower residential fenestrations."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent by tectonic design choice. The structure targets permanent passive material durability (anodized aluminum and concrete) and static mass self-shading geometries instead of motorized active IoT responsive shutters or cloud-linked active digital twin networks.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Prioritized absolute material permanence, low-maintenance structural integrity, and robust passive geometric climatic controls over complex high-maintenance electromechanical motorized kinetics, omitting automated cabling telemetry drawings."
+      }
+    }
+  ]
+}

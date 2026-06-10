@@ -1,0 +1,127 @@
+{
+  "case_name": "Bosco_Verticale",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height_towers": {
+        "Tower_E": "116m",
+        "Tower_D": "84m"
+      },
+      "floors": {
+        "Tower_E": 26,
+        "Tower_D": 18,
+        "basements": 2
+      },
+      "site_area_sqm": 1900,
+      "gfa_sqm": 40000,
+      "residential_units": 113,
+      "timeline": {
+        "construction_start": 2009,
+        "completion": 2014
+      },
+      "coordinates": "45°29'01\"N, 9°11'25\"E",
+      "key_stakeholders": {
+        "lead_architect": "Boeri Studio (Stefano Boeri, Gianandrea Barreca, Giovanni La Varra)",
+        "structural_engineering": "Arup Milan",
+        "mep_engineering": "Deerns",
+        "landscape_botanical": "Emanuela Borio, Laura Gatti",
+        "developer": "HINES (COIMA)"
+      },
+      "international_awards": [
+        "International Highrise Award 2014",
+        "CTBUH Best Tall Building Worldwide 2015",
+        "CTBUH 10 Year Award 2024 Finalist"
+      ]
+    },
+    "urban_context": {
+      "city": "Milan, Italy",
+      "district": "Porta Nuova / Isola",
+      "zoning_constraints": "Solar envelope limits, historical district edge buffers, environmental compensation clauses",
+      "project_origin": "Urban re-stitching project on brownfield railway residue yards"
+    },
+    "tectonic_systems": {
+      "structure": "Steel Reinforced Concrete (SRC) Columns and Beams with High-Strength Self-Compacting Concrete",
+      "facade": "High-thermal-resistance brick infill with porcelain stoneware aggregate sandblasted skin",
+      "ecological_tech": "Cantilevered structural plant basins, integrated greywater & groundwater recycling drip irrigation, rooftop BIPV powered pumps, high-strength aerial steel anchoring networks"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/546e/2704/e344/74d5/fc00/0034/large_jpg/10_B_V_Abitare_co_A_Roppo.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/546e/261d/e344/746c/2f00/003d/large_jpg/01_Piante_Isola_ProgettoDwgPermesso_di_Costruire_Copie.jpg",
+      "building_section": "https://images.adsttc.com/media/images/546e/2635/e344/74d5/fc00/0030/large_jpg/04_Sezione_Isola_ProgettoDwgPermesso_di_Costruire.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/546e/268f/e344/746c/2f00/0043/large_jpg/07_Schemi_Tecnici_Isola_ProgettoDwgPermesso_di_Costruire.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Stands at the critical friction boundary between Milan's historical low-rise Isola artisan texture and the dense mineral skyscrapers of Porta Nuova. Inversion of urban railway residue.",
+    "scale_and_geometry": "Asymmetric double-tower layout with cross-interlocking cantilevered balconies optimized via parametric solar and wind path computational fluid dynamics.",
+    "user_sociology": "Expands the domain of human habitat to encompass non-human entities (birds, insects, 94 distinct flora species) creating a self-sustaining urban micro-ecosystem.",
+    "lifecycle_events": "Dynamic lifecycle building envelope where mass, load, and shading change seasonally. Maintained via the pioneering 'Flying Gardeners' high-altitude professional climbers.",
+    "performance_physics": "Mitigates urban heat island effect. Provides organic passive shading absorbing up to 90% of solar heat gain, reducing indoor temperatures by 2-3 degrees Celsius."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "被動式遮陽",
+      "keyword_en": "Passive Shading",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Replaces energy-heavy mechanical active louvers with biological seasonal cycle characteristics of plants. Dense summer foliage blocks solar heat gain while winter defoliation grants solar penetration.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The 3.3m cantilevered projection combined with structural plant placement perfectly forms a clear geometric shading angle calculation over the low-E window glass."
+      }
+    },
+    {
+      "keyword_zh": "跨層綠化補償",
+      "keyword_en": "Vertical Green Compensation",
+      "category": "1. 生態與环境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Addresses the severe lack of horizontal public park space in dense commercial zones by compressing 5 hectares of flat forest ecology onto a 1,000 sqm architectural footprint.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "Continuous vertical stacking of cantilevered concrete planting troughs showing how the biological matrix is distributed vertically floor by floor."
+      }
+    },
+    {
+      "keyword_zh": "極限懸挑",
+      "keyword_en": "Extreme Cantilever",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "To allow uninhibited vertical growth for trees without diminishing expensive internal residential net usable areas, the structural slabs project 3.3 meters outwards, utilizing high-performance SRC beam systems to counter heavy asymmetric torque loads.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The permesso di costruire dwg floor plan documents the dramatic columns-free exterior perimeter of the deep balcony slabs."
+      }
+    },
+    {
+      "keyword_zh": "局部熱阻斷構造",
+      "keyword_en": "Thermal Break Construction",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Prevents catastrophic structural thermal bridges where the massive outdoor cantilevered concrete slabs meet internal floors, thereby avoiding condensation, interior molding, and severe heat loss in Milan's winters.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "Tectonic junction points clearly illustrate insulation pads and heavy reinforcement rebar configurations embedded exactly along the thermal envelope boundary line."
+      }
+    },
+    {
+      "keyword_zh": "心理安全領域感界定",
+      "keyword_en": "Psychological Territoriality Definition",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Dissolves the psychological vertigo and exposure stress common in full-glass high-rise units by implementing a soft, multi-layered biological buffer zone that screens outward visual lines while enhancing resident privacy.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "Visual density of the facade curtain shows how internal living spaces are framed and cocooned by deep vegetation buffers against the external financial district towers."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Not implemented in this architectural era. The project relies on natural biological seasonal defoliation rather than active, motorized electromechanical louvers or smart SPD glass surfaces.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Historical paradigm limitation. The 2009-2014 execution prioritized self-adaptive organic biology over mineral mechanical robotics, marking a conceptual preference for passive bio-climatic response."
+      }
+    }
+  ]
+}

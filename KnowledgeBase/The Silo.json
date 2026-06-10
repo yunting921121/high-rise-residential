@@ -1,0 +1,120 @@
+{
+  "case_name": "The_Silo",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height": "62m",
+      "floors": {
+        "above_ground": 17,
+        "basements": 1
+      },
+      "site_area_sqm": 3000,
+      "gfa_sqm": 10000,
+      "residential_units": 38,
+      "timeline": {
+        "construction_start": 2013,
+        "completion": 2017
+      },
+      "coordinates": "55°42'54\"N, 12°35'44\"E",
+      "key_stakeholders": {
+        "lead_architect": "COBE Architects (Dan Stubbergaard)",
+        "structural_mep_engineering": "WSP Denmark / Balkausen",
+        "developers": ["NRE Denmark", "Port & City Development"]
+      },
+      "international_awards": [
+        "CTBUH Best Tall Building Regeneration Award 2018 Winner",
+        "Renovation Award 2018 Grand Prize"
+      ]
+    },
+    "urban_context": {
+      "city": "Copenhagen, Denmark",
+      "district": "Nordhavn (North Harbour) Redevelopment Zone",
+      "zoning_constraints": "Coastal solar envelope preservation guidelines, adaptive reuse tax incentives, strict maritime height limits",
+      "project_origin": "Inverting a 1965 monolithic brute-concrete grain silo industrial residue into a high-density porous sustainable residential landmark"
+    },
+    "tectonic_systems": {
+      "structure": "Adaptive reuse of historical 40cm thick High-Strength Concrete load-bearing walls integrated with new large-span post-tensioned slab frames",
+      "facade": "Structure-facade honesty via prefabricated unitized galvanized steel cladding modules with precision-stamped origami geometries, wrapped over Low-E glazing fenestrations",
+      "environmental_tech": "Aerodynamic wind-attenuation sloped cladding, passive self-shading thermodynamic facets, high-durability thermal break insulation pad integration, multi-zone district sea-water heat pump coupling"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/5931/22ee/e58e/ce46/bd00/01ff/large_jpg/01_The_Silo_Rasmus_Hjortshoj_-_COAST.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5931/237d/e58e/ce1e/8c00/0252/large_jpg/10_Plan_9th_Floor.jpg",
+      "building_section": "https://images.adsttc.com/media/images/5931/2353/e58e/ce46/bd00/0202/large_jpg/07_Axonometric_Silo_Concept.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/5931/240d/e58e/ce1e/8c00/0255/large_jpg/16_Facade_Detail.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Sutures the friction boundary between Copenhagen's industrial maritime port heritage and the high-density eco-city expansion of Nordhavn. Inverts a dead raw industrial void into a continuous socio-ecological civic anchor.",
+    "scale_and_geometry": "Preserves the historical 62m monolithic scale macroscopically while breaking the volume down microscopically via parametric origami-stamped steel panels that match human body scales.",
+    "user_sociology": "Prioritizes high-altitude safe psychological territoriality against intense maritime reflection via deep angular boxed balconies, while enforcing total civic equity through a public roof allocation mechanism.",
+    "lifecycle_events": "Pioneers high-precision concrete diamond-cutting structural interventions on historical shells, paired with factory preassembled panel logistics to bypass sub-zero Nordic winter moisture hazards.",
+    "performance_physics": "The angular galvanized metal lattice functions as a rigid thermodynamic passive shield eliminating summer glare, while the interior space capitalizes on multi-tiered heterogeneous spatial heights (4.5m - 8m)."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "古蹟活化與結構介入",
+      "keyword_en": "Adaptive Reuse Structural Intervention",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Rejects erasing industrial heritage. Retaining the 1965 high-density concrete monolith while employing advanced structural diamond-cutting to slice massive window frames breaks open a dark industrial void into high-exposure, premium sustainable domestic apartments.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The concept axonometric section details the intact historic concrete shear matrix walls juxtaposed against newly inserted open-plan modern floors."
+      }
+    },
+    {
+      "keyword_zh": "結構與立面合一",
+      "keyword_en": "Integrated Structure and Facade",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Eliminates redundant secondary partition framework columns by allowing the historical 40cm concrete structural envelope to double as the primary enclosure wall, ensuring tectonic honesty and a completely column-free domestic layout.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The 9th-floor layout reveals zero secondary free-standing columns inside the apartments; all vertical gravity loads track directly into the historic exterior shell and core walls."
+      }
+    },
+    {
+      "keyword_zh": "像素化體量",
+      "keyword_en": "Pixelated Massing",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Fractures the dead monolithic industrial grain silo silhouette into human-scaled正交 metal boxes. This geometric pixelation breaks up the massive scale along the public harbor channel, creating deep alternating rhythmic shadows.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "High-resolution coastal snapshots confirm the sharp protrusion and recession of custom origami-stamped steel modular balcony panels wrapping the tower."
+      }
+    },
+    {
+      "keyword_zh": "頂層公設公共化條款",
+      "keyword_en": "Rooftop Amenity Open Mechanism",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Deconstructs typical high-rise real estate capitalism which isolates the highest premium views for exclusive multi-millionaire penthouses. Legally mandates the entire 17th-floor roof as a public glazed restaurant and panoramic skypark to foster civic integration.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The section profile charts express public lift access routing straight to the 17th-floor glazed crown volume, fully separated from private housing modules."
+      }
+    },
+    {
+      "keyword_zh": "局部熱阻斷構造",
+      "keyword_en": "Thermal Break Construction",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Eliminates dangerous thermal bridge corridors where conductive steel attachment frames penetrate the building skin into the raw concrete historic shells, preventing winter interior wall condensation, icing, and rapid heating loss.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The detailed tectonic cross-section charts high-durability structural thermal separation pads sandwiched tightly between external steel hanging brackets and the historic concrete facade wall."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent by tectonic design choice. The structure targets permanent passive material durability (galvanized steel panels) and static mass self-shading geometries instead of motorized active IoT responsive shutters.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Prioritized absolute material permanence, low-maintenance historical shell integrity, and robust passive geometric climatic controls over delicate high-maintenance automated electronic kinetics, omitting sensor wiring telemetry graphics."
+      }
+    }
+  ]
+}

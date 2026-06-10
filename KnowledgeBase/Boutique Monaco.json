@@ -1,0 +1,121 @@
+{
+  "case_name": "Boutique_Monaco",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height": "117m",
+      "floors": {
+        "above_ground": 27,
+        "basements": 5
+      },
+      "site_area_snm": 3114,
+      "gfa_sqm": 54345,
+      "residential_units": 172,
+      "timeline": {
+        "construction_start": 2005,
+        "completion": 2008
+      },
+      "coordinates": "37°29'55\"N, 127°01'34\"E",
+      "key_stakeholders": {
+        "lead_architect": "Mass Studies (Minsuk Cho / 曹敏碩)",
+        "partner_in_charge": "Minsuk Cho",
+        "structural_engineering_contractor": "Samsung C&T (三星物產)",
+        "developer": "Korean Land Trust / Private Consolidated Real Estate"
+      },
+      "international_awards": [
+        "International Highrise Award 2008 Finalist (Frankfurt DAM)",
+        "Korea National Architecture Culture Award Winner"
+      ]
+    },
+    "urban_context": {
+      "city": "Seoul, South Korea",
+      "district": "Seocho-gu, Gangnam-daero Financial Hub Core",
+      "zoning_constraints": "Severe 40% building coverage ratio upper limit limits, solar envelope alignment law, sky exposure plane regulations",
+      "project_origin": "Inverting a highly densified mineralized corporate financial residue yard into a porous vertical stereoscopic town layout"
+    },
+    "tectonic_systems": {
+      "structure": "Steel Reinforced Concrete (SRC) heavy column-beam core systems integrated with large-span post-tensioned flat slabs and a walking columns matrix",
+      "facade": "Unitized window wall framing with low-E multi-layered double glazing doors, wrapped over precision stamped anodized aluminum alloy shingles",
+      "environmental_tech": "Aerodynamic wind-fragmentation 3D Boolean openings, passive thermodynamic self-shading overhang decks, high-durability thermal break insulated pads, automated smart graywater retention loops"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/5008/7fc9/28ba/0d44/1400/1dfb/large_jpg/stringio.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5008/8009/28ba/0d44/1400/1e07/large_jpg/stringio.jpg",
+      "building_section": "https://images.adsttc.com/media/images/5008/7fd8/28ba/0d44/1400/1dfd/large_jpg/stringio.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/5008/7fed/28ba/0d44/1400/1e01/large_jpg/stringio.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context_ontology": "Sutures the monocultural office grid of Gangnam by integrating a highly porous public topography. Inverts the negative after-hours dead zone into a continuous vertical village ecosystem.",
+    "scale_and_geometry_morphology": "Employs an intense 3D Boolean subtraction on a regular orthogonal volume, carving out 15 massive volumetric openings that scale the 117m vertical massing down to an human rhythm.",
+    "user_sociology_syntax": "Prioritizes high-altitude resident safe psychological territoriality via three-sided enclosed recessed 'outdoor rooms' that shield cross-talk visibility while delivering a de-classified common entrance hall design on the ground.",
+    "lifecycle_events_logistics": "Defies permanent wind torques and asymmetric loading variations by shifting framing component assembly to Samsung C&T factory prefabrication logistics, tracked via precise laser total-stations.",
+    "performance_physics": "The 15 cut-out canyon apertures act as an aerodynamic wind-attenuation envelope breaking up vortex shedding forces, while the protruding structural flat floors establish an efficient passive self-shading thermodynamic engine."
+  },
+  "stage_3_ontology_mapping_verification": [
+    {
+      "keyword_zh": "三維布林運算開口",
+      "keyword_en": "3D Boolean Subtraction",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Transforms a punitive 40% building footprint coverage limitation into a vertical spatial opportunity. Carving out 15 massive rooms-sized pockets from a solid block legally transfers the missing real-estate area into higher altitudes, preserving street level daylight cones.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "High-resolution exterior perspectives capture the distinct cavernous, hollow square volumetric incisions tearing through the metallic facade skin."
+      }
+    },
+    {
+      "keyword_zh": "像素化體量",
+      "keyword_en": "Pixelated Massing",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Fractures the monolithic high-rise profile into room-sized modular checker boxes. This volumetric fragmentation effectively dissolves skyline oppression along the financial district grid, matching human body visual scales.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "The visual snapshots track the distinct rhythmic protrusion and recession of anodized aluminum-clad windows and structural box meshes across coordinates."
+      }
+    },
+    {
+      "keyword_zh": "結構與立面合一",
+      "keyword_en": "Integrated Structure and Facade",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Eliminates interior partition column grids by treating the external precast aluminum framing grid and perimeter brick mass walls as the primary load-bearing exoskeleton, unchaining wide column-free flexible internal flat plan layouts.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The domestic blueprint documents a total absence of freestanding columns inside the units; all vertical gravity loads focus on the central square core and the external window columns."
+      }
+    },
+    {
+      "keyword_zh": "模糊邊界灰空間",
+      "keyword_en": "Ambiguous Grey Space",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Revitalizes traditional open courtyard terrace living at a high altitude. Incorporating fully flush concealed window track sub-joints matches the interior flooring finish lines with the external wood-decked sky gardens seamlessly.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The modular floor plan charts large sky garden terrace voids immediately flanking the living spaces without rigid partition walls, enabling a fluid indoor-outdoor lifestyle."
+      }
+    },
+    {
+      "keyword_zh": "局部熱阻斷構造",
+      "keyword_en": "Thermal Break Construction",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Eliminates dangerous thermal bridge corridors where conductive steel exoskeleton attachments and extended concrete floor plates project directly from the interior shells, preventing winter interior wall condensation, icing, and rapid heating loss under Seoul's freezing cycles.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The construction detail blueprint explicitly tracks high-durability thermal separation pads sandwiched tightly between external steel frameworks and internal slabs."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent by tectonic design choice. The structure targets permanent passive material durability (anodized aluminum grids) and static mass self-shading geometries instead of motorized active IoT responsive shutters.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Prioritized absolute material permanence, structural honesty, and architectural passive response over complex high-maintenance electromechanical motorized electronics, omitting automated cabling telemetry drawings."
+      }
+    }
+  ]
+}

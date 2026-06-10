@@ -1,0 +1,127 @@
+{
+  "case_name": "Vancouver_House",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height": "149m-151m",
+      "floors": {
+        "above_ground": 53,
+        "basements": 6,
+        "infrastructure_clearance_height": "30m"
+      },
+      "site_area_sqm": 1982,
+      "gfa_sqm": 60758,
+      "residential_units": 709,
+      "timeline": {
+        "sales_launch": 2014,
+        "construction_start": 2015,
+        "completion": 2020
+      },
+      "coordinates": "49°16'28\"N, 123°07'48\"W",
+      "key_stakeholders": {
+        "lead_architect": "BIG (Bjarke Ingels Group)",
+        "partners_in_charge": ["Bjarke Ingels", "Thomas Christoffersen", "Beat Schenk"],
+        "local_architect": "DIALOG",
+        "structural_engineering": "Glotman Simpson",
+        "mep_environmental": "Integral Group (Introba)",
+        "landscape_urban_design": "PFS Studio",
+        "developer": "Westbank Projects Corp. (西岸置業)"
+      },
+      "international_awards": [
+        "WAF Future Project of the Year 2015",
+        "CTBUH Best Tall Building Worldwide 2021",
+        "AZ Award 2021 Winner"
+      ]
+    },
+    "urban_context": {
+      "city": "Vancouver, Canada",
+      "district": "False Creek / Beach District, Downtown South",
+      "zoning_constraints": "98-foot (30-meter) Granville Street Bridge structural safety setback, municipal park solar envelope shadow protection, Vancouverism view cone restrictions",
+      "project_origin": "Reclaiming highly complex, trisected urban residue negative spaces underneath rapid transit highway overpass into a high-density sustainable mixed-use hub"
+    },
+    "tectonic_systems": {
+      "structure": "High-Strength Self-Compacting Concrete (SCC) core with embedded high-strength post-tensioned steel tension cables, post-tensioned reinforced concrete flat slab floors, and inclined walking columns matrix",
+      "facade": "Unitized curtain wall with Low-E multi-layered double glazing combined with precision-stamped anodized aluminum shingle cladding modules forming horizontal boxed loggias",
+      "environmental_tech": "District energy network infrastructure coupling (NEU), high-durability thermal break insulated pads, automated vacuum refuse shuttle system, multi-layered acoustic buffer fenestration shields"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/5fa0/f57c/63c0/170b/2e00/0179/large_jpg/02_Vancouver_House_photo_by_Laurian_Ghinitoiu.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5fa0/f24b/63c0/171f/be00/03cd/large_jpg/01_Site_Plan.jpg",
+      "building_section": "https://images.adsttc.com/media/images/5fa0/f290/63c0/171f/be00/03d3/large_jpg/02_Tower_Diagrams.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/5fa0/f2dd/63c0/170b/2e00/0173/large_jpg/09_Tower_Wall_Detail.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Sutures a heavily fractured urban node split by an eight-lane highway overpass. Inverts the negative spatial experience of adjacent heavy transit lines into a positive civic pedestrian art environment.",
+    "scale_and_geometry": "An intense topological shape-shifting geometry expanding from a tight 1,982 sqm triangular floor footprint up to a massive 3,962 sqm orthogonal rectangle roof configuration via a parametric walking columns sequence.",
+    "user_sociology": "Prioritizes high-altitude resident privacy and territorial safety against highway visual intrusion using massive deep-framed box loggias while delivering uninhibited 360-degree environmental view cones.",
+    "lifecycle_events": "Addresses sustained structural lateral and torsional forces under asymmetric gravity loading. Utilizes advanced PERFORM3D finite element analysis and non-linear seismic simulation to implement a structural pre-camber layout during climbing-formwork execution.",
+    "performance_physics": "The inverted sloped massing acts as an aerodynamic wind-deflection envelope that drastically reduces base overturning moments, while the multi-porous aluminum shell functions as a dynamic acoustic dampener against vehicle frequencies."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "基礎設施退縮邊界",
+      "keyword_en": "Infrastructure Setback",
+      "category": "3. 都市邊界與交通導向 (Zoning, Context & TOD)",
+      "causal_dialectic": "Transforms a punitive 30-meter bridge safety setback law into a spatial opportunity. The massing humbles itself on the ground to preserve infrastructure clearance, then boldly cantilevers out into a rectangle once clearing the 30-meter altitude threshold, effectively borrowing high-altitude real-estate legally.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The site plan documents the exact 30-meter radial arc offset line cutting across the narrow triangular block, directly carving the tower's sharp wedge footprint."
+      }
+    },
+    {
+      "keyword_zh": "像素化體量",
+      "keyword_en": "Pixelated Massing",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Enables smooth geometric transformation from a triangle to a rectangle without harsh mechanical diagonal cutting planes. The pixelated corbeling units step out sequentially along the hypotenuse, scale-breaking the 151-meter tower facade into human-scaled residential balcony grids.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "The Ghinitoiu photograph beautifully tracks the distinct stepped, pixelated modular balcony terraces expanding outward like an inverted structural staircase over the bridge."
+      }
+    },
+    {
+      "keyword_zh": "後拉式預力系統",
+      "keyword_en": "Post-Tensioned System",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Counteracts severe permanent elastic lateral displacement and massive overturning moments caused by the one-sided 2x upper floor expansion. High-strength steel tension cables embedded in the shear walls compress the concrete actively, locking the cantilevered structure back down to the rock foundations.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The tectonic wall detailing charts the internal cross-section of the post-tensioned floor slab junctions, detailing where structural high-strength PT anchoring strands integrate at the skin boundary."
+      }
+    },
+    {
+      "keyword_zh": "多中心/偏心核心筒佈局",
+      "keyword_en": "Multi-Centric / Offset Core Layout",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Rejects the central core orthodox layout which would choke the narrow ground triangle. Offsets the vertical elevator core completely to the southwest perimeter, unchaining a flexible, column-free interior floor plan despite compounding structural torque forces.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The official structural tower diagram isolates the sheer vertical path of the concrete elevator core, visibly shifted away from the geometric center of the expanded upper rectangular volumes."
+      }
+    },
+    {
+      "keyword_zh": "模糊邊界灰空間",
+      "keyword_en": "Ambiguous Grey Space",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Revitalizes outdoor living next to an intensive motorway node. Erases physical borders by implementing fully flush concealed window tracks, matching the premium interior floor finish lines with the deeply shaded aluminum loggia decks.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The detail section captures the seamless tracking joint profile where the floor slab continues flush into the outdoor sheltered terrace without any threshold level changes."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent due to systemic design choices. The skyscraper opts for passive geometric shielding via its heavy anodized aluminum frames and deep pixel indentations instead of motorized IoT responsive louvers or dynamic digital twin active sensory glazing.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Tectonic integrity priority. The 2015-2020 execution championed robust material permanence, structural honesty, and architectural self-shading parameters over complex, high-maintenance electromechanical motorized electronics."
+      }
+    }
+  ]
+}

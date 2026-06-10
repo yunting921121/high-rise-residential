@@ -1,0 +1,124 @@
+{
+  "case_name": "Pinnacle_at_Duxton",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height_range": "156m-163m",
+      "floors": {
+        "above_ground": 50,
+        "basements": 1,
+        "skybridge_levels": [12, 26]
+      },
+      "site_area_sqm": 25000,
+      "gfa_sqm": 228521,
+      "residential_units": 1848,
+      "timeline": {
+        "international_competition": 2001,
+        "construction_start": 2004,
+        "completion": 2009
+      },
+      "coordinates": "1°16'36\"N, 103°50'29\"E",
+      "key_stakeholders": {
+        "lead_architect": "ARC Studio Architecture + Urbanism (Khoo Peng Beng, Belmont Chang)",
+        "executive_architect": "RSP Architects Planners & Engineers",
+        "structural_mep_engineering": "Beca Carter Hollings & Ferner",
+        "landscape_design": "Enviro Tec",
+        "client_agency": "Housing & Development Board (HDB) / Urban Redevelopment Authority (URA)"
+      },
+      "international_awards": [
+        "CTBUH Best Tall Building Worldwide 2014 Grand Winner",
+        "Singapore President's Design Award 2011"
+      ]
+    },
+    "urban_context": {
+      "city": "Singapore",
+      "district": "1 Cantonment Road, Tanjong Pagar / CBD Edge",
+      "zoning_constraints": "Solar envelope preservation clauses for historical shophouse preservation zones, extreme plot density mandates, infrastructure boundary buffers",
+      "project_origin": "Inverting Singapore's oldest historic public housing plot into a high-density, socio-ecological prefabricated vertical new town"
+    },
+    "tectonic_systems": {
+      "structure": "High-Strength Self-Compacting Concrete (SCC) core with prefabricated precast volumetric components and high-strength structural steel truss skybridges",
+      "facade": "Unitized precast concrete window wall skin with passive shading concrete grilles and multi-layered Low-E glazing panels",
+      "environmental_tech": "Natural chimney stack effect central lightwells, horizontal skybridge macro-pocket parks, integrated spherical sliding bearings with dampers, pneumatic automated vacuum refuse center (Envac)"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/5008/4ca6/28ba/0d44/1400/171f/large_jpg/stringio.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/5008/4ce3/28ba/0d44/1400/172e/large_jpg/stringio.jpg",
+      "building_section": "https://images.adsttc.com/media/images/5008/4caf/28ba/0d44/1400/1722/large_jpg/stringio.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/5008/4cd9/28ba/0d44/1400/172b/large_jpg/stringio.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Sutures Singapore's high-density central financial district grid with the fragile low-rise fabric of historical Tanjong Pagar shophouses, transforming a landmark historical site into an ecological gateway.",
+    "scale_and_geometry": "Deploys an intense S-shaped curved layout across seven towers optimized via computational fluid dynamics (CFD) to capture southeast maritime monsoon breeze while shattering streetwall oppression.",
+    "user_sociology": "Enforces profound socio-spatial justice via a pioneering rooftop public amenity open mechanism on the 26th floor skybridge, dismantling real estate capitalism's premium view monopoly for low-income citizens.",
+    "lifecycle_events": "Pioneers massive prefabricated modular component industrial logistics coupled with ground-assembled steel truss heavy lifting construction techniques to bypass high-altitude equatorial rain hazards.",
+    "performance_physics": "The seven structural cores feature continuous vertical open-air shafts inducing severe internal stack effect ventilation that flushes humid ambient heat out without active mechanical HVAC load dependencies."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "空中連廊網絡",
+      "keyword_en": "Skybridge Network",
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "causal_dialectic": "Abolishes the isolation of high-rise vertical islands by projecting two continuous 500-meter horizontal steel truss skybridges at levels 12 and 26. This layout weaves seven detached towers into a multi-tiered public town matrix, redefining high-altitude civic geography.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "High-resolution photographs document the massive horizontal white structural bands stitching the columns of the seven housing towers seamlessly across the skyline."
+      }
+    },
+    {
+      "keyword_zh": "預製混凝土單元組裝",
+      "keyword_en": "Prefabricated Concrete Module Assembly",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Solves high-altitude equatorial labor constraints and extreme rain disruptions by shifting 85% of standard tower panels, balconies, and internal partitions to factory-controlled precast manufacturing, secured on-site via dry joint mechanics.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The technical joint layout charts pre-engineered modular panel interfaces, interlocking precast configurations, and heavy dry mechanical structural bolt setups."
+      }
+    },
+    {
+      "keyword_zh": "頂層公設公共化條款",
+      "keyword_en": "Rooftop Amenity Open Mechanism",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Deconstructs real estate market capitalism that locks the highest premium view cones for exclusive multi-millionaire penthouses. Legally mandates the 26th floor 500m skybridge as a public skypark to foster cross-class social integration.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The cross-section maps out isolated express lift access cores and designated public panoramic decks at level 26, completely unchained from standard residential unit access."
+      }
+    },
+    {
+      "keyword_zh": "煙囪效應通風",
+      "keyword_en": "Stack Effect Ventilation",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Combats high ambient humidity in the equatorial zone. Carves continuous vertical open lightwells directly through the structural center of each tower, using thermodynamic pressure differentials to draw fresh air from the shaded piloti base and exhaust internal heat naturally.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The floor grid details large square internal void slots flanking the core walls, acting as the centralized structural thermodynamic exhaust shafts."
+      }
+    },
+    {
+      "keyword_zh": "結構與立面合一",
+      "keyword_en": "Integrated Structure and Facade",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Eliminates redundant interior load-bearing partitions by shifting all gravity and seismic loads onto the external precast concrete wall frame and central core shear walls. The modular load-bearing skin functions directly as the primary aesthetic facade.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The internal apartment blueprints document completely clear structural layouts devoid of freestanding columns, bound entirely by the load-bearing precast exterior shell frames."
+      }
+    },
+    {
+      "keyword_zh": "感測立面自調節遮陽",
+      "keyword_en": "Sensor-Driven Responsive Shading",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent due to era design taxonomy. The complex implements rigid, permanent precast concrete sun-shading grilles oriented strictly north-south instead of active electromechanical motorized responsive louvers linked to an automated IoT digital twin mesh.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Technological paradigm choice of the mid-2000s. Prioritized absolute material durability, low-maintenance structural honesty, and robust passive geometric climatic controls over delicate high-maintenance automated electronic kinetics."
+      }
+    }
+  ]
+}

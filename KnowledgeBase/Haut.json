@@ -1,0 +1,120 @@
+{
+  "case_name": "Haut",
+  "stage_1_metadata": {
+    "physical_data": {
+      "height": "73m",
+      "floors": {
+        "above_ground": 21,
+        "basements": 2
+      },
+      "site_area_sqm": 11000,
+      "gfa_sqm": 14500,
+      "residential_units": 55,
+      "timeline": {
+        "construction_start": 2018,
+        "completion": 2022
+      },
+      "coordinates": "52°20'22\"N, 4°55'12\"E",
+      "key_stakeholders": {
+        "lead_architect": "Team V Architecture",
+        "structural_engineering": "Arup",
+        "mep_environmental": ["Lingotto", "DGMR"],
+        "developer": "Lingotto"
+      },
+      "sustainability_certifications": [
+        "BREEAM Outstanding (Highest Level Environmental Certification)"
+      ]
+    },
+    "urban_context": {
+      "city": "Amsterdam, Netherlands",
+      "district": "Amstelkwartier Waterfront District",
+      "zoning_constraints": "Amstel riverfront setback limits, strict zoning law carbon limits, solar envelope shadow regulations",
+      "project_origin": "Regenerating a brownfield post-industrial railway residue into a pioneering high-density timber-hybrid sustainable landmark"
+    },
+    "tectonic_systems": {
+      "structure": "CLT Hybrid Structure comprising cross-laminated timber floor slabs and load-bearing walls, reinforced by a High-Strength Concrete (SCC) core and steel beams",
+      "facade": "Unitized curtain wall with Low-E multi-layered double glazing doors, wrapped in fluorocarbon-coated aluminum grilles",
+      "environmental_tech": "Building Integrated Photovoltaics (BIPV) facade energy collectors, building micro-grid energy storage network, automated dynamic graywater retention for high-altitude smart irrigation"
+    },
+    "visual_catalog_urls": {
+      "exterior_view": "https://images.adsttc.com/media/images/621d/152e/3e4b/3103/6e00/0038/large_jpg/haut-residential-building-team-v-architecture_12.jpg",
+      "typical_floor_plan": "https://images.adsttc.com/media/images/621d/15e6/3e4b/3120/4300/001a/large_jpg/haut-residential-building-team-v-architecture_32.jpg",
+      "building_section": "https://images.adsttc.com/media/images/621d/15f0/3e4b/3120/4300/001d/large_jpg/haut-residential-building-team-v-architecture_35.jpg",
+      "tectonic_detail": "https://images.adsttc.com/media/images/621d/1569/3e4b/3103/6e00/0046/large_jpg/haut-residential-building-team-v-architecture_22.jpg"
+    }
+  },
+  "stage_2_knowledge_structure": {
+    "site_context": "Sutures the highly fractured water edge zone of the Amstel riverfront. Inverts a carbon-heavy industrial landscape into a continuous vertical ecosystem locking up over 3,000 tons of CO2.",
+    "scale_and_geometry": "Employs an elegant sloped massing footprint optimized via parametric fluid models to bypass harsh maritime gusts, breakup into room-scaled wood pixel modular balcony boxes.",
+    "user_sociology": "Expands resident safe psychological territoriality against intense high-altitude riverfront glare via adaptive aluminum shading lattices, unchaining column-free adaptable customized layout boundaries.",
+    "lifecycle_events": "Pioneers the dry prefabrication modular assembly timeline, setting unprecedented execution records (1 floor per 2 days) to insulate organic CLT modules from rainy moisture weathering risks.",
+    "performance_physics": "The external skin functions actively as a high-performance carbon-neutral factory, combining district energy loops with structural BIPV panels and local thermodynamic thermal mass insulation codes."
+  },
+  "stage_3_ontology_mapping": [
+    {
+      "keyword_zh": "CLT木造混合結構",
+      "keyword_en": "CLT Hybrid Structure",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Replaces traditional high-carbon concrete frames with sustainable cross-laminated timber plates that reduce total dead weight by 80%. Couplings the organic lightweight walls with a central rigid concrete shear wall core solves high-altitude wind load and structural drift limits seamlessly.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "building_section",
+        "description": "The technical stacking layout charts structural concrete allocations inside the vertical core (grey) balanced by continuous lightweight CLT floor and partition blocks (brown) spanning the residential floors."
+      }
+    },
+    {
+      "keyword_zh": "預製混凝土單元組裝",
+      "keyword_en": "Prefabricated Module Assembly",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Mitigates rainfall damage risks during high-altitude timber erection in Dutch climates by shifting all complex framing and waterproofing panel construction to a controlled factory. Dried dry joints are locked on site via high-precision cranes.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The tectonic details delineate factory precast modular layout connections, highlighting specialized dry joint couplers, mechanical steel brackets, and dual EPDM sealing matrices."
+      }
+    },
+    {
+      "keyword_zh": "結構與立面合一",
+      "keyword_en": "Integrated Structure and Facade",
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "causal_dialectic": "Eradicates redundant secondary wet decoration coats by utilizing structural CLT partition mass directly as the interior finish veneer wall. This structural-facade alignment honors raw material honesty while optimizing interior spatial layout flexibility.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "typical_floor_plan",
+        "description": "The generic unit plan maps out zero secondary columns cluttering the layout, where pre-engineered structural wood boundaries double as clear division grids."
+      }
+    },
+    {
+      "keyword_zh": "模糊邊界灰空間",
+      "keyword_en": "Ambiguous Grey Space",
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "causal_dialectic": "Bridges waterfront ecosystem views directly with high-altitude indoor living. Embedding flush structural floor frame tracks erases physical barriers, allowing interior timber surfaces to project fluidly out into sheltered balcony decks.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "tectonic_detail",
+        "description": "The construction detail isolates the perfectly flush rail joint alignment where the multi-layered glazing meets the CLT cantilever edge without vertical water-retaining curbs."
+      }
+    },
+    {
+      "keyword_zh": "太陽能光電整合",
+      "keyword_en": "BIPV System",
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "causal_dialectic": "Transforms passive outer glass skins into an active solar power grid plant. Embedding high-efficiency photowatt panels inside the sun-exposed south/west fenestrations couples directly with micro-grid storage cells to achieve true net-zero operations.",
+      "graphic_evidence_alignment": {
+        "status": "aligned",
+        "target_image": "exterior_view",
+        "description": "High-resolution photographs showcase the distinct dark grid matrix textures integrated smoothly within the window curtain wall system along the riverfront orientation."
+      }
+    },
+    {
+      "keyword_zh": "數位孿生風場模擬",
+      "keyword_en": "Digital Twin Ventilation Simulation",
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "causal_dialectic": "Absent due to era execution parameters. The building layout optimizes energy and structural margins using robust static passive envelopes and factory pre-engineered BIM calculations rather than live IoT cloud-computed predictive digital twins.",
+      "graphic_evidence_alignment": {
+        "status": "missing",
+        "reason_of_gap": "Technological taxonomy limits of the late 2010s. The team maximized structural honesty, material solid carbon capture, and high-durability passive blocks over active motorized electronic automated facade components."
+      }
+    }
+  ]
+}
