@@ -1,0 +1,349 @@
+{
+  "high_rise_residential_ontology_v3": [
+    {
+      "category": "1. 生態與環境應對 (Ecology & Climate Adaptation)",
+      "total_count": 20,
+      "keywords": [
+        {
+          "term_zh": "被動式遮陽",
+          "term_en": "Passive Shading",
+          "trigger_conditions": {
+            "discourse_features": ["減少太陽熱增益", "遮陽係數", "深出挑", "水平遮陽板", "東西曬控制"],
+            "graphic_features": ["外牆剖面大樣圖", "遮陽挑簷細部", "遮陽角(Shading Angle)幾何模擬圖"]
+          }
+        },
+        {
+          "term_zh": "微氣候調節",
+          "term_en": "Microclimate Mitigation",
+          "trigger_conditions": {
+            "discourse_features": ["降低體感溫度", "蒸散作用", "都市熱島效應", "環境補償", "濕度調節"],
+            "graphic_features": ["CFD熱流體模擬雲圖", "綠化配置與水體分佈平面圖"]
+          }
+        },
+        {
+          "term_zh": "風洞試驗形體優化",
+          "term_en": "Wind Tunnel Shape Optimization",
+          "trigger_conditions": {
+            "discourse_features": ["降低風荷載", "減少基底彎矩", "避免角隅強風", "流線型切削", "風阻係數"],
+            "graphic_features": ["大樓頂部切角或圓弧化(Rounding)幾何圖", "風壓向量模擬圖"]
+          }
+        },
+        {
+          "term_zh": "雙層呼吸式幕牆",
+          "term_en": "Double-Skin Facade",
+          "trigger_conditions": {
+            "discourse_features": ["熱緩衝層", "動態百葉", "自然循環氣流", "空調能耗減量", "玻璃夾層通風"],
+            "graphic_features": ["雙層玻璃幕牆剖面詳圖", "夾層進排風口構造節點"]
+          }
+        },
+        {
+          "term_zh": "水耕植生牆",
+          "term_en": "Hydroponic Green Wall",
+          "trigger_conditions": {
+            "discourse_features": ["輕量化不需土耕", "垂直綠化", "無土栽培", "纖維氈固定", "自動滴灌"],
+            "graphic_features": ["不鏽鋼固定構架大樣", "背襯防潮防水層結構斷面", "滴灌管線配置圖"]
+          }
+        },
+        { "term_zh": "自然採光優化", "term_en": "Daylighting Optimization" },
+        { "term_zh": "煙囪效應通風", "term_en": "Stack Effect Ventilation" },
+        { "term_zh": "跨層綠化補償", "term_en": "Vertical Green Compensation" },
+        { "term_zh": "低輻射玻璃複層系統", "term_en": "Low-E Glazing System" },
+        { "term_zh": "灰水回收滴灌", "term_en": "Greywater Irrigation" },
+        { "term_zh": "夜間輻射冷卻", "term_en": "Nocturnal Radiative Cooling" },
+        { "term_zh": "太陽能光電整合", "term_en": "BIPV (Building Integrated Photovoltaics)" },
+        { "term_zh": "空中導風口", "term_en": "Sky Wind Slots" },
+        { "term_zh": "相變材料控溫", "term_en": "PCM Thermal Storage" },
+        { "term_zh": "穿孔板動態遮陽", "term_en": "Perforated Shading Screens" },
+        { "term_zh": "自遮陽幾何立面", "term_en": "Self-Shading Facade" },
+        { "term_zh": "高空微氣候中庭", "term_en": "Microclimatic Sky Atrium" },
+        { "term_zh": "高反射大地色屋頂", "term_en": "High-Albedo Cool Roof" },
+        { "term_zh": "局部熱阻斷構造", "term_en": "Thermal Break Construction" },
+        { "term_zh": "聲學屏障窗", "term_en": "Acoustic Buffer Windows" }
+      ]
+    },
+    {
+      "category": "2. 幾何與形式生成 (Geometry & Form Generation)",
+      "total_count": 20,
+      "keywords": [
+        {
+          "term_zh": "形體變形",
+          "term_en": "Mass Transformation",
+          "trigger_conditions": {
+            "discourse_features": ["幾何拓撲", "平面漸變", "扭轉形體", "體量切削", "向度演變"],
+            "graphic_features": ["Grasshopper參數化邏輯線圖", "樓層平面漸變疊合軌跡圖"]
+          }
+        },
+        {
+          "term_zh": "像素化體量",
+          "term_en": "Pixelated Massing",
+          "trigger_conditions": {
+            "discourse_features": ["單元堆疊", "退台幾何", "消解體量感", "隨機進退", "模組化外觀"],
+            "graphic_features": ["像素單元三維網格模型", "鋸齒狀立面進退尺寸圖"]
+          }
+        },
+        {
+          "term_zh": "水平體塊錯位堆疊",
+          "term_en": "Horizontal Block Stacking",
+          "trigger_conditions": {
+            "discourse_features": ["反垂直傳統", "交織體量", "六角形軸網", "多向度懸挑", "垂直村落"],
+            "graphic_features": ["巨型體塊交錯平面圖", "重疊接觸面結構受力分析圖"]
+          }
+        },
+        {
+          "term_zh": "內凹曲面幾何",
+          "term_en": "Concave Facade Geometry",
+          "trigger_conditions": {
+            "discourse_features": ["拋物線曲率", "向內收束", "減緩街道壓迫感", "視線避讓", "弧形立面"],
+            "graphic_features": ["立面三維曲率基準線圖", "各層核心筒與外牆偏移尺寸標註"]
+          }
+        },
+        {
+          "term_zh": "極限懸挑",
+          "term_en": "Extreme Cantilever",
+          "trigger_conditions": {
+            "discourse_features": ["無支撐出挑", "非對稱力矩", "重力消解", "結構懸臂", "空間外張"],
+            "graphic_features": ["大懸挑鋼結構配筋與焊接大樣", "有限元應力分析圖(FEA)"]
+          }
+        },
+        { "term_zh": "幾何切削消體量", "term_en": "Volumetric Carving" },
+        { "term_zh": "三維布林運算開口", "term_en": "3D Boolean Subtraction" },
+        { "term_zh": "立面參數化格律", "term_en": "Parametric Facade Pattern" },
+        { "term_zh": "漸變遮陽網格", "term_en": "Graded Shading Mesh" },
+        { "term_zh": "多中心核心筒佈局", "term_en": "Multi-Centric Core Layout" },
+        { "term_zh": "非歐幾何曲面擬合", "term_en": "Non-Euclidean Tessellation" },
+        { "term_zh": "非對稱自平衡結構", "term_en": "Asymmetric Self-Balancing Form" },
+        { "term_zh": "折紙自支撐幾何", "term_en": "Origami Self-Supporting Form" },
+        { "term_zh": "動態折疊立面", "term_en": "Kinetic Folded Facade" },
+        { "term_zh": "維諾伊幾何多孔壁", "term_en": "Voronoi Porous Shell" },
+        { "term_zh": "梯田式垂直階梯", "term_en": "Terraced Stepped Geometry" },
+        { "term_zh": "連續多面體外殼", "term_en": "Continuous Polyhedral Skin" },
+        { "term_zh": "網格鬆弛曲面", "term_en": "Mesh-Relaxation Surface" },
+        { "term_zh": "正交軸網扭轉", "term_en": "Orthogonal Grid Rotation" },
+        { "term_zh": "扇形放射平面", "term_en": "Radial Sector Floor Plan" }
+      ]
+    },
+    {
+      "category": "3. 都市邊界與交通導向 (Zoning, Context & TOD)",
+      "total_count": 20,
+      "keywords": [
+        {
+          "term_zh": "天空暴露面法規順應",
+          "term_en": "Sky Exposure Plane Compliance",
+          "trigger_conditions": {
+            "discourse_features": ["Zoning Law限制", "街道日照權保護", "法規限制外殼", "斜率退縮", "連續曲線退台"],
+            "graphic_features": ["都市法規三維限制外殼(Zoning Envelope)疊合圖", "大樓剖面與法規控制線對比圖"]
+          }
+        },
+        {
+          "term_zh": "基礎設施退縮邊界",
+          "term_en": "Infrastructure Setback",
+          "trigger_conditions": {
+            "discourse_features": ["高架橋梁限建線", "殘餘空間再利用", "安全退縮距離", "橋下負空間", "邊緣修補"],
+            "graphic_features": ["基地紅線與基礎設施範圍疊合平面圖", "低層平面避讓與高層懸挑擴大平面圖"]
+          }
+        },
+        {
+          "term_zh": "TOD交通垂直樞紐",
+          "term_en": "TOD Vertical Hub",
+          "trigger_conditions": {
+            "discourse_features": ["軌道交通共生", "步行生活圈", "地鐵站體整合", "三維立體交通", "人流縫合"],
+            "graphic_features": ["地鐵站、轉運基座與住宅塔樓一體化剖面圖", "多機能垂直分區圖"]
+          }
+        },
+        {
+          "term_zh": "空中連廊立體街區",
+          "term_en": "Skybridge Urban Network",
+          "trigger_conditions": {
+            "discourse_features": ["多棟塔樓水平互聯", "高空慢跑徑", "打破垂直孤島", "立體都市主義", "高空公共空間"],
+            "graphic_features": ["水平連廊貫穿多棟塔樓平面圖", "空中連廊與結構核心筒銜接詳圖"]
+          }
+        },
+        {
+          "term_zh": "地面層挑空開放",
+          "term_en": "Ground-Floor Piloti Openness",
+          "trigger_conditions": {
+            "discourse_features": ["底座退讓", "公眾通行權", "視覺通透性", "引入都市人流", "騎樓空間化"],
+            "graphic_features": ["低層無牆體大柱距挑空平面圖", "室外鋪面與室內延伸對齊圖"]
+          }
+        },
+        { "term_zh": "綠化容積獎勵", "term_en": "Greening Plot Ratio Incentive" },
+        { "term_zh": "都市視覺走廊控制", "term_en": "Urban View Corridor Control" },
+        { "term_zh": "日照陰影包絡線", "term_en": "Solar Envelope" },
+        { "term_zh": "地下設施避讓", "term_en": "Subterranean Avoidance" },
+        { "term_zh": "街道立面連續性", "term_en": "Streetwall Continuity" },
+        { "term_zh": "都市殘餘空間翻轉", "term_en": "Urban Residue Inversion" },
+        { "term_zh": "歷史街區高度過渡", "term_en": "Historic District Height Transition" },
+        { "term_zh": "私有公共空間(POPS)", "term_en": "POPS (Privately Owned Public Space)" },
+        { "term_zh": "航高限制切削", "term_en": "Aviation Height Limit Cutting" },
+        { "term_zh": "立體人車分流", "term_en": "Three-Dimensional Grade Separation" },
+        { "term_zh": "沿街沿線商業介面", "term_en": "Active Street Frontage" },
+        { "term_zh": "基地透水率基準", "term_en": "Soil Permeability Ratio" },
+        { "term_zh": "天際線節奏控制", "term_en": "Skyline Rhythm Control" },
+        { "term_zh": "高架基礎設施屏蔽", "term_en": "Elevated Infrastructure Screening" },
+        { "term_zh": "公共開放基座地景化", "term_en": "Landscaped Public Podium" }
+      ]
+    },
+    {
+      "category": "4. 構造、材料與工程實務 (Tectonics, Materials & Construction)",
+      "total_count": 20,
+      "keywords": [
+        {
+          "term_zh": "CLT木造混合結構",
+          "term_en": "CLT Hybrid Structure",
+          "trigger_conditions": {
+            "discourse_features": ["交叉疊層材", "木構造高層", "固碳技術", "降低自重", "碳化防火層"],
+            "graphic_features": ["混凝土核心筒與CLT木樓板銜接詳圖", "CLT承重牆金屬接合大樣"]
+          }
+        },
+        {
+          "term_zh": "預製混凝土單元組裝",
+          "term_en": "Prefabricated Concrete Module Assembly",
+          "trigger_conditions": {
+            "discourse_features": ["裝配式構造", "工廠預製", "組裝高效施工", "像素單元模組", "接縫防水企口"],
+            "graphic_features": ["預製混凝土單元分解圖", "模組拼接與剪力卡榫細部詳圖"]
+          }
+        },
+        {
+          "term_zh": "後拉式預力系統",
+          "term_en": "Post-Tensioned System",
+          "trigger_conditions": {
+            "discourse_features": ["平衡大懸挑重力", "張力鋼纜", "主動預應力", "消除拉應力", "核心筒反向力矩"],
+            "graphic_features": ["樓板內部張力鋼纜(PT Strand)軌跡圖", "端部高強度錨定座大樣"]
+          }
+        },
+        {
+          "term_zh": "結構與立面合一",
+          "term_en": "Integrated Structure and Facade",
+          "trigger_conditions": {
+            "discourse_features": ["構造誠實性", "外骨骼結構", "預製外牆承重", "免除二次裝飾", "網格柱牆"],
+            "graphic_features": ["承重外牆剖面大樣圖", "立面模矩化結構網格軸線圖"]
+          }
+        },
+        {
+          "term_zh": "調諧質量阻尼器整合",
+          "term_en": "TMD Integration",
+          "trigger_conditions": {
+            "discourse_features": ["抗風擺抗震", "配重平衡", "動能吸收", "高空舒適度", "結構動力學"],
+            "graphic_features": ["大樓頂部懸吊巨型阻尼球結構剖面圖", "阻尼支撐桿與核心結構銜接節點"]
+          }
+        },
+        { "term_zh": "單元式幕牆變形縫", "term_en": "Unitized Curtain Wall Expansion Joint" },
+        { "term_zh": "骨料噴砂外皮", "term_en": "Exposed Aggregate Sandblasted Skin" },
+        { "term_zh": "點支式玻璃駁接細部", "term_en": "Point-Fixed Glass Spider Fitting" },
+        { "term_zh": "鋼骨混凝土組合梁(SRC)", "term_en": "SRC (Steel Reinforced Concrete) Beam" },
+        { "term_zh": "高空結構轉換層", "term_en": "High-Altitude Structural Transfer Floor" },
+        { "term_zh": "防冷橋高強度隔熱墊", "term_en": "Thermal Break Insulated Pad" },
+        { "term_zh": "氟碳噴塗鋁合金格柵", "term_en": "Fluorocarbon-Coated Aluminum Grille" },
+        { "term_zh": "乾掛石材外牆系統", "term_en": "Dry-Hanging Stone Cladding System" },
+        { "term_zh": "不鏽鋼魚鱗板精密沖壓", "term_en": "Precision Stamped Stainless Steel Cladding" },
+        { "term_zh": "碳纖維結構加固帶", "term_en": "CFRP (Carbon Fiber Reinforced Polymer) Strips" },
+        { "term_zh": "一體化智慧爬模工法", "term_en": "Self-Climbing Formwork System" },
+        { "term_zh": "垂直高壓給水變頻分區", "term_en": "High-Rise Zoning Water Supply System" },
+        { "term_zh": "高強度自密實混凝土", "term_en": "High-Strength Self-Compacting Concrete" },
+        { "term_zh": "球形滑動摩擦支座", "term_en": "Spherical Sliding Friction Bearing" },
+        { "term_zh": "高性能三元乙丙防水膠條", "term_en": "High-Performance EPDM Waterproof Gasket" }
+      ]
+    },
+    {
+      "category": "5. 空間行為學與公共利益 (Behavioral Realm & Public Benefit)",
+      "total_count": 20,
+      "keywords": [
+        {
+          "term_zh": "混合收入均質平面",
+          "term_en": "De-stigmatized Mixed-Income Floor Plan",
+          "trigger_conditions": {
+            "discourse_features": ["社會住宅混居", "消除階級隔離", "平價住宅整合", "去標籤化立面", "共享公設權利"],
+            "graphic_features": ["補助單元與市場單元隨機混居配置平面圖", "無產權區隔的公共大堂門廳詳圖"]
+          }
+        },
+        {
+          "term_zh": "古蹟活化與結構介入",
+          "term_en": "Adaptive Reuse Structural Intervention",
+          "trigger_conditions": {
+            "discourse_features": ["歷史外殼現代骨架", "文化資產再利用", "新舊美學對比", "時鐘塔改造", "時間轉譯"],
+            "graphic_features": ["古典石雕外牆修復大樣圖", "歷史外殼內部植入全新現代鋼骨疊合圖"]
+          }
+        },
+        {
+          "term_zh": "模糊邊界灰空間",
+          "term_en": "Ambiguous Grey Space",
+          "trigger_conditions": {
+            "discourse_features": ["室內外材質統一", "無高低差全開窗", "陽台客廳化", "戶外房間", "氣候過渡帶"],
+            "graphic_features": ["全埋入式落地窗軌道無高低差(Flush)詳圖", "室內石材延展至外挑陽台的鋪面圖"]
+          }
+        },
+        {
+          "term_zh": "視線交織中庭",
+          "term_en": "Sightline Interlocking Atrium",
+          "trigger_conditions": {
+            "discourse_features": ["消除垂直疏離感", "增加偶遇機率", "鄰里對話", "社群凝聚", "空間句法開放性"],
+            "graphic_features": ["多層樓梯與空中平台交錯的視線軸線分析圖", "共享中庭社交活動區域配置圖"]
+          }
+        },
+        {
+          "term_zh": "公共住宅地標化",
+          "term_en": "Landmarking Public Housing",
+          "trigger_conditions": {
+            "discourse_features": ["提升公宅尊嚴感", "擺脫廉價標籤", "大膽地標形式", "社群認同", "政府主導實驗"],
+            "graphic_features": ["公營住宅群天際線地標鳥瞰圖", "向全城市開放的高空觀景花園平面圖"]
+          }
+        },
+        { "term_zh": "全齡化通用居住單元", "term_en": "Universal-Design Housing Unit" },
+        { "term_zh": "高層共享客廳模組", "term_en": "Elevated Shared Living Room Module" },
+        { "term_zh": "彈性居家辦公平面", "term_en": "Flexible Home-Office Layout" },
+        { "term_zh": "立體口袋公園網路", "term_en": "Multi-Level Pocket Park Network" },
+        { "term_zh": "空中都市農業梯田", "term_en": "Sky Urban Agriculture Terraces" },
+        { "term_zh": "非均質單元靈活組合", "term_en": "Heterogeneous Adaptable Unit Mix" },
+        { "term_zh": "頂層公設公共化條款", "term_en": "Rooftop Amenity Open Mechanism" },
+        { "term_zh": "微型共享工作坊植入", "term_en": "Micro Co-Working Space Interpolation" },
+        { "term_zh": "跨階級社交接觸面", "term_en": "Cross-Class Social Contact Area" },
+        { "term_zh": "心理安全領域感界定", "term_en": "Psychological Territoriality Definition" },
+        { "term_zh": "多功能公共食閣整合", "term_en": "Integrated Public Hawker Centre" },
+        { "term_zh": "寵物友善立體動線", "term_en": "Pet-Friendly Vertical Circulation" },
+        { "term_zh": "防幽閉恐懼採光策略", "term_en": "Anti-Claustrophobia Daylighting Strategy" },
+        { "term_zh": "去階級化統一入口", "term_en": "De-Classified Common Entrance Design" },
+        { "term_zh": "高密度鄰里防噪隔離", "term_en": "High-Density Neighborhood Acoustic Privacy" }
+      ]
+    },
+    {
+      "category": "6. 數位孿生與智能化運算 (Digital Twin & Smart Building)",
+      "total_count": 20,
+      "keywords": [
+        {
+          "term_zh": "感測立面自調節遮陽",
+          "term_en": "Sensor-Driven Responsive Shading",
+          "trigger_conditions": {
+            "discourse_features": ["IoT物聯網感測", "動態調節熱增益", "即時氣象連動", "智能化環境控制", "追光百葉"],
+            "graphic_features": ["外牆單元感應器佈置弱電圖", "遮陽板在不同光照下的角度切換詳圖"]
+          }
+        },
+        {
+          "term_zh": "數位孿生風場模擬",
+          "term_en": "Digital Twin Ventilation Simulation",
+          "trigger_conditions": {
+            "discourse_features": ["BIM與感測器對接", "即時氣流監控", "自動化通風窗連動", "熱舒適度PMV運算", "預測性室內空氣品質"],
+            "graphic_features": ["BIM模型與即時流體監測數據疊合介面截圖", "空氣流速向量動態對比圖"]
+          }
+        },
+        { "term_zh": "空間占用率感測網絡", "term_en": "Spatial Occupancy Sensor Network" },
+        { "term_zh": "BIM管線防碰撞演算法", "term_en": "BIM-Based Piping Anti-Collision Algorithm" },
+        { "term_zh": "大樓智慧儲能微電網", "term_en": "Building Micro-Grid Energy Storage" },
+        { "term_zh": "高空無人機降落平台", "term_en": "Drone Rooftop Landing Platform" },
+        { "term_zh": "垂直交通AI調度演算法", "term_en": "Elevator Group Control AI Dispatch" },
+        { "term_zh": "擦窗機器人定位軌道", "term_en": "Facade Maintenance Robot Rail Structure" },
+        { "term_zh": "結構健康光纖傳感網絡", "term_en": "Structural Health Fiber Optic Network" },
+        { "term_zh": "智慧滴灌養分動態調配", "term_en": "Smart Irrigation Nutrient Dynamic Mixing" },
+        { "term_zh": "全生命週期碳足跡BIM矩陣", "term_en": "Life-Cycle Carbon Footprint BIM Matrix" },
+        { "term_zh": "空間句法活力演算", "term_en": "Space-Syntax Vitality Algorithm" },
+        { "term_zh": "智慧車庫自動泊車(AVP)動線", "term_en": "AVP Smart Garage Circulation" },
+        { "term_zh": "變色玻璃(SPD)智慧控制", "term_en": "Smart SPD Glass Transmittance Control" },
+        { "term_zh": "非接觸式垂直動線管制", "term_en": "Touchless Vertical Circulation Control" },
+        { "term_zh": "地熱源熱泵智慧調度", "term_en": "Ground-Source Heat Pump Intelligent Dispatch" },
+        { "term_zh": "智慧化垂直防火壓差控制", "term_en": "Intelligent Fire Zoning Pressure Control" },
+        { "term_zh": "廚衛單元管線模組數位孿生", "term_en": "Prefabricated Bathroom Pod Digital Twin" },
+        { "term_zh": "高空外牆風荷載即時警報", "term_en": "High-Altitude Wind Load Real-Time Alarm" },
+        { "term_zh": "智慧垂直穿梭垃圾轉運", "term_en": "Smart Vertical Shuttle Refuse System" }
+      ]
+    }
+  ]
+}
