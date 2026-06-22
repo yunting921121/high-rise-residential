@@ -1,0 +1,707 @@
+{
+"id": "case_03_eden_singapore_apartments",
+"project_name": "EDEN Singapore Apartments",
+"architect": "Heatherwick Studio",
+"project_architect": "RSP Architects Planners & Engineers",
+"developer": "Swire Properties",
+"location": "2 Draycott Park, Singapore",
+"district": "Ardmore / Draycott, District 10",
+"year": "2020",
+"building_type": "high-rise residential / garden apartment tower",
+"floor_count": "22",
+"number_of_units": "20",
+"main_theme": [
+"tropical high-rise housing",
+"garden apartment",
+"full-floor apartment",
+"planted balcony",
+"biophilic residential tower",
+"private house in the sky"
+],
+"source_urls": [
+"https://www.archdaily.com/939539/eden-singapore-apartments-heatherwick-studio"
+],
+"data_sources": [
+"source_text.md",
+"01_site_context_analysis.md",
+"02_drawings_preprocess.md",
+"03_photos_renders_preprocess.md",
+"typical_floor_plan.jpg",
+"section_drawing.jpg",
+"combined_plan_section.jpg",
+"exterior_photo.jpg"
+],
+"Gene_A": {
+"description": "Gene_A records the site conditions, urban context, environmental conditions, functional needs, and contextual reasoning of the precedent.",
+"location": "EDEN Singapore Apartments is located at 2 Draycott Park in Singapore's Ardmore / Draycott residential enclave, within District 10.",
+"urban_context": "The project is located near Orchard Road, one of Singapore's major commercial and lifestyle corridors, while remaining within a quieter and more exclusive high-end residential district.",
+"site_conditions": "The immediate context is dominated by luxury residential towers, private apartment compounds, landscaped setbacks, and local access roads. The project is close to urban amenities but maintains a secluded residential atmosphere.",
+"adjacent_uses": {
+"east": "High-end residential developments and local access roads within the Draycott / Ardmore residential enclave.",
+"west": "Draycott Park / Draycott Drive area, residential streets, and neighboring private condominium developments.",
+"south": "Residential greenery, private apartment compounds, and the direction toward Orchard Road's commercial and lifestyle corridor.",
+"north": "Ardmore / Draycott residential surroundings, including other high-rise condominium blocks and landscaped private developments."
+},
+"surrounding_context": {
+"east": "Residential towers, private apartment compounds, and local streets associated with the Ardmore / Draycott area.",
+"west": "Residential roads and neighboring condominium developments around Draycott Park and Draycott Drive.",
+"south": "Connection toward Orchard Road, Singapore's major retail and lifestyle corridor, including shopping malls, hotels, and public transport access.",
+"north": "Private residential enclaves, landscaped condominium grounds, and high-end urban housing blocks."
+},
+"climate_conditions": "Singapore's tropical climate creates strong requirements for shade, natural ventilation, protection from solar heat gain, and usable outdoor space. EDEN responds through deep planted balconies, facade depth, and full-floor apartment layouts that allow multiple orientations.",
+"view_conditions": "Each apartment occupies an entire floor, allowing views in multiple directions. The planted balconies create a garden foreground, filtering direct views between the apartment interior and the surrounding high-rise residential environment.",
+"functional_needs": "The project provides ultra-luxury high-rise residential units while integrating private garden balconies, full-floor apartments, shaded outdoor space, privacy buffers, and a biophilic residential atmosphere.",
+"density_or_height_condition": "The project uses a slender 22-storey tower form with only one apartment per floor, balancing high-rise density with privacy, spacious domestic planning, and private outdoor garden space.",
+"target_residents": "High-end urban residents seeking privacy, full-floor living, tropical garden space, and proximity to Singapore's central commercial and lifestyle districts.",
+"context_steps": [
+{
+"step": 1,
+"subject": "residential tower",
+"relation": "is located in",
+"object": "Ardmore / Draycott residential enclave"
+},
+{
+"step": 2,
+"subject": "site",
+"relation": "is near",
+"object": "Orchard Road commercial corridor"
+},
+{
+"step": 3,
+"subject": "site context",
+"relation": "contains",
+"object": "luxury residential towers"
+},
+{
+"step": 4,
+"subject": "full-floor apartment",
+"relation": "occupies",
+"object": "tower floor"
+},
+{
+"step": 5,
+"subject": "garden balcony",
+"relation": "filters",
+"object": "city view"
+},
+{
+"step": 6,
+"subject": "tropical planting",
+"relation": "responds to",
+"object": "Singapore climate"
+},
+{
+"step": 7,
+"subject": "textured concrete facade",
+"relation": "frames",
+"object": "garden balcony"
+},
+{
+"step": 8,
+"subject": "vertical stack",
+"relation": "forms",
+"object": "private garden homes"
+}
+]
+},
+"Gene_B": {
+"description": "Gene_B records the design issue, design concept, and overall design strategy.",
+"issue": "Many high-rise apartments in dense tropical cities are disconnected from private gardens, rely heavily on sealed glass facades, and face challenges of privacy, heat gain, solar exposure, and limited outdoor domestic space.",
+"concept": "Reinterpret the high-rise apartment as a vertical stack of private garden homes, where each full-floor residence has its own planted balcony and multiple orientations.",
+"strategy": "Use one full-floor apartment per level, organize domestic spaces around a central living area, place planted balconies along the perimeter, use textured concrete walls to frame the gardens, and create shaded outdoor thresholds that respond to Singapore's tropical climate.",
+"design_intentions": [
+"Bring the experience of a private garden house into a high-rise residential tower.",
+"Give each apartment an entire floor to increase privacy, spaciousness, and multiple orientations.",
+"Use planted balconies as environmental buffers between interior living spaces and the surrounding city.",
+"Respond to tropical climate through shade, facade depth, vegetation, and potential natural ventilation.",
+"Move away from the sealed glass tower typology toward a more tactile, warm, and biophilic residential expression.",
+"Extend Singapore's garden-city identity vertically into private residential life."
+]
+},
+"Gene_C1": {
+"description": "Gene_C1 records the architectural vocabulary extracted from site context, drawings, diagrams, photos, and renders.",
+"vocabulary": [
+"slender residential tower",
+"vertical residential stack",
+"full-floor apartment",
+"tower floor",
+"central living space",
+"dining area",
+"lounge area",
+"bedroom",
+"master bedroom",
+"en-suite bathroom",
+"kitchen",
+"service kitchen",
+"utility room",
+"storage area",
+"private lift lobby",
+"vertical circulation core",
+"private lift",
+"staircase",
+"service core",
+"service shaft",
+"garden balcony",
+"planted balcony",
+"curved balcony edge",
+"outdoor garden room",
+"balcony planter",
+"tropical planting",
+"hanging garden",
+"green threshold",
+"vegetation buffer",
+"shaded outdoor space",
+"perimeter garden",
+"double-height garden condition",
+"private sky garden",
+"textured concrete facade",
+"earth-toned concrete wall",
+"vertical wall pier",
+"narrow vertical opening",
+"facade depth",
+"roof garden",
+"basement carpark",
+"tropical climate response",
+"privacy filter",
+"cross-ventilation",
+"biophilic design",
+"garden-city housing"
+]
+},
+"Gene_C2": {
+"description": "Gene_C2 records semantic spatial relationships and strategy candidates. Each relation follows the format: Subject → Relation (Relation Type) → Object.",
+"semantic_relations": [
+{
+"id": "C2_01",
+"subject": "full-floor apartment",
+"relation": "occupies",
+"relation_type": "Typological Relation",
+"object": "tower floor",
+"description": "Each apartment occupies an entire residential floor, making the unit feel more like a private house than a typical apartment module.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Increase residential privacy",
+"strategy": "Use one apartment per floor so that each residence has private access, fewer shared boundaries, and a stronger sense of ownership.",
+"reasoning": {
+"premise": "Luxury high-rise residents often require privacy and spatial exclusivity.",
+"analysis": "A full-floor apartment eliminates shared floor conditions with multiple neighboring units.",
+"conclusion": "The apartment becomes more private and house-like within a high-rise tower."
+}
+},
+{
+"id": 2,
+"motivation": "Create multiple orientations",
+"strategy": "Allow each residence to occupy the full floor plate so that living spaces can face multiple directions.",
+"reasoning": {
+"premise": "Typical apartments often have limited exposure to light, air, and views.",
+"analysis": "A full-floor plan allows rooms to connect to several facade orientations.",
+"conclusion": "The residence gains better light, ventilation potential, and varied views."
+}
+},
+{
+"id": 3,
+"motivation": "Transform apartment living into house-like living",
+"strategy": "Organize the floor as a complete private home with central living space, bedrooms, service rooms, and garden balconies.",
+"reasoning": {
+"premise": "High-rise apartments can feel compact and repetitive.",
+"analysis": "A full-floor residence allows a more generous and domestic spatial organization.",
+"conclusion": "The high-rise unit becomes a private house in the sky."
+}
+}
+]
+},
+{
+"id": "C2_02",
+"subject": "central living space",
+"relation": "organizes",
+"relation_type": "Spatial Relation",
+"object": "residential rooms",
+"description": "The central living and dining space acts as the main organizing space of the apartment, with bedrooms, service areas, and balconies arranged around it.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Create a domestic center",
+"strategy": "Place the living and dining area at the center of the plan so it becomes the main shared space for the household.",
+"reasoning": {
+"premise": "A large full-floor apartment needs a clear domestic focus.",
+"analysis": "A central living space organizes movement, family interaction, and access to other rooms.",
+"conclusion": "The apartment becomes legible as a home centered around shared living."
+}
+},
+{
+"id": 2,
+"motivation": "Connect interior life to outdoor gardens",
+"strategy": "Allow the central living space to extend toward planted balconies and garden edges.",
+"reasoning": {
+"premise": "The project aims to create a garden-home experience in a tower.",
+"analysis": "The living space must connect visually and physically to planted outdoor areas.",
+"conclusion": "Garden balconies become part of daily domestic life."
+}
+},
+{
+"id": 3,
+"motivation": "Separate shared and private zones",
+"strategy": "Use the living area as a central shared zone while placing bedrooms and service spaces around the perimeter.",
+"reasoning": {
+"premise": "Luxury residences require both collective family space and private rooms.",
+"analysis": "A central shared space with perimeter rooms creates a clear spatial hierarchy.",
+"conclusion": "The plan supports both family interaction and individual privacy."
+}
+}
+]
+},
+{
+"id": "C2_03",
+"subject": "garden balcony",
+"relation": "extends",
+"relation_type": "Spatial Relation",
+"object": "living space",
+"description": "The planted garden balconies extend the interior living areas outward and create outdoor rooms for each apartment.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Bring garden living into the apartment",
+"strategy": "Attach planted balconies to major living spaces so residents experience outdoor greenery as part of daily life.",
+"reasoning": {
+"premise": "High-rise living often lacks private outdoor gardens.",
+"analysis": "A garden balcony can serve as an exterior extension of the living room.",
+"conclusion": "The apartment gains the atmosphere of a private garden residence."
+}
+},
+{
+"id": 2,
+"motivation": "Create outdoor domestic rooms",
+"strategy": "Design balconies with enough depth and planting to function as garden rooms rather than narrow ledges.",
+"reasoning": {
+"premise": "Narrow balconies may not support meaningful outdoor use.",
+"analysis": "Deeper planted balconies can support sitting, planting, shade, and visual comfort.",
+"conclusion": "The balcony becomes a usable domestic space."
+}
+},
+{
+"id": 3,
+"motivation": "Strengthen indoor-outdoor continuity",
+"strategy": "Use balcony geometry and planting to blur the boundary between interior rooms and exterior garden space.",
+"reasoning": {
+"premise": "Tropical housing benefits from strong relationships between inside and outside.",
+"analysis": "Garden balconies create a threshold between interior comfort and outdoor climate.",
+"conclusion": "The residence becomes more open, shaded, and connected to nature."
+}
+}
+]
+},
+{
+"id": "C2_04",
+"subject": "garden balcony",
+"relation": "filters",
+"relation_type": "Perceptual Relation",
+"object": "city view",
+"description": "The planted balcony creates a visual layer between the interior apartment and the surrounding high-rise city.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Protect residential privacy",
+"strategy": "Place vegetation at the balcony edge to filter direct views between the apartment and neighboring towers.",
+"reasoning": {
+"premise": "EDEN is located in a district with many nearby high-rise residential buildings.",
+"analysis": "A planted balcony creates a semi-transparent privacy layer.",
+"conclusion": "Residents can maintain outward views while reducing direct visual exposure."
+}
+},
+{
+"id": 2,
+"motivation": "Create a garden foreground",
+"strategy": "Use planting so that residents see greenery before seeing the surrounding urban environment.",
+"reasoning": {
+"premise": "Dense city views can feel hard or exposed.",
+"analysis": "Vegetation changes the immediate visual foreground of the apartment.",
+"conclusion": "The view becomes softer, more private, and more domestic."
+}
+},
+{
+"id": 3,
+"motivation": "Make the city feel less intrusive",
+"strategy": "Use balcony gardens as a buffer that separates private domestic life from the visual intensity of the city.",
+"reasoning": {
+"premise": "High-rise living can place private rooms directly against the urban environment.",
+"analysis": "A garden layer provides depth and separation.",
+"conclusion": "The apartment feels more protected and retreat-like."
+}
+}
+]
+},
+{
+"id": "C2_05",
+"subject": "vegetation",
+"relation": "shades",
+"relation_type": "Environmental Relation",
+"object": "interior space",
+"description": "Tropical planting and balcony depth help shade the interior rooms from direct sunlight.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Reduce solar heat gain",
+"strategy": "Use planted balconies to block and soften direct sunlight before it reaches the interior.",
+"reasoning": {
+"premise": "Singapore's tropical climate produces strong sunlight and heat.",
+"analysis": "Vegetation and balcony depth reduce direct solar exposure.",
+"conclusion": "Interior comfort can be improved through passive shading."
+}
+},
+{
+"id": 2,
+"motivation": "Create a cooler balcony microclimate",
+"strategy": "Use dense tropical planting to produce shade and a softer outdoor threshold around the apartment.",
+"reasoning": {
+"premise": "Outdoor balconies in tropical climates can become too hot without shade.",
+"analysis": "Planting can lower perceived heat and create a more comfortable edge condition.",
+"conclusion": "The balcony becomes more usable as an outdoor living area."
+}
+},
+{
+"id": 3,
+"motivation": "Replace mechanical expression with climatic design",
+"strategy": "Use facade planting and balcony depth as visible climate-response elements rather than relying only on sealed glass and mechanical cooling.",
+"reasoning": {
+"premise": "Glass residential towers may perform poorly in hot climates.",
+"analysis": "Shaded, planted balconies create a more climate-responsive facade.",
+"conclusion": "The building gains both environmental performance and architectural identity."
+}
+}
+]
+},
+{
+"id": "C2_06",
+"subject": "vertical core",
+"relation": "serves",
+"relation_type": "Circulation Relation",
+"object": "full-floor apartment",
+"description": "The vertical circulation core provides private lift access, stairs, and service connections to each full-floor residence.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Create private arrival",
+"strategy": "Use a private lift lobby so that arrival feels more like entering a house than entering a shared apartment corridor.",
+"reasoning": {
+"premise": "Full-floor luxury apartments require a more private arrival sequence.",
+"analysis": "Direct lift access reduces shared circulation and enhances privacy.",
+"conclusion": "The arrival experience supports the private-house-in-the-sky concept."
+}
+},
+{
+"id": 2,
+"motivation": "Support efficient vertical stacking",
+"strategy": "Use a compact core to repeat the same apartment organization across multiple floors.",
+"reasoning": {
+"premise": "The project stacks full-floor apartments vertically.",
+"analysis": "A consistent core allows repeated floor plates to function efficiently.",
+"conclusion": "The tower can maintain spatial generosity while remaining vertically organized."
+}
+},
+{
+"id": 3,
+"motivation": "Separate service and domestic movement",
+"strategy": "Coordinate lift, stair, service shaft, and utility functions so that domestic areas remain open and private.",
+"reasoning": {
+"premise": "Luxury residential plans require both service efficiency and domestic comfort.",
+"analysis": "A well-organized core can absorb vertical services and circulation.",
+"conclusion": "The apartment interior can focus on living spaces and garden connections."
+}
+}
+]
+},
+{
+"id": "C2_07",
+"subject": "textured concrete wall",
+"relation": "frames",
+"relation_type": "Material Relation",
+"object": "garden balcony",
+"description": "The earth-toned textured concrete walls and vertical piers frame the planted balconies and create depth, privacy, and facade identity.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Create tactile architectural identity",
+"strategy": "Use textured concrete surfaces to give the tower a warm and grounded character instead of a sealed glass appearance.",
+"reasoning": {
+"premise": "Many luxury towers rely on smooth glass facades.",
+"analysis": "Textured concrete produces a more tactile and material atmosphere.",
+"conclusion": "The building gains a distinctive domestic and tropical identity."
+}
+},
+{
+"id": 2,
+"motivation": "Frame outdoor garden rooms",
+"strategy": "Use vertical wall elements to define the planted balcony zones as outdoor rooms.",
+"reasoning": {
+"premise": "Balconies can feel exposed if they are only open platforms.",
+"analysis": "Wall elements provide enclosure, depth, and spatial definition.",
+"conclusion": "The garden balcony becomes more room-like and private."
+}
+},
+{
+"id": 3,
+"motivation": "Add facade depth",
+"strategy": "Use thick wall elements and recessed openings to create shadow, privacy, and environmental buffering.",
+"reasoning": {
+"premise": "Flat facades offer limited environmental and spatial depth.",
+"analysis": "Deep wall elements create shade and spatial layering.",
+"conclusion": "The facade becomes protective, expressive, and climate-responsive."
+}
+}
+]
+},
+{
+"id": "C2_08",
+"subject": "repeated floor plate",
+"relation": "stacks",
+"relation_type": "Vertical Relation",
+"object": "garden homes",
+"description": "The typical full-floor apartment is repeated vertically, forming a tower composed of stacked private garden residences.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Create vertical domesticity",
+"strategy": "Repeat the full-floor garden apartment vertically so that each level functions like a private home with its own garden.",
+"reasoning": {
+"premise": "High-rise buildings often stack apartment units as repetitive modules.",
+"analysis": "Repeating full-floor garden homes creates a more domestic and exclusive tower typology.",
+"conclusion": "The tower becomes a vertical collection of private houses."
+}
+},
+{
+"id": 2,
+"motivation": "Maintain consistent residential quality",
+"strategy": "Use a repeated floor plate to give each apartment similar access to light, air, gardens, and privacy.",
+"reasoning": {
+"premise": "Residential quality can vary greatly across different floor plans.",
+"analysis": "A repeated full-floor plan provides consistent spatial benefits.",
+"conclusion": "Each residence receives a comparable garden-home experience."
+}
+},
+{
+"id": 3,
+"motivation": "Build a clear tower identity",
+"strategy": "Let the repetition of garden balconies and wall piers create the visual rhythm of the tower.",
+"reasoning": {
+"premise": "The facade should express the residential logic of the building.",
+"analysis": "Stacked garden balconies show how each home is repeated vertically.",
+"conclusion": "The tower's image communicates its garden-apartment concept."
+}
+}
+]
+},
+{
+"id": "C2_09",
+"subject": "private lift lobby",
+"relation": "enhances",
+"relation_type": "Circulation Relation",
+"object": "residential privacy",
+"description": "The private lift lobby strengthens the exclusivity and privacy of each full-floor apartment.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Reduce shared circulation",
+"strategy": "Minimize common corridors by providing direct lift access to each full-floor residence.",
+"reasoning": {
+"premise": "Shared corridors reduce privacy in luxury housing.",
+"analysis": "Private lift access limits shared circulation encounters.",
+"conclusion": "Each apartment feels more independent and exclusive."
+}
+},
+{
+"id": 2,
+"motivation": "Create a house-like entrance",
+"strategy": "Design the lift arrival as a private threshold before entering the central living area.",
+"reasoning": {
+"premise": "The project aims to make high-rise units feel like private houses.",
+"analysis": "A private entry sequence reinforces this house-like experience.",
+"conclusion": "Arrival becomes part of the domestic identity of the residence."
+}
+},
+{
+"id": 3,
+"motivation": "Support high-end residential identity",
+"strategy": "Use private circulation to align the spatial experience with the expectations of luxury urban residents.",
+"reasoning": {
+"premise": "High-end residential design often prioritizes privacy, exclusivity, and controlled access.",
+"analysis": "A private lift lobby strengthens these qualities.",
+"conclusion": "Circulation becomes part of the luxury residential strategy."
+}
+}
+]
+},
+{
+"id": "C2_10",
+"subject": "tropical planting",
+"relation": "responds to",
+"relation_type": "Environmental Relation",
+"object": "climate",
+"description": "The tropical planting responds to Singapore's hot, humid climate by providing shade, greenery, and a softer microclimatic edge.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Adapt to tropical conditions",
+"strategy": "Use planting species and balcony depth that can tolerate tropical heat, humidity, and strong sunlight.",
+"reasoning": {
+"premise": "Singapore's climate requires durable and climate-appropriate planting.",
+"analysis": "Tropical planting can thrive in warm and humid conditions while providing shade.",
+"conclusion": "The garden balconies become environmentally appropriate rather than decorative only."
+}
+},
+{
+"id": 2,
+"motivation": "Create biophilic living",
+"strategy": "Place tropical vegetation close to daily living spaces to strengthen residents' sensory connection to nature.",
+"reasoning": {
+"premise": "Urban high-rise living can disconnect residents from landscape.",
+"analysis": "Planting at the residential edge creates everyday contact with greenery.",
+"conclusion": "The home becomes more biophilic and emotionally connected to nature."
+}
+},
+{
+"id": 3,
+"motivation": "Extend the garden-city idea vertically",
+"strategy": "Lift tropical planting from the ground plane into every apartment level.",
+"reasoning": {
+"premise": "Singapore's urban identity emphasizes greenery and garden-city planning.",
+"analysis": "Vertical garden balconies translate this identity into private high-rise housing.",
+"conclusion": "The tower becomes a vertical extension of the garden city."
+}
+}
+]
+},
+{
+"id": "C2_11",
+"subject": "roof garden",
+"relation": "caps",
+"relation_type": "Vertical Relation",
+"object": "residential tower",
+"description": "The roof garden or planted top condition completes the vertical garden concept of the tower.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Complete the vertical garden sequence",
+"strategy": "Use planting at the roof level to continue the garden logic from base to top.",
+"reasoning": {
+"premise": "The building concept is based on stacked garden homes.",
+"analysis": "A planted roof reinforces the idea that greenery is present throughout the tower.",
+"conclusion": "The tower reads as a complete vertical garden residence."
+}
+},
+{
+"id": 2,
+"motivation": "Create a high-level landscape identity",
+"strategy": "Use roof planting to visually distinguish the tower top and soften the skyline profile.",
+"reasoning": {
+"premise": "Tower tops often appear mechanical or visually abrupt.",
+"analysis": "A roof garden creates a softer and more residential termination.",
+"conclusion": "The tower's vertical identity is completed by landscape."
+}
+},
+{
+"id": 3,
+"motivation": "Support environmental continuity",
+"strategy": "Coordinate roof planting with balcony planting so that greenery appears as a continuous vertical system.",
+"reasoning": {
+"premise": "Disconnected planting can feel decorative.",
+"analysis": "Continuous planting across balconies and roof makes the system more coherent.",
+"conclusion": "The building's garden strategy becomes spatially and visually integrated."
+}
+}
+]
+},
+{
+"id": "C2_12",
+"subject": "service zone",
+"relation": "supports",
+"relation_type": "Functional Relation",
+"object": "domestic life",
+"description": "Kitchens, bathrooms, storage, utility areas, and service spaces support the central living space and private bedroom zones.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Keep living spaces open and generous",
+"strategy": "Consolidate service functions so that the central living and dining space remains clear and spacious.",
+"reasoning": {
+"premise": "Full-floor apartments require both large living areas and extensive service support.",
+"analysis": "Well-organized service zones prevent domestic functions from interrupting the main living space.",
+"conclusion": "The apartment maintains a calm and generous domestic atmosphere."
+}
+},
+{
+"id": 2,
+"motivation": "Support luxury residential function",
+"strategy": "Provide dedicated service spaces such as kitchen, utility, storage, and bathrooms to support daily life.",
+"reasoning": {
+"premise": "Luxury residences require a high level of functional support.",
+"analysis": "Service areas allow the main living and bedroom spaces to remain comfortable and organized.",
+"conclusion": "The plan balances spatial elegance with practical domestic needs."
+}
+},
+{
+"id": 3,
+"motivation": "Separate service and social spaces",
+"strategy": "Arrange service zones away from the main social areas while keeping them efficiently connected.",
+"reasoning": {
+"premise": "Domestic plans need separation between social, private, and service functions.",
+"analysis": "Clear zoning improves comfort, privacy, and daily operation.",
+"conclusion": "The apartment functions like a complete private home."
+}
+}
+]
+}
+]
+},
+"Gene_D": {
+"description": "Gene_D records possible resident behavior, media feedback, and design reflection. Some items are inferred from spatial configuration and should be verified with additional sources if needed.",
+"resident_behavior": "Residents are likely to experience each apartment as a private house in the sky, using the central living area as the main domestic space and the garden balconies as shaded outdoor extensions. This is an interpretation based on the plan, section, and exterior image.",
+"media_feedback": "EDEN is widely discussed as a high-end tropical residential project that rethinks the glass residential tower by using full-floor apartments, planted balconies, textured concrete, and biophilic design.",
+"designer_reflection": "The project demonstrates how a high-rise apartment can be transformed into a stack of private garden homes. Its most important contribution is the integration of full-floor residential planning with planted balcony spaces that respond to privacy, climate, and domestic atmosphere.",
+"limitations_or_notes": [
+"The exact four-direction site adjacency should be refined with a Google Maps satellite screenshot.",
+"The success of the garden balconies depends on planting maintenance, irrigation, resident use, and climate adaptation.",
+"The full-floor luxury apartment model may be less transferable to affordable or high-density mass housing without modification.",
+"Environmental performance should be verified through detailed climate, shading, and ventilation analysis if used for technical evaluation."
+]
+},
+"case_summary": {
+"one_sentence_summary": "EDEN Singapore Apartments is a high-rise residential precedent that transforms the apartment tower into a vertical stack of private garden homes through full-floor planning, planted balconies, and tropical climate-responsive design.",
+"key_design_problem": "How can a high-rise apartment in a dense tropical city provide privacy, garden living, shade, ventilation potential, and a stronger domestic atmosphere?",
+"key_design_solution": "Use one full-floor apartment per level, organize life around a central living space, place planted balconies around the perimeter, and use textured concrete walls to frame shaded garden thresholds.",
+"transferable_strategies_for_highrise_housing": [
+"Use full-floor or semi-private floor layouts to improve privacy and multiple orientations.",
+"Place planted balconies at the residential perimeter to create shade, privacy, and outdoor domestic space.",
+"Use vegetation as a visual and environmental buffer between interior rooms and the city.",
+"Use facade depth and textured material rather than flat glass to respond to tropical climate.",
+"Organize apartments around a central living space that connects to perimeter gardens.",
+"Translate garden-city principles into vertical housing by stacking private garden homes.",
+"Use private lift access or compact cores to reinforce the feeling of house-like high-rise living."
+]
+},
+"keywords": [
+"EDEN Singapore Apartments",
+"Heatherwick Studio",
+"high-rise residential",
+"tropical housing",
+"garden apartment",
+"full-floor apartment",
+"planted balcony",
+"hanging garden",
+"vertical garden home",
+"private house in the sky",
+"biophilic design",
+"tropical climate response",
+"privacy buffer",
+"shaded balcony",
+"cross-ventilation",
+"textured concrete facade",
+"garden-city housing",
+"Draycott Park",
+"Orchard Road",
+"Singapore"
+],
+"status": "preliminary_json_v1",
+"created_for": "High-Rise Residential Precedent Knowledge Base",
+"notes": "This JSON is based on manually prepared preprocess files for site context, drawings, photos, and renders. It is ready to be included as Case 03 in the precedent database. The site context should be refined after adding a Google Maps satellite image, especially for precise east-west-south-north adjacency."
+}
