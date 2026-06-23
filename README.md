@@ -14,7 +14,7 @@
 蒐集與初步建檔：人為蒐集 20 個高層集合住宅的指標性案例。針對每個案例，手動彙整其基本資料、建築平立剖圖面、外觀與室內照片，以及相關的文字敘述說明，並將這些原始資料初步結構化整理於 Excel 檔案中（如 `高層集合住宅案例整理.xlsx`），作為後續 AI 處理的原始素材。
 
 #### Step 2 — Write prompts to instruct the AI
-多層次 AI 案例萃取**：撰寫三段式、遞進式的 AI Prompts，引導語言模型將前一步驟的圖文資料轉化為結構化的建築知識，並輸出為 Markdown 檔案：
+多層次 AI 案例萃取：撰寫三段式、遞進式的 AI Prompts，引導語言模型將前一步驟的圖文資料轉化為結構化的建築知識，並輸出為 Markdown 檔案：
 * Prompt 01 (Site Context Analysis)：解析都市涵構與基地環境特徵。
 * Prompt 02 (Drawings Preprocess)：解析建築平立剖面圖等圖紙中的空間語彙與組織邏輯。
 * Prompt 03 (Photos & Renders Preprocess)：詮釋視覺圖像中的空間氛圍、材質構築與設計意圖。
