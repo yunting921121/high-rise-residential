@@ -1,0 +1,766 @@
+{
+  "id": "case_18_one_thousand_museum",
+  "project_name": "One Thousand Museum",
+  "architect": "Zaha Hadid Architects",
+  "design": [
+    "Zaha Hadid",
+    "Patrik Schumacher"
+  ],
+  "local_architect": "O'Donnell Dannwolf Partners",
+  "structural_engineer": "DeSimone Consulting Engineers",
+  "location": "Miami, Florida, USA",
+  "address_reference": "1000 Biscayne Boulevard, Downtown Miami",
+  "district": "Downtown Miami / Museum Park / Biscayne Bay",
+  "year": "2019",
+  "building_type": "high-rise residential condominium / luxury residential tower",
+  "height": "approximately 709 ft / 216 m",
+  "floor_count": "62 storeys",
+  "number_of_units": "approximately 83-84 residences depending on source / counting method",
+  "area": "approximately 84637 m²",
+  "main_theme": [
+    "exoskeleton tower",
+    "structural facade",
+    "luxury residential tower",
+    "Museum Park frontage",
+    "Biscayne Bay views",
+    "hurricane-resistant high-rise",
+    "column-reduced luxury interiors",
+    "skyline landmark"
+  ],
+  "source_urls": [
+    "https://www.theplan.it/eng/award-2021-Housing/one-thousand-museum-cutting-edge-technology-at-the-service-of-architecture-beyond-all-limits-zaha-hadid-architects",
+    "https://www.zaha-hadid.com/design/1000-museum/"
+  ],
+  "data_sources": [
+    "source_text.md",
+    "01_site_context_analysis.md",
+    "02_drawings_preprocess.md",
+    "03_photos_renders_preprocess.md",
+    "upper_zone_residence_unit_diagram.jpg",
+    "mid_zone_residence_unit_diagram.jpg",
+    "low_zone_residence_unit_diagram.jpg",
+    "exoskeleton_elevation_studies.jpg",
+    "exterior_tower_image.jpg"
+  ],
+  "Gene_A": {
+    "description": "Gene_A records the site conditions, urban context, environmental conditions, functional needs, and contextual reasoning of the precedent.",
+    "location": "One Thousand Museum is located at 1000 Biscayne Boulevard in Downtown Miami, directly opposite Museum Park / Maurice A. Ferré Park and close to Biscayne Bay.",
+    "urban_context": "The project occupies a highly visible cultural and waterfront position near Pérez Art Museum Miami, Frost Museum of Science, waterfront public spaces, downtown towers, and Miami's growing luxury residential skyline.",
+    "site_conditions": "The site combines Museum Park frontage, Biscayne Bay views, Downtown Miami high-rise density, luxury residential market conditions, and coastal hurricane-climate requirements.",
+    "adjacent_uses": {
+      "east": "Museum Park / Maurice A. Ferré Park, Biscayne Bay, cultural institutions, waterfront landscape, and bay views.",
+      "west": "Downtown Miami urban fabric, residential and commercial towers, streets, offices, and city blocks.",
+      "north": "Arts & Entertainment District, high-rise development, cultural and residential uses, and Biscayne Boulevard corridor.",
+      "south": "Downtown Miami, Bayfront / central urban core, commercial district, cultural destinations, and transit connections."
+    },
+    "surrounding_context": {
+      "cultural_context": "The tower faces Museum Park and is near major cultural institutions such as the Pérez Art Museum Miami and the Frost Museum of Science.",
+      "waterfront_context": "The project benefits from open views toward Biscayne Bay and Miami's coastal landscape.",
+      "downtown_context": "The tower is part of Downtown Miami's growing high-rise residential skyline.",
+      "climate_context": "Miami's hurricane-prone coastal environment creates strong structural and facade performance demands."
+    },
+    "climate_conditions": "Miami has a hot, humid subtropical climate with strong sunlight, intense rain events, hurricane risk, and high solar exposure. The project responds through an exterior exoskeleton, high-performance facade, terraces, and hurricane-resistant structural logic.",
+    "view_conditions": "The building provides views toward Biscayne Bay, Miami Beach, Museum Park, Downtown Miami, and the surrounding skyline. Full-floor residences, penthouse levels, and upper amenities gain broader panoramic views across the bay and city.",
+    "functional_needs": "The project provides luxury condominium residences with private elevator lobbies, half-floor and full-floor units, large open interiors, terraces, panoramic views, high-end amenities, and a structure capable of resisting coastal wind loads.",
+    "density_or_height_condition": "The project uses a 62-storey slender residential tower to achieve luxury residential density on a prominent Downtown Miami site. The tower's exoskeleton and central core work together to create open interior layouts and strong lateral resistance.",
+    "target_residents": "High-end residents seeking luxury condominium living, panoramic waterfront views, private elevator access, large open interiors, terraces, and exclusive tower amenities.",
+    "context_steps": [
+      {
+        "step": 1,
+        "subject": "tower site",
+        "relation": "faces",
+        "object": "Museum Park and Biscayne Bay"
+      },
+      {
+        "step": 2,
+        "subject": "coastal climate",
+        "relation": "requires",
+        "object": "hurricane-resistant structure and durable facade systems"
+      },
+      {
+        "step": 3,
+        "subject": "central core",
+        "relation": "organizes",
+        "object": "residential units"
+      },
+      {
+        "step": 4,
+        "subject": "exoskeleton",
+        "relation": "supports",
+        "object": "tower perimeter"
+      },
+      {
+        "step": 5,
+        "subject": "exoskeleton",
+        "relation": "frees",
+        "object": "interior floor plate"
+      },
+      {
+        "step": 6,
+        "subject": "half-floor units",
+        "relation": "occupy",
+        "object": "low and mid zones"
+      },
+      {
+        "step": 7,
+        "subject": "full-floor units",
+        "relation": "occupy",
+        "object": "upper zone"
+      },
+      {
+        "step": 8,
+        "subject": "structural facade",
+        "relation": "defines",
+        "object": "architectural identity"
+      }
+    ]
+  },
+  "Gene_B": {
+    "description": "Gene_B records the design issue, design concept, and overall design strategy.",
+    "issue": "Luxury high-rise residential towers need open interiors, panoramic views, strong identity, exclusive access, and high-end amenities. In Miami's coastal climate, they must also resist hurricane-level wind loads and maintain durable facade performance.",
+    "concept": "Create a luxury residential tower where structure becomes architectural identity. The exterior exoskeleton supports the tower, resists lateral loads, frees the interior floor plate, and gives the building its sculptural skyline image.",
+    "strategy": "Use a reinforced concrete core and an exterior concrete exoskeleton to create a rigid structural system. Organize low and mid zones with half-floor units, upper zones with full-floor residences, and top levels with luxury amenities. Use the exoskeleton as both structural support and visual expression.",
+    "design_intentions": [
+      "Make structure the primary architectural identity of the tower.",
+      "Respond to hurricane wind loads through an exterior exoskeleton.",
+      "Reduce interior columns and allow large open luxury residences.",
+      "Use unit hierarchy to organize the tower vertically.",
+      "Provide private elevator lobbies for exclusive residential access.",
+      "Orient great rooms, terraces, and upper amenities toward Biscayne Bay and Downtown Miami views.",
+      "Create a skyline landmark facing Museum Park and Biscayne Bay.",
+      "Fuse engineering performance with architectural expression."
+    ]
+  },
+  "Gene_C1": {
+    "description": "Gene_C1 records the architectural vocabulary extracted from site context, drawings, diagrams, photos, and renders.",
+    "vocabulary": [
+      "slender residential tower",
+      "luxury condominium tower",
+      "tower shaft",
+      "tower crown",
+      "exoskeleton tower",
+      "sculptural base",
+      "podium base",
+      "amenity levels",
+      "rooftop level",
+      "helipad",
+      "aquatic center",
+      "upper zone",
+      "mid zone",
+      "low zone",
+      "full-floor residence",
+      "half-floor residence",
+      "penthouse",
+      "residence unit",
+      "private elevator lobby",
+      "great room",
+      "living room",
+      "dining room",
+      "kitchen",
+      "butler pantry",
+      "wet bar",
+      "family room",
+      "media room",
+      "bedroom",
+      "master bedroom",
+      "master bathroom",
+      "closet",
+      "his closet",
+      "her closet",
+      "laundry",
+      "staff room",
+      "terrace",
+      "balcony",
+      "view-oriented room",
+      "central core",
+      "elevator core",
+      "private elevator",
+      "service elevator",
+      "stair core",
+      "private lobby",
+      "service corridor",
+      "fire stair",
+      "mechanical shaft",
+      "residential access",
+      "amenity access",
+      "parking circulation",
+      "concrete exoskeleton",
+      "GFRC permanent formwork",
+      "glass fiber reinforced concrete",
+      "diagonal bracing",
+      "structural perimeter",
+      "rigid tube",
+      "curving support",
+      "hurricane-resistant bracing",
+      "exterior column",
+      "structural node",
+      "branching base",
+      "sculptural bracket",
+      "balcony cantilever",
+      "glass facade",
+      "curtain wall",
+      "faceted crystal-like facade",
+      "Museum Park",
+      "Biscayne Bay",
+      "Downtown Miami",
+      "waterfront view",
+      "hurricane wind load",
+      "coastal climate",
+      "sky view",
+      "panoramic view",
+      "public park frontage",
+      "skyline landmark",
+      "luxury amenity system"
+    ]
+  },
+  "Gene_C2": {
+    "description": "Gene_C2 records semantic spatial relationships and strategy candidates. Each relation follows the format: Subject → Relation (Relation Type) → Object.",
+    "semantic_relations": [
+      {
+        "id": "C2_01",
+        "subject": "central core",
+        "relation": "organizes",
+        "relation_type": "Circulation Relation",
+        "object": "residential units",
+        "description": "The central core contains elevators, stairs, services, and private lobbies, organizing the residential floor plates.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Maintain efficient vertical circulation",
+            "strategy": "Use a compact central core to organize elevators, stairs, services, and fire-safe circulation.",
+            "reasoning": {
+              "premise": "A 62-storey residential tower requires efficient and safe vertical movement.",
+              "analysis": "A central core concentrates elevators, stairs, and mechanical shafts.",
+              "conclusion": "The tower maintains circulation clarity while freeing the perimeter for residences."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Support private luxury arrival",
+            "strategy": "Integrate private elevator lobbies into the core zone for each residence.",
+            "reasoning": {
+              "premise": "Luxury residential towers require privacy and controlled arrival sequences.",
+              "analysis": "Private lobbies separate the residence from shared circulation.",
+              "conclusion": "The core becomes part of the luxury living experience."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Coordinate structure and services",
+            "strategy": "Use the core as a stable vertical organizer while the exoskeleton supports the perimeter.",
+            "reasoning": {
+              "premise": "The tower depends on both a central core and exterior structure.",
+              "analysis": "The core handles circulation and service distribution while the exoskeleton shapes the exterior.",
+              "conclusion": "The building achieves integrated spatial and structural organization."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_02",
+        "subject": "exoskeleton",
+        "relation": "supports",
+        "relation_type": "Structural Relation",
+        "object": "tower perimeter",
+        "description": "The exterior structural frame supports the tower perimeter and resists lateral loads.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Resist hurricane-level wind loads",
+            "strategy": "Use an exterior concrete exoskeleton as part of the tower's lateral-resisting system.",
+            "reasoning": {
+              "premise": "Miami's coastal climate creates severe wind-load requirements.",
+              "analysis": "An exterior structural frame increases stiffness and distributes lateral forces.",
+              "conclusion": "The tower's form and structure respond directly to hurricane conditions."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Make structure visible",
+            "strategy": "Express the perimeter structural system on the facade instead of hiding it behind a curtain wall.",
+            "reasoning": {
+              "premise": "Structural systems are often concealed in high-rise buildings.",
+              "analysis": "One Thousand Museum makes the structural frame the dominant visual feature.",
+              "conclusion": "The building's engineering becomes its architectural identity."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create a strong skyline image",
+            "strategy": "Use the curving exoskeleton to give the tower a distinctive silhouette.",
+            "reasoning": {
+              "premise": "The tower is highly visible from Museum Park, Biscayne Boulevard, and the waterfront.",
+              "analysis": "The white exoskeleton distinguishes it from generic glass towers.",
+              "conclusion": "The structural frame becomes a skyline landmark device."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_03",
+        "subject": "exoskeleton",
+        "relation": "frees",
+        "relation_type": "Structural Relation",
+        "object": "interior floor plate",
+        "description": "By moving major structural support to the exterior, the tower reduces interior columns and creates more open residential layouts.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create open luxury interiors",
+            "strategy": "Move major structural support to the perimeter so interiors can remain more open and flexible.",
+            "reasoning": {
+              "premise": "Luxury residences require large open living spaces and flexible layouts.",
+              "analysis": "Interior columns can interrupt great rooms, views, and furniture planning.",
+              "conclusion": "The exoskeleton improves the quality of the interior floor plate."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Maximize panoramic views",
+            "strategy": "Reduce interior obstructions between living spaces and the glass facade.",
+            "reasoning": {
+              "premise": "Bay and city views are central to residential value.",
+              "analysis": "Open interiors allow views to extend deeper into the residence.",
+              "conclusion": "The structural system enhances the view experience."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Combine structural efficiency and residential value",
+            "strategy": "Use the exoskeleton to serve both engineering performance and apartment planning quality.",
+            "reasoning": {
+              "premise": "High-rise structure and luxury residential planning are often treated separately.",
+              "analysis": "Here, the structural system directly improves interior usability.",
+              "conclusion": "Engineering becomes a generator of residential quality."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_04",
+        "subject": "half-floor units",
+        "relation": "occupy",
+        "relation_type": "Typological Relation",
+        "object": "low and mid zones",
+        "description": "Half-floor residences occupy much of the lower and mid-level tower, balancing privacy, size, and density.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Balance exclusivity and unit count",
+            "strategy": "Use half-floor units in low and mid zones to provide large residences while maintaining more units per floor than full-floor layouts.",
+            "reasoning": {
+              "premise": "Luxury towers need both exclusivity and feasible unit distribution.",
+              "analysis": "Half-floor units provide privacy and size while still allowing two residences per floor.",
+              "conclusion": "The tower balances luxury and density in lower and middle levels."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Organize views by orientation",
+            "strategy": "Divide floors into two large units with different view orientations.",
+            "reasoning": {
+              "premise": "The tower has valuable bay, city, and park views in multiple directions.",
+              "analysis": "Half-floor units can capture different sides of the tower.",
+              "conclusion": "Each residence gains a distinct orientation and view identity."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create clear vertical hierarchy",
+            "strategy": "Use half-floor units below and full-floor units above to structure the tower's residential sequence.",
+            "reasoning": {
+              "premise": "Luxury residential towers often use vertical hierarchy to organize exclusivity.",
+              "analysis": "Half-floor units create a lower and mid-zone residential type.",
+              "conclusion": "The tower's program becomes legible by height."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_05",
+        "subject": "full-floor units",
+        "relation": "occupy",
+        "relation_type": "Vertical Relation",
+        "object": "upper zone",
+        "description": "Full-floor residences occupy upper levels, gaining panoramic views and increased exclusivity.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Maximize exclusivity at height",
+            "strategy": "Place full-floor residences in the upper zone where views and privacy are strongest.",
+            "reasoning": {
+              "premise": "Upper floors have the highest prestige and best panoramic views.",
+              "analysis": "Full-floor layouts maximize privacy and spatial control.",
+              "conclusion": "The upper zone becomes the most exclusive residential part of the tower."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create panoramic living",
+            "strategy": "Use full-floor plans to give one residence access to all orientations around the tower.",
+            "reasoning": {
+              "premise": "The site offers views toward Biscayne Bay, Museum Park, and Downtown Miami.",
+              "analysis": "A full-floor unit can take advantage of multiple view directions.",
+              "conclusion": "The residence becomes a panoramic sky home."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Strengthen luxury hierarchy",
+            "strategy": "Differentiate upper residences from lower half-floor units through size, privacy, and view range.",
+            "reasoning": {
+              "premise": "Luxury towers often rely on differentiated unit status.",
+              "analysis": "Full-floor units create a clear premium category.",
+              "conclusion": "The vertical program reinforces residential value and identity."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_06",
+        "subject": "private elevator lobby",
+        "relation": "serves",
+        "relation_type": "Circulation Relation",
+        "object": "residence unit",
+        "description": "Private elevator lobbies create exclusive arrival sequences for each residence.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create private arrival",
+            "strategy": "Use private elevator lobbies to provide direct and controlled access to each residence.",
+            "reasoning": {
+              "premise": "Luxury residences require privacy and a sense of exclusivity.",
+              "analysis": "A private lobby separates each home from shared building circulation.",
+              "conclusion": "The arrival sequence becomes part of the luxury experience."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Separate public and private zones",
+            "strategy": "Locate the private elevator lobby between the core and residence interior.",
+            "reasoning": {
+              "premise": "The tower includes shared amenities, services, and multiple user types.",
+              "analysis": "A private lobby creates a clear threshold from common circulation to home.",
+              "conclusion": "The floor plan maintains residential privacy."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Support full-floor and half-floor unit typologies",
+            "strategy": "Use private elevator lobbies consistently across different unit zones.",
+            "reasoning": {
+              "premise": "Low, mid, and upper zones use different apartment types.",
+              "analysis": "Private elevator access provides continuity of luxury experience.",
+              "conclusion": "Different residences share a consistent high-end arrival logic."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_07",
+        "subject": "great room",
+        "relation": "faces",
+        "relation_type": "Perceptual Relation",
+        "object": "panoramic view",
+        "description": "Great rooms and main living spaces are placed along the facade to take advantage of bay and city views.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Prioritize primary living spaces",
+            "strategy": "Place the great room at the perimeter where panoramic views are strongest.",
+            "reasoning": {
+              "premise": "The great room is the primary gathering and representational space of the residence.",
+              "analysis": "Facade placement provides daylight, view, and openness.",
+              "conclusion": "The main residential experience is oriented toward the city and bay."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Turn views into residential value",
+            "strategy": "Orient great rooms toward Biscayne Bay, Museum Park, or Downtown Miami depending on floor and unit orientation.",
+            "reasoning": {
+              "premise": "The building's location offers strong waterfront and city views.",
+              "analysis": "View-oriented planning increases both experiential and market value.",
+              "conclusion": "The tower translates context into luxury living."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Use open floor plates effectively",
+            "strategy": "Use column-reduced interiors to create large great rooms facing the facade.",
+            "reasoning": {
+              "premise": "The exoskeleton frees interior space.",
+              "analysis": "Large open rooms can take advantage of this structural strategy.",
+              "conclusion": "The great room demonstrates the value of the exoskeleton."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_08",
+        "subject": "terraces",
+        "relation": "extend",
+        "relation_type": "Spatial Relation",
+        "object": "residential living",
+        "description": "Terraces and balconies extend the residences outward, creating outdoor living space and view platforms.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Provide outdoor living at height",
+            "strategy": "Use terraces and balconies as exterior extensions of the residence.",
+            "reasoning": {
+              "premise": "Luxury high-rise apartments benefit from private outdoor space.",
+              "analysis": "Terraces allow residents to experience air, light, and views directly.",
+              "conclusion": "The apartment becomes more than an enclosed interior."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create view platforms",
+            "strategy": "Position terraces along the facade to frame Biscayne Bay and city views.",
+            "reasoning": {
+              "premise": "The site offers dramatic park and waterfront views.",
+              "analysis": "Outdoor terraces make those views inhabitable.",
+              "conclusion": "The tower turns height into an outdoor residential experience."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Mediate interior and coastal climate",
+            "strategy": "Use terraces as intermediate spaces between interior rooms and exterior exposure.",
+            "reasoning": {
+              "premise": "Miami's climate includes heat, humidity, rain, and wind.",
+              "analysis": "Terraces create a spatial threshold before the facade.",
+              "conclusion": "The residence gains a more layered relationship with the environment."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_09",
+        "subject": "exoskeleton curvature",
+        "relation": "creates",
+        "relation_type": "Geometric Relation",
+        "object": "floor plan variation",
+        "description": "The changing curvature of the exoskeleton creates slight differences in each floor plan.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Avoid uniform tower repetition",
+            "strategy": "Allow the curving exoskeleton to create slight differences in floor plate edges and residential layouts.",
+            "reasoning": {
+              "premise": "Tall residential towers often repeat identical floor plans.",
+              "analysis": "The exoskeleton changes across height and influences plan geometry.",
+              "conclusion": "The tower gains variation while maintaining a coherent structural identity."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Link structure and interior experience",
+            "strategy": "Let the exterior structural curve affect room edges, terraces, and facade conditions.",
+            "reasoning": {
+              "premise": "The exoskeleton is not only visual; it shapes the building.",
+              "analysis": "Its curvature affects how each residence meets the perimeter.",
+              "conclusion": "Structure becomes a generator of spatial character."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create a dynamic vertical sequence",
+            "strategy": "Use the changing exoskeleton to differentiate low, mid, and upper residential zones.",
+            "reasoning": {
+              "premise": "The tower has a vertical hierarchy of unit types.",
+              "analysis": "The exoskeleton reinforces this hierarchy through changing geometry.",
+              "conclusion": "The building's form and program develop together."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_10",
+        "subject": "branching base",
+        "relation": "transfers",
+        "relation_type": "Structural Relation",
+        "object": "structural loads",
+        "description": "The exoskeleton widens and branches at the base to transfer loads and create a strong sculptural foundation.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Transfer structural forces",
+            "strategy": "Use the branching base to carry and distribute exoskeleton forces into the lower structure.",
+            "reasoning": {
+              "premise": "The exterior frame carries significant gravity and lateral loads.",
+              "analysis": "The base must gather and transfer these loads effectively.",
+              "conclusion": "The sculptural base is directly linked to structural performance."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create expressive arrival identity",
+            "strategy": "Let the branching structural supports form the tower's base expression.",
+            "reasoning": {
+              "premise": "The base is where pedestrians encounter the tower most directly.",
+              "analysis": "A dramatic structural base communicates the building's identity at ground level.",
+              "conclusion": "Engineering becomes part of the arrival experience."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Unify tower and ground",
+            "strategy": "Allow the exoskeleton to flow from tower shaft into podium and base conditions.",
+            "reasoning": {
+              "premise": "A tall tower can feel disconnected from its base.",
+              "analysis": "Continuous structural geometry links the tower to the ground.",
+              "conclusion": "The building reads as one integrated structural organism."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_11",
+        "subject": "upper amenity levels",
+        "relation": "provide",
+        "relation_type": "Functional Relation",
+        "object": "shared luxury programs",
+        "description": "Aquatic center, lounge, event space, and roof-related functions create a vertical amenity system.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Increase residential luxury value",
+            "strategy": "Place high-end amenities such as aquatic center, lounge, event space, and roof functions within the upper tower sequence.",
+            "reasoning": {
+              "premise": "Luxury condominium towers compete through amenity offerings.",
+              "analysis": "Upper-level amenities create exclusive experiences tied to height and view.",
+              "conclusion": "The tower becomes a vertical luxury environment."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Use height as a shared resource",
+            "strategy": "Locate shared amenities where residents can enjoy panoramic sky and bay views.",
+            "reasoning": {
+              "premise": "Upper-level views should not belong only to private residences.",
+              "analysis": "Shared amenities allow residents to collectively experience the tower's height.",
+              "conclusion": "The building turns vertical position into communal luxury."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create a complete vertical lifestyle",
+            "strategy": "Stack residential, wellness, social, and roof-level programs into one tower.",
+            "reasoning": {
+              "premise": "High-end towers often offer a complete lifestyle within the building.",
+              "analysis": "Amenity stacking supports everyday leisure, socializing, and wellness.",
+              "conclusion": "The tower becomes a self-contained luxury residential system."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_12",
+        "subject": "structural facade",
+        "relation": "defines",
+        "relation_type": "Conceptual Relation",
+        "object": "architectural identity",
+        "description": "The tower's identity is produced by the fusion of structure, facade, and form.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Fuse engineering and architecture",
+            "strategy": "Use the structural exoskeleton as the primary facade and visual identity.",
+            "reasoning": {
+              "premise": "The tower requires strong structural systems for height and wind resistance.",
+              "analysis": "Expressing this system turns engineering necessity into architectural language.",
+              "conclusion": "The facade becomes both structure and identity."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Avoid generic glass tower appearance",
+            "strategy": "Use a sculptural structural frame to differentiate the tower from standard curtain-wall high-rises.",
+            "reasoning": {
+              "premise": "Luxury skyline towers can become visually generic.",
+              "analysis": "The exoskeleton gives One Thousand Museum a unique image.",
+              "conclusion": "The building becomes an iconic Miami landmark."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Make performance visible",
+            "strategy": "Let hurricane-resistant structure, perimeter support, and facade expression become one system.",
+            "reasoning": {
+              "premise": "Climate and structure are major design drivers in Miami.",
+              "analysis": "A visible exoskeleton communicates strength and performance.",
+              "conclusion": "The tower's image is grounded in environmental and structural necessity."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "Gene_D": {
+    "description": "Gene_D records possible resident behavior, media feedback, and design reflection. Some items are inferred from spatial configuration and should be verified with additional sources if needed.",
+    "resident_behavior": "Residents are likely to experience the tower through private elevator arrival, large open great rooms, bay or city views, terraces, and access to high-end shared amenities. Full-floor and half-floor unit typologies create different levels of privacy and exclusivity. This is an interpretation based on the diagrams and exterior image.",
+    "media_feedback": "One Thousand Museum is widely discussed as a distinctive luxury residential tower because of its Zaha Hadid-designed exoskeleton, hurricane-resistant engineering, GFRC facade system, panoramic units, and high-end amenities.",
+    "designer_reflection": "The project demonstrates how high-rise residential architecture can use structure as its primary identity. Its key contribution is the integration of exoskeleton engineering, luxury floor planning, open interiors, and skyline image.",
+    "limitations_or_notes": [
+      "The exoskeleton requires advanced structural engineering, construction precision, and coordination with facade and apartment layouts.",
+      "The GFRC permanent formwork and exterior structure should be understood as both construction system and visual identity.",
+      "The strategy is strongly tied to luxury residential economics and may not transfer directly to affordable housing.",
+      "Miami's hurricane, heat, humidity, and coastal exposure require rigorous facade maintenance and structural performance verification.",
+      "Exact unit count and detailed program distribution should be checked again before final publication."
+    ]
+  },
+  "case_summary": {
+    "one_sentence_summary": "One Thousand Museum is a luxury high-rise residential precedent that uses a concrete exoskeleton as structure, facade, hurricane-resistant system, and skyline identity.",
+    "key_design_problem": "How can a coastal luxury residential tower provide open interiors, panoramic views, exclusive unit typologies, strong skyline identity, and hurricane-resistant structural performance?",
+    "key_design_solution": "Use a central core with an exterior exoskeleton to resist lateral loads, support the tower perimeter, free the interior floor plate, organize half-floor and full-floor residences, and define the tower's architectural identity.",
+    "transferable_strategies_for_highrise_housing": [
+      "Use an exterior exoskeleton to combine structure and facade identity.",
+      "Pair a central core with perimeter structure to reduce interior columns.",
+      "Organize residential units vertically by exclusivity, from half-floor to full-floor residences.",
+      "Use private elevator lobbies to create luxury arrival sequences.",
+      "Place primary living spaces along the facade to maximize views.",
+      "Use structural curvature to create floor plan variation.",
+      "Make hurricane-resistant engineering visible as architectural expression.",
+      "Stack amenities vertically to create a complete luxury residential lifestyle."
+    ]
+  },
+  "keywords": [
+    "One Thousand Museum",
+    "Zaha Hadid Architects",
+    "Zaha Hadid",
+    "Patrik Schumacher",
+    "Miami",
+    "Downtown Miami",
+    "Biscayne Boulevard",
+    "Museum Park",
+    "Biscayne Bay",
+    "high-rise residential",
+    "luxury condominium",
+    "exoskeleton tower",
+    "structural facade",
+    "concrete exoskeleton",
+    "GFRC permanent formwork",
+    "glass fiber reinforced concrete",
+    "hurricane-resistant tower",
+    "central core",
+    "private elevator lobby",
+    "half-floor unit",
+    "full-floor unit",
+    "penthouse",
+    "great room",
+    "terrace",
+    "balcony",
+    "panoramic view",
+    "aquatic center",
+    "helipad",
+    "branching base",
+    "structural expression",
+    "skyline landmark",
+    "coastal climate"
+  ],
+  "status": "preliminary_json_v1",
+  "created_for": "High-Rise Residential Precedent Knowledge Base",
+  "notes": "This JSON is based on manually prepared preprocess files for site context, drawings, photos, and renders. It is ready to be included as Case 18 in the precedent database. Exact unit count, structural performance, GFRC system details, amenity program distribution, and hurricane-resistance data should be checked again before final publication."
+}
