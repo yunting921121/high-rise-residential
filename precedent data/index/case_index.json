@@ -1,1 +1,927 @@
-
+{
+  "database_name": "High-Rise Residential Precedent Knowledge Base",
+  "version": "v1.0",
+  "created_for": "High-Rise Residential Precedent Design Assistant",
+  "file_purpose": "Fast retrieval index for Gemini Gem. Use this file to quickly identify relevant cases before reading the full precedent database text.",
+  "case_count": 20,
+  "cases": [
+    {
+      "case_number": 1,
+      "id": "case_01_bosco_verticale",
+      "project_name": "Bosco Verticale",
+      "aliases": [
+        "Vertical Forest"
+      ],
+      "architects": [
+        "Stefano Boeri Architetti"
+      ],
+      "location": "Milan, Italy",
+      "year": "2014",
+      "building_type": "residential towers / vertical forest",
+      "main_theme": [
+        "vertical forest",
+        "planted balconies",
+        "urban biodiversity",
+        "private outdoor space",
+        "environmental facade"
+      ],
+      "key_design_strategies": [
+        "Use deep planted balconies as vertical green infrastructure.",
+        "Turn balcony edges into privacy filters, shading devices, and biodiversity surfaces.",
+        "Combine high-rise density with ecological identity and private outdoor living."
+      ],
+      "recommended_for_questions_about": [
+        "vertical greenery",
+        "planted balconies",
+        "ecological facade",
+        "biodiversity",
+        "private outdoor space"
+      ],
+      "keywords": [
+        "Bosco Verticale",
+        "Milan",
+        "vertical forest",
+        "planted balcony",
+        "biodiversity",
+        "balcony extension",
+        "green facade"
+      ]
+    },
+    {
+      "case_number": 2,
+      "id": "case_02_via_57_west",
+      "project_name": "VIA 57 West",
+      "aliases": [
+        "West 57th",
+        "Courtscraper"
+      ],
+      "architects": [
+        "BIG - Bjarke Ingels Group"
+      ],
+      "location": "New York, USA",
+      "year": "2016",
+      "building_type": "courtyard residential tower / hybrid perimeter block",
+      "main_theme": [
+        "courtyard tower",
+        "hybrid block",
+        "urban courtyard",
+        "sloping massing",
+        "view optimization"
+      ],
+      "key_design_strategies": [
+        "Combine a European courtyard block with a Manhattan high-rise tower.",
+        "Use sloping massing to preserve daylight, views, and courtyard openness.",
+        "Place residential units around a shared internal landscape courtyard."
+      ],
+      "recommended_for_questions_about": [
+        "courtyard tower",
+        "massing transformation",
+        "urban block",
+        "shared courtyard",
+        "density with daylight"
+      ],
+      "keywords": [
+        "VIA 57 West",
+        "BIG",
+        "New York",
+        "courtscraper",
+        "courtyard tower",
+        "hybrid block",
+        "sloped roof"
+      ]
+    },
+    {
+      "case_number": 3,
+      "id": "case_03_eden_singapore_apartments",
+      "project_name": "EDEN Singapore Apartments",
+      "aliases": [
+        "EDEN"
+      ],
+      "architects": [
+        "Heatherwick Studio"
+      ],
+      "location": "Singapore",
+      "year": "2020",
+      "building_type": "luxury residential tower / tropical garden apartment",
+      "main_theme": [
+        "private garden apartment",
+        "tropical high-rise",
+        "vertical greenery",
+        "outdoor living",
+        "cross-ventilation"
+      ],
+      "key_design_strategies": [
+        "Give each residence a private garden-like outdoor space at height.",
+        "Use deep balconies and planting to create privacy, shade, and tropical domesticity.",
+        "Organize full-floor or large residences around light, air, and greenery."
+      ],
+      "recommended_for_questions_about": [
+        "tropical high-rise",
+        "private sky garden",
+        "large luxury units",
+        "outdoor domesticity",
+        "planting and privacy"
+      ],
+      "keywords": [
+        "EDEN",
+        "Singapore",
+        "Heatherwick Studio",
+        "private garden",
+        "tropical housing",
+        "balcony garden",
+        "full-floor residence"
+      ]
+    },
+    {
+      "case_number": 4,
+      "id": "case_04_norra_tornen",
+      "project_name": "Norra Tornen",
+      "aliases": [
+        "Innovationen",
+        "Helix"
+      ],
+      "architects": [
+        "OMA",
+        "Reinier de Graaf"
+      ],
+      "location": "Stockholm, Sweden",
+      "year": "2018-2020",
+      "building_type": "residential towers / modular concrete high-rise",
+      "main_theme": [
+        "modular concrete tower",
+        "pixelated facade",
+        "residential blocks",
+        "prefabrication",
+        "balcony niches"
+      ],
+      "key_design_strategies": [
+        "Use stacked concrete modules to create a pixelated tower silhouette.",
+        "Turn repetitive housing modules into varied facade depth and balcony conditions.",
+        "Express residential aggregation through massing rather than hiding repetition."
+      ],
+      "recommended_for_questions_about": [
+        "modular facade",
+        "prefabrication",
+        "pixelated massing",
+        "unit aggregation",
+        "concrete residential tower"
+      ],
+      "keywords": [
+        "Norra Tornen",
+        "OMA",
+        "Stockholm",
+        "modular concrete",
+        "pixelated tower",
+        "prefabricated facade",
+        "balcony niche"
+      ]
+    },
+    {
+      "case_number": 5,
+      "id": "case_05_vancouver_house",
+      "project_name": "Vancouver House",
+      "aliases": [],
+      "architects": [
+        "BIG - Bjarke Ingels Group"
+      ],
+      "location": "Vancouver, Canada",
+      "year": "2020",
+      "building_type": "mixed-use residential tower / infrastructure-edge high-rise",
+      "main_theme": [
+        "infrastructure-generated tower",
+        "triangular-to-rectangular massing",
+        "urban constraint",
+        "mixed-use podium",
+        "landmark tower"
+      ],
+      "key_design_strategies": [
+        "Let site constraints and bridge setbacks generate tower geometry.",
+        "Transform a narrow triangular base into wider residential floor plates above.",
+        "Use podium and public programs to activate difficult infrastructure-adjacent land."
+      ],
+      "recommended_for_questions_about": [
+        "difficult site",
+        "infrastructure edge",
+        "massing transformation",
+        "mixed-use podium",
+        "tower geometry"
+      ],
+      "keywords": [
+        "Vancouver House",
+        "BIG",
+        "Vancouver",
+        "infrastructure",
+        "triangular site",
+        "massing transformation",
+        "podium"
+      ]
+    },
+    {
+      "case_number": 6,
+      "id": "case_06_beirut_terraces",
+      "project_name": "Beirut Terraces",
+      "aliases": [],
+      "architects": [
+        "Herzog & de Meuron"
+      ],
+      "location": "Beirut, Lebanon",
+      "year": "2017",
+      "building_type": "residential tower / terraced high-rise",
+      "main_theme": [
+        "layered terraces",
+        "Mediterranean outdoor living",
+        "horizontal slabs",
+        "indoor-outdoor gradient",
+        "climate-responsive terraces"
+      ],
+      "key_design_strategies": [
+        "Use irregular horizontal slabs to create varied terraces and shaded outdoor rooms.",
+        "Extend domestic life outward through deep balconies and terraces.",
+        "Respond to climate with shade, depth, and layered exterior thresholds."
+      ],
+      "recommended_for_questions_about": [
+        "terraced housing",
+        "outdoor living",
+        "Mediterranean climate",
+        "layered facade",
+        "balcony slabs"
+      ],
+      "keywords": [
+        "Beirut Terraces",
+        "Herzog & de Meuron",
+        "Beirut",
+        "terrace",
+        "horizontal slab",
+        "outdoor living",
+        "shading"
+      ]
+    },
+    {
+      "case_number": 7,
+      "id": "case_07_larbre_blanc",
+      "project_name": "L’Arbre Blanc",
+      "aliases": [
+        "White Tree"
+      ],
+      "architects": [
+        "Sou Fujimoto Architects",
+        "Nicolas Laisné",
+        "OXO Architectes",
+        "Dimitri Roussel"
+      ],
+      "location": "Montpellier, France",
+      "year": "2019",
+      "building_type": "mixed-use residential tower / balcony tower",
+      "main_theme": [
+        "branching balconies",
+        "public rooftop",
+        "outdoor living",
+        "white tree metaphor",
+        "Mediterranean high-rise"
+      ],
+      "key_design_strategies": [
+        "Use projecting balconies as inhabitable branches around the tower.",
+        "Create a public or semi-public rooftop as part of the tower’s civic identity.",
+        "Turn exterior extensions into the main spatial and climatic device."
+      ],
+      "recommended_for_questions_about": [
+        "balcony extension",
+        "public rooftop",
+        "Mediterranean outdoor living",
+        "tower as tree",
+        "facade inhabitation"
+      ],
+      "keywords": [
+        "L’Arbre Blanc",
+        "Montpellier",
+        "Sou Fujimoto",
+        "branching balconies",
+        "public rooftop",
+        "white tree",
+        "outdoor living"
+      ]
+    },
+    {
+      "case_number": 8,
+      "id": "case_08_one_central_park",
+      "project_name": "One Central Park",
+      "aliases": [],
+      "architects": [
+        "Ateliers Jean Nouvel",
+        "PTW Architects"
+      ],
+      "location": "Sydney, Australia",
+      "year": "2014",
+      "building_type": "mixed-use residential towers / vertical garden development",
+      "main_theme": [
+        "vertical garden",
+        "heliostat",
+        "green mixed-use tower",
+        "public podium",
+        "climate and light strategy"
+      ],
+      "key_design_strategies": [
+        "Integrate planting into the facade as a vertical landscape system.",
+        "Use heliostat and reflective systems to redirect light into shaded urban areas.",
+        "Combine retail podium, residential towers, and public landscape into one mixed-use system."
+      ],
+      "recommended_for_questions_about": [
+        "vertical garden",
+        "mixed-use podium",
+        "heliostat",
+        "urban greenery",
+        "light redirection"
+      ],
+      "keywords": [
+        "One Central Park",
+        "Jean Nouvel",
+        "Sydney",
+        "vertical garden",
+        "heliostat",
+        "mixed-use",
+        "green facade"
+      ]
+    },
+    {
+      "case_number": 9,
+      "id": "case_09_valley",
+      "project_name": "Valley",
+      "aliases": [],
+      "architects": [
+        "MVRDV"
+      ],
+      "location": "Amsterdam, Netherlands",
+      "year": "2022",
+      "building_type": "mixed-use high-rise / terraced green valley",
+      "main_theme": [
+        "green valley",
+        "mixed-use high-rise",
+        "public route",
+        "terraced landscape",
+        "stone and glass contrast"
+      ],
+      "key_design_strategies": [
+        "Carve a terraced green valley through a dense mixed-use building.",
+        "Use public routes and terraces to connect ground-level urban life with upper landscapes.",
+        "Contrast smooth outer business-district facade with organic inner landscape."
+      ],
+      "recommended_for_questions_about": [
+        "mixed-use high-rise",
+        "public route",
+        "terraced greenery",
+        "urban canyon",
+        "public-private gradient"
+      ],
+      "keywords": [
+        "Valley",
+        "MVRDV",
+        "Amsterdam",
+        "green valley",
+        "terraced landscape",
+        "mixed-use",
+        "public route"
+      ]
+    },
+    {
+      "case_number": 10,
+      "id": "case_10_haut_amsterdam",
+      "project_name": "HAUT Amsterdam",
+      "aliases": [
+        "HAUT"
+      ],
+      "architects": [
+        "Team V Architecture"
+      ],
+      "location": "Amsterdam, Netherlands",
+      "year": "2022",
+      "building_type": "hybrid timber residential high-rise",
+      "main_theme": [
+        "hybrid timber tower",
+        "low-carbon residential high-rise",
+        "CLT floors",
+        "timber identity",
+        "sustainable structure"
+      ],
+      "key_design_strategies": [
+        "Use a hybrid timber structural system to reduce embodied carbon.",
+        "Connect high-rise residential design with renewable material identity.",
+        "Use balconies, glazing, and structural expression to combine housing quality with sustainability."
+      ],
+      "recommended_for_questions_about": [
+        "timber high-rise",
+        "low-carbon structure",
+        "hybrid timber",
+        "sustainable residential tower",
+        "material strategy"
+      ],
+      "keywords": [
+        "HAUT",
+        "Amsterdam",
+        "Team V Architecture",
+        "hybrid timber",
+        "CLT",
+        "low-carbon",
+        "residential high-rise"
+      ]
+    },
+    {
+      "case_number": 11,
+      "id": "case_11_pinnacle_duxton",
+      "project_name": "The Pinnacle@Duxton",
+      "aliases": [
+        "Pinnacle@Duxton"
+      ],
+      "architects": [
+        "ARC Studio Architecture + Urbanism",
+        "RSP Architects Planners & Engineers"
+      ],
+      "location": "Singapore",
+      "year": "2009",
+      "building_type": "public housing high-rise / skybridge housing complex",
+      "main_theme": [
+        "sky gardens",
+        "skybridges",
+        "public housing landmark",
+        "seven connected towers",
+        "vertical communal space"
+      ],
+      "key_design_strategies": [
+        "Connect multiple residential towers with skybridges and sky gardens.",
+        "Distribute communal space vertically instead of only at ground level.",
+        "Make public housing a civic skyline landmark."
+      ],
+      "recommended_for_questions_about": [
+        "public housing",
+        "skybridge",
+        "sky garden",
+        "vertical community",
+        "communal space"
+      ],
+      "keywords": [
+        "The Pinnacle@Duxton",
+        "Singapore",
+        "public housing",
+        "skybridge",
+        "sky garden",
+        "seven towers",
+        "vertical community"
+      ]
+    },
+    {
+      "case_number": 12,
+      "id": "case_12_79_and_park",
+      "project_name": "79 & Park",
+      "aliases": [
+        "79&Park"
+      ],
+      "architects": [
+        "BIG - Bjarke Ingels Group"
+      ],
+      "location": "Stockholm, Sweden",
+      "year": "2018",
+      "building_type": "terraced residential block / courtyard housing",
+      "main_theme": [
+        "inhabitable hillside",
+        "terraced courtyard block",
+        "wood-clad modules",
+        "park-edge housing",
+        "stepped residential massing"
+      ],
+      "key_design_strategies": [
+        "Transform a courtyard block into a stepped hillside-like mass.",
+        "Use modular residential units to create terraces and varied roofscape.",
+        "Connect park context to housing through stepped outdoor spaces and courtyard views."
+      ],
+      "recommended_for_questions_about": [
+        "terraced block",
+        "courtyard housing",
+        "park-edge residential",
+        "stepped massing",
+        "roof terraces"
+      ],
+      "keywords": [
+        "79 & Park",
+        "BIG",
+        "Stockholm",
+        "terraced courtyard",
+        "wood modules",
+        "inhabitable hillside",
+        "park edge"
+      ]
+    },
+    {
+      "case_number": 13,
+      "id": "case_13_the_interlace",
+      "project_name": "The Interlace",
+      "aliases": [],
+      "architects": [
+        "OMA",
+        "Ole Scheeren"
+      ],
+      "location": "Singapore",
+      "year": "2013",
+      "building_type": "horizontal high-rise / stacked courtyard housing",
+      "main_theme": [
+        "horizontal high-rise",
+        "stacked courtyard housing",
+        "communal landscape",
+        "mega-block",
+        "interlocking residential bars"
+      ],
+      "key_design_strategies": [
+        "Stack horizontal residential bars to create large courtyards and shared landscapes.",
+        "Replace isolated towers with an interconnected housing network.",
+        "Use courtyards, terraces, and roof gardens to create multiple levels of community space."
+      ],
+      "recommended_for_questions_about": [
+        "horizontal high-rise",
+        "courtyard community",
+        "shared landscape",
+        "tropical housing",
+        "communal residential complex"
+      ],
+      "keywords": [
+        "The Interlace",
+        "OMA",
+        "Ole Scheeren",
+        "Singapore",
+        "horizontal high-rise",
+        "stacked blocks",
+        "courtyards",
+        "community"
+      ]
+    },
+    {
+      "case_number": 14,
+      "id": "case_14_the_silo",
+      "project_name": "The Silo",
+      "aliases": [],
+      "architects": [
+        "COBE"
+      ],
+      "location": "Copenhagen, Denmark",
+      "year": "2017",
+      "building_type": "adaptive reuse residential tower / former grain silo",
+      "main_theme": [
+        "adaptive reuse",
+        "grain silo conversion",
+        "industrial heritage",
+        "residential transformation",
+        "faceted metal facade"
+      ],
+      "key_design_strategies": [
+        "Reuse an existing industrial silo structure as a residential tower.",
+        "Preserve industrial memory while adding new domestic programs and facade identity.",
+        "Place public or shared functions at key levels to connect adaptive reuse with urban life."
+      ],
+      "recommended_for_questions_about": [
+        "adaptive reuse",
+        "industrial heritage",
+        "silo conversion",
+        "low-carbon reuse",
+        "residential transformation"
+      ],
+      "keywords": [
+        "The Silo",
+        "COBE",
+        "Copenhagen",
+        "adaptive reuse",
+        "grain silo",
+        "industrial heritage",
+        "residential conversion"
+      ]
+    },
+    {
+      "case_number": 15,
+      "id": "case_15_56_leonard_street",
+      "project_name": "56 Leonard Street",
+      "aliases": [],
+      "architects": [
+        "Herzog & de Meuron"
+      ],
+      "location": "New York, USA",
+      "year": "2016",
+      "building_type": "luxury residential tower / stacked houses tower",
+      "main_theme": [
+        "pixelated tower",
+        "stacked houses",
+        "cantilevered units",
+        "individualized apartments",
+        "skyline landmark"
+      ],
+      "key_design_strategies": [
+        "Use shifted floor plates and cantilevered units to create individualized high-rise homes.",
+        "Transform the repetitive tower into a stack of distinct residences.",
+        "Use setbacks and terraces to produce private outdoor space and skyline identity."
+      ],
+      "recommended_for_questions_about": [
+        "luxury tower",
+        "pixelated massing",
+        "stacked apartments",
+        "cantilevered terraces",
+        "individual unit identity"
+      ],
+      "keywords": [
+        "56 Leonard Street",
+        "Herzog & de Meuron",
+        "New York",
+        "pixelated tower",
+        "stacked houses",
+        "cantilever",
+        "luxury residential"
+      ]
+    },
+    {
+      "case_number": 16,
+      "id": "case_16_tao_zhu_yin_yuan_agora_garden",
+      "project_name": "Tao Zhu Yin Yuan / Agora Garden",
+      "aliases": [
+        "Agora Garden",
+        "Tao Zhu Yin Yuan"
+      ],
+      "architects": [
+        "Vincent Callebaut Architectures"
+      ],
+      "location": "Taipei, Taiwan",
+      "year": "2018 / should be verified",
+      "building_type": "residential tower / vertical forest double-helix tower",
+      "main_theme": [
+        "DNA double helix",
+        "vertical forest",
+        "rotating floor plates",
+        "carbon-absorbing greenery",
+        "private planted terraces"
+      ],
+      "key_design_strategies": [
+        "Use rotating floor plates to create a double-helix residential tower form.",
+        "Attach large planted terraces to residences as private green outdoor spaces.",
+        "Use ecological imagery and greenery to create a symbolic low-carbon residential identity."
+      ],
+      "recommended_for_questions_about": [
+        "vertical forest",
+        "double helix",
+        "rotating tower",
+        "planted terraces",
+        "ecological symbolism"
+      ],
+      "keywords": [
+        "Tao Zhu Yin Yuan",
+        "Agora Garden",
+        "Taipei",
+        "Vincent Callebaut",
+        "double helix",
+        "vertical forest",
+        "planted terrace"
+      ]
+    },
+    {
+      "case_number": 17,
+      "id": "case_17_tour_bois_le_pretre",
+      "project_name": "Tour Bois-le-Prêtre Transformation",
+      "aliases": [
+        "Transformation of Tour Bois-le-Prêtre"
+      ],
+      "architects": [
+        "Frédéric Druot",
+        "Anne Lacaton",
+        "Jean-Philippe Vassal"
+      ],
+      "location": "Paris, France",
+      "year": "2011",
+      "building_type": "social housing transformation / high-rise residential renovation",
+      "main_theme": [
+        "do not demolish",
+        "social housing transformation",
+        "winter garden",
+        "balcony extension",
+        "inhabited facade",
+        "low-carbon reuse"
+      ],
+      "key_design_strategies": [
+        "Avoid demolition by transforming the existing tower in place.",
+        "Add self-supporting winter gardens and balconies to enlarge apartments.",
+        "Improve thermal performance, daylight, and resident quality through facade extension."
+      ],
+      "recommended_for_questions_about": [
+        "social housing renovation",
+        "adaptive reuse",
+        "winter garden",
+        "balcony extension",
+        "low-carbon transformation"
+      ],
+      "keywords": [
+        "Tour Bois-le-Prêtre",
+        "Lacaton & Vassal",
+        "Paris",
+        "social housing",
+        "winter garden",
+        "renovation",
+        "do not demolish"
+      ]
+    },
+    {
+      "case_number": 18,
+      "id": "case_18_one_thousand_museum",
+      "project_name": "One Thousand Museum",
+      "aliases": [],
+      "architects": [
+        "Zaha Hadid Architects"
+      ],
+      "location": "Miami, Florida, USA",
+      "year": "2019",
+      "building_type": "luxury residential condominium / exoskeleton tower",
+      "main_theme": [
+        "exoskeleton tower",
+        "structural facade",
+        "hurricane-resistant high-rise",
+        "luxury residential tower",
+        "column-reduced interiors"
+      ],
+      "key_design_strategies": [
+        "Use an exterior exoskeleton as structure, facade, and identity.",
+        "Pair central core and perimeter structure to create open luxury floor plates.",
+        "Express hurricane-resistant engineering as architectural form."
+      ],
+      "recommended_for_questions_about": [
+        "structural facade",
+        "exoskeleton",
+        "luxury tower",
+        "open floor plate",
+        "coastal high-rise"
+      ],
+      "keywords": [
+        "One Thousand Museum",
+        "Zaha Hadid Architects",
+        "Miami",
+        "exoskeleton",
+        "structural facade",
+        "GFRC",
+        "luxury condominium"
+      ]
+    },
+    {
+      "case_number": 19,
+      "id": "case_19_mirador_building",
+      "project_name": "Mirador Building",
+      "aliases": [
+        "Edificio Mirador"
+      ],
+      "architects": [
+        "MVRDV",
+        "Blanca Lleó Asociados"
+      ],
+      "location": "Madrid, Spain",
+      "year": "2005",
+      "building_type": "social housing / vertical neighbourhood tower",
+      "main_theme": [
+        "vertical neighbourhood",
+        "lifted courtyard",
+        "sky plaza",
+        "social housing variation",
+        "large central void",
+        "anti-uniform housing block"
+      ],
+      "key_design_strategies": [
+        "Transform the conventional housing block into a vertical neighbourhood.",
+        "Lift the courtyard into the air as a communal sky plaza.",
+        "Use varied housing groups, red circulation, and facade patchwork to resist social housing monotony."
+      ],
+      "recommended_for_questions_about": [
+        "social housing",
+        "lifted courtyard",
+        "sky plaza",
+        "vertical neighbourhood",
+        "housing diversity"
+      ],
+      "keywords": [
+        "Mirador Building",
+        "MVRDV",
+        "Madrid",
+        "Sanchinarro",
+        "sky plaza",
+        "lifted courtyard",
+        "vertical neighbourhood"
+      ]
+    },
+    {
+      "case_number": 20,
+      "id": "case_20_mjostarnet",
+      "project_name": "Mjøstårnet",
+      "aliases": [
+        "The Tower of Lake Mjøsa"
+      ],
+      "architects": [
+        "Voll Arkitekter"
+      ],
+      "location": "Brumunddal, Norway",
+      "year": "2019",
+      "building_type": "mixed-use timber high-rise / residential, hotel, office, public bath",
+      "main_theme": [
+        "tall timber construction",
+        "glulam structure",
+        "CLT floor system",
+        "mixed-use vertical program",
+        "lakefront landmark",
+        "low-carbon high-rise prototype"
+      ],
+      "key_design_strategies": [
+        "Use glulam and CLT to demonstrate tall timber high-rise feasibility.",
+        "Stack public bath, hotel, offices, apartments, and viewing spaces into one timber tower.",
+        "Connect material choice to local timber culture, lakefront identity, and low-carbon construction."
+      ],
+      "recommended_for_questions_about": [
+        "mass timber",
+        "low-carbon structure",
+        "mixed-use tower",
+        "lakefront landmark",
+        "public-private program stack"
+      ],
+      "keywords": [
+        "Mjøstårnet",
+        "Voll Arkitekter",
+        "Norway",
+        "Lake Mjøsa",
+        "glulam",
+        "CLT",
+        "timber high-rise",
+        "mixed-use"
+      ]
+    }
+  ],
+  "theme_index": {
+    "vertical_greenery": [
+      "case_01_bosco_verticale",
+      "case_03_eden_singapore_apartments",
+      "case_08_one_central_park",
+      "case_09_valley",
+      "case_16_tao_zhu_yin_yuan_agora_garden"
+    ],
+    "sky_garden_and_shared_space": [
+      "case_02_via_57_west",
+      "case_09_valley",
+      "case_11_pinnacle_duxton",
+      "case_13_the_interlace",
+      "case_19_mirador_building"
+    ],
+    "social_housing": [
+      "case_11_pinnacle_duxton",
+      "case_13_the_interlace",
+      "case_17_tour_bois_le_pretre",
+      "case_19_mirador_building"
+    ],
+    "luxury_highrise": [
+      "case_03_eden_singapore_apartments",
+      "case_06_beirut_terraces",
+      "case_07_larbre_blanc",
+      "case_15_56_leonard_street",
+      "case_18_one_thousand_museum"
+    ],
+    "low_carbon_and_timber": [
+      "case_10_haut_amsterdam",
+      "case_14_the_silo",
+      "case_17_tour_bois_le_pretre",
+      "case_20_mjostarnet"
+    ],
+    "adaptive_reuse_or_transformation": [
+      "case_14_the_silo",
+      "case_17_tour_bois_le_pretre"
+    ],
+    "structural_identity": [
+      "case_05_vancouver_house",
+      "case_10_haut_amsterdam",
+      "case_15_56_leonard_street",
+      "case_18_one_thousand_museum",
+      "case_20_mjostarnet"
+    ],
+    "courtyard_and_block_transformation": [
+      "case_02_via_57_west",
+      "case_12_79_and_park",
+      "case_13_the_interlace",
+      "case_19_mirador_building"
+    ],
+    "balcony_and_terrace_living": [
+      "case_01_bosco_verticale",
+      "case_03_eden_singapore_apartments",
+      "case_06_beirut_terraces",
+      "case_07_larbre_blanc",
+      "case_15_56_leonard_street",
+      "case_17_tour_bois_le_pretre"
+    ],
+    "mixed_use_towers": [
+      "case_05_vancouver_house",
+      "case_08_one_central_park",
+      "case_09_valley",
+      "case_20_mjostarnet"
+    ],
+    "public_private_gradient": [
+      "case_02_via_57_west",
+      "case_08_one_central_park",
+      "case_09_valley",
+      "case_11_pinnacle_duxton",
+      "case_13_the_interlace",
+      "case_19_mirador_building",
+      "case_20_mjostarnet"
+    ]
+  },
+  "retrieval_rule": "Select cases by design logic, not fame. Prioritize main_theme, recommended_for_questions_about, key_design_strategies, and keywords."
+}
