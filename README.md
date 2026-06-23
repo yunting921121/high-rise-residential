@@ -1,4 +1,4 @@
-# high-rise-residential
+# High-Rise-Residential
 # 組員名單 
 王韻婷<br>于皓<br>莊書豪
 # 案例主題 
