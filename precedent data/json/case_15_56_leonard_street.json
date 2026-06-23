@@ -1,0 +1,741 @@
+{
+  "id": "case_15_56_leonard_street",
+  "project_name": "56 Leonard Street",
+  "architect": "Herzog & de Meuron",
+  "executive_architect": "Goldstein, Hill & West Architects",
+  "developer": "Alexico Group",
+  "location": "56 Leonard Street, New York, NY, USA",
+  "district": "Tribeca / Lower Manhattan",
+  "year": "2017",
+  "building_type": "high-rise residential condominium",
+  "height": "approximately 253 m",
+  "floor_count": "approximately 57 levels",
+  "number_of_units": "approximately 145 residences",
+  "main_theme": [
+    "stacked houses",
+    "pixelated tower",
+    "individualized apartments",
+    "cantilevered floor plates",
+    "private outdoor space",
+    "skyline identity",
+    "vertical domesticity"
+  ],
+  "source_urls": [
+    "https://arquitecturaviva.com/works/56-leonard-street-1-1",
+    "https://www.herzogdemeuron.com/projects/305-56-leonard-street/"
+  ],
+  "data_sources": [
+    "source_text.md",
+    "01_site_context_analysis.md",
+    "02_drawings_preprocess.md",
+    "03_photos_renders_preprocess.md",
+    "exterior_image.jpg",
+    "unit_distribution_diagram.jpg",
+    "residential_floor_plans.jpg"
+  ],
+  "Gene_A": {
+    "description": "Gene_A records the site conditions, urban context, environmental conditions, functional needs, and contextual reasoning of the precedent.",
+    "location": "56 Leonard Street is located in Tribeca, Lower Manhattan, New York City.",
+    "urban_context": "The site is embedded within a dense urban fabric of historic loft buildings, narrow streets, mixed-use blocks, commercial spaces, and high-value residential development. The project introduces a very tall residential tower into a neighborhood more commonly associated with lower industrial loft buildings and converted residential warehouses.",
+    "site_conditions": "The project is located on a compact Manhattan site surrounded by Tribeca's fine-grain urban fabric. Its height, cantilevered silhouette, glass facade, and pixelated massing create a strong contrast with the surrounding low- and mid-rise neighborhood context.",
+    "adjacent_uses": {
+      "north": "Leonard Street corridor, Tribeca residential / commercial blocks, loft buildings, restaurants, galleries, and local neighborhood streets.",
+      "east": "Church Street / Broadway direction, commercial corridors, office and mixed-use buildings, and access toward Civic Center / SoHo.",
+      "south": "Worth Street / Chambers Street direction, dense Lower Manhattan fabric, public institutions, residential conversions, and local streets.",
+      "west": "Hudson River direction, West Broadway, Tribeca residential blocks, cultural uses, and access toward Hudson River Park."
+    },
+    "surrounding_context": {
+      "tribeca_neighborhood_context": "Former industrial loft buildings, cast-iron and masonry structures, converted residences, galleries, restaurants, and boutique commercial uses.",
+      "lower_manhattan_skyline_context": "The tower contributes to the vertical skyline of downtown Manhattan and becomes a distinctive visual marker.",
+      "street_context": "Leonard Street and surrounding streets are relatively narrow compared with the scale of the tower, creating a sharp contrast between ground-level intimacy and vertical height.",
+      "residential_market_context": "The project belongs to the luxury condominium transformation of Tribeca and Lower Manhattan."
+    },
+    "climate_conditions": "New York City is located in the northern hemisphere, and Tribeca's dense street grid creates varying sunlight and shadow conditions throughout the day and year. The tower's height gives upper floors access to open sky, daylight, and long-distance views, while floor plate offsets create different terrace, shade, and exposure conditions.",
+    "view_conditions": "The tower provides views toward Lower Manhattan, the Hudson River, East River, harbor landscape, and surrounding city skyline. Lower and mid-level units relate to Tribeca's rooftops and neighborhood fabric, while upper levels gain broader panoramic views.",
+    "functional_needs": "The project provides luxury condominium residences with varied unit types, private terraces, floor-to-ceiling glazing, central core circulation, skyline views, and a strong street-level urban identity.",
+    "density_or_height_condition": "The project uses a very tall residential tower to achieve density on a compact Manhattan site. Its tower mass is differentiated through unit variation, cantilevered floor plates, setbacks, and private outdoor spaces.",
+    "target_residents": "High-end urban residents seeking individualized apartment layouts, views, private terraces, luxury amenities, and a strong Tribeca / Lower Manhattan identity.",
+    "context_steps": [
+      {
+        "step": 1,
+        "subject": "tower site",
+        "relation": "is located in",
+        "object": "Tribeca's dense urban fabric"
+      },
+      {
+        "step": 2,
+        "subject": "residential tower",
+        "relation": "rises above",
+        "object": "low- and mid-rise neighborhood context"
+      },
+      {
+        "step": 3,
+        "subject": "central core",
+        "relation": "organizes",
+        "object": "apartment units"
+      },
+      {
+        "step": 4,
+        "subject": "apartment units",
+        "relation": "occupy",
+        "object": "tower perimeter"
+      },
+      {
+        "step": 5,
+        "subject": "unit types",
+        "relation": "stack into",
+        "object": "vertical residential zones"
+      },
+      {
+        "step": 6,
+        "subject": "floor plate offsets",
+        "relation": "create",
+        "object": "private terraces"
+      },
+      {
+        "step": 7,
+        "subject": "apartment variation",
+        "relation": "forms",
+        "object": "pixelated facade"
+      },
+      {
+        "step": 8,
+        "subject": "tower silhouette",
+        "relation": "creates",
+        "object": "Lower Manhattan skyline identity"
+      }
+    ]
+  },
+  "Gene_B": {
+    "description": "Gene_B records the design issue, design concept, and overall design strategy.",
+    "issue": "High-rise residential towers often become anonymous, repetitive, and visually uniform. In dense luxury markets, residents also seek individuality, private outdoor space, large views, and distinctive domestic identity within the tower.",
+    "concept": "Create a tower as a vertical stack of individualized homes, where each apartment becomes a pixel in the overall form and contributes to the building's irregular skyline identity.",
+    "strategy": "Organize apartments around a compact central core, vary floor plate shapes and unit types across the height of the tower, use cantilevers and setbacks to create private terraces, and allow apartment variation to directly generate the pixelated facade and skyline silhouette.",
+    "design_intentions": [
+      "Reject the anonymity of standard repeated high-rise residential floors.",
+      "Make apartment individuality visible on the exterior.",
+      "Create private outdoor spaces through setbacks and cantilevered floor plates.",
+      "Use a compact core to free the perimeter for daylight, views, and varied apartments.",
+      "Transform domestic-scale unit variation into skyline identity.",
+      "Create a high-rise version of stacked houses in the sky.",
+      "Combine luxury residential living with a recognizable urban spectacle."
+    ]
+  },
+  "Gene_C1": {
+    "description": "Gene_C1 records the architectural vocabulary extracted from site context, drawings, diagrams, photos, and renders.",
+    "vocabulary": [
+      "pixelated tower",
+      "stacked house tower",
+      "Jenga-like tower",
+      "houses in the sky",
+      "vertical stack",
+      "cantilevered floor plate",
+      "offset floor plate",
+      "setback",
+      "projecting volume",
+      "recessed volume",
+      "tower shaft",
+      "tower crown",
+      "skyline marker",
+      "high-rise residential volume",
+      "individualized massing",
+      "stacked residential blocks",
+      "apartment unit",
+      "one-bedroom apartment",
+      "two-bedroom apartment",
+      "three-bedroom apartment",
+      "four-bedroom apartment",
+      "full-floor apartment",
+      "penthouse",
+      "living room",
+      "dining area",
+      "kitchen",
+      "bedroom",
+      "bathroom",
+      "entry foyer",
+      "private terrace",
+      "balcony",
+      "outdoor room",
+      "floor-to-ceiling window",
+      "view-oriented room",
+      "central core",
+      "elevator core",
+      "stair core",
+      "service shaft",
+      "mechanical zone",
+      "residential lobby",
+      "apartment entrance",
+      "core lobby",
+      "vertical circulation",
+      "fire stair",
+      "service circulation",
+      "glass facade",
+      "curtain wall",
+      "balcony slab",
+      "cantilevered slab",
+      "structural column",
+      "transfer beam",
+      "setback terrace",
+      "projecting room",
+      "facade grid",
+      "metal railing",
+      "deep facade edge",
+      "pixelated facade",
+      "irregular silhouette",
+      "Tribeca skyline",
+      "Lower Manhattan view",
+      "Hudson River view",
+      "East River view",
+      "city panorama",
+      "street-scale contrast",
+      "luxury residential identity",
+      "domestic individuality",
+      "urban spectacle",
+      "public artwork base"
+    ]
+  },
+  "Gene_C2": {
+    "description": "Gene_C2 records semantic spatial relationships and strategy candidates. Each relation follows the format: Subject → Relation (Relation Type) → Object.",
+    "semantic_relations": [
+      {
+        "id": "C2_01",
+        "subject": "central core",
+        "relation": "organizes",
+        "relation_type": "Circulation Relation",
+        "object": "apartment units",
+        "description": "The compact central core organizes elevators, stairs, services, and vertical circulation, while apartments are arranged around the perimeter.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Maximize perimeter residential quality",
+            "strategy": "Use a compact central core so apartments can occupy the perimeter and access daylight, views, and terraces.",
+            "reasoning": {
+              "premise": "Luxury residential units benefit from perimeter exposure.",
+              "analysis": "A compact core concentrates elevators, stairs, and services away from the facade.",
+              "conclusion": "The perimeter can be used for living rooms, bedrooms, windows, and outdoor spaces."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Support vertical efficiency",
+            "strategy": "Concentrate vertical circulation and services in a central core.",
+            "reasoning": {
+              "premise": "A tall residential tower requires efficient vertical circulation.",
+              "analysis": "Centralized cores reduce circulation complexity and support repeated vertical service distribution.",
+              "conclusion": "The tower can accommodate varied floors while maintaining operational clarity."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Allow floor plate variation",
+            "strategy": "Keep the core stable while allowing apartment edges and floor plates to shift outward or inward.",
+            "reasoning": {
+              "premise": "The building's identity depends on varied floor plates.",
+              "analysis": "A stable core provides order while the perimeter can change.",
+              "conclusion": "The tower achieves both structural / circulation consistency and residential variation."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_02",
+        "subject": "apartment units",
+        "relation": "occupy",
+        "relation_type": "Spatial Relation",
+        "object": "perimeter",
+        "description": "The apartment units occupy the edge of the floor plate to maximize daylight, views, and access to terraces.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Maximize city views",
+            "strategy": "Place major rooms along the facade so each unit can capture views of Tribeca, Lower Manhattan, and surrounding rivers.",
+            "reasoning": {
+              "premise": "The tower's height provides strong view potential.",
+              "analysis": "Perimeter rooms gain direct visual access to the city.",
+              "conclusion": "The residential value of the tower is increased through view-oriented planning."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Improve daylight access",
+            "strategy": "Use perimeter apartment layouts with floor-to-ceiling glazing.",
+            "reasoning": {
+              "premise": "Tall residential units require daylight and visual openness.",
+              "analysis": "Facade exposure and large glazing bring light into living spaces.",
+              "conclusion": "Apartment interiors become brighter and more open."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Connect apartments to outdoor space",
+            "strategy": "Arrange units so that setbacks and balcony conditions can be directly accessed from domestic rooms.",
+            "reasoning": {
+              "premise": "Private outdoor space is difficult to provide in dense Manhattan towers.",
+              "analysis": "Perimeter units can connect to terraces generated by floor plate offsets.",
+              "conclusion": "Residents gain outdoor rooms in the sky."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_03",
+        "subject": "unit types",
+        "relation": "stack into",
+        "relation_type": "Typological Relation",
+        "object": "vertical zones",
+        "description": "Different unit types are grouped vertically, creating zones of different floor plate sizes and apartment configurations.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create residential diversity",
+            "strategy": "Stack different apartment types vertically, from smaller units to larger full-floor and penthouse residences.",
+            "reasoning": {
+              "premise": "Luxury towers often serve a range of unit sizes and market types.",
+              "analysis": "Grouping different unit types creates variation through height.",
+              "conclusion": "The tower becomes a vertical sequence of diverse residences."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Generate massing variation",
+            "strategy": "Let changes in unit type and floor plate size create visible shifts in the tower form.",
+            "reasoning": {
+              "premise": "The tower's exterior is generated by apartment variation.",
+              "analysis": "Different unit layouts produce different setbacks, terraces, and cantilevers.",
+              "conclusion": "Residential program becomes architectural massing."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Align residential value with height",
+            "strategy": "Place larger and more unique residences at higher levels where views and exclusivity increase.",
+            "reasoning": {
+              "premise": "Upper floors have stronger view, light, and prestige conditions.",
+              "analysis": "Larger units and penthouses can take advantage of these qualities.",
+              "conclusion": "The vertical program supports the economics and experience of luxury housing."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_04",
+        "subject": "floor plate offsets",
+        "relation": "create",
+        "relation_type": "Spatial Relation",
+        "object": "private terraces",
+        "description": "Setbacks and cantilevers generate outdoor terraces and balconies for individual residences.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create private outdoor space at height",
+            "strategy": "Use floor plate shifts to create terraces connected to individual apartments.",
+            "reasoning": {
+              "premise": "Dense urban towers have limited ground-level private open space.",
+              "analysis": "Setbacks at upper levels can become private terraces.",
+              "conclusion": "The tower provides outdoor rooms within a high-rise typology."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Make massing functional",
+            "strategy": "Treat offsets and setbacks as habitable terrace generators rather than only formal gestures.",
+            "reasoning": {
+              "premise": "Irregular massing can become arbitrary if it has no spatial function.",
+              "analysis": "In 56 Leonard Street, offsets produce usable outdoor space.",
+              "conclusion": "The tower's form is directly linked to residential life."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Differentiate apartment identity",
+            "strategy": "Give each terrace a different position, size, and view condition.",
+            "reasoning": {
+              "premise": "Residents in luxury towers seek unique spatial conditions.",
+              "analysis": "Terrace variation makes units more distinct.",
+              "conclusion": "Outdoor space reinforces apartment individuality."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_05",
+        "subject": "cantilevered slabs",
+        "relation": "project from",
+        "relation_type": "Structural Relation",
+        "object": "tower core",
+        "description": "Some floor plates extend outward beyond the typical tower outline, creating dramatic cantilevered conditions.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create skyline drama",
+            "strategy": "Use cantilevered floor plates to create a shifting and visually unstable tower silhouette.",
+            "reasoning": {
+              "premise": "The project is highly visible in Lower Manhattan.",
+              "analysis": "Cantilevers make the tower's silhouette distinctive and memorable.",
+              "conclusion": "The building becomes a skyline landmark."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Expand apartment space",
+            "strategy": "Use cantilevers to extend rooms and terraces beyond the normal tower footprint.",
+            "reasoning": {
+              "premise": "A compact Manhattan site limits floor plate expansion at the base.",
+              "analysis": "Cantilevering allows upper-level spaces to project outward.",
+              "conclusion": "Apartments gain additional spatial and visual presence."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Express structural performance",
+            "strategy": "Make the tower's engineering visible through projecting slabs and offsets.",
+            "reasoning": {
+              "premise": "Cantilevers require careful structural design.",
+              "analysis": "Visible projections express the tower's technical ambition.",
+              "conclusion": "The structure becomes part of the building's identity."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_06",
+        "subject": "apartment variation",
+        "relation": "forms",
+        "relation_type": "Perceptual Relation",
+        "object": "pixelated facade",
+        "description": "The variation of apartments, rooms, terraces, and setbacks creates the tower's pixelated exterior appearance.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Make residential individuality visible",
+            "strategy": "Allow apartment variation to directly shape the facade.",
+            "reasoning": {
+              "premise": "Many high-rise facades conceal the diversity of units behind uniform glass.",
+              "analysis": "56 Leonard Street exposes unit differences through massing shifts.",
+              "conclusion": "The facade becomes a visible register of domestic individuality."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Avoid repetitive tower image",
+            "strategy": "Use setbacks, projections, and floor plate changes to create a pixelated facade instead of a smooth curtain wall.",
+            "reasoning": {
+              "premise": "Standard residential towers often repeat identical facade modules.",
+              "analysis": "Irregular apartment stacking breaks the monotony.",
+              "conclusion": "The tower gains an anti-repetitive visual identity."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create domestic-scale texture",
+            "strategy": "Use apartment-scale volumes as facade pixels.",
+            "reasoning": {
+              "premise": "Very tall towers can feel abstract and impersonal.",
+              "analysis": "Apartment-scale facade articulation gives the tower a domestic reading.",
+              "conclusion": "The building appears as homes stacked in the sky."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_07",
+        "subject": "living rooms",
+        "relation": "face",
+        "relation_type": "Perceptual Relation",
+        "object": "city views",
+        "description": "Living areas are generally located along the facade to capture panoramic views of Lower Manhattan and surrounding rivers.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Prioritize main domestic spaces",
+            "strategy": "Place living rooms at the facade where views and daylight are strongest.",
+            "reasoning": {
+              "premise": "Living rooms are the primary daily spaces of the apartment.",
+              "analysis": "Facade placement enhances their light, view, and spatial quality.",
+              "conclusion": "The apartment experience is centered on outward view and openness."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Convert skyline into domestic experience",
+            "strategy": "Orient living spaces toward city and river panoramas.",
+            "reasoning": {
+              "premise": "The tower's height creates exceptional view opportunities.",
+              "analysis": "View-oriented living rooms make the city part of everyday domestic life.",
+              "conclusion": "The residence becomes a frame for the urban panorama."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Increase residential value",
+            "strategy": "Use premium views as a driver of unit layout and room placement.",
+            "reasoning": {
+              "premise": "View quality is a key factor in luxury condominium value.",
+              "analysis": "Placing living rooms toward views increases experiential and market value.",
+              "conclusion": "Plan organization reinforces the luxury residential strategy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_08",
+        "subject": "floor-to-ceiling windows",
+        "relation": "connect",
+        "relation_type": "Environmental Relation",
+        "object": "interior and skyline",
+        "description": "Large glazed openings connect apartment interiors to exterior views and daylight.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Maximize visual openness",
+            "strategy": "Use floor-to-ceiling glazing to connect interiors to the skyline.",
+            "reasoning": {
+              "premise": "The building's height offers expansive views.",
+              "analysis": "Large glazing makes these views part of the apartment interior.",
+              "conclusion": "The apartment feels visually connected to the city."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Bring daylight into deep rooms",
+            "strategy": "Use large windows along the perimeter to increase daylight penetration.",
+            "reasoning": {
+              "premise": "Luxury apartments often have deep living spaces.",
+              "analysis": "Large glazed openings increase natural light.",
+              "conclusion": "Interior comfort and brightness improve."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create transparency and luxury identity",
+            "strategy": "Use glass facade surfaces to produce an image of openness and high-end living.",
+            "reasoning": {
+              "premise": "Luxury towers often rely on visual openness and panorama.",
+              "analysis": "Floor-to-ceiling glass supports that residential image.",
+              "conclusion": "The building communicates transparent luxury."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_09",
+        "subject": "private terraces",
+        "relation": "extend",
+        "relation_type": "Spatial Relation",
+        "object": "domestic life",
+        "description": "Terraces and balconies extend the apartments outward, creating outdoor rooms in the sky.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create outdoor rooms",
+            "strategy": "Use terraces as exterior extensions of living, dining, or bedroom areas.",
+            "reasoning": {
+              "premise": "Private outdoor space is rare in dense high-rise Manhattan housing.",
+              "analysis": "Terraces create a direct outdoor domestic threshold.",
+              "conclusion": "Residents gain house-like exterior space within a tower."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Differentiate residences",
+            "strategy": "Give terraces different shapes, levels, and view orientations.",
+            "reasoning": {
+              "premise": "The project aims to make each residence distinct.",
+              "analysis": "Terrace variation reinforces individual apartment identity.",
+              "conclusion": "Outdoor spaces make units more unique."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Strengthen vertical domesticity",
+            "strategy": "Use private terraces to make the tower feel like stacked homes rather than repeated units.",
+            "reasoning": {
+              "premise": "The concept is based on houses in the sky.",
+              "analysis": "Private outdoor spaces are key to the feeling of a house.",
+              "conclusion": "Terraces translate domestic life into high-rise form."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_10",
+        "subject": "tower base",
+        "relation": "connects to",
+        "relation_type": "Urban Relation",
+        "object": "street and public artwork",
+        "description": "The base connects the residential tower to the street and includes a public artwork condition by Anish Kapoor.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create public urban interface",
+            "strategy": "Use the tower base and public artwork to connect the private residential tower to the city.",
+            "reasoning": {
+              "premise": "Luxury residential towers can become private and detached at street level.",
+              "analysis": "A public artwork introduces a civic and cultural dimension.",
+              "conclusion": "The base contributes to public urban experience."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Mediate tower scale and street scale",
+            "strategy": "Use the base to create a more deliberate transition between sidewalk and tower.",
+            "reasoning": {
+              "premise": "56 Leonard Street is much taller than many nearby buildings.",
+              "analysis": "A carefully designed base helps manage the scale shift.",
+              "conclusion": "The tower becomes more integrated into the street environment."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Add urban spectacle at ground level",
+            "strategy": "Pair the skyline spectacle of the tower with a public artwork at the base.",
+            "reasoning": {
+              "premise": "The building is visually iconic at the skyline scale.",
+              "analysis": "The artwork creates an iconic experience at the pedestrian scale.",
+              "conclusion": "The project operates at both skyline and street levels."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_11",
+        "subject": "upper penthouses",
+        "relation": "crown",
+        "relation_type": "Vertical Relation",
+        "object": "tower",
+        "description": "Larger upper residences and dramatic setbacks create the tower's distinctive top profile.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create a distinctive tower top",
+            "strategy": "Use larger upper units, setbacks, and projecting volumes to shape the crown.",
+            "reasoning": {
+              "premise": "The top of a skyline tower is highly visible.",
+              "analysis": "Penthouses and setbacks create a unique silhouette.",
+              "conclusion": "The tower's crown becomes part of its identity."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Use height for exclusivity",
+            "strategy": "Place the most spacious and distinctive residences at the upper levels.",
+            "reasoning": {
+              "premise": "Upper floors provide the best views, privacy, and prestige.",
+              "analysis": "Penthouses take advantage of these conditions.",
+              "conclusion": "The vertical hierarchy supports luxury residential value."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Complete the pixelated form",
+            "strategy": "Let the tower crown continue the stacking and offset logic of the lower floors.",
+            "reasoning": {
+              "premise": "The whole building is based on shifted residential volumes.",
+              "analysis": "The crown should not become a generic cap.",
+              "conclusion": "The top reinforces the tower's stacked-house concept."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_12",
+        "subject": "stacked units",
+        "relation": "challenge",
+        "relation_type": "Conceptual Relation",
+        "object": "standard tower repetition",
+        "description": "The stacking of unique units challenges the anonymity and repetition of standard high-rise residential towers.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Challenge high-rise anonymity",
+            "strategy": "Design the tower as a stack of differentiated homes rather than repeated identical floors.",
+            "reasoning": {
+              "premise": "Conventional residential towers often hide individual units behind repetitive facades.",
+              "analysis": "Stacked and shifted units reveal domestic difference.",
+              "conclusion": "The tower becomes a collection of recognizable homes."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create anti-repetitive high-rise typology",
+            "strategy": "Use unit variation, terrace differences, and floor plate offsets to disrupt standard repetition.",
+            "reasoning": {
+              "premise": "Repetition can make tall residential towers feel generic.",
+              "analysis": "Variation produces visual and spatial individuality.",
+              "conclusion": "The project offers an alternative high-rise residential typology."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Generate architecture from domestic life",
+            "strategy": "Let apartment differences shape the overall tower instead of applying a separate facade design.",
+            "reasoning": {
+              "premise": "A residential tower should express the life inside it.",
+              "analysis": "The facade and silhouette are generated by unit-level variation.",
+              "conclusion": "Domestic space becomes the basis of the tower's architecture."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "Gene_D": {
+    "description": "Gene_D records possible resident behavior, media feedback, and design reflection. Some items are inferred from spatial configuration and should be verified with additional sources if needed.",
+    "resident_behavior": "Residents are likely to experience the tower as a collection of individualized homes rather than a uniform apartment stack. Private terraces, large windows, varied floor plates, and panoramic views create differentiated relationships with the city. This is an interpretation based on the diagrams, plans, and exterior image.",
+    "media_feedback": "56 Leonard Street is widely discussed as a distinctive luxury residential tower because of its pixelated form, Jenga-like silhouette, cantilevered slabs, private terraces, and concept of stacked houses in the sky.",
+    "designer_reflection": "The project demonstrates how high-rise residential architecture can be generated from apartment variation rather than a uniform envelope. Its key contribution is the transformation of unit differentiation into facade, massing, outdoor space, and skyline identity.",
+    "limitations_or_notes": [
+      "The dramatic cantilevers and floor plate offsets require advanced structural coordination.",
+      "The strategy is strongly tied to luxury residential economics and may be difficult to transfer directly to affordable housing.",
+      "Large glass facades and terraces require careful environmental, maintenance, and wind comfort consideration.",
+      "Exact apartment count, structural details, and unit distribution should be verified with official project documents before final publication."
+    ]
+  },
+  "case_summary": {
+    "one_sentence_summary": "56 Leonard Street is a high-rise residential precedent that transforms a luxury tower into a pixelated stack of individualized homes through varied floor plates, cantilevered slabs, private terraces, and apartment-driven massing.",
+    "key_design_problem": "How can a luxury high-rise residential tower avoid anonymity and repetition while providing individuality, views, outdoor space, and skyline identity?",
+    "key_design_solution": "Use a compact central core with varied perimeter apartment units, stack different unit types vertically, and let floor plate offsets, cantilevers, and private terraces generate the pixelated tower form.",
+    "transferable_strategies_for_highrise_housing": [
+      "Use a compact core to free the perimeter for residential units.",
+      "Let unit variation generate facade and massing identity.",
+      "Use floor plate offsets to create private terraces.",
+      "Use cantilevered slabs to produce outdoor space and skyline articulation.",
+      "Group different apartment types vertically to create spatial and market diversity.",
+      "Use floor-to-ceiling windows to connect apartments with city views.",
+      "Use larger upper units and setbacks to create a distinctive tower crown.",
+      "Design the base to connect private residential tower life with public street experience."
+    ]
+  },
+  "keywords": [
+    "56 Leonard Street",
+    "Herzog & de Meuron",
+    "New York",
+    "Tribeca",
+    "Lower Manhattan",
+    "high-rise residential",
+    "luxury condominium",
+    "pixelated tower",
+    "stacked houses",
+    "Jenga tower",
+    "houses in the sky",
+    "central core",
+    "apartment variation",
+    "unit differentiation",
+    "cantilevered floor plate",
+    "floor plate offset",
+    "private terrace",
+    "setback",
+    "balcony",
+    "glass facade",
+    "floor-to-ceiling glazing",
+    "skyline landmark",
+    "domestic individuality",
+    "vertical domesticity",
+    "anti-repetitive tower",
+    "urban spectacle",
+    "public artwork base"
+  ],
+  "status": "preliminary_json_v1",
+  "created_for": "High-Rise Residential Precedent Knowledge Base",
+  "notes": "This JSON is based on manually prepared preprocess files for site context, drawings, photos, and renders. It is ready to be included as Case 15 in the precedent database. Exact apartment count, unit distribution, structural cantilever details, and environmental performance should be checked again before final publication."
+}
