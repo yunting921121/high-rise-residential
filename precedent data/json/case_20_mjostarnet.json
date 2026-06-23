@@ -1,0 +1,762 @@
+{
+  "id": "case_20_mjostarnet",
+  "project_name": "Mjøstårnet",
+  "english_name": "The Tower of Lake Mjøsa",
+  "architect": "Voll Arkitekter",
+  "structural_timber_supplier_contractor": "Moelven Limtre",
+  "developer_owner": "AB Invest",
+  "location": "Brumunddal, Norway",
+  "district": "Lake Mjøsa Waterfront / Brumunddal Town Center Edge",
+  "year": "2019",
+  "building_type": "mixed-use timber high-rise / residential, hotel, office, public bath",
+  "height": "85.4 m",
+  "floor_count": "18 storeys",
+  "tower_footprint": "approximately 17 m x 37.5 m",
+  "typical_floor_area": "approximately 640 m²",
+  "tower_program_area": "approximately 10500 m²",
+  "public_bath_area": "approximately 4900 m²",
+  "number_of_units": "approximately 33 apartments plus additional upper-level apartments depending on counting method",
+  "hotel_rooms": "approximately 72 hotel rooms",
+  "main_theme": [
+    "tall timber construction",
+    "glulam structure",
+    "CLT floor system",
+    "mixed-use vertical program",
+    "local timber industry",
+    "lakefront landmark",
+    "low-carbon high-rise prototype",
+    "public-private timber tower"
+  ],
+  "source_urls": [
+    "https://www.archdaily.com/934374/mjostarnet-the-tower-of-lake-mjosa-voll-arkitekter",
+    "https://vollark.no/portfolio_page/mjostarnet/"
+  ],
+  "data_sources": [
+    "source_text.md",
+    "01_site_context_analysis.md",
+    "02_drawings_preprocess.md",
+    "03_photos_renders_preprocess.md",
+    "exterior_photo.jpg",
+    "apartment_layout_plan.jpg",
+    "ground_floor_public_bath_plan.jpg"
+  ],
+  "Gene_A": {
+    "description": "Gene_A records the site conditions, urban context, environmental conditions, functional needs, and contextual reasoning of the precedent.",
+    "location": "Mjøstårnet is located in Brumunddal, Norway, near the shore of Lake Mjøsa.",
+    "urban_context": "The project stands in a relatively small town rather than a dense metropolitan high-rise district. Its height and timber structure make it a regional landmark and an international demonstration of tall wood construction.",
+    "site_conditions": "The site combines lakefront visibility, small-town scale, public recreation, mixed-use programming, and strong regional timber identity. The building is located beside Lake Mjøsa and is visually connected to surrounding hills, forests, and open landscape.",
+    "adjacent_uses": {
+      "lake_facing_side": "Lake Mjøsa, waterfront landscape, long views, open sky, and recreational setting.",
+      "town_facing_side": "Brumunddal urban fabric, roads, services, commercial uses, and local residential areas.",
+      "public_facility_side": "Public bath, hotel entrance, restaurant, and shared amenities connected to the tower base.",
+      "landscape_side": "Hills, forests, regional landscape, and the wider Mjøsa lake environment."
+    },
+    "surrounding_context": {
+      "lakefront_context": "The building benefits from open views over Lake Mjøsa and the surrounding landscape.",
+      "small_town_context": "Brumunddal's urban scale makes the tower highly visible and symbolic.",
+      "public_recreation_context": "The adjoining swimming hall and hotel-related programs make the building part of a public leisure environment.",
+      "timber_industry_context": "The project demonstrates the potential of engineered timber in a region closely associated with forest resources and timber production."
+    },
+    "climate_conditions": "Brumunddal has a cold northern climate with long winters, low winter sun angles, snow, wind, and strong seasonal variation. The building must respond through insulated envelopes, moisture protection, fire safety, acoustic detailing, wind protection, and cold-climate balcony design.",
+    "view_conditions": "Residential units, hotel rooms, and public upper levels gain views toward Lake Mjøsa, Brumunddal, surrounding hills, forests, and the wider Norwegian landscape.",
+    "functional_needs": "The project combines apartments, hotel, offices, restaurant, conference areas, public bath, swimming hall, viewing terrace, and technical spaces within one timber high-rise system.",
+    "density_or_height_condition": "The tower reaches 85.4 m and 18 storeys, making it significantly taller than its small-town context. Its verticality is justified through mixed-use programming, public amenities, and timber construction innovation.",
+    "target_users": "Residents, hotel guests, office users, restaurant visitors, public bath users, conference guests, and visitors using the public viewing terrace.",
+    "context_steps": [
+      {
+        "step": 1,
+        "subject": "tower",
+        "relation": "is located beside",
+        "object": "Lake Mjøsa"
+      },
+      {
+        "step": 2,
+        "subject": "building height",
+        "relation": "creates",
+        "object": "small-town landmark identity"
+      },
+      {
+        "step": 3,
+        "subject": "local timber industry",
+        "relation": "supports",
+        "object": "mass timber high-rise identity"
+      },
+      {
+        "step": 4,
+        "subject": "glulam frame",
+        "relation": "supports",
+        "object": "mixed-use tower"
+      },
+      {
+        "step": 5,
+        "subject": "CLT floors",
+        "relation": "form",
+        "object": "repeated residential and hotel levels"
+      },
+      {
+        "step": 6,
+        "subject": "public bath",
+        "relation": "anchors",
+        "object": "ground-level program"
+      },
+      {
+        "step": 7,
+        "subject": "upper residential floors",
+        "relation": "gain",
+        "object": "panoramic lake and landscape views"
+      },
+      {
+        "step": 8,
+        "subject": "timber crown",
+        "relation": "expresses",
+        "object": "structural identity"
+      }
+    ]
+  },
+  "Gene_B": {
+    "description": "Gene_B records the design issue, design concept, and overall design strategy.",
+    "issue": "Tall buildings usually rely on concrete and steel, increasing embodied carbon and often appearing disconnected from local material culture. In a small-town lakefront context, a high-rise must justify its height through public value, regional identity, mixed-use function, and environmental ambition.",
+    "concept": "Create a mixed-use timber high-rise that demonstrates the feasibility of glulam and CLT construction while becoming a lakefront landmark and regional symbol of low-carbon building culture.",
+    "strategy": "Use a glulam structural frame and CLT floor and wall systems to stack public bath, restaurant, offices, hotel, apartments, and viewing spaces. Connect the tower visually and materially to the Lake Mjøsa landscape and Norway's timber industry through exposed structure, timber facade, and public programs.",
+    "design_intentions": [
+      "Demonstrate the feasibility of tall timber construction.",
+      "Use local timber and engineered wood as structural identity.",
+      "Create a low-carbon alternative to conventional steel and concrete high-rises.",
+      "Stack public, hotel, office, and residential functions in one vertical structure.",
+      "Connect apartments and public spaces to Lake Mjøsa views.",
+      "Make the tower a civic and recreational landmark, not only a private residential building.",
+      "Express the timber structure through facade, crown, and material atmosphere.",
+      "Link small-town identity with international sustainable construction innovation."
+    ]
+  },
+  "Gene_C1": {
+    "description": "Gene_C1 records the architectural vocabulary extracted from site context, drawings, diagrams, photos, and renders.",
+    "vocabulary": [
+      "timber high-rise",
+      "mixed-use tower",
+      "rectangular tower volume",
+      "slender tower",
+      "lakefront landmark",
+      "timber crown",
+      "exposed timber frame",
+      "glulam tower frame",
+      "tower shaft",
+      "public base",
+      "swimming hall base",
+      "residential upper zone",
+      "hotel zone",
+      "office zone",
+      "public viewing level",
+      "apartment unit",
+      "living room",
+      "kitchen",
+      "dining area",
+      "bedroom",
+      "bathroom",
+      "balcony",
+      "perimeter window",
+      "lake-facing unit",
+      "corridor-facing entrance",
+      "upper residential floor",
+      "duplex apartment",
+      "top apartment",
+      "residential access",
+      "domestic room module",
+      "hotel room",
+      "hotel corridor",
+      "office floor",
+      "meeting room",
+      "conference room",
+      "restaurant",
+      "lobby",
+      "reception",
+      "public bath",
+      "swimming hall",
+      "25-meter pool",
+      "changing room",
+      "exhibition room",
+      "viewing terrace",
+      "public amenity area",
+      "elevator core",
+      "stair core",
+      "central corridor",
+      "vertical circulation",
+      "service shaft",
+      "fire stair",
+      "residential corridor",
+      "hotel corridor",
+      "public entrance",
+      "service entrance",
+      "technical room",
+      "mechanical space",
+      "glulam column",
+      "glulam beam",
+      "glulam truss",
+      "CLT floor slab",
+      "CLT wall panel",
+      "mass timber frame",
+      "timber bracing",
+      "timber facade cladding",
+      "engineered wood",
+      "local timber",
+      "prefabricated timber element",
+      "timber load-bearing system",
+      "concrete foundation",
+      "acoustic floor buildup",
+      "fire-protected timber structure",
+      "Lake Mjøsa",
+      "Brumunddal",
+      "Norwegian landscape",
+      "low-carbon construction",
+      "carbon storage",
+      "regional timber landmark"
+    ]
+  },
+  "Gene_C2": {
+    "description": "Gene_C2 records semantic spatial relationships and strategy candidates. Each relation follows the format: Subject → Relation (Relation Type) → Object.",
+    "semantic_relations": [
+      {
+        "id": "C2_01",
+        "subject": "glulam frame",
+        "relation": "supports",
+        "relation_type": "Structural Relation",
+        "object": "mixed-use tower",
+        "description": "The glulam structural frame carries the tower and allows timber to become the primary high-rise structural identity.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Demonstrate tall timber feasibility",
+            "strategy": "Use glulam columns, beams, and trusses as the primary structural frame for the tower.",
+            "reasoning": {
+              "premise": "High-rise buildings are typically associated with steel and concrete.",
+              "analysis": "Glulam can carry significant loads while reducing reliance on conventional high-carbon materials.",
+              "conclusion": "The tower becomes a proof of concept for tall timber construction."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Connect structure to local material culture",
+            "strategy": "Use engineered timber from the regional timber industry as the main structural language.",
+            "reasoning": {
+              "premise": "The region is closely associated with forestry and timber production.",
+              "analysis": "A glulam frame makes local material culture visible in the architecture.",
+              "conclusion": "The structure becomes a regional identity device."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create warm high-rise atmosphere",
+            "strategy": "Expose or express timber structure where possible to differentiate the tower from concrete and glass high-rises.",
+            "reasoning": {
+              "premise": "High-rises can feel cold and anonymous.",
+              "analysis": "Timber introduces warmth, texture, and a visible renewable material identity.",
+              "conclusion": "The tower gains a more human and landscape-related character."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_02",
+        "subject": "CLT floors",
+        "relation": "form",
+        "relation_type": "Material Relation",
+        "object": "repeated residential and hotel levels",
+        "description": "CLT floor systems create stacked levels for hotel rooms, apartments, and other functions.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create repeatable timber floor plates",
+            "strategy": "Use CLT floors to form repeated levels for hotel and residential programs.",
+            "reasoning": {
+              "premise": "Stacked residential and hotel floors require efficient repeated construction.",
+              "analysis": "CLT panels can be prefabricated and installed as modular floor systems.",
+              "conclusion": "The tower gains construction efficiency through timber repetition."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Reduce embodied carbon",
+            "strategy": "Use CLT floor panels instead of more carbon-intensive floor systems where feasible.",
+            "reasoning": {
+              "premise": "Floor systems represent a significant part of building material volume.",
+              "analysis": "CLT stores carbon and can reduce embodied carbon compared with conventional systems.",
+              "conclusion": "The tower reinforces its low-carbon identity."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Coordinate structure and program",
+            "strategy": "Use CLT floors to support the regular room layouts of hotel rooms and apartments.",
+            "reasoning": {
+              "premise": "Residential and hotel programs benefit from repeated structural bays.",
+              "analysis": "CLT floor plates align well with modular room layouts.",
+              "conclusion": "The material system supports the mixed-use planning logic."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_03",
+        "subject": "central corridor",
+        "relation": "organizes",
+        "relation_type": "Circulation Relation",
+        "object": "apartment units",
+        "description": "The apartment floor is organized around a central corridor, with units arranged along the perimeter.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create efficient residential access",
+            "strategy": "Use a central corridor to serve multiple apartments along both long facades.",
+            "reasoning": {
+              "premise": "The tower has a long rectangular residential floor plate.",
+              "analysis": "A central corridor efficiently distributes access to perimeter units.",
+              "conclusion": "The residential plan remains compact and legible."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Maximize perimeter rooms",
+            "strategy": "Place apartments on both sides of the corridor so living rooms and bedrooms can reach exterior walls.",
+            "reasoning": {
+              "premise": "Residential rooms need daylight and views.",
+              "analysis": "Perimeter placement gives units access to windows and balconies.",
+              "conclusion": "Apartments gain better environmental quality."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Support repeated timber construction",
+            "strategy": "Align the corridor and apartment modules with the glulam and CLT structural grid.",
+            "reasoning": {
+              "premise": "Mass timber construction benefits from regular planning modules.",
+              "analysis": "A central corridor with repeated units matches a modular structural rhythm.",
+              "conclusion": "Planning efficiency and structural logic reinforce each other."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_04",
+        "subject": "apartment units",
+        "relation": "face",
+        "relation_type": "Perceptual Relation",
+        "object": "lake and landscape views",
+        "description": "Perimeter apartment rooms and balconies connect residents to Lake Mjøsa and surrounding landscape.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Use lakefront location as residential value",
+            "strategy": "Orient apartments toward Lake Mjøsa and the surrounding landscape where possible.",
+            "reasoning": {
+              "premise": "The tower is located near a major lake landscape.",
+              "analysis": "Views toward the lake are one of the strongest residential qualities of the site.",
+              "conclusion": "Apartment layouts turn the landscape into daily domestic experience."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Connect high-rise living to nature",
+            "strategy": "Use large windows and balconies to visually and physically connect apartments with the lakefront setting.",
+            "reasoning": {
+              "premise": "Tall buildings can feel detached from their surroundings.",
+              "analysis": "Perimeter openings and balconies reconnect homes to landscape.",
+              "conclusion": "The tower becomes a lake-oriented residential building."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Differentiate the tower from urban high-rises",
+            "strategy": "Frame regional landscape views rather than only city views.",
+            "reasoning": {
+              "premise": "The project is located in a small-town and natural landscape context.",
+              "analysis": "Lake and forest views make the residential experience distinct from metropolitan towers.",
+              "conclusion": "The building's identity is grounded in place."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_05",
+        "subject": "balconies",
+        "relation": "extend",
+        "relation_type": "Spatial Relation",
+        "object": "residential units",
+        "description": "Balconies provide private outdoor space and enhance the relationship between apartments and lake views.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Provide private outdoor space",
+            "strategy": "Attach balconies to selected apartment units to create exterior living thresholds.",
+            "reasoning": {
+              "premise": "High-rise apartments benefit from access to outdoor space.",
+              "analysis": "Balconies allow residents to step outside and experience air, light, and view.",
+              "conclusion": "Residential quality improves through private exterior space."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Frame lake views",
+            "strategy": "Use balconies as viewing platforms toward Lake Mjøsa.",
+            "reasoning": {
+              "premise": "The lakefront view is a major asset.",
+              "analysis": "Balconies make the view inhabitable rather than only visual.",
+              "conclusion": "The apartment gains a stronger landscape relationship."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Adapt outdoor living to northern climate",
+            "strategy": "Design balconies as seasonal outdoor spaces that can be used when climate permits.",
+            "reasoning": {
+              "premise": "Brumunddal has cold winters and strong seasonal change.",
+              "analysis": "Balconies may be used differently across seasons.",
+              "conclusion": "The balcony functions as a flexible outdoor threshold rather than a year-round room."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_06",
+        "subject": "public bath",
+        "relation": "anchors",
+        "relation_type": "Functional Relation",
+        "object": "ground-level program",
+        "description": "The large public bath gives the building a civic and recreational base.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create public value at the base",
+            "strategy": "Integrate a public bath and swimming hall with the tower's lower levels.",
+            "reasoning": {
+              "premise": "A tall building in a small town should contribute to public life.",
+              "analysis": "A public bath attracts residents and visitors beyond tower occupants.",
+              "conclusion": "The building becomes a civic facility, not only a private tower."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Connect tower to recreation",
+            "strategy": "Use the swimming hall as a public recreational program connected to the lakefront setting.",
+            "reasoning": {
+              "premise": "The site has a strong relationship to water and landscape.",
+              "analysis": "A public bath reinforces this recreational identity.",
+              "conclusion": "The base program connects the tower to local leisure culture."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Support mixed-use viability",
+            "strategy": "Combine residential and hotel functions with a strong public amenity.",
+            "reasoning": {
+              "premise": "Mixed-use towers benefit from multiple user groups.",
+              "analysis": "The public bath creates daily activity and broader use.",
+              "conclusion": "The tower becomes more active and socially relevant."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_07",
+        "subject": "hotel and offices",
+        "relation": "occupy",
+        "relation_type": "Functional Relation",
+        "object": "middle program zones",
+        "description": "Hotel and office functions create a mixed-use vertical sequence between the public base and residential upper levels.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create a vertical mixed-use stack",
+            "strategy": "Place offices and hotel functions between the public base and residential upper floors.",
+            "reasoning": {
+              "premise": "The tower contains several different program types.",
+              "analysis": "A vertical stack can organize these programs by privacy and access needs.",
+              "conclusion": "The building functions as a compact mixed-use system."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Increase daily activity",
+            "strategy": "Use hotel and office programs to create occupation beyond residents and bath visitors.",
+            "reasoning": {
+              "premise": "A landmark tower should support multiple rhythms of use.",
+              "analysis": "Hotel guests and office workers activate the building during different times.",
+              "conclusion": "The tower becomes more active throughout the day."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Use structure across varied programs",
+            "strategy": "Apply the glulam and CLT system to offices, hotel rooms, and apartments.",
+            "reasoning": {
+              "premise": "A timber high-rise must demonstrate flexibility across programs.",
+              "analysis": "The same structural system can support different floor layouts.",
+              "conclusion": "The project proves mass timber's mixed-use capacity."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_08",
+        "subject": "upper residential floors",
+        "relation": "gain",
+        "relation_type": "Vertical Relation",
+        "object": "panoramic views",
+        "description": "Apartments on upper levels benefit from height, lake views, and landscape exposure.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Use height for residential quality",
+            "strategy": "Place apartments in the upper levels where views are strongest.",
+            "reasoning": {
+              "premise": "Upper floors provide wider views and more privacy.",
+              "analysis": "Residential units can benefit from the tower's vertical position.",
+              "conclusion": "The upper zone becomes the premium residential part of the building."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Connect homes to regional landscape",
+            "strategy": "Use upper-level apartments to frame views over Lake Mjøsa and surrounding hills.",
+            "reasoning": {
+              "premise": "The site is defined by lake and forest landscape.",
+              "analysis": "Height expands the visual relationship with this setting.",
+              "conclusion": "Residents experience the tower as a landscape observatory."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create vertical program hierarchy",
+            "strategy": "Place public and hotel functions below, with residences above.",
+            "reasoning": {
+              "premise": "Different programs have different privacy and view needs.",
+              "analysis": "Residences benefit most from upper-level privacy and long views.",
+              "conclusion": "The vertical stack supports both function and experience."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_09",
+        "subject": "public viewing terrace",
+        "relation": "shares",
+        "relation_type": "Urban Relation",
+        "object": "tower height",
+        "description": "The upper-level viewing terrace allows non-residents to experience the height and view of the timber tower.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Make the tower publicly accessible",
+            "strategy": "Provide a public viewing terrace or upper-level viewing space.",
+            "reasoning": {
+              "premise": "The tower is a regional landmark.",
+              "analysis": "Public access allows the wider community to experience its height.",
+              "conclusion": "The building becomes a civic destination."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Share lake and landscape views",
+            "strategy": "Use an elevated public viewpoint to give visitors access to Lake Mjøsa views.",
+            "reasoning": {
+              "premise": "The tower's height creates valuable panoramic views.",
+              "analysis": "A public viewing area prevents these views from being entirely private.",
+              "conclusion": "Height becomes a shared public resource."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Strengthen local identity",
+            "strategy": "Use the viewing terrace as a place where residents and visitors can see Brumunddal and the lake from above.",
+            "reasoning": {
+              "premise": "Landmark buildings can reinforce local identity.",
+              "analysis": "Viewing spaces connect people visually to the town and landscape.",
+              "conclusion": "The tower becomes part of community self-image."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_10",
+        "subject": "timber crown",
+        "relation": "expresses",
+        "relation_type": "Material Relation",
+        "object": "structural identity",
+        "description": "The exposed timber frame at the top makes the structural system visible as architectural expression.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Make timber structure visible",
+            "strategy": "Expose the timber frame at the crown to reveal the building's structural system.",
+            "reasoning": {
+              "premise": "The project's key innovation is its timber structure.",
+              "analysis": "Visible timber makes that innovation legible.",
+              "conclusion": "The crown becomes an architectural declaration of mass timber construction."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create a distinctive silhouette",
+            "strategy": "Use the exposed crown structure to shape the tower top.",
+            "reasoning": {
+              "premise": "The tower is visible from the lake and town.",
+              "analysis": "A strong crown gives the building a recognizable profile.",
+              "conclusion": "The tower gains skyline identity."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Connect construction and image",
+            "strategy": "Allow the structural frame to become part of the tower's visual expression.",
+            "reasoning": {
+              "premise": "Sustainable material strategies are more powerful when visible.",
+              "analysis": "The timber crown shows how the building is made.",
+              "conclusion": "The image and construction logic reinforce each other."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_11",
+        "subject": "local timber",
+        "relation": "connects to",
+        "relation_type": "Contextual Relation",
+        "object": "regional material culture",
+        "description": "The use of engineered wood connects the tower to Norway's forestry and timber production context.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Use local material identity",
+            "strategy": "Base the tower's structural and visual identity on engineered timber.",
+            "reasoning": {
+              "premise": "Norway has strong forestry and timber construction traditions.",
+              "analysis": "Using timber connects the building to local resources.",
+              "conclusion": "The tower becomes a regional material landmark."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Promote sustainable industry",
+            "strategy": "Demonstrate the value of timber manufacturing in high-rise construction.",
+            "reasoning": {
+              "premise": "Local timber industries can contribute to low-carbon building innovation.",
+              "analysis": "A tall timber tower showcases industrial capability.",
+              "conclusion": "The project strengthens the link between architecture and regional economy."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Ground global innovation in place",
+            "strategy": "Use an internationally significant tall timber prototype in a local lakefront town.",
+            "reasoning": {
+              "premise": "Tall timber construction is a global topic.",
+              "analysis": "Using it in Brumunddal connects global innovation with local identity.",
+              "conclusion": "The tower is both international prototype and local symbol."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_12",
+        "subject": "mixed-use stack",
+        "relation": "combines",
+        "relation_type": "Functional Relation",
+        "object": "private and public programs",
+        "description": "The building combines apartments, hotel, offices, restaurant, conference, public bath, and viewing areas in one vertical structure.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create a civic high-rise",
+            "strategy": "Combine private housing with public and semi-public programs such as hotel, bath, restaurant, and viewing terrace.",
+            "reasoning": {
+              "premise": "A landmark in a small town should offer public value.",
+              "analysis": "Mixed-use programming opens the building to many users.",
+              "conclusion": "The tower becomes part of civic life."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Support economic and functional viability",
+            "strategy": "Stack complementary programs to create a more active and viable building.",
+            "reasoning": {
+              "premise": "A tall tower in a small town needs multiple uses to sustain activity.",
+              "analysis": "Hotel, office, public bath, and residential uses generate different user flows.",
+              "conclusion": "The tower remains active across the day and week."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Demonstrate timber flexibility",
+            "strategy": "Use the mass timber structure to support several different program types.",
+            "reasoning": {
+              "premise": "A timber high-rise prototype should prove more than one use case.",
+              "analysis": "Mixed-use stacking shows that timber can support varied spatial demands.",
+              "conclusion": "The project expands the perceived capability of mass timber construction."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "Gene_D": {
+    "description": "Gene_D records possible resident behavior, media feedback, and design reflection. Some items are inferred from spatial configuration and should be verified with additional sources if needed.",
+    "resident_behavior": "Residents are likely to experience the building as a lakefront timber tower with compact apartments, balconies, and views toward Lake Mjøsa. Visitors may experience the building through the public bath, hotel, restaurant, conference areas, and viewing terrace. This is an interpretation based on the drawings and exterior image.",
+    "media_feedback": "Mjøstårnet is widely discussed as a landmark in tall timber construction because of its 18-storey glulam and CLT structure, mixed-use program, lakefront setting, and role as a low-carbon high-rise prototype.",
+    "designer_reflection": "The project demonstrates that engineered timber can support a mixed-use high-rise containing residential, hotel, office, public bath, and public viewing functions. Its key contribution is the combination of structural timber innovation, regional material identity, and civic mixed-use programming.",
+    "limitations_or_notes": [
+      "Tall timber buildings require rigorous fire safety, acoustic, moisture, vibration, and structural stability strategies.",
+      "The success of the timber facade and exposed structure depends on cold-climate detailing and long-term maintenance.",
+      "The tower's landmark quality is specific to a small-town lakefront context and may read differently in a dense metropolitan skyline.",
+      "Exact apartment count and program distribution should be verified with official documents before final publication."
+    ]
+  },
+  "case_summary": {
+    "one_sentence_summary": "Mjøstårnet is an 18-storey mixed-use timber high-rise that uses a glulam and CLT structure to combine apartments, hotel, offices, restaurant, public bath, and viewing spaces beside Lake Mjøsa.",
+    "key_design_problem": "How can a small-town lakefront building use high-rise density while remaining connected to local timber culture, public life, low-carbon construction, and regional landscape identity?",
+    "key_design_solution": "Use a glulam frame and CLT floor system to stack mixed-use programs vertically, orient upper residences toward lake views, anchor the base with public bath and amenities, and express the timber structure as a regional landmark.",
+    "transferable_strategies_for_highrise_housing": [
+      "Use glulam as the main structural frame for tall timber buildings.",
+      "Use CLT floors and walls for repeated residential and hotel levels.",
+      "Stack public, hotel, office, and residential programs vertically.",
+      "Use balconies and windows to connect residences to lake or landscape views.",
+      "Anchor the base with public programs to create civic value.",
+      "Share tower height through a public viewing terrace.",
+      "Express timber structure at the crown as architectural identity.",
+      "Connect material choice to local industry and low-carbon construction narratives."
+    ]
+  },
+  "keywords": [
+    "Mjøstårnet",
+    "The Tower of Lake Mjøsa",
+    "Voll Arkitekter",
+    "Moelven Limtre",
+    "Brumunddal",
+    "Norway",
+    "Lake Mjøsa",
+    "timber high-rise",
+    "mass timber",
+    "glulam",
+    "CLT",
+    "glulam frame",
+    "CLT floor",
+    "CLT wall",
+    "mixed-use tower",
+    "public bath",
+    "swimming hall",
+    "hotel",
+    "office",
+    "restaurant",
+    "apartment",
+    "residential balcony",
+    "viewing terrace",
+    "lakefront landmark",
+    "local timber",
+    "low-carbon construction",
+    "carbon storage",
+    "regional material culture",
+    "structural timber prototype",
+    "exposed timber crown"
+  ],
+  "status": "preliminary_json_v1",
+  "created_for": "High-Rise Residential Precedent Knowledge Base",
+  "notes": "This JSON is based on manually prepared preprocess files for site context, drawings, photos, and renders. It is ready to be included as Case 20 in the precedent database. Exact apartment count, fire strategy, structural detailing, acoustic performance, and program distribution should be checked again before final publication."
+}
