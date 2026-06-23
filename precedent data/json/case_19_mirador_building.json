@@ -1,0 +1,750 @@
+{
+  "id": "case_19_mirador_building",
+  "project_name": "Mirador Building",
+  "spanish_name": "Edificio Mirador",
+  "architects": [
+    "MVRDV",
+    "Blanca Lleó Asociados"
+  ],
+  "client": "EMV - Empresa Municipal de Vivienda de Madrid",
+  "location": "Sanchinarro, Madrid, Spain",
+  "district": "Sanchinarro / Valdefuentes / Hortaleza",
+  "address_reference": "Calle Princesa de Éboli 13-21, Madrid",
+  "year": "2005",
+  "building_type": "social housing / collective housing / vertical neighbourhood tower",
+  "height": "approximately 63.4 m",
+  "floor_count": "21 storeys",
+  "number_of_units": "approximately 155-156 apartments depending on source",
+  "area": "approximately 18300 m²",
+  "main_theme": [
+    "vertical neighbourhood",
+    "lifted courtyard",
+    "sky plaza",
+    "social housing variation",
+    "urban landmark",
+    "anti-uniform housing block",
+    "large central void"
+  ],
+  "source_urls": [
+    "https://arquitecturaviva.com/works/edificio-mirador-madrid-10",
+    "https://www.mvrdv.com/projects/135/mirador"
+  ],
+  "data_sources": [
+    "source_text.md",
+    "01_site_context_analysis.md",
+    "02_drawings_preprocess.md",
+    "03_photos_renders_preprocess.md",
+    "site_plan.jpg",
+    "multi_level_floor_plan.jpg",
+    "exterior_photo.jpg"
+  ],
+  "Gene_A": {
+    "description": "Gene_A records the site conditions, urban context, environmental conditions, functional needs, and contextual reasoning of the precedent.",
+    "location": "Mirador Building is located in Sanchinarro, a new residential district in the north of Madrid.",
+    "urban_context": "The project is located in a peripheral residential expansion district characterized by large housing blocks, wide roads, open plots, and repetitive residential fabric. It responds to this context by transforming the conventional housing block into a vertical neighbourhood with a lifted communal courtyard.",
+    "site_conditions": "The building stands as a compact vertical object within a planned district of repeated residential blocks. Instead of completing a conventional perimeter block at ground level, it concentrates density upward and creates a large semi-public void approximately 40 m above ground.",
+    "adjacent_uses": {
+      "north": "Residential blocks, wide urban roads, Sanchinarro housing fabric, and new urban development parcels.",
+      "east": "Large road infrastructure, open plots, residential blocks, and district-scale circulation.",
+      "south": "Residential buildings, neighborhood streets, and public open spaces.",
+      "west": "Surrounding housing blocks, local roads, and access toward other parts of Hortaleza."
+    },
+    "surrounding_context": {
+      "residential_expansion_context": "Sanchinarro was developed as a new residential district with large housing blocks and wide urban infrastructure.",
+      "uniform_block_context": "The surrounding area is characterized by repeated closed blocks and standardized housing production.",
+      "public_space_context": "The district lacks the intimacy and diversity of older urban neighborhoods, so Mirador introduces an elevated communal space.",
+      "landscape_view_context": "The large void frames views toward Madrid and the Guadarrama Mountains."
+    },
+    "climate_conditions": "Madrid has a continental Mediterranean climate with hot summers, cold winters, strong sunlight, and dry conditions. Mirador responds through a large elevated void, varied facade orientations, and a semi-public sky plaza that introduces air, light, and communal outdoor space into the tower.",
+    "view_conditions": "The large central void frames views toward the Guadarrama Mountains and Madrid's northern expansion. The sky plaza turns view into a shared amenity rather than reserving it only for private apartments.",
+    "functional_needs": "The project provides social housing units with varied layouts, circulation cores, shared corridors, a semi-public sky plaza, communal garden space, and differentiated facade identities for multiple housing groups.",
+    "density_or_height_condition": "The building uses a 21-storey vertical block to provide social housing density in a peripheral district. Instead of a conventional courtyard block, the courtyard is lifted into the air as a large void and communal lookout.",
+    "target_residents": "Social housing residents in Madrid who need affordable housing, access to light and air, communal space, varied housing types, and a stronger collective identity than standardized blocks typically provide.",
+    "context_steps": [
+      {
+        "step": 1,
+        "subject": "housing district",
+        "relation": "is characterized by",
+        "object": "repetitive residential blocks"
+      },
+      {
+        "step": 2,
+        "subject": "project",
+        "relation": "responds to",
+        "object": "peripheral housing monotony"
+      },
+      {
+        "step": 3,
+        "subject": "housing block",
+        "relation": "is transformed into",
+        "object": "vertical neighbourhood"
+      },
+      {
+        "step": 4,
+        "subject": "sky plaza",
+        "relation": "replaces",
+        "object": "ground courtyard"
+      },
+      {
+        "step": 5,
+        "subject": "central void",
+        "relation": "frames",
+        "object": "Guadarrama view"
+      },
+      {
+        "step": 6,
+        "subject": "mini neighbourhoods",
+        "relation": "create",
+        "object": "housing diversity"
+      },
+      {
+        "step": 7,
+        "subject": "red circulation",
+        "relation": "marks",
+        "object": "vertical itinerary"
+      },
+      {
+        "step": 8,
+        "subject": "facade materials",
+        "relation": "differentiate",
+        "object": "neighbourhood groups"
+      }
+    ]
+  },
+  "Gene_B": {
+    "description": "Gene_B records the design issue, design concept, and overall design strategy.",
+    "issue": "Peripheral social housing districts can become monotonous and repetitive when they rely on standardized closed blocks and identical unit types. These districts often lack strong collective identity, spatial diversity, and memorable communal spaces.",
+    "concept": "Transform the conventional horizontal housing block into a vertical neighbourhood by stacking multiple mini-neighbourhoods around a large lifted courtyard or sky plaza.",
+    "strategy": "Stack different housing groups vertically, carve a large central void approximately 40 m above ground, use the void as a semi-public sky plaza and lookout, connect the tower with red circulation routes, and differentiate housing groups through facade materials, colors, and unit variations.",
+    "design_intentions": [
+      "Challenge the repetitive housing block typology of Sanchinarro.",
+      "Lift the courtyard into the air as a shared sky plaza.",
+      "Create a vertical neighbourhood rather than a standard social housing slab.",
+      "Use a large void to frame landscape views and create collective identity.",
+      "Differentiate housing groups through materials, colors, window patterns, and circulation paths.",
+      "Make social housing visible as an urban landmark.",
+      "Provide diversity and social identity within a single collective housing tower."
+    ]
+  },
+  "Gene_C1": {
+    "description": "Gene_C1 records the architectural vocabulary extracted from site context, drawings, diagrams, photos, and renders.",
+    "vocabulary": [
+      "vertical neighbourhood",
+      "towering superblock",
+      "stacked housing blocks",
+      "mini neighbourhoods",
+      "housing cluster",
+      "large central void",
+      "sky plaza",
+      "lifted courtyard",
+      "lookout space",
+      "vertical block",
+      "urban landmark",
+      "social housing tower",
+      "perforated mass",
+      "block fragment",
+      "vertical frame",
+      "apartment unit",
+      "housing type",
+      "compact unit",
+      "flexible layout",
+      "living room",
+      "bedroom",
+      "kitchen",
+      "bathroom",
+      "unit entrance",
+      "balcony",
+      "window module",
+      "social housing unit",
+      "perimeter apartment",
+      "double-orientation unit",
+      "unit group",
+      "elevator core",
+      "stair core",
+      "shared corridor",
+      "vertical alley",
+      "red circulation core",
+      "sinuous itinerary",
+      "access zone",
+      "lift connection",
+      "public route",
+      "service shaft",
+      "residential landing",
+      "vertical circulation",
+      "horizontal corridor",
+      "community access",
+      "semi-public sky plaza",
+      "community garden",
+      "elevated lookout",
+      "shared open space",
+      "collective terrace",
+      "public platform",
+      "neighbourhood space",
+      "social gathering area",
+      "outdoor communal room",
+      "plaza connection",
+      "viewpoint",
+      "differentiated facade",
+      "material patchwork",
+      "color-coded housing group",
+      "stone slab facade",
+      "mosaic tile facade",
+      "cement panel facade",
+      "gray facade field",
+      "black facade field",
+      "white facade field",
+      "red circulation facade",
+      "window pattern",
+      "facade identity",
+      "block expression",
+      "Sanchinarro",
+      "Valdefuentes",
+      "Hortaleza",
+      "Guadarrama Mountains",
+      "Madrid peripheral housing district"
+    ]
+  },
+  "Gene_C2": {
+    "description": "Gene_C2 records semantic spatial relationships and strategy candidates. Each relation follows the format: Subject → Relation (Relation Type) → Object.",
+    "semantic_relations": [
+      {
+        "id": "C2_01",
+        "subject": "housing blocks",
+        "relation": "stack into",
+        "relation_type": "Typological Relation",
+        "object": "vertical neighbourhood",
+        "description": "Different housing groups are stacked together to create a vertical community.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Challenge standard housing repetition",
+            "strategy": "Stack multiple housing groups vertically instead of repeating one uniform housing block.",
+            "reasoning": {
+              "premise": "Peripheral housing districts often use repetitive block types.",
+              "analysis": "Stacking different housing groups creates spatial and social variety.",
+              "conclusion": "The building becomes a vertical neighbourhood instead of a standardized slab."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create social identity within density",
+            "strategy": "Treat each group of dwellings as a mini neighbourhood with its own facade and layout identity.",
+            "reasoning": {
+              "premise": "Large social housing buildings can feel anonymous.",
+              "analysis": "Smaller recognizable groups make the building more legible and communal.",
+              "conclusion": "Residents can identify with a specific part of the tower."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Turn housing into urban form",
+            "strategy": "Use stacked blocks to create a large vertical urban object with collective space.",
+            "reasoning": {
+              "premise": "The project aims to critique the surrounding housing fabric.",
+              "analysis": "A vertical superblock creates a strong alternative to horizontal repetition.",
+              "conclusion": "Social housing gains a new urban presence."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_02",
+        "subject": "sky plaza",
+        "relation": "replaces",
+        "relation_type": "Spatial Relation",
+        "object": "ground courtyard",
+        "description": "The traditional courtyard is lifted into the air and transformed into an elevated communal lookout.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Reinvent the courtyard block",
+            "strategy": "Lift the courtyard from ground level to an elevated void within the tower.",
+            "reasoning": {
+              "premise": "The surrounding district uses conventional courtyard or block housing.",
+              "analysis": "Lifting the courtyard creates a new collective spatial type.",
+              "conclusion": "The project transforms the block into a vertical urban device."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create memorable communal space",
+            "strategy": "Use the sky plaza as the primary shared outdoor room of the building.",
+            "reasoning": {
+              "premise": "Social housing requires shared spaces that support community life.",
+              "analysis": "An elevated plaza creates a strong and memorable communal center.",
+              "conclusion": "The sky plaza becomes the social heart of the tower."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Use height as collective value",
+            "strategy": "Place communal space at height so residents share views and exposure to sky.",
+            "reasoning": {
+              "premise": "Tall buildings often reserve views for private units.",
+              "analysis": "A sky plaza gives residents a shared elevated experience.",
+              "conclusion": "Height becomes a collective amenity."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_03",
+        "subject": "central void",
+        "relation": "frames",
+        "relation_type": "Perceptual Relation",
+        "object": "Guadarrama view",
+        "description": "The large opening in the building frames distant views toward the mountains.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Transform view into shared amenity",
+            "strategy": "Use the large void to frame distant mountain views for the collective sky plaza.",
+            "reasoning": {
+              "premise": "The site has potential views toward the Guadarrama Mountains.",
+              "analysis": "A large opening turns this view into a shared communal experience.",
+              "conclusion": "The tower gives social housing residents access to a symbolic landscape view."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Make the building visually iconic",
+            "strategy": "Use the void as the most recognizable feature of the tower.",
+            "reasoning": {
+              "premise": "Sanchinarro lacks strong visual landmarks.",
+              "analysis": "A large central void makes the tower instantly identifiable.",
+              "conclusion": "The building becomes an urban marker."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Bring air and light into the mass",
+            "strategy": "Carve a large open space through the housing block.",
+            "reasoning": {
+              "premise": "A solid vertical block could become heavy and enclosed.",
+              "analysis": "The void introduces air, light, and openness.",
+              "conclusion": "The tower becomes more porous and inhabitable."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_04",
+        "subject": "mini neighbourhoods",
+        "relation": "create",
+        "relation_type": "Social Relation",
+        "object": "housing diversity",
+        "description": "The building is divided into smaller residential groups with varied unit types and identities.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Avoid social housing standardization",
+            "strategy": "Divide the tower into several mini neighbourhoods with different housing types and identities.",
+            "reasoning": {
+              "premise": "Social housing is often criticized for standardization.",
+              "analysis": "Mini neighbourhoods introduce difference within one collective building.",
+              "conclusion": "The project supports social and spatial diversity."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Support different household types",
+            "strategy": "Use varied unit types and layouts within the stacked housing groups.",
+            "reasoning": {
+              "premise": "Residents have different household sizes and lifestyles.",
+              "analysis": "Unit diversity helps accommodate a broader population.",
+              "conclusion": "The building becomes more socially inclusive."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create recognizable residential identities",
+            "strategy": "Assign different facade materials and window patterns to different housing groups.",
+            "reasoning": {
+              "premise": "Residents benefit from belonging to identifiable parts of a large building.",
+              "analysis": "Facade differentiation makes groups visible from outside.",
+              "conclusion": "The building reads as a collection of communities."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_05",
+        "subject": "circulation cores",
+        "relation": "connect",
+        "relation_type": "Circulation Relation",
+        "object": "housing groups",
+        "description": "Elevators, stairs, corridors, and red circulation paths connect the stacked housing groups.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Connect vertical neighbourhoods",
+            "strategy": "Use multiple cores, stairs, and corridors to link housing groups and the sky plaza.",
+            "reasoning": {
+              "premise": "The building contains several stacked residential groups.",
+              "analysis": "Circulation must connect them while maintaining legibility.",
+              "conclusion": "The tower operates as a connected vertical community."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create an urban route inside the building",
+            "strategy": "Design circulation as vertical alleys and itineraries rather than purely functional corridors.",
+            "reasoning": {
+              "premise": "The concept is a vertical neighbourhood.",
+              "analysis": "Neighbourhoods require streets, routes, and social thresholds.",
+              "conclusion": "Circulation becomes part of the urban concept."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Link ground and sky plaza",
+            "strategy": "Use lift and stair systems to connect street level directly to the elevated communal space.",
+            "reasoning": {
+              "premise": "The sky plaza is the primary collective space.",
+              "analysis": "It must be accessible from both residences and ground level.",
+              "conclusion": "Circulation makes the lifted courtyard usable."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_06",
+        "subject": "red circulation",
+        "relation": "marks",
+        "relation_type": "Perceptual Relation",
+        "object": "vertical itinerary",
+        "description": "The red internal routes make movement through the building visible and memorable.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Make circulation legible",
+            "strategy": "Use red color to highlight circulation shafts, stairs, and vertical routes.",
+            "reasoning": {
+              "premise": "The building contains a complex vertical organization.",
+              "analysis": "Color-coded circulation helps residents understand movement paths.",
+              "conclusion": "The building becomes easier to navigate."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create identity through movement",
+            "strategy": "Make the routes between housing groups visible on the facade.",
+            "reasoning": {
+              "premise": "Movement is central to the idea of vertical neighbourhood.",
+              "analysis": "Visible circulation turns movement into architectural expression.",
+              "conclusion": "The tower shows its social organization."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Break facade monotony",
+            "strategy": "Use red circulation zones as strong visual accents within the facade patchwork.",
+            "reasoning": {
+              "premise": "Large housing facades can become monotonous.",
+              "analysis": "Red vertical elements create contrast and hierarchy.",
+              "conclusion": "The facade becomes more dynamic and readable."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_07",
+        "subject": "facade materials",
+        "relation": "differentiate",
+        "relation_type": "Material Relation",
+        "object": "neighbourhood groups",
+        "description": "Different colors, materials, and window patterns identify different parts of the housing block.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Express housing diversity",
+            "strategy": "Use different facade materials to represent different mini neighbourhoods.",
+            "reasoning": {
+              "premise": "The building is composed of multiple housing groups.",
+              "analysis": "Material variation makes this organization visible.",
+              "conclusion": "The facade becomes a map of the building's social structure."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Avoid uniform social housing image",
+            "strategy": "Break the exterior into patchwork facade fields instead of using one uniform treatment.",
+            "reasoning": {
+              "premise": "Standard social housing often looks repetitive.",
+              "analysis": "Facade variation creates a more diverse and urban image.",
+              "conclusion": "The tower challenges the visual monotony of public housing."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create scale within a large tower",
+            "strategy": "Use material fields to break the mass into smaller readable parts.",
+            "reasoning": {
+              "premise": "The tower is large and monumental.",
+              "analysis": "Material differentiation reduces the perceived scale.",
+              "conclusion": "The building becomes more human-scaled and legible."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_08",
+        "subject": "apartments",
+        "relation": "occupy",
+        "relation_type": "Spatial Relation",
+        "object": "perimeter blocks",
+        "description": "Housing units occupy the perimeter of each block, gaining light, air, and views.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Provide daylight and ventilation",
+            "strategy": "Place apartments along the perimeter of the housing groups.",
+            "reasoning": {
+              "premise": "Good housing requires access to daylight and air.",
+              "analysis": "Perimeter placement gives units exterior exposure.",
+              "conclusion": "The apartments gain basic environmental quality."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create varied orientations",
+            "strategy": "Use the stacked block arrangement to give units different orientations and views.",
+            "reasoning": {
+              "premise": "The tower contains multiple blocks and facade faces.",
+              "analysis": "Different orientations create varied dwelling conditions.",
+              "conclusion": "The project avoids identical housing experiences."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Support double-orientation housing",
+            "strategy": "Arrange some units so they can benefit from multiple exposures.",
+            "reasoning": {
+              "premise": "Social housing benefits from cross-light and ventilation where possible.",
+              "analysis": "Perimeter and block geometry can support dual-aspect apartments.",
+              "conclusion": "The building improves comfort and housing quality."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_09",
+        "subject": "sky plaza",
+        "relation": "provides",
+        "relation_type": "Functional Relation",
+        "object": "community garden",
+        "description": "The elevated void provides residents with an outdoor social and garden space.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create collective space in the tower",
+            "strategy": "Use the sky plaza as a shared garden and outdoor communal room.",
+            "reasoning": {
+              "premise": "Collective housing needs shared spaces that foster community.",
+              "analysis": "An elevated garden provides a distinctive social setting.",
+              "conclusion": "The tower gains a shared neighborhood space."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Provide open space despite compact footprint",
+            "strategy": "Locate communal open space within the building mass rather than only at ground level.",
+            "reasoning": {
+              "premise": "Urban housing sites often have limited ground space.",
+              "analysis": "A sky plaza adds communal area within the vertical section.",
+              "conclusion": "The building multiplies collective space."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Make view a communal experience",
+            "strategy": "Use the community garden as a lookout toward the mountains and city.",
+            "reasoning": {
+              "premise": "The void frames a valuable distant landscape.",
+              "analysis": "Residents can experience this view collectively.",
+              "conclusion": "The sky plaza becomes both garden and lookout."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_10",
+        "subject": "lift connection",
+        "relation": "links",
+        "relation_type": "Circulation Relation",
+        "object": "ground plaza and sky plaza",
+        "description": "A direct lift connection allows residents and visitors to access the elevated communal space.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Make elevated public space accessible",
+            "strategy": "Use elevators to connect the ground level with the sky plaza.",
+            "reasoning": {
+              "premise": "A lifted courtyard can become isolated if access is difficult.",
+              "analysis": "Lift access makes the sky plaza reachable for residents.",
+              "conclusion": "The elevated communal space becomes functional."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Connect vertical and urban circulation",
+            "strategy": "Treat the lift as a vertical street connecting ground and sky.",
+            "reasoning": {
+              "premise": "The building is conceived as a vertical neighbourhood.",
+              "analysis": "A lift can perform the role of urban infrastructure within the building.",
+              "conclusion": "Vertical circulation supports the urban concept."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Strengthen community use",
+            "strategy": "Place circulation so the sky plaza is integrated into daily movement.",
+            "reasoning": {
+              "premise": "Shared spaces are more successful when they are easy to access.",
+              "analysis": "Direct lift links encourage regular use.",
+              "conclusion": "The community garden becomes part of everyday residential life."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_11",
+        "subject": "vertical alleys",
+        "relation": "perforate",
+        "relation_type": "Spatial Relation",
+        "object": "tower volume",
+        "description": "Circulation and voids cut through the mass, preventing it from becoming a solid block.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Prevent mass from becoming too solid",
+            "strategy": "Use vertical alleys, stairs, voids, and circulation cuts to open the tower mass.",
+            "reasoning": {
+              "premise": "A large housing tower can feel heavy and sealed.",
+              "analysis": "Perforations introduce movement, air, and depth.",
+              "conclusion": "The tower becomes more porous and urban."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create social circulation spaces",
+            "strategy": "Use vertical alleys as more than service routes; treat them as communal paths.",
+            "reasoning": {
+              "premise": "Neighbourhoods require streets and passages.",
+              "analysis": "Vertical alleys translate street logic into the tower.",
+              "conclusion": "Circulation supports the vertical neighbourhood idea."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create facade depth and identity",
+            "strategy": "Expose some circulation routes as colored vertical elements.",
+            "reasoning": {
+              "premise": "The building's exterior should reveal internal organization.",
+              "analysis": "Visible alleys and circulation cuts show how residents move through the tower.",
+              "conclusion": "The facade expresses community structure."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_12",
+        "subject": "stacked housing types",
+        "relation": "challenge",
+        "relation_type": "Conceptual Relation",
+        "object": "standard unit repetition",
+        "description": "The project rejects the idea that social housing must use one repeated standard unit.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Promote housing diversity",
+            "strategy": "Use multiple unit types and housing groups instead of one repeated module.",
+            "reasoning": {
+              "premise": "Social housing is often standardized for efficiency.",
+              "analysis": "Standardization can reduce social and spatial diversity.",
+              "conclusion": "The project creates a more varied residential environment."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Challenge social housing stereotypes",
+            "strategy": "Make public housing architecturally diverse, visible, and experimental.",
+            "reasoning": {
+              "premise": "Social housing is often treated as background infrastructure.",
+              "analysis": "Mirador gives it landmark status and formal complexity.",
+              "conclusion": "The project reframes social housing as civic architecture."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create community through difference",
+            "strategy": "Use variation in unit layout, facade identity, and circulation to create multiple residential experiences.",
+            "reasoning": {
+              "premise": "A community contains different households and lifestyles.",
+              "analysis": "Housing variation supports that social diversity.",
+              "conclusion": "The building becomes a heterogeneous vertical neighbourhood."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "Gene_D": {
+    "description": "Gene_D records possible resident behavior, media feedback, and design reflection. Some items are inferred from spatial configuration and should be verified with additional sources if needed.",
+    "resident_behavior": "Residents are likely to experience the building as a vertical collection of housing groups rather than one uniform tower. The sky plaza can function as a shared garden, lookout, and social gathering space, while the red circulation routes create recognizable movement paths through the building. This is an interpretation based on the drawings and exterior image.",
+    "media_feedback": "Mirador Building is widely discussed as a social housing landmark because it transforms the conventional housing block into a vertical neighbourhood with a large lifted courtyard, varied facade identities, and a shared sky plaza.",
+    "designer_reflection": "The project demonstrates how social housing can resist repetition through vertical stacking, material differentiation, circulation identity, and communal space at height. Its key contribution is the transformation of a ground courtyard into a sky plaza that gives social housing residents a collective view and identity.",
+    "limitations_or_notes": [
+      "The sky plaza depends on accessibility, maintenance, safety, and residents' actual use.",
+      "The strong facade differentiation should be understood as a social and spatial strategy, not only visual decoration.",
+      "The project is specific to large peripheral housing districts and may require adaptation in dense historic centers.",
+      "Exact unit count and program distribution should be verified before final publication."
+    ]
+  },
+  "case_summary": {
+    "one_sentence_summary": "Mirador Building is a social housing precedent that transforms a conventional block into a vertical neighbourhood by stacking housing groups around a large elevated sky plaza.",
+    "key_design_problem": "How can social housing in a repetitive peripheral district create identity, diversity, communal space, and collective views instead of becoming another standardized block?",
+    "key_design_solution": "Stack multiple mini-neighbourhoods vertically, carve a large sky plaza through the mass, connect housing groups with visible red circulation, and differentiate facade materials to express housing diversity.",
+    "transferable_strategies_for_highrise_housing": [
+      "Transform a courtyard block into a vertical neighbourhood.",
+      "Lift the courtyard into the air as a communal sky plaza.",
+      "Use a large void to create views, identity, and shared outdoor space.",
+      "Divide a large housing tower into smaller mini-neighbourhoods.",
+      "Differentiate housing groups through facade materials and window patterns.",
+      "Use colored circulation routes as vertical streets.",
+      "Provide varied unit types to resist standardized social housing.",
+      "Make social housing visible as an urban landmark."
+    ]
+  },
+  "keywords": [
+    "Mirador Building",
+    "Edificio Mirador",
+    "MVRDV",
+    "Blanca Lleó",
+    "Madrid",
+    "Sanchinarro",
+    "Valdefuentes",
+    "Hortaleza",
+    "social housing",
+    "collective housing",
+    "vertical neighbourhood",
+    "stacked housing blocks",
+    "mini neighbourhoods",
+    "sky plaza",
+    "lifted courtyard",
+    "large central void",
+    "lookout",
+    "community garden",
+    "Guadarrama Mountains",
+    "red circulation",
+    "vertical alley",
+    "facade patchwork",
+    "material differentiation",
+    "housing diversity",
+    "social housing landmark",
+    "anti-uniform housing block"
+  ],
+  "status": "preliminary_json_v1",
+  "created_for": "High-Rise Residential Precedent Knowledge Base",
+  "notes": "This JSON is based on manually prepared preprocess files for site context, drawings, photos, and renders. It is ready to be included as Case 19 in the precedent database. Exact unit count, access policy to sky plaza, facade material details, and post-occupancy use should be checked again before final publication."
+}
