@@ -1,0 +1,767 @@
+{
+  "id": "case_16_tao_zhu_yin_yuan_agora_garden",
+  "project_name": "Tao Zhu Yin Yuan",
+  "alternative_names": [
+    "Agora Garden",
+    "DNA",
+    "Siamese Green Towers"
+  ],
+  "chinese_name": "陶朱隱園",
+  "architect": "Vincent Callebaut Architectures",
+  "location": "Xinyi District, Taipei City, Taiwan",
+  "address_reference": "Songgao Road / Songyong Road area, Xinyi Special District, Taipei",
+  "year": "2018",
+  "building_type": "high-rise residential / vertical forest luxury housing",
+  "area": "approximately 42705 m²",
+  "floor_count": "approximately 21 above-ground floors with several basement levels",
+  "number_of_units": "approximately 40 residential units",
+  "main_theme": [
+    "DNA double helix",
+    "carbon-absorbing tower",
+    "vertical forest",
+    "rotating terraces",
+    "private sky gardens",
+    "ecological luxury residence",
+    "Taipei urban landmark"
+  ],
+  "source_urls": [
+    "https://vincent.callebaut.org/object/110130_taipei/taipei/projects",
+    "https://www.archdaily.com/955926/tao-zhu-yin-yuan-vincent-callebaut-architectures",
+    "https://www.tao-zhu.com.tw/index-en.html",
+    "https://www.tao-zhu.com.tw/TA_zhu-2-en.html"
+  ],
+  "data_sources": [
+    "source_text.md",
+    "01_site_context_analysis.md",
+    "02_drawings_preprocess.md",
+    "03_photos_renders_preprocess.md",
+    "section_drawings.jpg",
+    "residential_unit_plan.jpg",
+    "exterior_photo.jpg"
+  ],
+  "Gene_A": {
+    "description": "Gene_A records the site conditions, urban context, environmental conditions, functional needs, and contextual reasoning of the precedent.",
+    "location": "Tao Zhu Yin Yuan is located in Taipei's Xinyi District, one of the city's most important commercial, financial, and high-end residential areas.",
+    "urban_context": "The project sits within the Xinyi Special District, close to Taipei 101, department stores, office towers, luxury residential buildings, and major urban streets. It functions as both a private luxury residence and a public-facing ecological landmark.",
+    "site_conditions": "The site is located in a dense and highly urbanized district with traffic, commercial activity, luxury residential developments, heat island pressure, and air quality concerns. The project responds by creating a vertical forest and large private sky gardens.",
+    "adjacent_uses": {
+      "north": "Xinyi commercial and residential blocks, high-rise urban fabric, luxury residential developments, and local streets.",
+      "east": "Songyong Road direction, quieter residential access, local urban blocks, and service entry conditions.",
+      "south": "Songgao Road direction, major Xinyi District traffic, retail, and commercial frontage.",
+      "west": "Taipei 101 / Xinyi commercial core direction, department stores, office towers, and high-density urban activity."
+    },
+    "surrounding_context": {
+      "commercial_core_context": "The building is located near Taipei's major commercial and financial district, with shopping centers, offices, and urban activity.",
+      "luxury_residential_context": "The surrounding district includes high-end residential towers and private developments.",
+      "traffic_context": "Songgao Road and surrounding streets create traffic, noise, and air quality pressures.",
+      "ecological_urban_context": "The project attempts to insert a large amount of vegetation into a dense city fabric where ground-level open space is limited."
+    },
+    "climate_conditions": "Taipei has a hot, humid subtropical climate with strong summer sun, heavy rainfall, typhoons, and high humidity. The project responds through planted terraces, shading vegetation, water management, wind-resistant planting, and a rotating tower form.",
+    "view_conditions": "The project creates skyline views toward Taipei's Xinyi commercial district, garden foreground views from each private sky garden, broad view potential through the curved and rotating geometry, and filtered privacy views through vegetation and terrace depth.",
+    "functional_needs": "The project provides high-end residential units with private sky gardens, separated resident and service circulation, private elevator halls, car elevator / sky garage access, large interior living spaces, planted terraces, and sustainable technical systems.",
+    "density_or_height_condition": "The tower uses a central core and paired residential wings that rotate gradually across the height of the building. The 4.5-degree rotation per floor accumulates into an approximately 90-degree twist from base to top.",
+    "target_residents": "High-end urban residents seeking privacy, large apartments, private garden terraces, skyline views, luxury access systems, and ecological residential identity within Taipei's Xinyi District.",
+    "context_steps": [
+      {
+        "step": 1,
+        "subject": "residential tower",
+        "relation": "is located in",
+        "object": "Taipei Xinyi District"
+      },
+      {
+        "step": 2,
+        "subject": "dense urban context",
+        "relation": "creates",
+        "object": "heat, traffic, privacy, and air quality pressures"
+      },
+      {
+        "step": 3,
+        "subject": "central core",
+        "relation": "anchors",
+        "object": "rotating residential wings"
+      },
+      {
+        "step": 4,
+        "subject": "residential wings",
+        "relation": "form",
+        "object": "DNA double helix"
+      },
+      {
+        "step": 5,
+        "subject": "floor rotation",
+        "relation": "creates",
+        "object": "90-degree tower twist"
+      },
+      {
+        "step": 6,
+        "subject": "apartment unit",
+        "relation": "opens to",
+        "object": "private sky garden"
+      },
+      {
+        "step": 7,
+        "subject": "vegetation",
+        "relation": "filters",
+        "object": "urban view and privacy"
+      },
+      {
+        "step": 8,
+        "subject": "vertical forest",
+        "relation": "creates",
+        "object": "ecological urban landmark identity"
+      }
+    ]
+  },
+  "Gene_B": {
+    "description": "Gene_B records the design issue, design concept, and overall design strategy.",
+    "issue": "Dense urban luxury housing often lacks private gardens, ecological buffering, and strong climate response. High-rise towers in hot and humid cities can contribute to heat island effects, while green towers require complex irrigation, waterproofing, wind resistance, typhoon resistance, and long-term planting maintenance.",
+    "concept": "Create a DNA-inspired vertical forest tower where paired residential wings rotate around a stable central core, giving each residence a large private sky garden and turning the luxury tower into a carbon-absorbing ecological landmark.",
+    "strategy": "Use a stable central core with two rotating residential wings, rotate each floor plate by approximately 4.5 degrees to create a 90-degree double-helix form, provide two large residences per major floor, attach large planted sky gardens to each apartment, and integrate green coverage, water reuse, energy systems, private circulation, and service circulation.",
+    "design_intentions": [
+      "Create a vertical forest inside Taipei's dense urban core.",
+      "Use DNA double-helix geometry as both symbolic form and spatial organization.",
+      "Turn each apartment into a private sky villa with a large planted garden.",
+      "Use vegetation as shade, privacy filter, carbon-absorbing layer, and ecological image.",
+      "Combine luxury residential privacy with environmental branding.",
+      "Separate resident circulation, service circulation, and vehicle access for privacy and exclusivity.",
+      "Respond to Taipei's hot, humid, rainy, and typhoon-prone climate through planting, structure, water management, and maintenance systems."
+    ]
+  },
+  "Gene_C1": {
+    "description": "Gene_C1 records the architectural vocabulary extracted from site context, drawings, diagrams, photos, and renders.",
+    "vocabulary": [
+      "DNA double helix",
+      "twisting tower",
+      "90-degree rotation",
+      "4.5-degree floor rotation",
+      "Siamese green towers",
+      "central core",
+      "paired residential wings",
+      "rotating floor plate",
+      "vertical stack",
+      "helical massing",
+      "symmetrical tower form",
+      "tower crown",
+      "rooftop solar pergola",
+      "roof garden",
+      "podium base",
+      "basement parking",
+      "luxury residence",
+      "sky villa",
+      "apartment unit",
+      "paired apartment floor",
+      "living room",
+      "dining area",
+      "dry kitchen",
+      "Chinese kitchen",
+      "bedroom",
+      "master bedroom",
+      "bathroom",
+      "powder room",
+      "laundry",
+      "walk-in closet",
+      "maid room",
+      "private elevator hall",
+      "service elevator access",
+      "foyer",
+      "large interior living space",
+      "private sky garden",
+      "planted terrace",
+      "green balcony",
+      "vertical forest",
+      "tree planter",
+      "shrub planting",
+      "garden courtyard",
+      "outdoor dining area",
+      "outdoor seating",
+      "terrace deck",
+      "curved planted edge",
+      "vegetation buffer",
+      "carbon-absorbing planting",
+      "urban forest layer",
+      "central elevator core",
+      "passenger elevator",
+      "service elevator",
+      "car elevator",
+      "sky garage",
+      "staircase",
+      "vertical circulation",
+      "service circulation",
+      "basement access",
+      "vehicle turntable",
+      "private access route",
+      "service access route",
+      "carbon absorption",
+      "green coverage",
+      "rainwater recycling",
+      "solar panel",
+      "wind turbine",
+      "natural ventilation",
+      "natural lighting",
+      "thermal buffer",
+      "shading vegetation",
+      "typhoon-resistant planting",
+      "seismic isolation",
+      "ecological facade",
+      "heat island reduction",
+      "water management",
+      "vertical biodiversity",
+      "Taipei Xinyi District",
+      "Songgao Road",
+      "Songyong Road",
+      "Taipei skyline"
+    ]
+  },
+  "Gene_C2": {
+    "description": "Gene_C2 records semantic spatial relationships and strategy candidates. Each relation follows the format: Subject → Relation (Relation Type) → Object.",
+    "semantic_relations": [
+      {
+        "id": "C2_01",
+        "subject": "central core",
+        "relation": "anchors",
+        "relation_type": "Structural Relation",
+        "object": "rotating residential wings",
+        "description": "The central core remains vertical and stable while the apartment wings rotate around it.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Maintain structural stability while allowing rotation",
+            "strategy": "Use a stable central core as the structural and circulation anchor, while allowing the residential wings to rotate around it.",
+            "reasoning": {
+              "premise": "A twisting residential tower requires a stable structural and circulation reference.",
+              "analysis": "The central core provides vertical continuity, while the wings can rotate floor by floor.",
+              "conclusion": "The tower achieves dynamic form without losing structural and circulation clarity."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Organize luxury residential access",
+            "strategy": "Concentrate elevators, stairs, services, and vehicle access in the core to serve paired residences efficiently.",
+            "reasoning": {
+              "premise": "Luxury apartments require privacy, separated access, and efficient service movement.",
+              "analysis": "A central core can separate resident, service, and vehicle circulation.",
+              "conclusion": "The building supports privacy and exclusivity while maintaining vertical efficiency."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create a clear formal contrast",
+            "strategy": "Keep the core visually and structurally stable while the residential wings create the helical expression.",
+            "reasoning": {
+              "premise": "The design depends on the contrast between stability and rotation.",
+              "analysis": "The stable core and rotating wings create a legible DNA-like organization.",
+              "conclusion": "The tower's form becomes both symbolic and structurally understandable."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_02",
+        "subject": "residential wings",
+        "relation": "form",
+        "relation_type": "Conceptual Relation",
+        "object": "DNA double helix",
+        "description": "The two residential wings twist around the core, creating a double-helix form inspired by DNA.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create symbolic ecological identity",
+            "strategy": "Use two twisting residential wings to evoke the DNA double helix as a symbol of life and growth.",
+            "reasoning": {
+              "premise": "The project aims to communicate ecological ambition and biological symbolism.",
+              "analysis": "DNA is an easily recognizable image associated with life and regeneration.",
+              "conclusion": "The building becomes an ecological symbol in the city skyline."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Differentiate the tower from conventional high-rises",
+            "strategy": "Use helical residential wings instead of a straight rectangular tower mass.",
+            "reasoning": {
+              "premise": "Luxury towers often compete through form and identity.",
+              "analysis": "A double-helix massing creates a distinctive visual signature.",
+              "conclusion": "The tower becomes a recognizable landmark in Xinyi District."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Generate changing orientations",
+            "strategy": "Allow the two wings to rotate gradually so apartment terraces face different directions across the height.",
+            "reasoning": {
+              "premise": "Different orientations create different view, sun, wind, and privacy conditions.",
+              "analysis": "The helical system creates variation while maintaining a repeated paired-floor logic.",
+              "conclusion": "The building combines iconic form with residential diversity."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_03",
+        "subject": "floor rotation",
+        "relation": "creates",
+        "relation_type": "Geometric Relation",
+        "object": "90-degree twist",
+        "description": "Each level rotates slightly, and the accumulated rotation creates the tower's 90-degree overall twist.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create gradual formal transformation",
+            "strategy": "Rotate each floor plate by approximately 4.5 degrees to produce a 90-degree twist from base to top.",
+            "reasoning": {
+              "premise": "A sudden shift would be structurally and spatially disruptive.",
+              "analysis": "Small repeated rotations create a smooth helical transformation.",
+              "conclusion": "The tower achieves a dynamic form through incremental repetition."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Vary terrace exposure",
+            "strategy": "Use floor rotation to create different sun, view, wind, and privacy conditions on each level.",
+            "reasoning": {
+              "premise": "Uniform stacked floors produce repetitive environmental conditions.",
+              "analysis": "Rotation differentiates each floor's relationship to the city.",
+              "conclusion": "Residents gain varied sky garden experiences."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Link structure and image",
+            "strategy": "Use the repeated rotation as the main generator of the building's image and spatial system.",
+            "reasoning": {
+              "premise": "Iconic form is strongest when it is generated by a consistent spatial rule.",
+              "analysis": "The 4.5-degree rotation creates a measurable and repeatable logic.",
+              "conclusion": "The tower's spectacle is grounded in a clear geometric principle."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_04",
+        "subject": "two residences",
+        "relation": "compose",
+        "relation_type": "Typological Relation",
+        "object": "one full floor",
+        "description": "Each residential level is composed of two large apartment units, creating a paired organization.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create large luxury residences",
+            "strategy": "Use two large units per major residential floor instead of many small apartments.",
+            "reasoning": {
+              "premise": "The project targets a luxury residential market.",
+              "analysis": "Fewer units per floor increase privacy, space, and exclusivity.",
+              "conclusion": "The floor becomes a pair of large sky villas."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Support symmetrical helical form",
+            "strategy": "Place one residence on each side of the central core to create paired wings.",
+            "reasoning": {
+              "premise": "The building's form depends on two wings rotating around a core.",
+              "analysis": "Two residences per floor reinforce the double-helix organization.",
+              "conclusion": "The unit layout and massing logic support each other."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Increase privacy",
+            "strategy": "Limit the number of residences sharing each floor and provide separated access routes.",
+            "reasoning": {
+              "premise": "Luxury housing requires privacy and controlled circulation.",
+              "analysis": "Two large residences reduce shared circulation and direct neighbor interaction.",
+              "conclusion": "The floor organization enhances exclusivity."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_05",
+        "subject": "apartment unit",
+        "relation": "opens to",
+        "relation_type": "Spatial Relation",
+        "object": "private sky garden",
+        "description": "Each residence connects directly to a large planted terrace, turning the apartment into a sky villa.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Bring garden living into the high-rise",
+            "strategy": "Give each residence a large planted terrace directly connected to the main living spaces.",
+            "reasoning": {
+              "premise": "High-rise apartments often lack private gardens.",
+              "analysis": "A large sky garden provides a house-like outdoor environment at height.",
+              "conclusion": "Each unit becomes a private sky villa."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create residential luxury through outdoor space",
+            "strategy": "Use private gardens as a key luxury amenity for each apartment.",
+            "reasoning": {
+              "premise": "Luxury buyers value privacy, outdoor space, and exclusivity.",
+              "analysis": "A private planted terrace differentiates the unit from standard apartments.",
+              "conclusion": "The sky garden becomes a core residential value."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create ecological buffer",
+            "strategy": "Place a planted garden between the interior and the dense urban environment.",
+            "reasoning": {
+              "premise": "Xinyi District is dense, hot, and visually exposed.",
+              "analysis": "A sky garden creates a green threshold before the city view.",
+              "conclusion": "The residence gains privacy, shade, and ecological atmosphere."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_06",
+        "subject": "planted terrace",
+        "relation": "extends",
+        "relation_type": "Spatial Relation",
+        "object": "living and bedroom areas",
+        "description": "Living rooms, dining rooms, and bedrooms connect to the terrace, extending domestic life outward.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Expand domestic space",
+            "strategy": "Connect major rooms directly to the planted terrace so it functions as an outdoor extension of the apartment.",
+            "reasoning": {
+              "premise": "Large apartments benefit from flexible indoor-outdoor living.",
+              "analysis": "Terraces connected to living and bedroom areas increase usable domestic space.",
+              "conclusion": "The apartment becomes more spatially generous."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create multiple garden relationships",
+            "strategy": "Allow different rooms to access or face the sky garden.",
+            "reasoning": {
+              "premise": "A garden is more valuable when it is part of daily life, not only an isolated balcony.",
+              "analysis": "Living, dining, and bedroom areas can all benefit from greenery.",
+              "conclusion": "The sky garden becomes integrated into the whole residence."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Support flexible outdoor activities",
+            "strategy": "Use large terraces for outdoor dining, seating, planting, and relaxation.",
+            "reasoning": {
+              "premise": "The terrace area is large enough to support multiple activities.",
+              "analysis": "Outdoor functions can complement interior rooms.",
+              "conclusion": "The residence gains a villa-like lifestyle in the sky."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_07",
+        "subject": "vegetation",
+        "relation": "shades",
+        "relation_type": "Environmental Relation",
+        "object": "interior space",
+        "description": "Trees and shrubs on the terraces provide shade and reduce direct solar heat gain.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Reduce solar heat gain",
+            "strategy": "Use trees and shrubs on terraces to shade glazing and outdoor decks.",
+            "reasoning": {
+              "premise": "Taipei has strong summer sun and high heat gain.",
+              "analysis": "Vegetation can reduce direct solar exposure before heat reaches the interior.",
+              "conclusion": "The planted terrace improves thermal comfort."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create cooler terrace microclimate",
+            "strategy": "Use soil, planting, and shade to reduce perceived heat on the outdoor terraces.",
+            "reasoning": {
+              "premise": "High-rise terraces in hot climates can become uncomfortable.",
+              "analysis": "Vegetation provides shade, evapotranspiration, and visual cooling.",
+              "conclusion": "The terrace becomes more usable as an outdoor living space."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Link environmental performance to image",
+            "strategy": "Make the shading vegetation visible as part of the tower's ecological identity.",
+            "reasoning": {
+              "premise": "The project promotes itself as a vertical forest.",
+              "analysis": "Visible trees and shrubs demonstrate the climate response.",
+              "conclusion": "Environmental performance becomes architectural expression."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_08",
+        "subject": "vegetation",
+        "relation": "filters",
+        "relation_type": "Perceptual Relation",
+        "object": "urban view and privacy",
+        "description": "Planting creates a semi-transparent buffer between private residences and the surrounding city.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Protect privacy in dense urban surroundings",
+            "strategy": "Place vegetation along terrace edges to reduce direct visibility from neighboring buildings.",
+            "reasoning": {
+              "premise": "Xinyi District contains many surrounding high-rise buildings.",
+              "analysis": "Trees and shrubs create a visual buffer without fully blocking views.",
+              "conclusion": "Residents gain privacy while retaining openness."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create a garden foreground",
+            "strategy": "Use planting so residents look through greenery before seeing the city.",
+            "reasoning": {
+              "premise": "Dense urban views can feel exposed or hard.",
+              "analysis": "Vegetation softens the foreground and changes the visual experience.",
+              "conclusion": "The apartment feels more garden-like and private."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Buffer urban pollution and noise perception",
+            "strategy": "Use planting as part of an ecological and sensory buffer between residence and city.",
+            "reasoning": {
+              "premise": "Urban traffic and air quality pressures affect residential comfort.",
+              "analysis": "Vegetation can visually and psychologically soften urban stress.",
+              "conclusion": "The terrace becomes a protective ecological threshold."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_09",
+        "subject": "car elevator",
+        "relation": "connects",
+        "relation_type": "Circulation Relation",
+        "object": "basement and sky garage",
+        "description": "The car elevator system allows vehicles to move from basement parking to private sky garage access conditions.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Increase luxury residential convenience",
+            "strategy": "Use a car elevator system to connect basement parking with private sky garage access.",
+            "reasoning": {
+              "premise": "Luxury housing often includes highly private and convenient arrival systems.",
+              "analysis": "Car elevators allow residents to move vehicles closer to their residence level.",
+              "conclusion": "The building creates a high-end arrival experience."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Separate vehicle movement from public circulation",
+            "strategy": "Use dedicated vehicle circulation to avoid mixing cars with pedestrian and service routes.",
+            "reasoning": {
+              "premise": "Privacy and safety are important in luxury towers.",
+              "analysis": "Separate vehicle circulation reduces conflict and exposure.",
+              "conclusion": "The building maintains exclusivity and circulation clarity."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create villa-like access in a tower",
+            "strategy": "Bring the idea of private garage access into high-rise residential living.",
+            "reasoning": {
+              "premise": "Detached houses and villas often include direct car access.",
+              "analysis": "A sky garage translates this feature into a vertical tower.",
+              "conclusion": "The apartment becomes closer to a private villa in the sky."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_10",
+        "subject": "private elevator hall",
+        "relation": "separates",
+        "relation_type": "Circulation Relation",
+        "object": "resident circulation",
+        "description": "Private elevator halls support privacy and exclusivity for each residence.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Increase residential privacy",
+            "strategy": "Use private elevator halls to create controlled access to each residence.",
+            "reasoning": {
+              "premise": "Luxury residences require privacy and limited shared circulation.",
+              "analysis": "A private elevator hall reduces encounters and creates a more exclusive arrival.",
+              "conclusion": "The unit feels like an independent sky villa."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create ceremonial arrival",
+            "strategy": "Use the private hall as a threshold between vertical circulation and the residence.",
+            "reasoning": {
+              "premise": "Arrival experience is important in luxury residential design.",
+              "analysis": "A private hall creates a transition from building to home.",
+              "conclusion": "The circulation becomes part of the luxury identity."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Separate residents from service routes",
+            "strategy": "Coordinate private halls with separate service access.",
+            "reasoning": {
+              "premise": "Large residences require service support without compromising privacy.",
+              "analysis": "Separate circulation allows domestic service to operate discreetly.",
+              "conclusion": "The residence supports both privacy and functional efficiency."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_11",
+        "subject": "service elevator",
+        "relation": "separates",
+        "relation_type": "Circulation Relation",
+        "object": "domestic service movement",
+        "description": "Service elevators and back-of-house routes separate service movement from resident circulation.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Maintain privacy during service operations",
+            "strategy": "Provide service elevators and back-of-house access separate from resident arrival routes.",
+            "reasoning": {
+              "premise": "Large luxury homes require cleaning, delivery, maintenance, and domestic service.",
+              "analysis": "Separate service movement prevents overlap with resident circulation.",
+              "conclusion": "The building supports privacy and operational efficiency."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Support large household layouts",
+            "strategy": "Connect service elevators to kitchens, laundry, maid rooms, and back-of-house areas.",
+            "reasoning": {
+              "premise": "The apartment plans include service-related rooms and kitchens.",
+              "analysis": "Service circulation should align with these support spaces.",
+              "conclusion": "The residential plan functions like a large private household."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Improve building management",
+            "strategy": "Separate resident and service logistics throughout the tower.",
+            "reasoning": {
+              "premise": "High-end towers require discreet and efficient maintenance.",
+              "analysis": "Dedicated service circulation allows management tasks without disrupting residents.",
+              "conclusion": "The building supports long-term luxury operation."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_12",
+        "subject": "rooftop energy systems",
+        "relation": "support",
+        "relation_type": "Environmental Relation",
+        "object": "sustainable operation",
+        "description": "Solar panels and other rooftop technical systems contribute to the building's environmental performance.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Support renewable energy production",
+            "strategy": "Use rooftop solar systems and related technical elements to contribute to building energy needs.",
+            "reasoning": {
+              "premise": "The project promotes an ecological and energy-conscious identity.",
+              "analysis": "Renewable systems can support the building's operational sustainability.",
+              "conclusion": "The tower's ecological message is supported by technical systems."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Complete ecological crown",
+            "strategy": "Combine rooftop garden, pergola, and energy systems at the top of the tower.",
+            "reasoning": {
+              "premise": "The tower's environmental narrative should continue from base to roof.",
+              "analysis": "The roof can integrate greenery and technology.",
+              "conclusion": "The building crown becomes part of the ecological system."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Integrate visible sustainability",
+            "strategy": "Make energy and landscape systems part of the tower's image rather than hidden equipment.",
+            "reasoning": {
+              "premise": "Sustainable systems can become architectural identity.",
+              "analysis": "Visible rooftop systems reinforce the project's ecological branding.",
+              "conclusion": "The building communicates sustainability through form and technology."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "Gene_D": {
+    "description": "Gene_D records possible resident behavior, media feedback, and design reflection. Some items are inferred from spatial configuration and should be verified with additional sources if needed.",
+    "resident_behavior": "Residents are likely to experience the building as a private sky villa system, with large planted terraces, separated circulation, skyline views, and a high degree of privacy. The sky garden is likely to function as an outdoor extension of living, dining, and bedroom spaces. This is an interpretation based on the drawings and exterior image.",
+    "media_feedback": "Tao Zhu Yin Yuan is widely discussed as an ecological luxury tower because of its DNA double-helix form, planted terraces, carbon-absorbing narrative, and vertical forest image in Taipei's Xinyi District.",
+    "designer_reflection": "The project demonstrates how iconic form, luxury housing, and vertical greening can be combined into a residential tower. Its key contribution is the integration of floor-by-floor rotation with large private planted terraces and an ecological urban image.",
+    "limitations_or_notes": [
+      "The success of the vertical forest depends on long-term planting maintenance, irrigation, soil depth, drainage, waterproofing, wind resistance, and typhoon resilience.",
+      "The carbon-absorbing narrative should be evaluated with verified landscape and environmental performance data before technical publication.",
+      "The project is strongly tied to luxury residential economics and may not transfer directly to affordable high-rise housing.",
+      "The car elevator and sky garage system increase exclusivity but also add mechanical complexity and space demands.",
+      "The iconic ecological image should be understood together with operational maintenance requirements."
+    ]
+  },
+  "case_summary": {
+    "one_sentence_summary": "Tao Zhu Yin Yuan / Agora Garden is a DNA-inspired vertical forest residential tower in Taipei that uses rotating paired floor plates, large private sky gardens, and ecological systems to combine luxury living with carbon-absorbing urban imagery.",
+    "key_design_problem": "How can a luxury high-rise in a dense, hot, and polluted urban core provide privacy, garden living, climate buffering, ecological identity, and skyline landmark value?",
+    "key_design_solution": "Use a stable central core with two rotating residential wings, rotate each floor by approximately 4.5 degrees to create a 90-degree double helix, give each residence a large planted sky garden, and integrate vegetation, water reuse, energy systems, and separated circulation.",
+    "transferable_strategies_for_highrise_housing": [
+      "Use floor rotation to create differentiated views, orientations, and facade identity.",
+      "Attach large planted terraces to each residence as private sky gardens.",
+      "Use vegetation as shade, privacy filter, carbon-absorbing layer, and thermal buffer.",
+      "Separate resident and service circulation for privacy and operational efficiency.",
+      "Use a stable central core to support dynamic rotating residential wings.",
+      "Design planting systems for wind, sun, rain, typhoon, irrigation, and maintenance.",
+      "Integrate rooftop energy systems and water reuse into the tower's ecological strategy.",
+      "Use symbolic form to communicate environmental ambition while connecting it to residential space."
+    ]
+  },
+  "keywords": [
+    "Tao Zhu Yin Yuan",
+    "Agora Garden",
+    "陶朱隱園",
+    "DNA",
+    "Siamese Green Towers",
+    "Vincent Callebaut",
+    "Taipei",
+    "Xinyi District",
+    "Songgao Road",
+    "Songyong Road",
+    "high-rise residential",
+    "luxury residence",
+    "DNA double helix",
+    "twisting tower",
+    "90-degree rotation",
+    "4.5-degree floor rotation",
+    "central core",
+    "paired residential wings",
+    "private sky garden",
+    "planted terrace",
+    "vertical forest",
+    "carbon absorption",
+    "ecological luxury residence",
+    "sky villa",
+    "car elevator",
+    "sky garage",
+    "private elevator hall",
+    "service elevator",
+    "rainwater reuse",
+    "solar panel",
+    "wind turbine",
+    "seismic isolation",
+    "typhoon-resistant planting",
+    "Taipei urban landmark"
+  ],
+  "status": "preliminary_json_v1",
+  "created_for": "High-Rise Residential Precedent Knowledge Base",
+  "notes": "This JSON is based on manually prepared preprocess files for site context, drawings, photos, and renders. It is ready to be included as Case 16 in the precedent database. Exact carbon absorption performance, planting quantity, unit count, mechanical systems, and maintenance strategy should be checked again before final publication."
+}
