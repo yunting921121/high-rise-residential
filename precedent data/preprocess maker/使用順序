@@ -1,0 +1,3 @@
+Step 1：丟案例基本資料 + 來源連結 + 基地資訊 → 生成 01_site_context_analysis.md
+Step 2：丟 01 + 平面 / 剖面 / 立面 / diagram → 生成 02_drawings_preprocess.md
+Step 3：丟 01 + 02 + 外觀照片 / 渲染圖 / 情境圖 → 生成 03_photos_renders_preprocess.md
