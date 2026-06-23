@@ -1,0 +1,752 @@
+{
+  "id": "case_13_the_interlace",
+  "project_name": "The Interlace",
+  "architect": "OMA / Ole Scheeren",
+  "local_architect": "RSP Architects Planners & Engineers",
+  "location": "180 Depot Road, Singapore",
+  "district": "Depot Road / Alexandra Road / Southern Ridges",
+  "year": "2013",
+  "building_type": "high-density residential condominium / stacked courtyard housing",
+  "site_area": "approximately 8 hectares",
+  "area": "approximately 170000 m²",
+  "number_of_units": "approximately 1040 residential units",
+  "block_count": "31 apartment blocks",
+  "block_height": "approximately 6 storeys per block",
+  "maximum_height": "up to approximately 24 storeys where blocks stack four high",
+  "courtyard_count": "8 large courtyards",
+  "main_theme": [
+    "horizontal high-rise",
+    "stacked apartment blocks",
+    "vertical village",
+    "large-scale courtyards",
+    "tropical communal living",
+    "roof gardens",
+    "anti-tower residential typology",
+    "landscape topography"
+  ],
+  "source_urls": [
+    "https://www.archdaily.com/627887/the-interlace-oma-2"
+  ],
+  "data_sources": [
+    "source_text.md",
+    "01_site_context_analysis.md",
+    "02_drawings_preprocess.md",
+    "03_photos_renders_preprocess.md",
+    "typical_floor_plan.jpg",
+    "concept_diagram.jpg",
+    "unit_plan_diagrams.jpg",
+    "exterior_photo.jpg"
+  ],
+  "Gene_A": {
+    "description": "Gene_A records the site conditions, urban context, environmental conditions, functional needs, and contextual reasoning of the precedent.",
+    "location": "The Interlace is located along Depot Road and Alexandra Road in Singapore, near the Southern Ridges green belt.",
+    "urban_context": "The project is located within a large residential site that combines residential neighborhood fabric, major road infrastructure, and proximity to Singapore's green belt. It challenges the conventional isolated tower typology common in high-density tropical housing.",
+    "site_conditions": "The site is approximately eight hectares and allows the project to spread horizontally rather than only vertically. It is close to Alexandra Road, Ayer Rajah Expressway, Depot Road, and the Southern Ridges landscape system.",
+    "adjacent_uses": {
+      "north_northeast": "Alexandra Road, Ayer Rajah Expressway, traffic infrastructure, commercial / institutional edges, and urban connections toward central Singapore.",
+      "south_southwest": "Southern Ridges green belt, Telok Blangah / Kent Ridge landscape connections, recreational parks, and green open space.",
+      "east": "Alexandra Road corridor, Gillman Barracks direction, residential and institutional surroundings.",
+      "west": "Depot Road residential fabric, local neighborhood roads, public housing / condominium context, and district-scale access routes."
+    },
+    "surrounding_context": {
+      "infrastructure_facing_side": "Alexandra Road and Ayer Rajah Expressway create large-scale movement corridors and traffic exposure.",
+      "landscape_facing_side": "Southern Ridges provides a major green recreational setting and connects the project to Singapore's park network.",
+      "neighborhood_facing_side": "Depot Road and surrounding residential areas connect the project to local housing districts and neighborhood life.",
+      "city_facing_direction": "The project remains connected to central Singapore, commercial areas, and major urban routes."
+    },
+    "climate_conditions": "Singapore has a hot and humid tropical climate with strong sunlight, heavy rainfall, and high humidity. The project responds through large courtyards, shaded voids, water bodies, roof gardens, sky gardens, terraces, and open-air communal spaces.",
+    "view_conditions": "The project creates courtyard views, landscape views toward Southern Ridges, city views from upper blocks, and cross-block views across voids, gardens, terraces, and interlocking residential bars.",
+    "functional_needs": "The project provides over one thousand residential units while integrating large courtyards, roof gardens, sky gardens, pools, recreation decks, landscape paths, amenities, and multiple unit types.",
+    "density_or_height_condition": "Instead of using isolated point towers, the project stacks thirty-one six-storey residential blocks in hexagonal arrangements around eight large courtyards, reaching up to approximately twenty-four storeys where blocks stack four high.",
+    "target_residents": "Urban residents in Singapore seeking high-density condominium living with access to communal landscapes, tropical outdoor spaces, varied unit types, roof gardens, and large-scale shared amenities.",
+    "context_steps": [
+      {
+        "step": 1,
+        "subject": "residential development",
+        "relation": "is located near",
+        "object": "Southern Ridges green belt"
+      },
+      {
+        "step": 2,
+        "subject": "site",
+        "relation": "is bounded by",
+        "object": "major roads and residential districts"
+      },
+      {
+        "step": 3,
+        "subject": "apartment blocks",
+        "relation": "replace",
+        "object": "isolated point towers"
+      },
+      {
+        "step": 4,
+        "subject": "stacked blocks",
+        "relation": "form",
+        "object": "hexagonal courtyards"
+      },
+      {
+        "step": 5,
+        "subject": "courtyards",
+        "relation": "organize",
+        "object": "residential community"
+      },
+      {
+        "step": 6,
+        "subject": "roof gardens",
+        "relation": "occupy",
+        "object": "block tops"
+      },
+      {
+        "step": 7,
+        "subject": "landscape decks",
+        "relation": "connect",
+        "object": "courtyards and amenities"
+      },
+      {
+        "step": 8,
+        "subject": "horizontal blocks",
+        "relation": "create",
+        "object": "vertical village"
+      }
+    ]
+  },
+  "Gene_B": {
+    "description": "Gene_B records the design issue, design concept, and overall design strategy.",
+    "issue": "High-density residential developments in tropical cities often rely on isolated point towers, which can weaken community relationships, reduce shared landscape quality, and separate residential units from generous communal outdoor spaces.",
+    "concept": "Replace the conventional tower typology with a horizontal high-rise: a system of stacked apartment blocks arranged around large courtyards, roof gardens, terraces, and communal landscapes.",
+    "strategy": "Stack thirty-one six-storey residential blocks in hexagonal arrangements to create eight large courtyards, roof gardens, sky terraces, shaded voids, and a continuous green network. Use horizontal blocks to create a vertical village rather than isolated towers.",
+    "design_intentions": [
+      "Challenge the standard high-rise condominium typology of isolated towers.",
+      "Create a horizontal high-rise that combines density with landscape.",
+      "Organize residential community around eight large courtyards.",
+      "Multiply ground-level landscape through roof gardens, sky gardens, and terraces.",
+      "Use stacked blocks to create shaded voids, breezeways, and tropical communal spaces.",
+      "Provide a variety of unit types through superlevel stacking and block interlocking.",
+      "Transform high-density housing into a connected vertical village."
+    ]
+  },
+  "Gene_C1": {
+    "description": "Gene_C1 records the architectural vocabulary extracted from site context, drawings, diagrams, photos, and renders.",
+    "vocabulary": [
+      "horizontal high-rise",
+      "stacked apartment block",
+      "six-storey residential bar",
+      "interlocking block",
+      "hexagonal arrangement",
+      "superlevel",
+      "vertical village",
+      "residential topography",
+      "elevated slab",
+      "bridge block",
+      "floating block",
+      "courtyard ring",
+      "cluster",
+      "artificial landscape",
+      "large-scale block system",
+      "apartment unit",
+      "simplex unit",
+      "duplex unit",
+      "townhouse",
+      "penthouse",
+      "garden unit",
+      "superlevel unit",
+      "living room",
+      "dining area",
+      "kitchen",
+      "bedroom",
+      "bathroom",
+      "study",
+      "service zone",
+      "balcony",
+      "terrace",
+      "roof garden",
+      "private garden",
+      "unit entrance",
+      "lift core",
+      "stair core",
+      "vertical circulation",
+      "block access",
+      "residential corridor",
+      "service core",
+      "superlevel access",
+      "shared circulation",
+      "arrival lobby",
+      "carpark access",
+      "service shaft",
+      "large courtyard",
+      "eight courtyards",
+      "central landscape",
+      "sky garden",
+      "terraced garden",
+      "swimming pool",
+      "water body",
+      "playground",
+      "recreation deck",
+      "clubhouse",
+      "BBQ area",
+      "outdoor lounge",
+      "fitness zone",
+      "community space",
+      "green roof",
+      "courtyard path",
+      "landscape deck",
+      "Southern Ridges",
+      "green belt",
+      "tropical climate",
+      "wind corridor",
+      "evaporative cooling",
+      "shaded void",
+      "covered outdoor space",
+      "permeable courtyard",
+      "cross ventilation",
+      "open-air communal space",
+      "landscape continuity",
+      "city view",
+      "sea view",
+      "park view"
+    ]
+  },
+  "Gene_C2": {
+    "description": "Gene_C2 records semantic spatial relationships and strategy candidates. Each relation follows the format: Subject → Relation (Relation Type) → Object.",
+    "semantic_relations": [
+      {
+        "id": "C2_01",
+        "subject": "apartment blocks",
+        "relation": "stack into",
+        "relation_type": "Vertical Relation",
+        "object": "superlevels",
+        "description": "Six-storey apartment blocks are stacked on top of each other to form larger superlevels and a stepped residential topography.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create density without isolated point towers",
+            "strategy": "Stack horizontal apartment blocks to achieve high density while avoiding the conventional tower field.",
+            "reasoning": {
+              "premise": "High-density residential projects often rely on isolated vertical towers.",
+              "analysis": "Stacking horizontal blocks creates a different form of vertical density.",
+              "conclusion": "The project becomes a horizontal high-rise instead of a tower cluster."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create residential topography",
+            "strategy": "Use superlevel stacking to produce terraces, bridges, voids, and elevated gardens.",
+            "reasoning": {
+              "premise": "Residential density can be organized as a landscape-like system.",
+              "analysis": "Stacked blocks create plateaus and openings at multiple heights.",
+              "conclusion": "The project becomes a constructed residential landscape."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Support diverse unit conditions",
+            "strategy": "Use stacking to create varied relationships between units, gardens, roofs, and courtyards.",
+            "reasoning": {
+              "premise": "Uniform towers often produce repetitive residential experiences.",
+              "analysis": "Superlevels create different unit positions and outdoor relationships.",
+              "conclusion": "The building supports diverse residential typologies."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_02",
+        "subject": "stacked blocks",
+        "relation": "form",
+        "relation_type": "Spatial Relation",
+        "object": "hexagonal courtyards",
+        "description": "The blocks are arranged in hexagonal configurations, creating eight large courtyards.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create large-scale communal open space",
+            "strategy": "Arrange blocks around hexagonal courtyards to produce generous shared landscapes.",
+            "reasoning": {
+              "premise": "Large residential developments need communal spaces that can serve many residents.",
+              "analysis": "Courtyards created by stacked blocks provide outdoor rooms at the scale of the whole complex.",
+              "conclusion": "The courtyards become the main communal landscape system."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Break down project scale",
+            "strategy": "Use multiple courtyards instead of one single large open space.",
+            "reasoning": {
+              "premise": "The project contains over one thousand apartments.",
+              "analysis": "Multiple courtyards create smaller neighborhood zones within the large development.",
+              "conclusion": "The project becomes a network of communities rather than one anonymous mega-block."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Increase light and air penetration",
+            "strategy": "Use courtyard voids to bring light, ventilation, and views deep into the development.",
+            "reasoning": {
+              "premise": "Dense block arrangements can become dark and poorly ventilated.",
+              "analysis": "Large courtyards allow air and light to move through the complex.",
+              "conclusion": "The courtyards improve environmental quality."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_03",
+        "subject": "courtyards",
+        "relation": "organize",
+        "relation_type": "Urban Relation",
+        "object": "residential community",
+        "description": "The courtyards become the main communal spaces that organize social life, landscape, and amenities.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create social centers",
+            "strategy": "Use each courtyard as a shared landscape and activity center for surrounding blocks.",
+            "reasoning": {
+              "premise": "High-density housing needs spaces that support resident interaction.",
+              "analysis": "Courtyards create identifiable social centers within the complex.",
+              "conclusion": "Residential community is organized around shared landscape spaces."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create internal neighborhood identity",
+            "strategy": "Differentiate courtyards through landscape, water, amenities, and spatial character.",
+            "reasoning": {
+              "premise": "Large housing complexes can feel repetitive.",
+              "analysis": "Distinct courtyards help residents identify different parts of the project.",
+              "conclusion": "The complex becomes a set of connected neighborhoods."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Buffer residents from infrastructure",
+            "strategy": "Use inward-facing courtyards to create protected communal spaces away from roads and traffic.",
+            "reasoning": {
+              "premise": "The site is near Alexandra Road and expressway infrastructure.",
+              "analysis": "Courtyards create internal landscapes buffered from external noise and movement.",
+              "conclusion": "The project produces a protected residential environment."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_04",
+        "subject": "roof gardens",
+        "relation": "occupy",
+        "relation_type": "Environmental Relation",
+        "object": "block tops",
+        "description": "The top surfaces of stacked blocks become roof gardens and outdoor communal or private spaces.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Multiply usable landscape",
+            "strategy": "Transform the roofs of horizontal blocks into gardens, terraces, and recreation spaces.",
+            "reasoning": {
+              "premise": "Ground-level open space is limited relative to the number of residents.",
+              "analysis": "Block tops provide additional surfaces for landscape and amenities.",
+              "conclusion": "The project multiplies the ground plane vertically."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create elevated communal space",
+            "strategy": "Use roof gardens to provide shared spaces at different heights.",
+            "reasoning": {
+              "premise": "Residents live across multiple superlevels.",
+              "analysis": "Roof gardens distribute communal space closer to upper-level homes.",
+              "conclusion": "Outdoor social space becomes more accessible throughout the complex."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Connect architecture and landscape",
+            "strategy": "Treat block roofs as part of a continuous green network rather than technical surfaces.",
+            "reasoning": {
+              "premise": "The project aims to operate as a residential landscape.",
+              "analysis": "Green roofs make the architectural system visibly landscape-based.",
+              "conclusion": "The building becomes both housing and topography."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_05",
+        "subject": "blocks",
+        "relation": "bridge over",
+        "relation_type": "Spatial Relation",
+        "object": "open space",
+        "description": "Some blocks span between supports or rest on other blocks, creating covered outdoor spaces and shaded voids.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create shaded outdoor areas",
+            "strategy": "Use elevated blocks to create covered spaces below for circulation, gathering, and landscape.",
+            "reasoning": {
+              "premise": "Singapore's tropical climate requires shade and rain protection.",
+              "analysis": "Bridging blocks create shaded voids without enclosing the ground plane.",
+              "conclusion": "The project gains usable covered outdoor space."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Increase spatial complexity",
+            "strategy": "Let blocks overlap and bridge across open spaces to create layered spatial experiences.",
+            "reasoning": {
+              "premise": "Large residential developments can become monotonous if organized flatly.",
+              "analysis": "Bridges and voids create depth, surprise, and variation.",
+              "conclusion": "The project becomes spatially rich and exploratory."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create visual continuity between courtyards",
+            "strategy": "Use bridging blocks to frame openings and connect different landscape zones visually.",
+            "reasoning": {
+              "premise": "The project includes multiple courtyards and levels.",
+              "analysis": "Bridged conditions create visual links across the development.",
+              "conclusion": "The open spaces feel interconnected rather than isolated."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_06",
+        "subject": "apartment units",
+        "relation": "occupy",
+        "relation_type": "Spatial Relation",
+        "object": "horizontal blocks",
+        "description": "Residential units are arranged within long horizontal blocks rather than isolated tower floor plates.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Replace tower floor logic",
+            "strategy": "Organize apartments within long six-storey bars instead of compact tower floor plates.",
+            "reasoning": {
+              "premise": "The project aims to challenge the point-tower typology.",
+              "analysis": "Horizontal bars allow units to relate to courtyards, roofs, and terraces differently.",
+              "conclusion": "Residential organization shifts from tower stacking to block interlacing."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create varied dwelling types",
+            "strategy": "Use horizontal blocks to accommodate simplex, duplex, townhouse, penthouse, and garden units.",
+            "reasoning": {
+              "premise": "Different households require different types of dwelling.",
+              "analysis": "Horizontal blocks and superlevels create multiple unit relationships to ground and roof.",
+              "conclusion": "The project supports a diverse residential community."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Increase connection to landscape",
+            "strategy": "Arrange units so they can face courtyards, roof gardens, or outward landscape views.",
+            "reasoning": {
+              "premise": "The project is organized around communal landscapes.",
+              "analysis": "Horizontal blocks offer long edges facing different landscape conditions.",
+              "conclusion": "Apartments gain stronger relationships to greenery and open space."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_07",
+        "subject": "lift cores",
+        "relation": "connect",
+        "relation_type": "Circulation Relation",
+        "object": "stacked blocks",
+        "description": "Vertical cores provide access between different stacked levels and apartment blocks.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Organize vertical access in a non-tower system",
+            "strategy": "Distribute lift cores and stairs to connect stacked residential bars and superlevels.",
+            "reasoning": {
+              "premise": "The project is not organized as a conventional tower with one central core.",
+              "analysis": "Multiple cores are required to serve interlocking horizontal blocks.",
+              "conclusion": "Circulation adapts to the interlaced massing system."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Connect apartments to shared amenities",
+            "strategy": "Use lift cores and circulation paths to link homes with courtyards, gardens, and recreation decks.",
+            "reasoning": {
+              "premise": "The project contains amenities across many levels.",
+              "analysis": "Vertical circulation must connect residential units to landscape and communal facilities.",
+              "conclusion": "The circulation system supports the vertical village."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Maintain legibility in a complex block system",
+            "strategy": "Use repeated core positions to give orientation and access clarity within the stacked blocks.",
+            "reasoning": {
+              "premise": "Interlocking blocks can create spatial complexity.",
+              "analysis": "Clear core distribution helps residents navigate the development.",
+              "conclusion": "The complex remains usable despite its unconventional form."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_08",
+        "subject": "landscape decks",
+        "relation": "connect",
+        "relation_type": "Circulation Relation",
+        "object": "courtyards and amenities",
+        "description": "Landscape decks, paths, pools, and gardens create continuity between courtyards and community facilities.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create continuous communal landscape",
+            "strategy": "Use decks and paths to link courtyards, pools, gardens, and amenity zones.",
+            "reasoning": {
+              "premise": "The project has many outdoor spaces distributed across a large site.",
+              "analysis": "Landscape decks create continuity between these spaces.",
+              "conclusion": "Residents experience the project as one connected garden network."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Encourage movement and social encounter",
+            "strategy": "Design landscape routes that guide residents through different courtyards and amenity spaces.",
+            "reasoning": {
+              "premise": "Community is strengthened by shared movement and encounter.",
+              "analysis": "Paths and decks create opportunities for residents to meet.",
+              "conclusion": "Landscape circulation supports social life."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Link recreation and daily life",
+            "strategy": "Place recreation decks, pools, playgrounds, and gardens along shared movement paths.",
+            "reasoning": {
+              "premise": "Amenities are more effective when integrated into daily routes.",
+              "analysis": "Linking them with landscape paths increases use and visibility.",
+              "conclusion": "The project turns circulation into recreational experience."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_09",
+        "subject": "water bodies",
+        "relation": "cool",
+        "relation_type": "Environmental Relation",
+        "object": "courtyard microclimate",
+        "description": "Pools and water features can support evaporative cooling and create more comfortable outdoor spaces in the tropical climate.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Improve tropical outdoor comfort",
+            "strategy": "Use pools and water features in courtyards to support evaporative cooling and visual freshness.",
+            "reasoning": {
+              "premise": "Singapore's climate is hot and humid.",
+              "analysis": "Water bodies can help cool and soften outdoor environments.",
+              "conclusion": "Courtyards become more comfortable and attractive."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create recreational amenities",
+            "strategy": "Integrate swimming pools and water features as central communal amenities.",
+            "reasoning": {
+              "premise": "Large residential developments require shared recreation.",
+              "analysis": "Pools combine social, leisure, and environmental functions.",
+              "conclusion": "Water bodies become both climate and community infrastructure."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Enhance landscape atmosphere",
+            "strategy": "Use water to create contrast with concrete blocks and dense residential massing.",
+            "reasoning": {
+              "premise": "Dense architecture can feel hard and heavy.",
+              "analysis": "Water introduces reflection, movement, and softness.",
+              "conclusion": "The courtyards gain a stronger tropical landscape identity."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_10",
+        "subject": "stacking strategy",
+        "relation": "creates",
+        "relation_type": "Typological Relation",
+        "object": "private and communal terraces",
+        "description": "The interlocking massing produces terraces, roof gardens, and outdoor spaces at multiple levels.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create outdoor space from massing",
+            "strategy": "Use the offset and overlap of blocks to generate terraces and gardens.",
+            "reasoning": {
+              "premise": "High-density housing needs outdoor spaces at many levels.",
+              "analysis": "Stacking creates leftover roof and terrace surfaces.",
+              "conclusion": "The massing itself produces outdoor living infrastructure."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create public-private landscape gradient",
+            "strategy": "Use different terraces as private gardens, shared decks, or communal amenities.",
+            "reasoning": {
+              "premise": "Residents need both private and shared outdoor spaces.",
+              "analysis": "Different terrace positions support different degrees of access.",
+              "conclusion": "The project creates a layered landscape hierarchy."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Make density more livable",
+            "strategy": "Distribute terraces throughout the stacked system to give residents access to air, view, and greenery.",
+            "reasoning": {
+              "premise": "Dense housing can feel compressed without outdoor relief.",
+              "analysis": "Terraces provide exterior spaces within the high-density system.",
+              "conclusion": "The residential environment becomes more generous and livable."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_11",
+        "subject": "horizontal blocks",
+        "relation": "replace",
+        "relation_type": "Conceptual Relation",
+        "object": "isolated towers",
+        "description": "The project transforms the common high-rise tower model into a horizontal and interconnected residential system.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Challenge conventional high-rise typology",
+            "strategy": "Use horizontal stacked blocks instead of a field of isolated vertical towers.",
+            "reasoning": {
+              "premise": "Singapore residential developments often rely on repeated point towers.",
+              "analysis": "Horizontal blocks produce different communal and spatial relationships.",
+              "conclusion": "The project proposes an alternative high-density housing model."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Strengthen community connection",
+            "strategy": "Interlock blocks so residents share courtyards, gardens, and common spaces.",
+            "reasoning": {
+              "premise": "Isolated towers can weaken horizontal community interaction.",
+              "analysis": "Interlocking blocks create shared spatial networks.",
+              "conclusion": "The development becomes more socially connected."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create a new image of density",
+            "strategy": "Express density as a layered residential landscape rather than vertical towers.",
+            "reasoning": {
+              "premise": "High-density housing is often associated with repetitive tower blocks.",
+              "analysis": "The Interlace shows density as a topographic and communal system.",
+              "conclusion": "The project changes the visual and social image of high-density housing."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_12",
+        "subject": "green network",
+        "relation": "links",
+        "relation_type": "Environmental Relation",
+        "object": "ground and roof landscapes",
+        "description": "Landscape is distributed across courtyards, roof decks, terraces, and elevated gardens, creating a multi-level green network.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create landscape continuity",
+            "strategy": "Connect ground-level gardens, courtyards, roof gardens, and sky terraces into one green system.",
+            "reasoning": {
+              "premise": "Large residential developments require extensive landscape infrastructure.",
+              "analysis": "A multi-level green network expands landscape beyond the ground plane.",
+              "conclusion": "The project becomes an inhabited landscape system."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Improve ecological and social value",
+            "strategy": "Use greenery across multiple levels to support biodiversity, shade, cooling, and communal use.",
+            "reasoning": {
+              "premise": "High-density developments can reduce ecological surfaces.",
+              "analysis": "Green roofs, terraces, and courtyards restore vegetated areas.",
+              "conclusion": "The development supports both ecology and community."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Connect housing to Southern Ridges landscape",
+            "strategy": "Extend the character of the nearby green belt into the residential development through multi-level planting.",
+            "reasoning": {
+              "premise": "The site is located near a major green corridor.",
+              "analysis": "A distributed landscape network connects the project to this broader ecological context.",
+              "conclusion": "The building becomes part of Singapore's green urban fabric."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "Gene_D": {
+    "description": "Gene_D records possible resident behavior, media feedback, and design reflection. Some items are inferred from spatial configuration and should be verified with additional sources if needed.",
+    "resident_behavior": "Residents are likely to experience The Interlace as a large vertical village rather than a set of separate towers. Daily life can involve movement through courtyards, pools, roof gardens, terraces, and shared amenities. This is an interpretation based on the diagrams, plans, and exterior image.",
+    "media_feedback": "The Interlace is widely discussed as a major high-density housing precedent because it replaces isolated point towers with stacked horizontal blocks, courtyards, roof gardens, and communal landscapes.",
+    "designer_reflection": "The project demonstrates how high-density residential development can be reorganized as a horizontal and interlocking landscape system. Its key contribution is the transformation of tower density into a network of courtyards, superlevels, roof gardens, and communal spaces.",
+    "limitations_or_notes": [
+      "The project requires a large site area, making direct transfer to compact urban sites difficult.",
+      "The complexity of stacked blocks requires careful structural, circulation, fire safety, and maintenance planning.",
+      "The success of the communal landscape depends on long-term management, resident use, and landscape maintenance.",
+      "The typology is highly suited to tropical climates where outdoor communal space, shade, and ventilation are important."
+    ]
+  },
+  "case_summary": {
+    "one_sentence_summary": "The Interlace is a high-density residential precedent that transforms isolated towers into a horizontal high-rise of stacked apartment blocks, hexagonal courtyards, roof gardens, and tropical communal landscapes.",
+    "key_design_problem": "How can high-density housing in a tropical city provide community, landscape, shade, ventilation, unit diversity, and outdoor amenities without relying on isolated point towers?",
+    "key_design_solution": "Stack thirty-one six-storey residential blocks in hexagonal arrangements around eight large courtyards, using roof gardens, sky terraces, shaded voids, water bodies, and communal amenities to create a vertical village.",
+    "transferable_strategies_for_highrise_housing": [
+      "Replace isolated point towers with stacked horizontal residential blocks.",
+      "Use hexagonal courtyard arrangements to create multiple communal landscapes.",
+      "Use roof gardens to multiply usable landscape area.",
+      "Use overhanging blocks to create shaded outdoor spaces.",
+      "Integrate water bodies into courtyards for recreation and microclimate benefits.",
+      "Create multiple unit types through superlevel stacking.",
+      "Use landscape decks to connect courtyards and amenities.",
+      "Treat density as a topographic landscape rather than only as vertical height."
+    ]
+  },
+  "keywords": [
+    "The Interlace",
+    "OMA",
+    "Ole Scheeren",
+    "Singapore",
+    "Depot Road",
+    "Alexandra Road",
+    "Southern Ridges",
+    "high-density residential",
+    "horizontal high-rise",
+    "stacked apartment blocks",
+    "six-storey blocks",
+    "hexagonal arrangement",
+    "eight courtyards",
+    "vertical village",
+    "roof gardens",
+    "sky gardens",
+    "superlevels",
+    "interlocking blocks",
+    "tropical communal living",
+    "courtyard housing",
+    "landscape topography",
+    "anti-tower typology",
+    "green network",
+    "water bodies",
+    "shaded voids",
+    "large-scale residential landscape"
+  ],
+  "status": "preliminary_json_v1",
+  "created_for": "High-Rise Residential Precedent Knowledge Base",
+  "notes": "This JSON is based on manually prepared preprocess files for site context, drawings, photos, and renders. It is ready to be included as Case 13 in the precedent database. Exact unit count, site area, block dimensions, and amenity distribution should be checked again before final publication."
+}
