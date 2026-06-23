@@ -1,0 +1,730 @@
+{
+"id": "case_05_vancouver_house",
+"project_name": "Vancouver House",
+"architect": "BIG - Bjarke Ingels Group",
+"architect_of_record": "DIALOG",
+"developer": "Westbank Projects Corporation",
+"location": "Vancouver, British Columbia, Canada",
+"district": "Downtown Vancouver / Beach District / Granville Bridge North End",
+"year": "2020",
+"building_type": "high-rise residential / mixed-use urban village",
+"area": "60758 m² / 654000 ft²",
+"height": "approximately 149 m",
+"floor_count": "approximately 49-52 storeys depending on source and counting method; verify before final publication",
+"number_of_units": "approximately 375 residential units; verify before final publication",
+"main_theme": [
+"infrastructure-generated tower",
+"triangular-to-rectangular transformation",
+"twisting residential tower",
+"bridge-edge housing",
+"mixed-use urban village",
+"residual urban site transformation",
+"Vancouverism"
+],
+"source_urls": [
+"https://www.archdaily.com/991864/big-releases-first-photographs-of-the-vancouver-house-and-telus-sky-in-canada",
+"https://big.dk/projects/vancouver-house-missing-pictures-7130",
+"https://dialogdesign.ca/projects/vancouver-house/",
+"https://www.canadianarchitect.com/international-icon-vancouver-house-vancouver-british-columbia/"
+],
+"data_sources": [
+"source_text.md",
+"01_site_context_analysis.md",
+"02_drawings_preprocess.md",
+"03_photos_renders_preprocess.md",
+"residential_unit_plan.jpg",
+"exterior_photo.jpg",
+"urban_axonometric_drawing.jpg"
+],
+"Gene_A": {
+"description": "Gene_A records the site conditions, urban context, environmental conditions, functional needs, and contextual reasoning of the precedent.",
+"location": "Vancouver House is located at the north end of the Granville Bridge in Downtown Vancouver, British Columbia, Canada.",
+"urban_context": "The project sits at a complex urban threshold where the Granville Bridge, downtown street grid, False Creek waterfront, traffic ramps, and residual triangular parcels meet.",
+"site_conditions": "The site is highly constrained by bridge infrastructure, ramp geometry, setback requirements, shadow restrictions, traffic exposure, and leftover triangular land parcels. Instead of treating these constraints as limitations, the project uses them as the main generator of architectural form.",
+"adjacent_uses": {
+"east": "Downtown Vancouver blocks, Howe Street, residential and mixed-use towers, office uses, and commercial programs.",
+"west": "Granville Bridge / Granville Street Bridge infrastructure, bridge ramps, traffic corridor, and the direction toward False Creek.",
+"south": "Beach Avenue, bridge approach spaces, lower mixed-use buildings, and pedestrian connections toward the waterfront.",
+"north": "Downtown street grid, neighboring high-rise residential and commercial buildings, and urban services."
+},
+"surrounding_context": {
+"east": "Dense downtown towers, mixed-use streets, residential buildings, offices, and urban amenities.",
+"west": "Granville Bridge, bridge ramps, False Creek edge, and large-scale traffic infrastructure.",
+"south": "Beach Avenue, waterfront access, lower mixed-use urban village buildings, and public spaces under or near the bridge.",
+"north": "Downtown Vancouver high-rise fabric and urban street grid."
+},
+"climate_conditions": "Vancouver has a rainy coastal climate with significant need for covered public space, daylight access, and views. The building form also responds to shadow constraints on neighboring public space and park conditions.",
+"view_conditions": "The tower benefits from potential views toward False Creek, Vancouver's downtown skyline, mountains, and surrounding urban landscape. The view condition changes vertically: lower levels face infrastructure and traffic, while upper levels gain broader water, city, and mountain views.",
+"functional_needs": "The project provides high-rise residential units while integrating a mixed-use urban village, retail, restaurants, leisure spaces, public art, bridge-under public realm, and pedestrian-oriented spaces at the base.",
+"density_or_height_condition": "The lower tower footprint is restricted by bridge setback and triangular site geometry. As the tower rises above the bridge constraint zone, it expands into a more efficient upper residential floor plate to recover usable area and maximize real estate value.",
+"target_residents": "Urban high-rise residents seeking downtown access, views, private residential units, and proximity to Vancouver's waterfront and mixed-use amenities.",
+"context_steps": [
+{
+"step": 1,
+"subject": "project site",
+"relation": "is located beside",
+"object": "Granville Bridge"
+},
+{
+"step": 2,
+"subject": "bridge infrastructure",
+"relation": "creates",
+"object": "residual triangular parcels"
+},
+{
+"step": 3,
+"subject": "bridge setback",
+"relation": "constrains",
+"object": "tower base"
+},
+{
+"step": 4,
+"subject": "tower base",
+"relation": "begins as",
+"object": "small triangular footprint"
+},
+{
+"step": 5,
+"subject": "tower volume",
+"relation": "expands into",
+"object": "rectangular upper floor plate"
+},
+{
+"step": 6,
+"subject": "urban village",
+"relation": "activates",
+"object": "bridge-under residual space"
+},
+{
+"step": 7,
+"subject": "tower",
+"relation": "marks",
+"object": "downtown gateway"
+},
+{
+"step": 8,
+"subject": "upper residential units",
+"relation": "capture",
+"object": "water, city, and mountain views"
+}
+]
+},
+"Gene_B": {
+"description": "Gene_B records the design issue, design concept, and overall design strategy.",
+"issue": "Residual land around major infrastructure is often difficult to develop, spatially fragmented, noisy, and disconnected from pedestrian life. Standard tower-and-podium models do not easily fit irregular bridge-edge sites.",
+"concept": "Transform an infrastructure-constrained triangular site into a high-rise residential tower and mixed-use urban village, using the limitations of the bridge as the generator of the building form.",
+"strategy": "Begin with a narrow triangular tower base shaped by bridge setback and site geometry, then expand the tower upward into a larger rectangular residential floor plate after clearing the constraint zone. At ground level, activate the residual spaces under and around the bridge with retail, restaurants, public art, pedestrian spaces, and low-rise triangular buildings.",
+"design_intentions": [
+"Turn leftover infrastructure land into a productive urban site.",
+"Use bridge setback and triangular site geometry as generators of tower form.",
+"Transform the lower constrained footprint into an expanded upper residential floor plate.",
+"Create a mixed-use urban village under and around the bridge.",
+"Use the tower as a downtown gateway marker.",
+"Evolve the Vancouver tower-and-podium model through a more complex infrastructure-responsive base.",
+"Maximize upper-floor residential views toward water, city, and mountains."
+]
+},
+"Gene_C1": {
+"description": "Gene_C1 records the architectural vocabulary extracted from site context, drawings, diagrams, photos, and renders.",
+"vocabulary": [
+"twisting tower",
+"triangular base",
+"rectangular upper floor plate",
+"expanding tower volume",
+"cantilevered tower form",
+"slender high-rise mass",
+"tower shaft",
+"tower top",
+"residential stack",
+"folded facade",
+"facade grid",
+"balcony module",
+"window module",
+"undulating tower profile",
+"skyline marker",
+"residential unit",
+"estate unit",
+"living room",
+"dining area",
+"kitchen",
+"bedroom",
+"master bedroom",
+"library",
+"bathroom",
+"powder room",
+"entry foyer",
+"interior corridor",
+"outdoor living area",
+"balcony",
+"view-oriented room",
+"mixed-use podium",
+"triangular low-rise building",
+"retail space",
+"restaurant space",
+"leisure space",
+"public art space",
+"bridge-under public realm",
+"covered street",
+"pedestrian zone",
+"ground-level plaza",
+"urban village",
+"Beach District",
+"Granville Bridge",
+"bridge ramp",
+"bridge setback",
+"traffic corridor",
+"residual triangular parcel",
+"infrastructure edge",
+"False Creek direction",
+"Downtown street grid",
+"Howe Street",
+"Beach Avenue",
+"urban gateway",
+"water view",
+"city view",
+"mountain view",
+"traffic exposure",
+"shadow control",
+"upper-level view optimization"
+]
+},
+"Gene_C2": {
+"description": "Gene_C2 records semantic spatial relationships and strategy candidates. Each relation follows the format: Subject → Relation (Relation Type) → Object.",
+"semantic_relations": [
+{
+"id": "C2_01",
+"subject": "Granville Bridge",
+"relation": "constrains",
+"relation_type": "Urban Relation",
+"object": "tower base",
+"description": "The bridge and its setback requirements restrict the lower footprint of the tower, producing a narrow triangular base.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Transform infrastructure limitation into form generator",
+"strategy": "Use bridge setback and traffic clearance requirements to define the tower's lower footprint instead of forcing a conventional base.",
+"reasoning": {
+"premise": "The site is restricted by the Granville Bridge and its required setbacks.",
+"analysis": "These constraints reduce the developable area at the lower levels.",
+"conclusion": "The tower base becomes a direct expression of infrastructure constraint."
+}
+},
+{
+"id": 2,
+"motivation": "Avoid direct conflict with traffic infrastructure",
+"strategy": "Keep the lower building mass narrow and set back from the bridge to reduce visual and spatial conflict with heavy traffic.",
+"reasoning": {
+"premise": "Residential spaces near bridge traffic can be exposed to noise, views, and safety concerns.",
+"analysis": "A constrained base maintains distance from bridge infrastructure.",
+"conclusion": "The project respects the bridge condition while preserving development potential."
+}
+},
+{
+"id": 3,
+"motivation": "Make site difficulty legible",
+"strategy": "Allow the tower form to show the difficulty of the site through its triangular and twisting lower geometry.",
+"reasoning": {
+"premise": "Infrastructure sites are often treated as leftover or hidden conditions.",
+"analysis": "Vancouver House turns the constraint into a visible massing strategy.",
+"conclusion": "The building communicates how it was shaped by the site."
+}
+}
+]
+},
+{
+"id": "C2_02",
+"subject": "tower base",
+"relation": "transforms into",
+"relation_type": "Vertical Relation",
+"object": "upper floor plate",
+"description": "The tower begins from a constrained triangular base and gradually expands into a more efficient upper residential floor plate.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Recover usable residential area",
+"strategy": "Let the tower expand after it rises above the bridge setback zone, creating larger and more efficient upper floor plates.",
+"reasoning": {
+"premise": "The lower site is too constrained for a standard residential floor plate.",
+"analysis": "The setback limitation is most restrictive near the bridge level.",
+"conclusion": "Expanding the tower upward allows the building to recover developable area."
+}
+},
+{
+"id": 2,
+"motivation": "Use height to overcome site constraints",
+"strategy": "Treat the vertical dimension as a way to move from restricted ground conditions toward more flexible upper-floor geometry.",
+"reasoning": {
+"premise": "The ground plane is shaped by traffic, setbacks, and triangular parcels.",
+"analysis": "Higher levels are less constrained by the immediate bridge clearance zone.",
+"conclusion": "The tower becomes more efficient as it rises."
+}
+},
+{
+"id": 3,
+"motivation": "Create a recognizable massing sequence",
+"strategy": "Express the transition from triangular base to rectangular top as the central architectural identity of the tower.",
+"reasoning": {
+"premise": "The project form results from a unique site condition.",
+"analysis": "The vertical transformation makes that condition visible.",
+"conclusion": "The tower becomes identifiable through its constraint-driven geometry."
+}
+}
+]
+},
+{
+"id": "C2_03",
+"subject": "upper floor plate",
+"relation": "maximizes",
+"relation_type": "Functional Relation",
+"object": "residential area",
+"description": "The expanded upper levels create more efficient residential floor plates and recover area lost at the constrained base.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Improve development efficiency",
+"strategy": "Use a larger rectangular upper floor plate to increase usable residential area after clearing the constrained lower zone.",
+"reasoning": {
+"premise": "High-rise residential projects require efficient floor plates.",
+"analysis": "A triangular base alone would produce inefficient unit layouts and limited floor area.",
+"conclusion": "The upper rectangular plate improves economic and spatial performance."
+}
+},
+{
+"id": 2,
+"motivation": "Improve apartment planning",
+"strategy": "Use more regular upper floors to create better unit layouts, larger rooms, and clearer view-oriented spaces.",
+"reasoning": {
+"premise": "Irregular floor plates can make residential planning difficult.",
+"analysis": "Upper rectangular geometry allows more usable apartment layouts.",
+"conclusion": "Residential quality improves as the tower expands upward."
+}
+},
+{
+"id": 3,
+"motivation": "Increase upper-level value",
+"strategy": "Concentrate larger and more valuable residential units at levels with better views and daylight.",
+"reasoning": {
+"premise": "Higher floors benefit from views over False Creek, the city, and mountains.",
+"analysis": "Larger floor plates at upper levels maximize value where views are strongest.",
+"conclusion": "The project turns vertical height into both spatial and real-estate advantage."
+}
+}
+]
+},
+{
+"id": "C2_04",
+"subject": "twisting tower",
+"relation": "responds to",
+"relation_type": "Conceptual Relation",
+"object": "infrastructure geometry",
+"description": "The tower twists and expands as a response to the bridge, setbacks, triangular site, and view conditions.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Generate form from constraints",
+"strategy": "Use the geometry of bridge ramps, setbacks, and site fragments to shape the tower's twist.",
+"reasoning": {
+"premise": "The site is not a conventional rectangular parcel.",
+"analysis": "A standard tower would not fit the bridge-edge geometry.",
+"conclusion": "The twisting form emerges as a rational response to constraint."
+}
+},
+{
+"id": 2,
+"motivation": "Create architectural identity",
+"strategy": "Make the tower's turning and expanding profile visible from the city and bridge.",
+"reasoning": {
+"premise": "The project sits at a highly visible downtown gateway.",
+"analysis": "A distinctive silhouette can mark arrival into the city.",
+"conclusion": "The tower becomes a recognizable urban landmark."
+}
+},
+{
+"id": 3,
+"motivation": "Balance urban repair and residential value",
+"strategy": "Use the twist to connect constrained ground-level urban repair with optimized upper-level residential space.",
+"reasoning": {
+"premise": "The project must solve both public realm and housing problems.",
+"analysis": "The tower geometry links the constrained base with valuable upper apartments.",
+"conclusion": "The form unifies urban and residential performance."
+}
+}
+]
+},
+{
+"id": "C2_05",
+"subject": "mixed-use podium",
+"relation": "activates",
+"relation_type": "Urban Relation",
+"object": "residual urban space",
+"description": "The podium and low-rise buildings use leftover bridge-edge spaces for retail, restaurants, public art, leisure, and pedestrian activity.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Turn leftover parcels into active urban space",
+"strategy": "Insert mixed-use programs into triangular residual parcels around the bridge.",
+"reasoning": {
+"premise": "Infrastructure often creates unusable leftover land.",
+"analysis": "Retail and public programs can give these fragments a new function.",
+"conclusion": "Residual land becomes part of a productive urban village."
+}
+},
+{
+"id": 2,
+"motivation": "Create pedestrian-scale activity",
+"strategy": "Use smaller low-rise buildings to introduce working, shopping, leisure, and dining spaces at the ground level.",
+"reasoning": {
+"premise": "A tall tower alone would not solve the harshness of the bridge-edge site.",
+"analysis": "Low-rise mixed-use buildings create a more human-scaled public realm.",
+"conclusion": "The base mediates between tower scale and pedestrian scale."
+}
+},
+{
+"id": 3,
+"motivation": "Repair the bridge-under environment",
+"strategy": "Use public art, commercial uses, and covered pedestrian areas to transform the under-bridge zone into a civic destination.",
+"reasoning": {
+"premise": "Under-bridge spaces are often perceived as leftover, unsafe, or inactive.",
+"analysis": "Programming and design can change the social meaning of these spaces.",
+"conclusion": "Infrastructure space becomes urban place."
+}
+}
+]
+},
+{
+"id": "C2_06",
+"subject": "public realm",
+"relation": "occupies",
+"relation_type": "Spatial Relation",
+"object": "bridge-under space",
+"description": "Spaces under and near the bridge are reinterpreted as public urban rooms rather than leftover infrastructure zones.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Create usable covered urban space",
+"strategy": "Use the bridge structure as a form of overhead cover for pedestrian, retail, and public art activities.",
+"reasoning": {
+"premise": "Vancouver's rainy climate makes covered public space valuable.",
+"analysis": "Bridge-under space can become protected if properly activated.",
+"conclusion": "The project turns infrastructural cover into public realm benefit."
+}
+},
+{
+"id": 2,
+"motivation": "Improve urban continuity",
+"strategy": "Connect the bridge-under space to surrounding sidewalks, low-rise buildings, and public plazas.",
+"reasoning": {
+"premise": "Infrastructure can interrupt pedestrian continuity.",
+"analysis": "Public realm design can stitch fragmented parcels together.",
+"conclusion": "The area becomes a connected neighborhood rather than isolated leftover lots."
+}
+},
+{
+"id": 3,
+"motivation": "Change the perception of infrastructure",
+"strategy": "Treat the underside of the bridge as a front-of-house civic space rather than a back-of-house condition.",
+"reasoning": {
+"premise": "Cities often ignore the spatial quality of infrastructure edges.",
+"analysis": "Programming and design can make these areas socially meaningful.",
+"conclusion": "The project demonstrates a new attitude toward infrastructural urbanism."
+}
+}
+]
+},
+{
+"id": "C2_07",
+"subject": "residential unit",
+"relation": "opens to",
+"relation_type": "Spatial Relation",
+"object": "balcony",
+"description": "Residential interiors connect to balconies or outdoor living spaces, creating a transition between private life and the surrounding city.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Extend interior living outward",
+"strategy": "Connect living and dining areas to balconies so residents can access outdoor space and views.",
+"reasoning": {
+"premise": "High-rise apartments benefit from outdoor extensions.",
+"analysis": "Balconies create transitional spaces between interior and exterior.",
+"conclusion": "The residential unit gains more spatial depth and view access."
+}
+},
+{
+"id": 2,
+"motivation": "Improve view experience",
+"strategy": "Use balconies as view platforms toward the city, water, and mountains.",
+"reasoning": {
+"premise": "The site offers strong upper-level views.",
+"analysis": "Balcony spaces enhance residents' connection to the surrounding landscape.",
+"conclusion": "The unit becomes more strongly tied to Vancouver's scenic context."
+}
+},
+{
+"id": 3,
+"motivation": "Create private outdoor thresholds",
+"strategy": "Use balconies to mediate between private domestic space and the exposed high-rise exterior.",
+"reasoning": {
+"premise": "High-rise living can feel detached from exterior space.",
+"analysis": "Balconies create a usable edge condition.",
+"conclusion": "The apartment gains a more livable transition to the outside."
+}
+}
+]
+},
+{
+"id": "C2_08",
+"subject": "living area",
+"relation": "faces",
+"relation_type": "Perceptual Relation",
+"object": "view",
+"description": "Living and dining spaces are placed along the facade to capture daylight and outward views.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Prioritize primary living spaces",
+"strategy": "Place living and dining rooms at facade edges where they can access the strongest views and light.",
+"reasoning": {
+"premise": "Living areas are the main occupied spaces in residential units.",
+"analysis": "Locating them at the facade increases daily access to view and daylight.",
+"conclusion": "The apartment experience is organized around outward orientation."
+}
+},
+{
+"id": 2,
+"motivation": "Use views as residential value",
+"strategy": "Orient major rooms toward water, city, and mountain views when available.",
+"reasoning": {
+"premise": "Vancouver's natural and urban landscape is a major residential asset.",
+"analysis": "View-oriented planning increases both spatial quality and market value.",
+"conclusion": "The unit layout transforms site context into residential experience."
+}
+},
+{
+"id": 3,
+"motivation": "Create visual relief from infrastructure",
+"strategy": "Use upper-level orientation to direct attention beyond the bridge toward wider landscape views.",
+"reasoning": {
+"premise": "Lower levels are visually dominated by traffic infrastructure.",
+"analysis": "Higher units can look over and beyond the bridge condition.",
+"conclusion": "The project turns a difficult infrastructure site into view-rich residential living."
+}
+}
+]
+},
+{
+"id": "C2_09",
+"subject": "balcony module",
+"relation": "repeats across",
+"relation_type": "Material Relation",
+"object": "tower facade",
+"description": "Balcony and facade modules repeat across the tower, creating a residential grid and visual texture.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Express residential repetition",
+"strategy": "Use repeated balcony and window modules to make the stacked residential program visible on the facade.",
+"reasoning": {
+"premise": "High-rise housing is based on repeated residential units.",
+"analysis": "Balcony modules can express this repetition clearly.",
+"conclusion": "The facade communicates residential occupation."
+}
+},
+{
+"id": 2,
+"motivation": "Control visual complexity",
+"strategy": "Combine a regular facade grid with a dynamic twisting mass to balance order and motion.",
+"reasoning": {
+"premise": "The overall tower form is highly sculptural.",
+"analysis": "A repeated facade module provides rhythm and discipline.",
+"conclusion": "The building appears both dynamic and organized."
+}
+},
+{
+"id": 3,
+"motivation": "Support unit-level outdoor space",
+"strategy": "Use repeated balconies to give many units access to exterior space within a consistent facade system.",
+"reasoning": {
+"premise": "Residential quality benefits from private outdoor areas.",
+"analysis": "A repeated balcony system distributes outdoor access across the tower.",
+"conclusion": "The facade supports both visual identity and unit function."
+}
+}
+]
+},
+{
+"id": "C2_10",
+"subject": "tower",
+"relation": "marks",
+"relation_type": "Urban Relation",
+"object": "urban gateway",
+"description": "The tower's height and distinctive form make it a visual marker when entering Downtown Vancouver from Granville Bridge.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Create downtown arrival identity",
+"strategy": "Use the tower's twisting silhouette to mark the transition from bridge infrastructure into the downtown skyline.",
+"reasoning": {
+"premise": "The site is located at a major entrance to downtown Vancouver.",
+"analysis": "A distinct tower form can announce arrival into the city.",
+"conclusion": "The building becomes an urban gateway marker."
+}
+},
+{
+"id": 2,
+"motivation": "Transform a traffic node into a landmark",
+"strategy": "Use architecture to give visual identity to a previously difficult bridge-edge site.",
+"reasoning": {
+"premise": "Traffic infrastructure often creates anonymous or leftover urban spaces.",
+"analysis": "A landmark tower can reframe the perception of the location.",
+"conclusion": "The site becomes memorable rather than marginal."
+}
+},
+{
+"id": 3,
+"motivation": "Connect skyline and street-level urban village",
+"strategy": "Let the tower operate as a distant marker while the base creates local pedestrian activity.",
+"reasoning": {
+"premise": "High-rise projects must work at both city and pedestrian scales.",
+"analysis": "The tower and urban village play different but complementary roles.",
+"conclusion": "The project creates identity at multiple scales."
+}
+}
+]
+},
+{
+"id": "C2_11",
+"subject": "low-rise urban village",
+"relation": "mediates",
+"relation_type": "Urban Relation",
+"object": "tower and street",
+"description": "The low-rise triangular buildings at the base connect the high-rise tower to the pedestrian scale of the street and bridge-under spaces.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Humanize the base of the tower",
+"strategy": "Use smaller buildings at the base to create a scale closer to pedestrians and neighborhood activity.",
+"reasoning": {
+"premise": "Tall towers can feel disconnected from street life.",
+"analysis": "Low-rise buildings create a more approachable urban edge.",
+"conclusion": "The tower becomes part of a pedestrian-scaled environment."
+}
+},
+{
+"id": 2,
+"motivation": "Occupy irregular parcels efficiently",
+"strategy": "Shape low-rise buildings to fit triangular leftover lots around the bridge.",
+"reasoning": {
+"premise": "The site contains irregular residual parcels.",
+"analysis": "Small triangular buildings can adapt to these geometries.",
+"conclusion": "Difficult site fragments become usable architecture."
+}
+},
+{
+"id": 3,
+"motivation": "Create a mixed-use neighborhood",
+"strategy": "Combine residential tower, retail, restaurants, leisure spaces, and public realm into one urban village.",
+"reasoning": {
+"premise": "Infrastructure sites can feel mono-functional and disconnected.",
+"analysis": "Mixed-use programming creates diversity and daily activity.",
+"conclusion": "The base becomes a neighborhood rather than a leftover zone."
+}
+}
+]
+},
+{
+"id": "C2_12",
+"subject": "infrastructure constraint",
+"relation": "generates",
+"relation_type": "Conceptual Relation",
+"object": "building form",
+"description": "The building form is directly generated from site constraints, setbacks, shadow limits, bridge geometry, and real-estate optimization.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Make constraints productive",
+"strategy": "Use setbacks, shadows, infrastructure geometry, and site restrictions as generative design rules.",
+"reasoning": {
+"premise": "Complex urban sites contain many limitations.",
+"analysis": "When treated as design inputs, constraints can produce specific and meaningful form.",
+"conclusion": "The final building becomes a record of its site conditions."
+}
+},
+{
+"id": 2,
+"motivation": "Avoid arbitrary iconic form",
+"strategy": "Derive the sculptural tower shape from measurable urban constraints rather than visual expression alone.",
+"reasoning": {
+"premise": "Iconic towers can be criticized as arbitrary objects.",
+"analysis": "Vancouver House links its form to setback, view, shadow, and site logic.",
+"conclusion": "The tower's image is supported by contextual reasoning."
+}
+},
+{
+"id": 3,
+"motivation": "Create a transferable strategy for residual sites",
+"strategy": "Document the transformation from triangular site to expanding tower as a method for other infrastructure-edge developments.",
+"reasoning": {
+"premise": "Many cities contain leftover land around roads, bridges, and rail infrastructure.",
+"analysis": "A constraint-driven massing process can turn these sites into opportunities.",
+"conclusion": "The project becomes a precedent for residual-site urban housing."
+}
+}
+]
+}
+]
+},
+"Gene_D": {
+"description": "Gene_D records possible resident behavior, media feedback, and design reflection. Some items are inferred from spatial configuration and should be verified with additional sources if needed.",
+"resident_behavior": "Residents are likely to experience a strong vertical shift in living conditions. Lower levels relate more directly to traffic, bridge infrastructure, and the urban village, while upper levels gain broader water, city, and mountain views. This is an interpretation based on the project drawings, form logic, and site context.",
+"media_feedback": "Vancouver House is widely discussed as an iconic infrastructure-responsive residential tower because its twisting form transforms a constrained bridge-edge site into a mixed-use urban landmark.",
+"designer_reflection": "The project demonstrates how a high-rise residential tower can grow out of urban restrictions. Its key contribution is the transformation of a residual triangular site into an expanding residential volume and active bridge-under public realm.",
+"limitations_or_notes": [
+"Exact unit count, floor count, and residential program distribution vary across sources and should be verified before final publication.",
+"The public realm success depends on actual pedestrian use, retail operation, noise condition, and management of under-bridge spaces.",
+"The dramatic massing should be interpreted as a response to setbacks and bridge geometry rather than only as formal expression.",
+"The project is highly site-specific; transferability depends on the presence of similar infrastructure constraints."
+]
+},
+"case_summary": {
+"one_sentence_summary": "Vancouver House is a high-rise residential precedent that transforms a constrained bridge-edge triangular site into a twisting tower and mixed-use urban village.",
+"key_design_problem": "How can a difficult residual site shaped by bridge infrastructure, setbacks, traffic exposure, and shadow restrictions become a high-value residential tower and active public realm?",
+"key_design_solution": "Use the constrained triangular base as the starting geometry, expand the tower upward into a rectangular residential floor plate after clearing the bridge setback, and activate the residual ground plane with a mixed-use urban village.",
+"transferable_strategies_for_highrise_housing": [
+"Use infrastructure constraints as massing generators rather than obstacles.",
+"Start with a narrow or irregular base where the site is constrained, then expand upper residential floors where possible.",
+"Transform under-bridge or infrastructure-adjacent spaces into active public realm.",
+"Use low-rise mixed-use buildings to mediate between high-rise tower and pedestrian scale.",
+"Orient upper units toward valuable views such as water, skyline, and mountains.",
+"Use tower form to mark an urban gateway or city entrance.",
+"Adapt the tower-podium model to irregular residual sites rather than applying a standard podium."
+]
+},
+"keywords": [
+"Vancouver House",
+"BIG",
+"DIALOG",
+"Westbank",
+"Vancouver",
+"British Columbia",
+"Granville Bridge",
+"Beach District",
+"high-rise residential",
+"twisting tower",
+"triangular base",
+"rectangular upper floor plate",
+"cantilevered tower",
+"infrastructure-generated form",
+"bridge setback",
+"residual urban site",
+"mixed-use urban village",
+"under-bridge public realm",
+"False Creek view",
+"downtown gateway",
+"Vancouverism",
+"tower-podium transformation",
+"constraint-driven design"
+],
+"status": "preliminary_json_v1",
+"created_for": "High-Rise Residential Precedent Knowledge Base",
+"notes": "This JSON is based on manually prepared preprocess files for site context, drawings, photos, and renders. It is ready to be included as Case 05 in the precedent database. Exact unit count, floor count, and area should be checked again before final publication because different sources may use different counting methods."
+}

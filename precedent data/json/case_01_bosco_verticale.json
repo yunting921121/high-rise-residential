@@ -1,0 +1,550 @@
+{
+"id": "case_01_bosco_verticale",
+"project_name": "Bosco Verticale",
+"architect": "Boeri Studio / Stefano Boeri Architetti",
+"location": "Milan, Italy",
+"district": "Porta Nuova / Isola",
+"year": "2014",
+"building_type": "high-rise residential",
+"main_theme": [
+"vertical forest",
+"ecological facade",
+"balcony greenery",
+"urban biodiversity",
+"high-density residential living"
+],
+"source_urls": [
+"https://www.archdaily.com/777498/bosco-verticale-stefano-boeri-architetti",
+"https://www.stefanoboeriarchitetti.net/en/project/vertical-forest/"
+],
+"data_sources": [
+"source_text.md",
+"01_site_context_analysis.md",
+"02_drawings_preprocess.md",
+"03_photos_renders_preprocess.md",
+"exterior_photo.jpg",
+"water_vegetation_system_diagram.jpg",
+"seasonal_facade_diagram.jpg",
+"floor_plan.jpg",
+"google_maps_satellite_image.jpg"
+],
+"Gene_A": {
+"description": "Gene_A records the site conditions, urban context, environmental conditions, and functional requirements of the precedent.",
+"location": "Bosco Verticale is located in Milan, Italy, at the edge between the Porta Nuova urban redevelopment district and the older Isola neighborhood.",
+"urban_context": "The project is positioned between two different urban fabrics: the traditional Isola residential neighborhood to the west and the newer Porta Nuova redevelopment district with public green spaces, office towers, and pedestrian routes to the south and east.",
+"site_conditions": "The site is surrounded by a mixture of residential blocks, cultural facilities, public parks, pedestrian open spaces, office developments, and urban roads. The project acts as an interface between high-density redevelopment and existing neighborhood fabric.",
+"adjacent_uses": {
+"east": "Public green space, pedestrian walkway, Passeggiata Luigi Veronelli, TreeVilla park, and open-space connections toward the BAM park system.",
+"west": "Isola neighborhood blocks, local residential fabric, restaurants, small-scale commercial uses, and streets such as Via Pietro Borsieri and Via Pastrengo.",
+"south": "Via Gaetano de Castillia, public open space, landscaped pedestrian areas, and the Porta Nuova business district.",
+"north": "Via Federico Confalonieri, Casa della Memoria cultural center, and low- to mid-rise urban blocks."
+},
+"surrounding_context": {
+"east": "A sequence of public green spaces, pedestrian paths, playgrounds, and open landscape areas.",
+"west": "The older Isola neighborhood with smaller-scale residential blocks, restaurants, local shops, and a finer urban grain.",
+"south": "Porta Nuova’s newer development area, including larger commercial buildings, office towers, public plazas, landscaped open spaces, and corporate facilities.",
+"north": "A mixed urban edge containing Casa della Memoria, local streets, residential blocks, and neighborhood-scale activities."
+},
+"climate_conditions": "The southern facade generally receives stronger sunlight, while the northern facade receives less direct sunlight. The east side receives morning light, and the west side receives stronger afternoon sunlight. The planting strategy needs to respond to orientation, solar exposure, and seasonal change.",
+"functional_needs": "The project provides high-rise residential units while integrating balconies, planters, vegetation, irrigation systems, maintenance systems, and ecological facade performance.",
+"density_or_height_condition": "The project uses two high-rise residential towers to accommodate density within an urban redevelopment district while using vertical greenery to soften the environmental and visual impact of tower living.",
+"target_residents": "Urban high-rise residential residents who live in a dense metropolitan district but are given direct contact with vegetation, balcony space, and filtered views.",
+"context_steps": [
+{
+"step": 1,
+"subject": "residential towers",
+"relation": "are located in",
+"object": "the Porta Nuova / Isola urban redevelopment context"
+},
+{
+"step": 2,
+"subject": "site east side",
+"relation": "faces",
+"object": "public green space and pedestrian routes"
+},
+{
+"step": 3,
+"subject": "site west side",
+"relation": "connects to",
+"object": "the older Isola residential neighborhood"
+},
+{
+"step": 4,
+"subject": "site south side",
+"relation": "relates to",
+"object": "Porta Nuova open spaces and office district"
+},
+{
+"step": 5,
+"subject": "balcony greenery",
+"relation": "extends",
+"object": "the surrounding park landscape vertically"
+},
+{
+"step": 6,
+"subject": "vertical forest facade",
+"relation": "mediates",
+"object": "high-density residential living and urban environment"
+}
+]
+},
+"Gene_B": {
+"description": "Gene_B records the design issue, design concept, and overall design strategy.",
+"issue": "Conventional high-rise residential towers often separate residents from nature, create hard urban facades, increase exposure to sunlight and heat, and contribute little to urban biodiversity.",
+"concept": "Transform the high-rise residential tower into a vertical forest, where balcony planting, vegetation, and ecological systems become part of everyday domestic life and urban green infrastructure.",
+"strategy": "Use projecting balconies as planting platforms, distribute trees and shrubs vertically across the facade, integrate irrigation and maintenance systems, and arrange vegetation according to orientation and seasonal conditions.",
+"design_intentions": [
+"Bring nature directly into high-rise residential living.",
+"Create a green buffer between private residential units and the dense city.",
+"Use vegetation to soften the visual impact of high-rise towers.",
+"Extend the surrounding park system vertically onto the residential facade.",
+"Transform the facade into a living environmental system."
+]
+},
+"Gene_C1": {
+"description": "Gene_C1 records the architectural vocabulary extracted from drawings, diagrams, photos, and renders.",
+"vocabulary": [
+"twin residential towers",
+"tower massing",
+"residential unit",
+"living room",
+"bedroom",
+"kitchen",
+"bathroom",
+"vertical circulation core",
+"elevator",
+"staircase",
+"service shaft",
+"projecting balcony",
+"projecting balcony slab",
+"private outdoor space",
+"balcony planter",
+"tree",
+"shrub",
+"planting bed",
+"vertical greenery",
+"facade vegetation",
+"ecological envelope",
+"green buffer",
+"seasonal facade",
+"irrigation system",
+"water supply system",
+"maintenance system",
+"urban park",
+"pedestrian open space",
+"urban skyline",
+"public green infrastructure"
+]
+},
+"Gene_C2": {
+"description": "Gene_C2 records semantic spatial relationships and strategy candidates. Each relation follows the format: Subject → Relation (Relation Type) → Object.",
+"semantic_relations": [
+{
+"id": "C2_01",
+"subject": "residential unit",
+"relation": "opens to",
+"relation_type": "Spatial Relation",
+"object": "balcony",
+"description": "Each residential unit connects to an exterior balcony, extending the private domestic space outward.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Extend domestic life outward",
+"strategy": "Use balconies as exterior extensions of living rooms and bedrooms, allowing residents to access air, light, view, and outdoor space directly from the unit.",
+"reasoning": {
+"premise": "High-rise residential units often have limited direct outdoor space.",
+"analysis": "Connecting each unit to a balcony creates a transitional zone between interior life and the city.",
+"conclusion": "The balcony becomes an essential spatial device for improving high-rise residential living quality."
+}
+},
+{
+"id": 2,
+"motivation": "Create a private-to-urban transition",
+"strategy": "Design the balcony as an intermediate layer between private rooms and the dense urban environment.",
+"reasoning": {
+"premise": "High-rise units can feel exposed when they directly face the city.",
+"analysis": "A balcony layer provides distance, depth, and spatial buffering.",
+"conclusion": "The residential unit gains privacy and environmental comfort through the balcony."
+}
+},
+{
+"id": 3,
+"motivation": "Improve everyday access to nature",
+"strategy": "Combine the balcony with planting so that residents experience vegetation as part of daily domestic life.",
+"reasoning": {
+"premise": "Urban high-rise residents often lack direct contact with plants and gardens.",
+"analysis": "A planted balcony brings vegetation directly to the residential threshold.",
+"conclusion": "Nature becomes part of the everyday living experience rather than only a distant view."
+}
+}
+]
+},
+{
+"id": "C2_02",
+"subject": "balcony",
+"relation": "supports",
+"relation_type": "Environmental Relation",
+"object": "vegetation",
+"description": "The projecting balconies support planters, trees, shrubs, and smaller plants, allowing vegetation to be distributed vertically.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Transform balconies into ecological platforms",
+"strategy": "Design balconies with enough depth and structural capacity to hold planters, trees, and shrubs.",
+"reasoning": {
+"premise": "Typical balconies are often treated as secondary outdoor spaces.",
+"analysis": "When balconies support vegetation, they become environmental infrastructure.",
+"conclusion": "The balcony shifts from an accessory space to the core ecological device of the tower."
+}
+},
+{
+"id": 2,
+"motivation": "Create shade and microclimate control",
+"strategy": "Use balcony vegetation to filter sunlight, reduce heat gain, and create a cooler microclimate near the facade.",
+"reasoning": {
+"premise": "High-rise facades are exposed to strong sunlight and heat.",
+"analysis": "Vegetation can provide shade and soften direct solar exposure.",
+"conclusion": "Balcony planting improves thermal comfort and environmental performance."
+}
+},
+{
+"id": 3,
+"motivation": "Increase biodiversity in dense urban areas",
+"strategy": "Use planted balconies to support trees, shrubs, and habitat conditions within the vertical building envelope.",
+"reasoning": {
+"premise": "Dense urban districts often lack ecological surfaces.",
+"analysis": "Vertical planting increases vegetated area without requiring additional ground space.",
+"conclusion": "The tower contributes to urban biodiversity through its facade."
+}
+}
+]
+},
+{
+"id": "C2_03",
+"subject": "planter",
+"relation": "contains",
+"relation_type": "Functional Relation",
+"object": "vegetation",
+"description": "Planters contain trees, shrubs, and smaller plants, making vegetation a controlled and maintainable architectural component.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Make vertical planting technically manageable",
+"strategy": "Integrate planters into balcony design so that soil, drainage, root space, and maintenance can be controlled.",
+"reasoning": {
+"premise": "Trees and shrubs require soil depth, water, and maintenance access.",
+"analysis": "Planters provide a controlled container system for vegetation at height.",
+"conclusion": "Planting becomes a designed architectural system rather than an improvised addition."
+}
+},
+{
+"id": 2,
+"motivation": "Protect the residential interior from direct exposure",
+"strategy": "Place planters along the balcony edge to create a green threshold between the unit and the city.",
+"reasoning": {
+"premise": "High-rise residential interiors can feel visually exposed.",
+"analysis": "Planters and vegetation create a layered boundary at the balcony edge.",
+"conclusion": "The planter helps produce privacy, shade, and psychological comfort."
+}
+},
+{
+"id": 3,
+"motivation": "Organize facade depth",
+"strategy": "Use planters as repeated facade elements that add depth, shadow, and irregularity to the tower elevation.",
+"reasoning": {
+"premise": "Flat high-rise facades can appear repetitive and hard.",
+"analysis": "Planters create depth and allow vegetation to break the regular facade grid.",
+"conclusion": "The facade becomes visually layered and environmentally active."
+}
+}
+]
+},
+{
+"id": "C2_04",
+"subject": "vegetation",
+"relation": "wraps",
+"relation_type": "Perceptual Relation",
+"object": "tower facade",
+"description": "Vegetation wraps the tower facade and creates a living, seasonal, and irregular architectural surface.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Soften the visual impact of high-rise massing",
+"strategy": "Use trees and shrubs to break down the hardness and vertical scale of the tower facade.",
+"reasoning": {
+"premise": "Tall residential towers can appear rigid and visually heavy.",
+"analysis": "Vegetation introduces irregularity, softness, and organic texture.",
+"conclusion": "The tower becomes less like a hard object and more like a vertical landscape."
+}
+},
+{
+"id": 2,
+"motivation": "Create a recognizable ecological identity",
+"strategy": "Allow vegetation to become the primary visual identity of the facade rather than applying a conventional facade treatment.",
+"reasoning": {
+"premise": "Many high-rise towers rely on glass, metal, or repetitive facade modules for expression.",
+"analysis": "A vegetated facade produces a distinct ecological image.",
+"conclusion": "The building becomes an urban landmark through its living facade."
+}
+},
+{
+"id": 3,
+"motivation": "Introduce seasonal change",
+"strategy": "Use plant species with different seasonal colors and densities to make the facade change over time.",
+"reasoning": {
+"premise": "Conventional facades are visually static.",
+"analysis": "Vegetation changes with seasons, weather, and growth.",
+"conclusion": "The facade becomes dynamic and time-based."
+}
+}
+]
+},
+{
+"id": "C2_05",
+"subject": "irrigation system",
+"relation": "supplies",
+"relation_type": "Functional Relation",
+"object": "planter",
+"description": "The irrigation system supplies water to the planters across multiple floors, supporting the survival of vertical greenery.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Support long-term plant survival",
+"strategy": "Integrate a vertical irrigation system that distributes water to planters on different floors.",
+"reasoning": {
+"premise": "High-rise vegetation cannot rely only on manual watering by residents.",
+"analysis": "A centralized irrigation system makes watering consistent and manageable.",
+"conclusion": "The ecological facade can survive as a long-term building system."
+}
+},
+{
+"id": 2,
+"motivation": "Reduce individual maintenance burden",
+"strategy": "Treat irrigation as part of the building’s technical infrastructure rather than leaving plant care entirely to residents.",
+"reasoning": {
+"premise": "If residents are solely responsible for plant maintenance, the facade may become inconsistent.",
+"analysis": "Building-level irrigation creates shared and controlled maintenance.",
+"conclusion": "The vertical forest remains coherent and reliable over time."
+}
+},
+{
+"id": 3,
+"motivation": "Make ecological design operational",
+"strategy": "Coordinate irrigation, drainage, plant selection, and maintenance access from the beginning of the architectural design process.",
+"reasoning": {
+"premise": "Ecological facade design depends on technical systems.",
+"analysis": "Vegetation must be supported by water, drainage, and maintenance planning.",
+"conclusion": "The design becomes a working ecological infrastructure, not only a visual concept."
+}
+}
+]
+},
+{
+"id": "C2_06",
+"subject": "vertical core",
+"relation": "serves",
+"relation_type": "Circulation Relation",
+"object": "residential unit",
+"description": "The vertical circulation core organizes elevators, stairs, service shafts, and vertical movement for stacked residential units.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Maintain vertical efficiency",
+"strategy": "Concentrate elevators, stairs, and service shafts in a compact core to efficiently serve multiple residential floors.",
+"reasoning": {
+"premise": "High-rise housing requires efficient vertical circulation.",
+"analysis": "A compact core reduces circulation redundancy and supports repeated unit stacking.",
+"conclusion": "The residential tower can maintain efficiency while allowing the perimeter to connect to balconies and vegetation."
+}
+},
+{
+"id": 2,
+"motivation": "Maximize facade access for residential units",
+"strategy": "Keep the core centralized so that living spaces can occupy the perimeter and connect to balconies.",
+"reasoning": {
+"premise": "Residential quality depends on access to light, air, and view.",
+"analysis": "A centralized service core frees the facade perimeter for domestic spaces.",
+"conclusion": "More rooms can benefit from balcony access and vegetated facade conditions."
+}
+},
+{
+"id": 3,
+"motivation": "Coordinate circulation and technical systems",
+"strategy": "Use the core area to organize vertical services, maintenance routes, and building systems that support residential and ecological functions.",
+"reasoning": {
+"premise": "A vertical forest requires both residential circulation and technical support.",
+"analysis": "The core can coordinate elevators, stairs, shafts, and system distribution.",
+"conclusion": "The tower can integrate domestic use with environmental infrastructure."
+}
+}
+]
+},
+{
+"id": "C2_07",
+"subject": "seasonal planting",
+"relation": "transforms",
+"relation_type": "Environmental Relation",
+"object": "facade appearance",
+"description": "Seasonal planting changes the color, density, and opacity of the facade across time.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Create a dynamic facade",
+"strategy": "Use plants with seasonal variation so the facade changes in color, texture, and density throughout the year.",
+"reasoning": {
+"premise": "Most high-rise facades remain visually fixed.",
+"analysis": "Plants naturally change with seasons.",
+"conclusion": "The tower gains a living and time-based architectural expression."
+}
+},
+{
+"id": 2,
+"motivation": "Respond to seasonal environmental needs",
+"strategy": "Use plant species that provide denser shade in warmer seasons and allow more light in colder seasons.",
+"reasoning": {
+"premise": "The environmental needs of a residence change between summer and winter.",
+"analysis": "Seasonal planting can adjust facade density and solar filtering.",
+"conclusion": "The vegetation supports environmental comfort across different seasons."
+}
+},
+{
+"id": 3,
+"motivation": "Enhance residents’ perception of nature",
+"strategy": "Let residents experience seasonal change directly through the facade and balcony vegetation.",
+"reasoning": {
+"premise": "High-rise living can feel disconnected from natural cycles.",
+"analysis": "Seasonal vegetation brings visible change to the residential edge.",
+"conclusion": "Residents gain a stronger sense of natural time and environmental connection."
+}
+}
+]
+},
+{
+"id": "C2_08",
+"subject": "green buffer",
+"relation": "filters",
+"relation_type": "Perceptual Relation",
+"object": "urban view",
+"description": "The green buffer filters the view between private residential interiors and the surrounding city.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Improve residential privacy",
+"strategy": "Place vegetation between interior rooms and the city to reduce direct visual exposure.",
+"reasoning": {
+"premise": "High-rise units often face nearby buildings, streets, or public spaces.",
+"analysis": "Vegetation creates a semi-transparent visual filter.",
+"conclusion": "Residents gain privacy without completely losing views."
+}
+},
+{
+"id": 2,
+"motivation": "Soften the experience of urban density",
+"strategy": "Use a planted balcony edge to make the view toward dense urban surroundings feel more natural and layered.",
+"reasoning": {
+"premise": "Dense urban views can feel hard or overwhelming.",
+"analysis": "A green foreground changes how the city is perceived from the unit.",
+"conclusion": "The interior experience becomes calmer and more connected to nature."
+}
+},
+{
+"id": 3,
+"motivation": "Create a psychological threshold",
+"strategy": "Use vegetation to create a threshold between domestic life and the public city.",
+"reasoning": {
+"premise": "High-rise living places private life directly above and beside public urban activity.",
+"analysis": "A green buffer creates separation without solid enclosure.",
+"conclusion": "The home feels protected while still remaining visually connected to the city."
+}
+}
+]
+},
+{
+"id": "C2_09",
+"subject": "twin towers",
+"relation": "frame",
+"relation_type": "Urban Relation",
+"object": "urban landscape",
+"description": "The two residential towers act as vertical landmarks within the Porta Nuova redevelopment district and relate visually to the surrounding park and skyline.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Create an ecological urban landmark",
+"strategy": "Use the pair of vegetated towers to form a recognizable green marker in the city skyline.",
+"reasoning": {
+"premise": "High-rise towers often contribute to skyline identity.",
+"analysis": "Vegetation gives the towers a distinctive ecological appearance.",
+"conclusion": "The project becomes identifiable as both housing and urban green infrastructure."
+}
+},
+{
+"id": 2,
+"motivation": "Mediate between park and city",
+"strategy": "Position the towers as vertical continuations of nearby public green spaces.",
+"reasoning": {
+"premise": "The site is close to public parks and open spaces.",
+"analysis": "Vertical greenery visually connects the towers to the ground-level landscape.",
+"conclusion": "The building extends the park concept upward."
+}
+},
+{
+"id": 3,
+"motivation": "Reduce the visual hardness of redevelopment",
+"strategy": "Use planted tower facades to contrast with nearby glass office towers and soften the image of high-density development.",
+"reasoning": {
+"premise": "New redevelopment districts can appear hard, commercial, and glass-dominated.",
+"analysis": "Vegetated residential towers add softness and ecological expression.",
+"conclusion": "The towers humanize and diversify the urban skyline."
+}
+}
+]
+}
+]
+},
+"Gene_D": {
+"description": "Gene_D records possible user behavior, media feedback, and design reflection. Some items are inferred from spatial configuration and should be verified with additional sources if needed.",
+"resident_behavior": "Residents are likely to use balconies not only as outdoor extensions of their units but also as spaces for daily contact with trees, shrubs, shade, filtered views, and seasonal change. This is an interpretation based on the spatial configuration.",
+"media_feedback": "Bosco Verticale is widely recognized as a representative example of high-rise residential architecture integrating vertical greenery, ecological facade design, and urban biodiversity.",
+"designer_reflection": "The project demonstrates how a high-rise residential tower can be transformed from a hard, sealed, repetitive building type into a living environmental system. Its most important contribution is the transformation of the balcony into a planting platform, environmental filter, and ecological facade component.",
+"limitations_or_notes": [
+"The long-term success of the vertical forest depends on irrigation, maintenance, plant selection, and technical management.",
+"Exact plant numbers, unit counts, and floor areas should be verified with official sources before final submission.",
+"The site context interpretation is based on the provided Google Maps satellite image and should be checked against updated maps if needed."
+]
+},
+"case_summary": {
+"one_sentence_summary": "Bosco Verticale is a high-rise residential precedent that transforms balconies, planters, vegetation, and irrigation systems into a vertical forest facade connecting domestic life, urban density, and ecological infrastructure.",
+"key_design_problem": "How can high-rise residential towers provide density while maintaining contact with nature, environmental comfort, privacy, and urban biodiversity?",
+"key_design_solution": "Use planted balconies and integrated irrigation systems to turn the residential facade into a living ecological buffer.",
+"transferable_strategies_for_highrise_housing": [
+"Use balconies as ecological platforms rather than only outdoor extensions.",
+"Place vegetation between residential interiors and the city to create shade, privacy, and filtered views.",
+"Integrate irrigation and maintenance systems into the early design stage.",
+"Respond to facade orientation through plant selection and seasonal planting strategy.",
+"Use vertical greenery to connect tower housing with nearby public parks and urban green infrastructure."
+]
+},
+"keywords": [
+"high-rise residential",
+"vertical forest",
+"balcony greenery",
+"ecological facade",
+"living facade",
+"urban biodiversity",
+"green buffer",
+"microclimate",
+"seasonal facade",
+"irrigation system",
+"projecting balcony",
+"planter",
+"residential tower",
+"urban redevelopment",
+"park extension",
+"Porta Nuova",
+"Isola",
+"Milan"
+],
+"status": "preliminary_json_v1",
+"created_for": "High-Rise Residential Precedent Knowledge Base",
+"notes": "This JSON is based on manually prepared preprocess files for site context, drawings, photos, and renders. It is ready to be included as Case 01 in the precedent database, but factual fields such as exact unit count, total area, plant quantities, and tower height should be checked again before final publication."
+}
