@@ -1,0 +1,730 @@
+{
+  "id": "case_14_the_silo",
+  "project_name": "The Silo",
+  "architect": "COBE",
+  "developer_client": "Klaus Kastbjerg and NRE Denmark",
+  "location": "Fortkaj 30, 2150 Nordhavn, Copenhagen, Denmark",
+  "district": "Nordhavn / North Harbour / Copenhagen Waterfront",
+  "year": "2017",
+  "building_type": "adaptive reuse high-rise residential / former grain silo",
+  "floor_count": "approximately 17 storeys",
+  "number_of_units": "approximately 38 apartments",
+  "main_theme": [
+    "industrial heritage reuse",
+    "grain silo transformation",
+    "adaptive reuse high-rise",
+    "public-private vertical program",
+    "raw concrete interior",
+    "faceted steel facade",
+    "waterfront landmark"
+  ],
+  "source_urls": [
+    "https://www.archdaily.com/874698/the-silo-cobe",
+    "https://cobe.dk/projects/the-silo"
+  ],
+  "data_sources": [
+    "source_text.md",
+    "01_site_context_analysis.md",
+    "02_drawings_preprocess.md",
+    "03_photos_renders_preprocess.md",
+    "residential_floor_plan.jpg",
+    "facade_elevation.jpg",
+    "exterior_photo.jpg"
+  ],
+  "Gene_A": {
+    "description": "Gene_A records the site conditions, urban context, environmental conditions, functional needs, and contextual reasoning of the precedent.",
+    "location": "The Silo is located in Nordhavn, Copenhagen's North Harbour district, at the edge of the waterfront redevelopment area.",
+    "urban_context": "Nordhavn is a former industrial harbor area being transformed into a new mixed-use urban district with housing, offices, public spaces, waterfront promenades, cultural functions, and adaptive reuse projects.",
+    "site_conditions": "The project occupies a former grain silo structure within a post-industrial harbor context. It is surrounded by old industrial buildings, new residential and office developments, waterfront spaces, quay edges, and public promenades.",
+    "adjacent_uses": {
+      "harbor_facing_side": "Waterfront basin, quay edge, harbor views, boats, and public waterfront promenade.",
+      "street_facing_side": "Nordhavn streets, new residential and office development, local access roads, and pedestrian routes.",
+      "industrial_heritage_side": "Former warehouses, silos, harbor infrastructure, and reused industrial buildings.",
+      "new_district_side": "Contemporary housing, offices, public spaces, retail, restaurants, and ongoing development parcels."
+    },
+    "surrounding_context": {
+      "waterfront_context": "The building faces Copenhagen's harbor environment and benefits from open water views, quay spaces, and public promenades.",
+      "post_industrial_context": "The surrounding district contains industrial traces, warehouses, concrete structures, silos, and dock infrastructure.",
+      "new_urban_district_context": "Nordhavn is being redeveloped into a mixed-use neighborhood with housing, offices, retail, public space, and urban amenities.",
+      "public_realm_context": "The project contributes to public access through ground-level and rooftop functions, making the building more than a private residential tower."
+    },
+    "climate_conditions": "Copenhagen has a northern European climate with low winter sun angles, long summer daylight, wind exposure, cold seasons, and strong seasonal variation. The project responds by adding a new insulated facade layer, large openings, balconies, and a public rooftop level.",
+    "view_conditions": "The Silo has strong views toward Nordhavn's harbor basins, quay landscape, Copenhagen's city skyline, the coast, and open water. The rooftop restaurant and viewing platform allow the public to share the building's elevated views.",
+    "functional_needs": "The project converts an obsolete grain silo into residential apartments while adding public functions at the top and lower levels. It must preserve industrial memory, upgrade environmental performance, provide residential comfort, and contribute to the new waterfront district.",
+    "density_or_height_condition": "The project reuses the height and mass of an existing industrial silo rather than constructing a new tower. Its compact vertical form becomes a residential and public landmark within Nordhavn.",
+    "target_users": "Residents seeking distinctive waterfront apartments, visitors using the rooftop restaurant and viewing platform, and the wider public engaging with Nordhavn's waterfront redevelopment.",
+    "context_steps": [
+      {
+        "step": 1,
+        "subject": "former grain silo",
+        "relation": "is located in",
+        "object": "Nordhavn waterfront redevelopment district"
+      },
+      {
+        "step": 2,
+        "subject": "existing concrete structure",
+        "relation": "preserves",
+        "object": "industrial memory"
+      },
+      {
+        "step": 3,
+        "subject": "adaptive reuse strategy",
+        "relation": "transforms",
+        "object": "obsolete storage infrastructure into housing"
+      },
+      {
+        "step": 4,
+        "subject": "new facade overcoat",
+        "relation": "wraps",
+        "object": "existing silo structure"
+      },
+      {
+        "step": 5,
+        "subject": "apartment units",
+        "relation": "open to",
+        "object": "harbor views"
+      },
+      {
+        "step": 6,
+        "subject": "rooftop restaurant",
+        "relation": "shares",
+        "object": "elevated waterfront view with the public"
+      },
+      {
+        "step": 7,
+        "subject": "lower public level",
+        "relation": "connects to",
+        "object": "Nordhavn public realm"
+      },
+      {
+        "step": 8,
+        "subject": "faceted steel facade",
+        "relation": "creates",
+        "object": "new waterfront landmark identity"
+      }
+    ]
+  },
+  "Gene_B": {
+    "description": "Gene_B records the design issue, design concept, and overall design strategy.",
+    "issue": "Obsolete industrial structures in waterfront redevelopment areas are often demolished, causing the loss of urban memory and embodied material value. At the same time, old concrete industrial buildings usually do not meet contemporary residential comfort, insulation, daylight, and public-use requirements.",
+    "concept": "Transform an obsolete grain silo into a residential and civic landmark by preserving the raw concrete structure, inserting unique apartments, wrapping the building with a new climate facade, and opening selected levels to the public.",
+    "strategy": "Retain the existing concrete silo as the structural and memory core, cut new openings for daylight and views, insert varied apartment layouts, add a prefabricated faceted steel facade as a climate screen, and place public functions at the top and lower levels to connect the tower with Nordhavn's waterfront life.",
+    "design_intentions": [
+      "Preserve industrial heritage instead of demolishing the existing silo.",
+      "Convert obsolete grain storage infrastructure into distinctive residential space.",
+      "Use the raw concrete interior as a memory-bearing domestic atmosphere.",
+      "Add a new insulated facade overcoat to upgrade environmental performance.",
+      "Use a faceted galvanized steel facade to create a contemporary waterfront identity.",
+      "Share the building's height with the public through a rooftop restaurant and viewing platform.",
+      "Connect the lower public level to Nordhavn's emerging public realm.",
+      "Make adaptive reuse a strategy for both sustainability and urban identity."
+    ]
+  },
+  "Gene_C1": {
+    "description": "Gene_C1 records the architectural vocabulary extracted from site context, drawings, diagrams, photos, and renders.",
+    "vocabulary": [
+      "former grain silo",
+      "existing concrete core",
+      "raw concrete structure",
+      "industrial shell",
+      "storage container",
+      "silo chamber",
+      "existing structural wall",
+      "reused concrete volume",
+      "preserved industrial interior",
+      "cut concrete opening",
+      "adaptive reuse structure",
+      "apartment unit",
+      "unique apartment",
+      "single-level apartment",
+      "multi-level apartment",
+      "living room",
+      "bedroom",
+      "kitchen",
+      "bathroom",
+      "entry zone",
+      "double-height space",
+      "floor-to-ceiling window",
+      "harbor-facing room",
+      "private balcony",
+      "residential floor",
+      "vertical core",
+      "elevator",
+      "staircase",
+      "residential lobby",
+      "apartment access",
+      "service shaft",
+      "fire stair",
+      "public access route",
+      "lower public level",
+      "rooftop access",
+      "faceted steel facade",
+      "galvanized steel cladding",
+      "climate screen",
+      "prefabricated facade panel",
+      "folded metal panel",
+      "balcony frame",
+      "deep window reveal",
+      "exterior insulation layer",
+      "new facade overcoat",
+      "angular envelope",
+      "metallic skin",
+      "public restaurant",
+      "viewing platform",
+      "event space",
+      "ground-level public function",
+      "rooftop public level",
+      "waterfront promenade",
+      "harbor view",
+      "public destination",
+      "urban landmark",
+      "Nordhavn redevelopment",
+      "industrial memory",
+      "waterfront landmark",
+      "public-private vertical program"
+    ]
+  },
+  "Gene_C2": {
+    "description": "Gene_C2 records semantic spatial relationships and strategy candidates. Each relation follows the format: Subject → Relation (Relation Type) → Object.",
+    "semantic_relations": [
+      {
+        "id": "C2_01",
+        "subject": "existing silo",
+        "relation": "becomes",
+        "relation_type": "Typological Relation",
+        "object": "residential tower",
+        "description": "The former grain silo is converted into a new high-rise residential building.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Preserve industrial heritage",
+            "strategy": "Reuse the existing silo structure rather than demolishing it and building a new tower.",
+            "reasoning": {
+              "premise": "Nordhavn's industrial structures carry memory of the working harbor.",
+              "analysis": "Keeping the silo preserves the area's historical identity while giving it a new use.",
+              "conclusion": "The project becomes both residential architecture and urban memory infrastructure."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Reduce demolition and material waste",
+            "strategy": "Retain the existing concrete structure as the basis for the new residential project.",
+            "reasoning": {
+              "premise": "Demolition wastes material and embodied energy.",
+              "analysis": "Adaptive reuse extends the life of the existing structure.",
+              "conclusion": "The project supports a more sustainable approach to waterfront redevelopment."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create unique residential identity",
+            "strategy": "Use the unusual spatial character of the silo to generate distinctive apartments.",
+            "reasoning": {
+              "premise": "Standard residential towers often produce repetitive apartments.",
+              "analysis": "A former silo contains irregular and robust spatial conditions.",
+              "conclusion": "The apartments become more unique and memorable."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_02",
+        "subject": "concrete core",
+        "relation": "contains",
+        "relation_type": "Spatial Relation",
+        "object": "apartment units",
+        "description": "The existing concrete volume contains unique apartment layouts within the former industrial structure.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Use existing structure as spatial generator",
+            "strategy": "Insert apartments into the preserved concrete silo rather than replacing the structure with a conventional residential frame.",
+            "reasoning": {
+              "premise": "The existing silo has a strong structural and spatial identity.",
+              "analysis": "Apartment layouts must adapt to the original concrete volume.",
+              "conclusion": "The old structure becomes the generator of residential uniqueness."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create non-standard apartments",
+            "strategy": "Allow the existing concrete geometry to produce varied apartment sizes, heights, and layouts.",
+            "reasoning": {
+              "premise": "Adaptive reuse buildings often contain irregular spaces.",
+              "analysis": "These irregularities can be transformed into spatial qualities.",
+              "conclusion": "The building avoids the uniformity of typical residential floors."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Preserve material atmosphere",
+            "strategy": "Keep raw concrete visible inside apartments where possible.",
+            "reasoning": {
+              "premise": "Industrial material character is a key part of the building's identity.",
+              "analysis": "Visible concrete allows residents to experience the building's original use and age.",
+              "conclusion": "The domestic interior carries industrial memory."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_03",
+        "subject": "new facade overcoat",
+        "relation": "wraps",
+        "relation_type": "Environmental Relation",
+        "object": "existing silo",
+        "description": "A new prefabricated faceted facade wraps the old concrete silo and provides insulation, climate performance, and identity.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Upgrade environmental performance",
+            "strategy": "Add a new insulated facade layer around the existing concrete structure.",
+            "reasoning": {
+              "premise": "The original silo was not designed for residential comfort.",
+              "analysis": "A new facade layer can improve insulation, weather protection, and comfort.",
+              "conclusion": "The old industrial shell becomes suitable for contemporary living."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create new urban identity",
+            "strategy": "Use the facade overcoat to transform the silo into a recognizable contemporary landmark.",
+            "reasoning": {
+              "premise": "Adaptive reuse must preserve memory while also creating new relevance.",
+              "analysis": "The new metallic overcoat gives the old silo a new public image.",
+              "conclusion": "The building becomes both historical and contemporary."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Mediate old and new",
+            "strategy": "Wrap the raw concrete core with a new exterior layer while preserving the interior character.",
+            "reasoning": {
+              "premise": "The project needs to balance preservation and transformation.",
+              "analysis": "Exterior wrapping upgrades performance while interior rawness preserves memory.",
+              "conclusion": "The design creates a dialogue between old industrial structure and new residential use."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_04",
+        "subject": "faceted panels",
+        "relation": "create",
+        "relation_type": "Material Relation",
+        "object": "metallic identity",
+        "description": "The folded metal panels create a distinctive industrial yet contemporary facade expression.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create a distinctive waterfront landmark",
+            "strategy": "Use faceted galvanized steel panels to give the building a sharp, reflective, and recognizable identity.",
+            "reasoning": {
+              "premise": "Nordhavn is transforming into a new urban district with visible waterfront landmarks.",
+              "analysis": "The metallic facade gives the old silo a strong contemporary presence.",
+              "conclusion": "The building becomes a visual anchor in the harbor redevelopment."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Echo industrial material language",
+            "strategy": "Use metal cladding to connect the new facade with the industrial character of harbor infrastructure.",
+            "reasoning": {
+              "premise": "The site has an industrial harbor history.",
+              "analysis": "Metal surfaces relate to ships, docks, storage structures, and industrial equipment.",
+              "conclusion": "The new facade continues the area's material memory in a contemporary form."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create depth and shadow",
+            "strategy": "Fold and facet panels to produce varied light, shadow, and surface expression.",
+            "reasoning": {
+              "premise": "A flat recladding could make the tower visually plain.",
+              "analysis": "Faceted geometry creates texture and changing reflections.",
+              "conclusion": "The facade becomes visually dynamic and sculptural."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_05",
+        "subject": "apartment units",
+        "relation": "open to",
+        "relation_type": "Perceptual Relation",
+        "object": "floor-to-ceiling windows",
+        "description": "Residential units use large openings to capture harbor, city, and coastal views.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Transform storage spaces into living spaces",
+            "strategy": "Cut large window openings into the former silo to bring daylight and views into apartments.",
+            "reasoning": {
+              "premise": "The original silo was designed for storage, not habitation.",
+              "analysis": "Residential use requires daylight, outlook, and visual connection to the city.",
+              "conclusion": "Large windows make the concrete container habitable."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Use waterfront views as residential value",
+            "strategy": "Orient major living spaces toward harbor and city views through large glazed openings.",
+            "reasoning": {
+              "premise": "The site has strong waterfront and skyline views.",
+              "analysis": "Large windows turn the location into a daily residential experience.",
+              "conclusion": "The apartments gain value through view-oriented design."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Lighten the heavy concrete structure",
+            "strategy": "Introduce large window openings into the massive silo envelope.",
+            "reasoning": {
+              "premise": "The preserved concrete structure is heavy and enclosed.",
+              "analysis": "Large windows bring visual lightness and transparency.",
+              "conclusion": "The old silo becomes more open and domestic."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_06",
+        "subject": "balconies",
+        "relation": "extend",
+        "relation_type": "Spatial Relation",
+        "object": "apartment units",
+        "description": "Balconies and exterior facade pockets extend the apartments outward and create private outdoor space.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Provide private outdoor space",
+            "strategy": "Insert balconies or balcony-like facade pockets into the new facade system.",
+            "reasoning": {
+              "premise": "A former silo did not originally contain private outdoor residential spaces.",
+              "analysis": "Balconies create exterior thresholds for the inserted apartments.",
+              "conclusion": "The apartments gain a more complete residential quality."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Connect residents to waterfront air and views",
+            "strategy": "Use balconies as small outdoor platforms facing the harbor and city.",
+            "reasoning": {
+              "premise": "The building has a strong waterfront location.",
+              "analysis": "Balconies allow residents to experience air, light, and views directly.",
+              "conclusion": "The silo becomes more connected to its harbor context."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Integrate outdoor space into facade identity",
+            "strategy": "Coordinate balconies with the faceted metal facade.",
+            "reasoning": {
+              "premise": "The facade is both an environmental screen and a visual identity.",
+              "analysis": "Balconies can be embedded into the new envelope rather than added separately.",
+              "conclusion": "Private outdoor space becomes part of the architectural transformation."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_07",
+        "subject": "vertical core",
+        "relation": "serves",
+        "relation_type": "Circulation Relation",
+        "object": "residential floors",
+        "description": "Elevators, stairs, and service shafts organize circulation through the adapted tower.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Make the silo usable as housing",
+            "strategy": "Insert or adapt vertical circulation cores to provide residential access through the existing structure.",
+            "reasoning": {
+              "premise": "A grain silo was not designed with residential circulation needs.",
+              "analysis": "Apartments require elevators, stairs, services, and fire-safe access.",
+              "conclusion": "A clear vertical core makes residential conversion functional."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Connect private and public levels",
+            "strategy": "Organize circulation to serve apartments while also allowing access to public top and lower levels.",
+            "reasoning": {
+              "premise": "The project combines private housing and public programs.",
+              "analysis": "Circulation must separate and connect different user groups appropriately.",
+              "conclusion": "The building supports a public-private vertical program."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Coordinate services with existing structure",
+            "strategy": "Use the core and shafts to distribute services within the constraints of the concrete silo.",
+            "reasoning": {
+              "premise": "Adaptive reuse limits where new services can be placed.",
+              "analysis": "Concentrating services reduces disruption to the existing structure.",
+              "conclusion": "The project integrates modern systems while preserving the silo."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_08",
+        "subject": "raw concrete interior",
+        "relation": "preserves",
+        "relation_type": "Material Relation",
+        "object": "industrial memory",
+        "description": "The interior retains traces of the original concrete silo, keeping the memory of the building's industrial past.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Keep the past visible",
+            "strategy": "Expose raw concrete surfaces within the apartments and public spaces where possible.",
+            "reasoning": {
+              "premise": "Adaptive reuse can lose meaning if the old structure is fully concealed.",
+              "analysis": "Visible concrete keeps the original industrial use legible.",
+              "conclusion": "Residents and visitors experience the building's history directly."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create distinctive domestic atmosphere",
+            "strategy": "Let the rough concrete surfaces contrast with new residential finishes.",
+            "reasoning": {
+              "premise": "Standard apartment interiors can feel generic.",
+              "analysis": "Raw concrete introduces material depth and character.",
+              "conclusion": "The apartments gain a unique industrial domesticity."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Express adaptive reuse honestly",
+            "strategy": "Preserve material traces instead of making the building look entirely new.",
+            "reasoning": {
+              "premise": "Adaptive reuse is strongest when transformation remains readable.",
+              "analysis": "The contrast between old concrete and new elements reveals the conversion process.",
+              "conclusion": "The project communicates both preservation and change."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_09",
+        "subject": "rooftop restaurant",
+        "relation": "opens to",
+        "relation_type": "Urban Relation",
+        "object": "public view",
+        "description": "The top-level restaurant and viewing platform allow the public to experience the building and its harbor views.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Share the tower's view with the city",
+            "strategy": "Place a public restaurant and viewing platform at the top of the building.",
+            "reasoning": {
+              "premise": "High-rise views are often reserved for private residents.",
+              "analysis": "A public top level allows visitors to experience the harbor and city from above.",
+              "conclusion": "The building becomes a civic destination rather than only private housing."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create public value in adaptive reuse",
+            "strategy": "Use the most visible and elevated part of the former silo for public access.",
+            "reasoning": {
+              "premise": "Industrial heritage buildings often have strong public memory.",
+              "analysis": "Public access reinforces the building's role in collective urban life.",
+              "conclusion": "The transformation benefits the wider district."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Activate Nordhavn's waterfront identity",
+            "strategy": "Use the rooftop restaurant as a destination in the new waterfront district.",
+            "reasoning": {
+              "premise": "Nordhavn is being redeveloped as a mixed-use public district.",
+              "analysis": "A rooftop restaurant attracts visitors and creates activity.",
+              "conclusion": "The Silo contributes to neighborhood life and tourism."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_10",
+        "subject": "lower public level",
+        "relation": "connects to",
+        "relation_type": "Urban Relation",
+        "object": "waterfront district",
+        "description": "Public functions at the lower levels connect the building to Nordhavn's emerging urban life.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Activate the ground level",
+            "strategy": "Use lower-level public or event functions to connect the building to the quay and street.",
+            "reasoning": {
+              "premise": "Residential towers can become inactive at ground level.",
+              "analysis": "Public functions create interaction with the surrounding district.",
+              "conclusion": "The tower becomes part of the public waterfront realm."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Support mixed-use redevelopment",
+            "strategy": "Combine housing with public and cultural functions.",
+            "reasoning": {
+              "premise": "Nordhavn is being transformed into a mixed-use district.",
+              "analysis": "The building should contribute more than private residential floor area.",
+              "conclusion": "The Silo helps create an active new neighborhood."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Link industrial memory to public life",
+            "strategy": "Make the base a place where the public can encounter the reused silo.",
+            "reasoning": {
+              "premise": "The silo was once part of a working harbor landscape.",
+              "analysis": "Public access lets the building's historical transformation be experienced collectively.",
+              "conclusion": "Industrial heritage remains part of urban public life."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_11",
+        "subject": "adaptive reuse strategy",
+        "relation": "reduces",
+        "relation_type": "Environmental Relation",
+        "object": "demolition waste",
+        "description": "Preserving the existing structure reduces the need for demolition and replacement construction.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Reduce material waste",
+            "strategy": "Preserve the existing silo structure instead of demolishing and rebuilding.",
+            "reasoning": {
+              "premise": "Demolition creates waste and consumes additional resources.",
+              "analysis": "Reusing the concrete structure avoids unnecessary replacement of a massive building element.",
+              "conclusion": "Adaptive reuse improves material sustainability."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Preserve embodied energy",
+            "strategy": "Use the existing concrete as a resource already present on site.",
+            "reasoning": {
+              "premise": "Existing structures contain embodied energy from their original construction.",
+              "analysis": "Reusing them avoids losing that investment.",
+              "conclusion": "The project treats the old silo as material capital."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Make sustainability visible through preservation",
+            "strategy": "Let the retained structure remain legible as part of the architectural experience.",
+            "reasoning": {
+              "premise": "Sustainable design is often associated only with new technologies.",
+              "analysis": "Preservation itself can be a strong environmental strategy.",
+              "conclusion": "The project demonstrates sustainability through reuse."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_12",
+        "subject": "new envelope",
+        "relation": "upgrades",
+        "relation_type": "Environmental Relation",
+        "object": "environmental performance",
+        "description": "The new facade layer improves insulation, comfort, and climate control for residential use.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Adapt industrial structure to housing standards",
+            "strategy": "Add a new insulated envelope around the old silo.",
+            "reasoning": {
+              "premise": "The original silo was not thermally suitable for homes.",
+              "analysis": "Residential use requires insulation, comfort, and weather protection.",
+              "conclusion": "The new envelope makes adaptive reuse technically feasible."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Protect the preserved concrete core",
+            "strategy": "Use the new facade as a protective climate screen.",
+            "reasoning": {
+              "premise": "Old concrete structures can be exposed to weather and thermal stress.",
+              "analysis": "A new exterior layer shields and upgrades the existing structure.",
+              "conclusion": "The project preserves the old building while improving performance."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Unify technical performance and visual identity",
+            "strategy": "Design the climate screen as a faceted metallic facade.",
+            "reasoning": {
+              "premise": "Environmental upgrades can be visually generic.",
+              "analysis": "The Silo turns the insulation layer into a strong architectural expression.",
+              "conclusion": "Performance and identity are integrated."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "Gene_D": {
+    "description": "Gene_D records possible resident behavior, media feedback, and design reflection. Some items are inferred from spatial configuration and should be verified with additional sources if needed.",
+    "resident_behavior": "Residents are likely to experience apartments as unique homes within an industrial concrete shell, with large windows, balconies, and harbor views giving the former silo a new domestic life. This is an interpretation based on the drawings and exterior image.",
+    "media_feedback": "The Silo is widely discussed as an adaptive reuse landmark because it transforms a former grain silo into housing while preserving industrial memory and adding public functions at the top and base.",
+    "designer_reflection": "The project demonstrates how obsolete industrial infrastructure can be transformed into a residential and civic building. Its key contribution is the combination of preserved raw concrete, inserted apartments, new climate envelope, and public rooftop access.",
+    "limitations_or_notes": [
+      "Adaptive reuse depends on the structural condition and geometry of the existing silo.",
+      "The project requires careful coordination of fire safety, circulation, insulation, acoustic comfort, and residential daylight within an old industrial structure.",
+      "The new facade overcoat is essential for environmental performance and cannot be understood as only decorative cladding.",
+      "The public-private program requires circulation and access management so public functions do not compromise residential privacy."
+    ]
+  },
+  "case_summary": {
+    "one_sentence_summary": "The Silo is an adaptive reuse high-rise residential precedent that transforms a former grain silo into unique apartments and public functions by preserving the raw concrete core and wrapping it with a new faceted steel climate facade.",
+    "key_design_problem": "How can an obsolete industrial silo become a comfortable residential tower and public waterfront landmark without erasing its industrial memory?",
+    "key_design_solution": "Retain the existing concrete silo, insert unique apartments, cut large openings for light and views, add a new insulated faceted metal facade, and place public programs at the rooftop and lower levels.",
+    "transferable_strategies_for_highrise_housing": [
+      "Preserve existing industrial structures instead of demolishing them.",
+      "Use raw existing material as a generator of residential identity.",
+      "Insert varied apartment types into existing structural constraints.",
+      "Add a new climate-screen facade to upgrade environmental performance.",
+      "Use large windows and balconies to transform storage spaces into living spaces.",
+      "Place public functions at the top and base to connect private housing with city life.",
+      "Use adaptive reuse as both sustainability strategy and urban memory strategy.",
+      "Create new architectural identity while keeping the old structure legible."
+    ]
+  },
+  "keywords": [
+    "The Silo",
+    "COBE",
+    "Copenhagen",
+    "Nordhavn",
+    "North Harbour",
+    "adaptive reuse",
+    "grain silo conversion",
+    "industrial heritage",
+    "former silo",
+    "concrete core",
+    "raw concrete interior",
+    "faceted steel facade",
+    "galvanized steel cladding",
+    "climate screen",
+    "new facade overcoat",
+    "unique apartments",
+    "multi-level apartments",
+    "floor-to-ceiling windows",
+    "balconies",
+    "rooftop restaurant",
+    "viewing platform",
+    "public-private tower",
+    "waterfront landmark",
+    "harbor redevelopment",
+    "industrial memory",
+    "residential conversion"
+  ],
+  "status": "preliminary_json_v1",
+  "created_for": "High-Rise Residential Precedent Knowledge Base",
+  "notes": "This JSON is based on manually prepared preprocess files for site context, drawings, photos, and renders. It is ready to be included as Case 14 in the precedent database. Exact project data such as apartment sizes, public program distribution, and technical facade performance should be verified before final publication."
+}
