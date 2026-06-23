@@ -1,0 +1,525 @@
+High-Rise Residential Precedent Knowledge Base for Gemini Gem
+Version: v1.0
+Created for: High-Rise Residential Precedent Design Assistant
+
+Purpose
+This text file is a compact Gem-readable knowledge base containing 20 high-rise residential precedent cases. It summarizes each case through site context, design issue, concept, strategy, vocabulary, semantic relations, transferable methods, and limitations. Use it together with case_index.json and gem_instructions.md.
+
+Important Rule
+Always base answers on this uploaded precedent database. Do not claim that a project has a feature unless it appears in this file or the uploaded full case JSON files. If detailed data is missing, say that it should be verified.
+
+Database Schema
+Each case is organized by: Gene_A = site context; Gene_B = design issue / concept / strategy; Gene_C1 = architectural vocabulary; Gene_C2 = semantic relations; Gene_D = resident behavior / feedback / reflection; Transferable Strategies = design moves that can be adapted to new projects.
+
+Theme Index
+- vertical_greenery: case_01_bosco_verticale, case_03_eden_singapore_apartments, case_08_one_central_park, case_09_valley, case_16_tao_zhu_yin_yuan_agora_garden
+- sky_garden_and_shared_space: case_02_via_57_west, case_09_valley, case_11_pinnacle_duxton, case_13_the_interlace, case_19_mirador_building
+- social_housing: case_11_pinnacle_duxton, case_13_the_interlace, case_17_tour_bois_le_pretre, case_19_mirador_building
+- luxury_highrise: case_03_eden_singapore_apartments, case_06_beirut_terraces, case_07_larbre_blanc, case_15_56_leonard_street, case_18_one_thousand_museum
+- low_carbon_and_timber: case_10_haut_amsterdam, case_14_the_silo, case_17_tour_bois_le_pretre, case_20_mjostarnet
+- adaptive_reuse_or_transformation: case_14_the_silo, case_17_tour_bois_le_pretre
+- structural_identity: case_05_vancouver_house, case_10_haut_amsterdam, case_15_56_leonard_street, case_18_one_thousand_museum, case_20_mjostarnet
+- courtyard_and_block_transformation: case_02_via_57_west, case_12_79_and_park, case_13_the_interlace, case_19_mirador_building
+- balcony_and_terrace_living: case_01_bosco_verticale, case_03_eden_singapore_apartments, case_06_beirut_terraces, case_07_larbre_blanc, case_15_56_leonard_street, case_17_tour_bois_le_pretre
+- mixed_use_towers: case_05_vancouver_house, case_08_one_central_park, case_09_valley, case_20_mjostarnet
+- public_private_gradient: case_02_via_57_west, case_08_one_central_park, case_09_valley, case_11_pinnacle_duxton, case_13_the_interlace, case_19_mirador_building, case_20_mjostarnet
+
+Case Records
+============
+
+CASE 01 — Bosco Verticale
+------------------------------------------------------------
+ID: case_01_bosco_verticale
+Aliases: Vertical Forest
+Architects: Stefano Boeri Architetti
+Location: Milan, Italy
+Year: 2014
+Building Type: residential towers / vertical forest
+Main Themes: vertical forest, planted balconies, urban biodiversity, private outdoor space, environmental facade
+Gene_A | Site Context: Located in Milan's Porta Nuova redevelopment context, the project responds to dense urban living and the lack of nature in the city by bringing trees and shrubs onto the residential facade. The towers act as ecological landmarks and private green living environments.
+Gene_B | Issue / Concept / Strategy: Issue: high-rise density can disconnect residents from greenery and outdoor life. Concept: a vertical forest where planting becomes part of domestic space and urban biodiversity. Strategy: deep structural balconies support trees, shrubs, irrigation, and maintenance systems.
+Gene_C1 | Key Vocabulary: Bosco Verticale, Milan, vertical forest, planted balcony, biodiversity, balcony extension, green facade
+Gene_C2 | Key Semantic Relations:
+  - Planted Balcony → extends → Apartment Unit
+  - Vegetation → filters → Sunlight and Privacy
+  - Vertical Forest → contributes to → Urban Biodiversity
+  - Balcony Structure → supports → Large Planters
+  - Facade Planting → defines → Tower Identity
+Transferable Strategies:
+  - Use planted balconies as environmental buffers.
+  - Design planting as part of structure and maintenance, not decoration.
+  - Use greenery to combine privacy, shade, ecology, and identity.
+Gene_D | Limitations / Notes: Planting load, irrigation, wind, fire safety, plant maintenance, and long-term facade access must be verified.
+Recommended For Questions About: vertical greenery, planted balconies, ecological facade, biodiversity, private outdoor space
+
+CASE 02 — VIA 57 West
+------------------------------------------------------------
+ID: case_02_via_57_west
+Aliases: West 57th, Courtscraper
+Architects: BIG - Bjarke Ingels Group
+Location: New York, USA
+Year: 2016
+Building Type: courtyard residential tower / hybrid perimeter block
+Main Themes: courtyard tower, hybrid block, urban courtyard, sloping massing, view optimization
+Gene_A | Site Context: Located on Manhattan's West Side near the Hudson River, the project responds to high urban density, views, and the need for a protected communal courtyard within a tower-like development.
+Gene_B | Issue / Concept / Strategy: Issue: conventional towers maximize height but often lack communal ground and courtyard quality. Concept: a courtscraper combining tower and courtyard block. Strategy: slope and cut the mass to preserve light, views, and shared courtyard space.
+Gene_C1 | Key Vocabulary: VIA 57 West, BIG, New York, courtscraper, courtyard tower, hybrid block, sloped roof
+Gene_C2 | Key Semantic Relations:
+  - Sloping Mass → preserves → Courtyard Daylight
+  - Courtyard → organizes → Residential Community
+  - Perimeter Block → transforms into → High-Rise Tower
+  - Roof Slope → mediates → City Scale and Tower Scale
+  - Residential Units → surround → Shared Landscape
+Transferable Strategies:
+  - Hybridize tower and courtyard block.
+  - Use sloped massing to reduce shadow and improve views.
+  - Make shared courtyard the social center of high-density housing.
+Gene_D | Limitations / Notes: Complex massing affects structure, envelope, unit layouts, and cost.
+Recommended For Questions About: courtyard tower, massing transformation, urban block, shared courtyard, density with daylight
+
+CASE 03 — EDEN Singapore Apartments
+------------------------------------------------------------
+ID: case_03_eden_singapore_apartments
+Aliases: EDEN
+Architects: Heatherwick Studio
+Location: Singapore
+Year: 2020
+Building Type: luxury residential tower / tropical garden apartment
+Main Themes: private garden apartment, tropical high-rise, vertical greenery, outdoor living, cross-ventilation
+Gene_A | Site Context: Located in tropical Singapore, EDEN responds to dense luxury housing conditions by giving each residence a strong relationship with planting, privacy, cross-ventilation, and outdoor domestic space.
+Gene_B | Issue / Concept / Strategy: Issue: luxury towers can become sealed glass boxes disconnected from climate. Concept: a vertical garden home where each residence has private green outdoor space. Strategy: combine full-floor living with deep planted balconies and porous tropical planning.
+Gene_C1 | Key Vocabulary: EDEN, Singapore, Heatherwick Studio, private garden, tropical housing, balcony garden, full-floor residence
+Gene_C2 | Key Semantic Relations:
+  - Private Garden → extends → Full-Floor Residence
+  - Planting → provides → Privacy and Shade
+  - Outdoor Terrace → mediates → Interior and Tropical Climate
+  - Central Core → organizes → Large Residences
+  - Balcony Garden → creates → Domestic Landscape
+Transferable Strategies:
+  - Design every unit with meaningful outdoor space.
+  - Use planting as privacy and climate filter.
+  - Prioritize natural ventilation and shaded outdoor living in tropical towers.
+Gene_D | Limitations / Notes: Planting maintenance, water management, wind exposure, and structural loads should be verified.
+Recommended For Questions About: tropical high-rise, private sky garden, large luxury units, outdoor domesticity, planting and privacy
+
+CASE 04 — Norra Tornen
+------------------------------------------------------------
+ID: case_04_norra_tornen
+Aliases: Innovationen, Helix
+Architects: OMA, Reinier de Graaf
+Location: Stockholm, Sweden
+Year: 2018-2020
+Building Type: residential towers / modular concrete high-rise
+Main Themes: modular concrete tower, pixelated facade, residential blocks, prefabrication, balcony niches
+Gene_A | Site Context: Located in Stockholm, Norra Tornen acts as a residential landmark and uses modularity to create identity in a contemporary urban district.
+Gene_B | Issue / Concept / Strategy: Issue: residential towers often hide repetition behind generic facades. Concept: a modular tower where stacked prefabricated concrete units form a pixelated residential identity. Strategy: express unit aggregation through projecting modules, windows, and balcony niches.
+Gene_C1 | Key Vocabulary: Norra Tornen, OMA, Stockholm, modular concrete, pixelated tower, prefabricated facade, balcony niche
+Gene_C2 | Key Semantic Relations:
+  - Concrete Modules → stack into → Pixelated Tower
+  - Facade Depth → creates → Balcony Niches
+  - Unit Repetition → becomes → Architectural Identity
+  - Prefabricated Elements → organize → Tower Construction
+  - Massing Variation → breaks → Standard Tower Monotony
+Transferable Strategies:
+  - Use modular repetition as design language.
+  - Create facade depth through residential modules.
+  - Turn construction logic into architectural character.
+Gene_D | Limitations / Notes: Prefabrication requires strict coordination, module logic, transport limits, and tolerance control.
+Recommended For Questions About: modular facade, prefabrication, pixelated massing, unit aggregation, concrete residential tower
+
+CASE 05 — Vancouver House
+------------------------------------------------------------
+ID: case_05_vancouver_house
+Architects: BIG - Bjarke Ingels Group
+Location: Vancouver, Canada
+Year: 2020
+Building Type: mixed-use residential tower / infrastructure-edge high-rise
+Main Themes: infrastructure-generated tower, triangular-to-rectangular massing, urban constraint, mixed-use podium, landmark tower
+Gene_A | Site Context: Located beside major bridge infrastructure in Vancouver, the project turns a difficult triangular site and setback constraints into a distinctive tower form.
+Gene_B | Issue / Concept / Strategy: Issue: infrastructure-adjacent sites often produce leftover land and difficult footprints. Concept: a tower generated by constraints. Strategy: begin with a narrow triangular base and transform upward into efficient residential floor plates.
+Gene_C1 | Key Vocabulary: Vancouver House, BIG, Vancouver, infrastructure, triangular site, massing transformation, podium
+Gene_C2 | Key Semantic Relations:
+  - Bridge Constraint → shapes → Tower Base
+  - Triangular Footprint → transforms into → Rectangular Residential Plate
+  - Podium → activates → Infrastructure Edge
+  - Massing Shift → creates → Landmark Identity
+  - Urban Constraint → generates → Architectural Form
+Transferable Strategies:
+  - Use constraints as massing generators.
+  - Let lower-level geometry transform into more efficient upper housing plates.
+  - Activate leftover infrastructure sites with public and mixed-use programs.
+Gene_D | Limitations / Notes: Complex geometry affects structure, facade, unit efficiency, and urban approval.
+Recommended For Questions About: difficult site, infrastructure edge, massing transformation, mixed-use podium, tower geometry
+
+CASE 06 — Beirut Terraces
+------------------------------------------------------------
+ID: case_06_beirut_terraces
+Architects: Herzog & de Meuron
+Location: Beirut, Lebanon
+Year: 2017
+Building Type: residential tower / terraced high-rise
+Main Themes: layered terraces, Mediterranean outdoor living, horizontal slabs, indoor-outdoor gradient, climate-responsive terraces
+Gene_A | Site Context: Located in Beirut's urban and Mediterranean climate context, the project responds to outdoor living, sun, views, and domestic terraces.
+Gene_B | Issue / Concept / Strategy: Issue: high-rise living can lose the outdoor lifestyle of Mediterranean housing. Concept: layered terrace tower. Strategy: use irregular horizontal slabs to create shaded outdoor rooms and varied apartment terraces.
+Gene_C1 | Key Vocabulary: Beirut Terraces, Herzog & de Meuron, Beirut, terrace, horizontal slab, outdoor living, shading
+Gene_C2 | Key Semantic Relations:
+  - Horizontal Slabs → create → Layered Terraces
+  - Terraces → extend → Domestic Living
+  - Facade Depth → provides → Shade
+  - Apartment Units → connect to → Outdoor Rooms
+  - Slab Variation → creates → Residential Diversity
+Transferable Strategies:
+  - Use terraces as real rooms, not narrow decorative balconies.
+  - Use slab depth for shade and privacy.
+  - Create varied outdoor living conditions across floors.
+Gene_D | Limitations / Notes: Waterproofing, solar exposure, privacy, wind, and edge safety require careful detailing.
+Recommended For Questions About: terraced housing, outdoor living, Mediterranean climate, layered facade, balcony slabs
+
+CASE 07 — L’Arbre Blanc
+------------------------------------------------------------
+ID: case_07_larbre_blanc
+Aliases: White Tree
+Architects: Sou Fujimoto Architects, Nicolas Laisné, OXO Architectes, Dimitri Roussel
+Location: Montpellier, France
+Year: 2019
+Building Type: mixed-use residential tower / balcony tower
+Main Themes: branching balconies, public rooftop, outdoor living, white tree metaphor, Mediterranean high-rise
+Gene_A | Site Context: Located in Montpellier, the tower responds to Mediterranean climate and urban visibility through projecting balcony branches and a public rooftop condition.
+Gene_B | Issue / Concept / Strategy: Issue: residential towers often have weak outdoor life and limited civic role. Concept: a white tree with inhabitable branches. Strategy: distribute deep balconies around the tower and use the roof as a public or semi-public destination.
+Gene_C1 | Key Vocabulary: L’Arbre Blanc, Montpellier, Sou Fujimoto, branching balconies, public rooftop, white tree, outdoor living
+Gene_C2 | Key Semantic Relations:
+  - Balcony Branches → extend → Apartment Life
+  - Public Rooftop → opens → Tower to City
+  - Facade Projections → create → Shade and Identity
+  - Outdoor Spaces → mediate → Interior and Climate
+  - Tower Form → becomes → Urban Landmark
+Transferable Strategies:
+  - Use balconies as spatial identity.
+  - Create public or shared rooftop value.
+  - Adapt branching outdoor rooms to climate and view orientation.
+Gene_D | Limitations / Notes: Large cantilevered balconies require structural, thermal, privacy, and waterproofing verification.
+Recommended For Questions About: balcony extension, public rooftop, Mediterranean outdoor living, tower as tree, facade inhabitation
+
+CASE 08 — One Central Park
+------------------------------------------------------------
+ID: case_08_one_central_park
+Architects: Ateliers Jean Nouvel, PTW Architects
+Location: Sydney, Australia
+Year: 2014
+Building Type: mixed-use residential towers / vertical garden development
+Main Themes: vertical garden, heliostat, green mixed-use tower, public podium, climate and light strategy
+Gene_A | Site Context: Located in Sydney's Central Park redevelopment, the project combines residential towers, retail podium, public space, vertical planting, and daylight redirection.
+Gene_B | Issue / Concept / Strategy: Issue: dense redevelopment can lack greenery and shaded public quality. Concept: a green mixed-use tower with light infrastructure. Strategy: integrate vertical gardens and heliostat systems into the facade and podium environment.
+Gene_C1 | Key Vocabulary: One Central Park, Jean Nouvel, Sydney, vertical garden, heliostat, mixed-use, green facade
+Gene_C2 | Key Semantic Relations:
+  - Vertical Garden → covers → Residential Facade
+  - Heliostat → redirects → Sunlight
+  - Podium → connects → Public Realm and Towers
+  - Planting System → creates → Environmental Identity
+  - Mixed-Use Base → activates → Urban Ground
+Transferable Strategies:
+  - Combine greenery with public ground-floor activation.
+  - Use technical systems to improve light in dense developments.
+  - Make facade planting part of a broader urban landscape strategy.
+Gene_D | Limitations / Notes: Heliostat, plant maintenance, irrigation, access, and public-private management should be verified.
+Recommended For Questions About: vertical garden, mixed-use podium, heliostat, urban greenery, light redirection
+
+CASE 09 — Valley
+------------------------------------------------------------
+ID: case_09_valley
+Architects: MVRDV
+Location: Amsterdam, Netherlands
+Year: 2022
+Building Type: mixed-use high-rise / terraced green valley
+Main Themes: green valley, mixed-use high-rise, public route, terraced landscape, stone and glass contrast
+Gene_A | Site Context: Located in Amsterdam's Zuidas business district, Valley responds to a hard commercial context by carving a green, public, terraced interior landscape.
+Gene_B | Issue / Concept / Strategy: Issue: business districts can be hard, private, and non-domestic. Concept: a vertical valley that brings landscape into high-density mixed-use development. Strategy: contrast a smooth exterior with a rugged planted interior and public route.
+Gene_C1 | Key Vocabulary: Valley, MVRDV, Amsterdam, green valley, terraced landscape, mixed-use, public route
+Gene_C2 | Key Semantic Relations:
+  - Terraced Valley → cuts through → Mixed-Use Mass
+  - Public Route → connects → Ground and Upper Terraces
+  - Green Terraces → soften → Business District Density
+  - Residential Units → overlook → Inner Landscape
+  - Outer Facade → contrasts with → Inner Valley
+Transferable Strategies:
+  - Carve public landscape into dense massing.
+  - Use terraces as both amenity and circulation experience.
+  - Create contrast between urban exterior and domestic inner landscape.
+Gene_D | Limitations / Notes: Complex public access, planting, structure, and waterproofing require strong management.
+Recommended For Questions About: mixed-use high-rise, public route, terraced greenery, urban canyon, public-private gradient
+
+CASE 10 — HAUT Amsterdam
+------------------------------------------------------------
+ID: case_10_haut_amsterdam
+Aliases: HAUT
+Architects: Team V Architecture
+Location: Amsterdam, Netherlands
+Year: 2022
+Building Type: hybrid timber residential high-rise
+Main Themes: hybrid timber tower, low-carbon residential high-rise, CLT floors, timber identity, sustainable structure
+Gene_A | Site Context: Located in Amsterdam, HAUT demonstrates hybrid timber high-rise housing within an urban waterfront or redevelopment context.
+Gene_B | Issue / Concept / Strategy: Issue: high-rises usually depend on concrete and steel with high embodied carbon. Concept: a low-carbon residential tower using hybrid timber. Strategy: combine timber structural systems with high-rise residential planning and visible sustainable identity.
+Gene_C1 | Key Vocabulary: HAUT, Amsterdam, Team V Architecture, hybrid timber, CLT, low-carbon, residential high-rise
+Gene_C2 | Key Semantic Relations:
+  - Timber Structure → reduces → Embodied Carbon
+  - Hybrid System → supports → Residential Tower
+  - Balconies → extend → Apartment Units
+  - Material Strategy → defines → Sustainable Identity
+  - Tower Form → demonstrates → Low-Carbon High-Rise
+Transferable Strategies:
+  - Use timber or hybrid systems to reduce embodied carbon.
+  - Connect structural material to design concept.
+  - Pair sustainability claims with housing quality such as balconies and daylight.
+Gene_D | Limitations / Notes: Fire, acoustics, moisture, vibration, connections, and regulations must be verified.
+Recommended For Questions About: timber high-rise, low-carbon structure, hybrid timber, sustainable residential tower, material strategy
+
+CASE 11 — The Pinnacle@Duxton
+------------------------------------------------------------
+ID: case_11_pinnacle_duxton
+Aliases: Pinnacle@Duxton
+Architects: ARC Studio Architecture + Urbanism, RSP Architects Planners & Engineers
+Location: Singapore
+Year: 2009
+Building Type: public housing high-rise / skybridge housing complex
+Main Themes: sky gardens, skybridges, public housing landmark, seven connected towers, vertical communal space
+Gene_A | Site Context: Located in dense Singapore, the project transforms public housing into a vertical community and civic landmark through connected high-rise towers and sky gardens.
+Gene_B | Issue / Concept / Strategy: Issue: dense public housing needs communal space beyond ground-level open space. Concept: a connected vertical community. Strategy: link seven towers with skybridges and sky gardens at multiple heights.
+Gene_C1 | Key Vocabulary: The Pinnacle@Duxton, Singapore, public housing, skybridge, sky garden, seven towers, vertical community
+Gene_C2 | Key Semantic Relations:
+  - Skybridges → connect → Residential Towers
+  - Sky Gardens → provide → Shared Communal Space
+  - Multiple Towers → form → High-Density Public Housing Landmark
+  - Vertical Circulation → links → Ground and Sky Amenities
+  - Public Housing → becomes → Civic Skyline
+Transferable Strategies:
+  - Distribute communal spaces vertically.
+  - Use skybridges to connect towers and residents.
+  - Make public housing socially and visually ambitious.
+Gene_D | Limitations / Notes: Skybridge access, security, maintenance, wind, structural movement, and public/private control require careful planning.
+Recommended For Questions About: public housing, skybridge, sky garden, vertical community, communal space
+
+CASE 12 — 79 & Park
+------------------------------------------------------------
+ID: case_12_79_and_park
+Aliases: 79&Park
+Architects: BIG - Bjarke Ingels Group
+Location: Stockholm, Sweden
+Year: 2018
+Building Type: terraced residential block / courtyard housing
+Main Themes: inhabitable hillside, terraced courtyard block, wood-clad modules, park-edge housing, stepped residential massing
+Gene_A | Site Context: Located near park context in Stockholm, 79 & Park transforms a residential block into a stepped, inhabitable hillside-like courtyard mass.
+Gene_B | Issue / Concept / Strategy: Issue: perimeter blocks can be repetitive and disconnected from adjacent landscape. Concept: inhabitable hillside. Strategy: step modules around a courtyard so roof terraces and apartments relate to the park and city.
+Gene_C1 | Key Vocabulary: 79 & Park, BIG, Stockholm, terraced courtyard, wood modules, inhabitable hillside, park edge
+Gene_C2 | Key Semantic Relations:
+  - Stepped Modules → form → Inhabitable Hillside
+  - Central Courtyard → organizes → Residential Community
+  - Roof Terraces → extend → Apartment Life
+  - Park Edge → influences → Massing Slope
+  - Wood Facade → softens → Residential Block
+Transferable Strategies:
+  - Use stepped massing to connect housing with landscape.
+  - Turn roofs into terraces and outdoor rooms.
+  - Use courtyard geometry to combine density with community.
+Gene_D | Limitations / Notes: Stepped massing affects accessibility, drainage, waterproofing, structure, and privacy.
+Recommended For Questions About: terraced block, courtyard housing, park-edge residential, stepped massing, roof terraces
+
+CASE 13 — The Interlace
+------------------------------------------------------------
+ID: case_13_the_interlace
+Architects: OMA, Ole Scheeren
+Location: Singapore
+Year: 2013
+Building Type: horizontal high-rise / stacked courtyard housing
+Main Themes: horizontal high-rise, stacked courtyard housing, communal landscape, mega-block, interlocking residential bars
+Gene_A | Site Context: Located in Singapore, The Interlace responds to tropical high-density living by replacing isolated towers with stacked horizontal blocks and communal courtyards.
+Gene_B | Issue / Concept / Strategy: Issue: vertical towers can isolate residents and reduce communal landscape. Concept: horizontal high-rise. Strategy: stack residential bars into hexagonal-like courtyards and shared landscapes.
+Gene_C1 | Key Vocabulary: The Interlace, OMA, Ole Scheeren, Singapore, horizontal high-rise, stacked blocks, courtyards, community
+Gene_C2 | Key Semantic Relations:
+  - Residential Bars → stack into → Horizontal High-Rise
+  - Courtyards → organize → Community Life
+  - Roof Gardens → extend → Shared Landscape
+  - Interlocking Blocks → create → Multiple Outdoor Spaces
+  - Tropical Landscape → mediates → Density and Domesticity
+Transferable Strategies:
+  - Use horizontal stacking to create community at scale.
+  - Make courtyards the organizing device.
+  - Distribute shared landscape across roofs, courtyards, and terraces.
+Gene_D | Limitations / Notes: Large-scale horizontal stacking requires extensive site area, structure, circulation, and landscape maintenance.
+Recommended For Questions About: horizontal high-rise, courtyard community, shared landscape, tropical housing, communal residential complex
+
+CASE 14 — The Silo
+------------------------------------------------------------
+ID: case_14_the_silo
+Architects: COBE
+Location: Copenhagen, Denmark
+Year: 2017
+Building Type: adaptive reuse residential tower / former grain silo
+Main Themes: adaptive reuse, grain silo conversion, industrial heritage, residential transformation, faceted metal facade
+Gene_A | Site Context: Located in Copenhagen's Nordhavn redevelopment, The Silo reuses an industrial grain silo and converts it into housing with a new facade and public role.
+Gene_B | Issue / Concept / Strategy: Issue: industrial structures can be demolished during redevelopment, losing embodied carbon and memory. Concept: adaptive reuse tower. Strategy: insert residential units into the existing silo structure and wrap it with a new faceted facade.
+Gene_C1 | Key Vocabulary: The Silo, COBE, Copenhagen, adaptive reuse, grain silo, industrial heritage, residential conversion
+Gene_C2 | Key Semantic Relations:
+  - Existing Silo → becomes → Residential Tower
+  - Industrial Structure → preserves → Urban Memory
+  - New Facade → transforms → Building Identity
+  - Public Program → connects → Reuse and City
+  - Adaptive Reuse → reduces → Demolition Waste
+Transferable Strategies:
+  - Reuse existing structure as spatial and cultural asset.
+  - Add new envelope to transform performance and identity.
+  - Use public programming to connect reused towers to city life.
+Gene_D | Limitations / Notes: Existing structure, fire safety, daylight, acoustic quality, envelope performance, and unit fit must be verified.
+Recommended For Questions About: adaptive reuse, industrial heritage, silo conversion, low-carbon reuse, residential transformation
+
+CASE 15 — 56 Leonard Street
+------------------------------------------------------------
+ID: case_15_56_leonard_street
+Architects: Herzog & de Meuron
+Location: New York, USA
+Year: 2016
+Building Type: luxury residential tower / stacked houses tower
+Main Themes: pixelated tower, stacked houses, cantilevered units, individualized apartments, skyline landmark
+Gene_A | Site Context: Located in Manhattan's Tribeca, 56 Leonard Street uses stacked and shifted floor plates to create a distinctive luxury residential skyline identity.
+Gene_B | Issue / Concept / Strategy: Issue: luxury towers can repeat identical floor plates and lack individual identity. Concept: stacked houses in the sky. Strategy: shift, cantilever, and vary slabs to produce terraces and individualized apartments.
+Gene_C1 | Key Vocabulary: 56 Leonard Street, Herzog & de Meuron, New York, pixelated tower, stacked houses, cantilever, luxury residential
+Gene_C2 | Key Semantic Relations:
+  - Stacked Floor Plates → create → Pixelated Tower
+  - Cantilevered Slabs → form → Private Terraces
+  - Unit Variation → creates → Individual Residential Identity
+  - Vertical Stack → becomes → Skyline Sculpture
+  - Setbacks → extend → Outdoor Living
+Transferable Strategies:
+  - Use massing variation to individualize high-rise units.
+  - Create terraces through shifted floor plates.
+  - Turn tower repetition into a stack of distinct homes.
+Gene_D | Limitations / Notes: Cantilevers, structural transfer, facade complexity, privacy, and cost should be verified.
+Recommended For Questions About: luxury tower, pixelated massing, stacked apartments, cantilevered terraces, individual unit identity
+
+CASE 16 — Tao Zhu Yin Yuan / Agora Garden
+------------------------------------------------------------
+ID: case_16_tao_zhu_yin_yuan_agora_garden
+Aliases: Agora Garden, Tao Zhu Yin Yuan
+Architects: Vincent Callebaut Architectures
+Location: Taipei, Taiwan
+Year: 2018 / should be verified
+Building Type: residential tower / vertical forest double-helix tower
+Main Themes: DNA double helix, vertical forest, rotating floor plates, carbon-absorbing greenery, private planted terraces
+Gene_A | Site Context: Located in Taipei, the project uses a twisting double-helix form and large planted terraces to create ecological symbolism and private green high-rise living.
+Gene_B | Issue / Concept / Strategy: Issue: dense urban housing needs greenery, identity, and ecological performance. Concept: a DNA-like vertical forest. Strategy: rotate residential plates to create large planted terraces and a symbolic carbon-absorbing tower image.
+Gene_C1 | Key Vocabulary: Tao Zhu Yin Yuan, Agora Garden, Taipei, Vincent Callebaut, double helix, vertical forest, planted terrace
+Gene_C2 | Key Semantic Relations:
+  - Rotating Floor Plates → create → Double-Helix Form
+  - Planted Terraces → extend → Residential Units
+  - Greenery → symbolizes → Carbon Absorption
+  - Tower Geometry → defines → Ecological Identity
+  - Private Gardens → mediate → Interior and City
+Transferable Strategies:
+  - Use rotational geometry to create terraces and identity.
+  - Combine private gardens with environmental narrative.
+  - Make ecological form legible as design concept.
+Gene_D | Limitations / Notes: Structural torsion, wind, planting load, irrigation, maintenance, and actual carbon claims should be verified.
+Recommended For Questions About: vertical forest, double helix, rotating tower, planted terraces, ecological symbolism
+
+CASE 17 — Tour Bois-le-Prêtre Transformation
+------------------------------------------------------------
+ID: case_17_tour_bois_le_pretre
+Aliases: Transformation of Tour Bois-le-Prêtre
+Architects: Frédéric Druot, Anne Lacaton, Jean-Philippe Vassal
+Location: Paris, France
+Year: 2011
+Building Type: social housing transformation / high-rise residential renovation
+Main Themes: do not demolish, social housing transformation, winter garden, balcony extension, inhabited facade, low-carbon reuse
+Gene_A | Site Context: Located in Paris, this transformation upgrades an existing social housing tower instead of demolishing it, improving resident quality while preserving structure and reducing waste.
+Gene_B | Issue / Concept / Strategy: Issue: outdated social housing often faces demolition despite existing structural value. Concept: do not demolish; transform. Strategy: add self-supporting winter gardens and balconies around the existing tower to enlarge dwellings and improve comfort.
+Gene_C1 | Key Vocabulary: Tour Bois-le-Prêtre, Lacaton & Vassal, Paris, social housing, winter garden, renovation, do not demolish
+Gene_C2 | Key Semantic Relations:
+  - Existing Tower → is transformed by → New Extension
+  - Winter Garden → mediates → Interior and Exterior
+  - Balcony Addition → enlarges → Apartment Unit
+  - Self-Supporting Structure → attaches to → Existing Facade
+  - Resident Continuity → supports → Social Sustainability
+Transferable Strategies:
+  - Improve housing quality through additions rather than demolition.
+  - Use winter gardens as thermal buffers and extra living space.
+  - Keep residents and structure in place where possible.
+Gene_D | Limitations / Notes: Existing structure, fire, facade connections, occupied construction, and resident management must be verified.
+Recommended For Questions About: social housing renovation, adaptive reuse, winter garden, balcony extension, low-carbon transformation
+
+CASE 18 — One Thousand Museum
+------------------------------------------------------------
+ID: case_18_one_thousand_museum
+Architects: Zaha Hadid Architects
+Location: Miami, Florida, USA
+Year: 2019
+Building Type: luxury residential condominium / exoskeleton tower
+Main Themes: exoskeleton tower, structural facade, hurricane-resistant high-rise, luxury residential tower, column-reduced interiors
+Gene_A | Site Context: Located at 1000 Biscayne Boulevard in Downtown Miami, the project faces Museum Park and Biscayne Bay in a coastal hurricane-prone context.
+Gene_B | Issue / Concept / Strategy: Issue: luxury coastal towers need open interiors, views, identity, and hurricane resistance. Concept: structure becomes architecture. Strategy: use central core plus exterior concrete exoskeleton to resist lateral loads, free interiors, and create skyline identity.
+Gene_C1 | Key Vocabulary: One Thousand Museum, Zaha Hadid Architects, Miami, exoskeleton, structural facade, GFRC, luxury condominium
+Gene_C2 | Key Semantic Relations:
+  - Exoskeleton → supports → Tower Perimeter
+  - Exoskeleton → frees → Interior Floor Plate
+  - Central Core → organizes → Residential Units
+  - Private Elevator Lobby → serves → Residence Unit
+  - Structural Facade → defines → Architectural Identity
+Transferable Strategies:
+  - Use exterior structure to combine performance and image.
+  - Reduce interior columns for flexible luxury layouts.
+  - Translate climate and wind requirements into architectural expression.
+Gene_D | Limitations / Notes: GFRC, hurricane performance, structural detailing, and luxury economics should be verified.
+Recommended For Questions About: structural facade, exoskeleton, luxury tower, open floor plate, coastal high-rise
+
+CASE 19 — Mirador Building
+------------------------------------------------------------
+ID: case_19_mirador_building
+Aliases: Edificio Mirador
+Architects: MVRDV, Blanca Lleó Asociados
+Location: Madrid, Spain
+Year: 2005
+Building Type: social housing / vertical neighbourhood tower
+Main Themes: vertical neighbourhood, lifted courtyard, sky plaza, social housing variation, large central void, anti-uniform housing block
+Gene_A | Site Context: Located in Sanchinarro, Madrid, a peripheral district of repetitive housing blocks, Mirador creates identity through a large elevated void and vertical neighbourhood organization.
+Gene_B | Issue / Concept / Strategy: Issue: social housing districts can become monotonous and lack communal identity. Concept: vertical neighbourhood with lifted courtyard. Strategy: stack mini-neighbourhoods around a sky plaza and use red circulation plus facade variation to express diversity.
+Gene_C1 | Key Vocabulary: Mirador Building, MVRDV, Madrid, Sanchinarro, sky plaza, lifted courtyard, vertical neighbourhood
+Gene_C2 | Key Semantic Relations:
+  - Housing Blocks → stack into → Vertical Neighbourhood
+  - Sky Plaza → replaces → Ground Courtyard
+  - Central Void → frames → Guadarrama View
+  - Red Circulation → marks → Vertical Itinerary
+  - Facade Materials → differentiate → Neighbourhood Groups
+Transferable Strategies:
+  - Lift communal space into the tower.
+  - Use housing groups and facade variation to reduce monotony.
+  - Use a large void as social space, view frame, and identity device.
+Gene_D | Limitations / Notes: Sky plaza access, safety, maintenance, and actual social use should be verified.
+Recommended For Questions About: social housing, lifted courtyard, sky plaza, vertical neighbourhood, housing diversity
+
+CASE 20 — Mjøstårnet
+------------------------------------------------------------
+ID: case_20_mjostarnet
+Aliases: The Tower of Lake Mjøsa
+Architects: Voll Arkitekter
+Location: Brumunddal, Norway
+Year: 2019
+Building Type: mixed-use timber high-rise / residential, hotel, office, public bath
+Main Themes: tall timber construction, glulam structure, CLT floor system, mixed-use vertical program, lakefront landmark, low-carbon high-rise prototype
+Gene_A | Site Context: Located in Brumunddal beside Lake Mjøsa, the tower becomes a small-town lakefront landmark and a symbol of Norwegian timber construction.
+Gene_B | Issue / Concept / Strategy: Issue: tall buildings usually rely on high-carbon materials and may feel disconnected from local culture. Concept: mixed-use mass timber high-rise. Strategy: use glulam and CLT to stack public bath, hotel, offices, apartments, and viewing spaces.
+Gene_C1 | Key Vocabulary: Mjøstårnet, Voll Arkitekter, Norway, Lake Mjøsa, glulam, CLT, timber high-rise, mixed-use
+Gene_C2 | Key Semantic Relations:
+  - Glulam Frame → supports → Mixed-Use Tower
+  - CLT Floors → form → Repeated Residential and Hotel Levels
+  - Public Bath → anchors → Ground-Level Program
+  - Upper Residential Floors → gain → Panoramic Views
+  - Timber Crown → expresses → Structural Identity
+Transferable Strategies:
+  - Use mass timber to create low-carbon high-rise identity.
+  - Stack public and private programs vertically.
+  - Anchor a tower with civic functions and share height through public viewing spaces.
+Gene_D | Limitations / Notes: Fire safety, moisture, acoustics, vibration, and cold-climate timber detailing must be verified.
+Recommended For Questions About: mass timber, low-carbon structure, mixed-use tower, lakefront landmark, public-private program stack
+
+How to Use This Database
+1. Identify the user's design issue. 2. Use case_index.json to choose relevant cases. 3. Read the compact case records above. 4. Extract Gene_B concepts and Gene_C2 relations. 5. Translate precedent strategies into design suggestions. 6. State limitations and items that should be verified.
+
+End of compact Gem database.
