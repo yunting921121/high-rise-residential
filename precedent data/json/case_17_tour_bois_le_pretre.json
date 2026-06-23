@@ -1,0 +1,744 @@
+{
+  "id": "case_17_tour_bois_le_pretre",
+  "project_name": "Transformation of Tour Bois-le-Prêtre",
+  "original_building_architect": "Raymond Lopez",
+  "transformation_architects": [
+    "Frédéric Druot",
+    "Anne Lacaton",
+    "Jean-Philippe Vassal"
+  ],
+  "client": "Paris Habitat",
+  "location": "Paris, France",
+  "district": "Paris 17e / Porte Pouchet / Boulevard du Bois-le-Prêtre",
+  "address_reference": "Boulevard du Bois-le-Prêtre / Rue Pierre-Rebière area, Paris 17e",
+  "year": "2011",
+  "building_type": "social housing transformation / high-rise residential renovation",
+  "floor_count": "approximately 16 storeys / around 17-18 levels depending on counting method",
+  "number_of_units": "approximately 96 apartments",
+  "existing_area": "approximately 8900 m²",
+  "added_area": "approximately 3560 m²",
+  "main_theme": [
+    "do not demolish",
+    "social housing renewal",
+    "winter garden extension",
+    "balcony addition",
+    "occupied renovation",
+    "low-carbon reuse",
+    "inhabited facade",
+    "apartment enlargement"
+  ],
+  "source_urls": [
+    "https://arquitecturaviva.com/works/transformacion-de-la-torre-bois-le-pretre-10",
+    "https://www.lacatonvassal.com/?idp=56"
+  ],
+  "data_sources": [
+    "source_text.md",
+    "01_site_context_analysis.md",
+    "02_drawings_preprocess.md",
+    "03_photos_renders_preprocess.md",
+    "typical_transformed_floor_plan.jpg",
+    "facade_image.jpg",
+    "exterior_photo.jpg"
+  ],
+  "Gene_A": {
+    "description": "Gene_A records the site conditions, urban context, environmental conditions, functional needs, and contextual reasoning of the precedent.",
+    "location": "Tour Bois-le-Prêtre is located at Porte Pouchet in the 17th arrondissement of Paris, near the northern edge of the city and close to the Boulevard Périphérique.",
+    "urban_context": "The project belongs to a post-war social housing context. The original tower was built as part of a modernist housing strategy near the edge of Paris. The transformation responds to a peripheral urban condition shaped by public housing, infrastructure, neighborhood renewal, and the need to improve existing residential quality without demolition.",
+    "site_conditions": "The tower is located near the administrative and urban boundary between Paris, Clichy, and Saint-Ouen. The nearby Boulevard Périphérique creates traffic, noise, pollution, and infrastructural pressure. The project is part of a broader effort to improve the Porte Pouchet area through housing renewal and urban repair.",
+    "adjacent_uses": {
+      "north": "Porte Pouchet edge, Boulevard Périphérique direction, Clichy / Saint-Ouen boundary, and traffic infrastructure.",
+      "east": "Residential blocks, neighborhood streets, and Porte Pouchet urban renewal area.",
+      "south": "Paris 17e residential fabric, local streets, public housing context, and community facilities.",
+      "west": "Boulevard du Bois-le-Prêtre, Cimetière des Batignolles direction, planted edges, and open urban fragments."
+    },
+    "surrounding_context": {
+      "peripheral_urban_context": "The building is located at the edge of Paris, where city fabric, ring road infrastructure, and neighboring municipalities meet.",
+      "social_housing_context": "The tower is part of a post-war social housing environment that required improvement in comfort, image, and long-term viability.",
+      "infrastructure_context": "The nearby ring road creates noise, pollution, and visual exposure.",
+      "urban_renewal_context": "The project participates in a broader transformation strategy for Porte Pouchet and the northern edge of Paris."
+    },
+    "climate_conditions": "Paris has a temperate climate with moderate sunlight, cold winters, and changing seasonal conditions. The transformation improves thermal comfort, daylight, ventilation, and exterior access through winter gardens, balconies, transparent facade layers, and resident-controlled openings.",
+    "view_conditions": "The transformation improves views toward the northern edge of Paris, nearby residential blocks, local streets, cemetery landscape, and the Porte Pouchet redevelopment area. The new winter gardens and balconies create additional view layers between the apartment and the city.",
+    "functional_needs": "The project needed to improve existing social housing by adding space, increasing daylight, creating balconies, improving thermal and acoustic comfort, maintaining resident continuity, and avoiding the cost and carbon impact of demolition.",
+    "density_or_height_condition": "The project keeps the existing high-rise social housing tower and increases living quality through external additions rather than increasing density through new construction.",
+    "target_residents": "Existing social housing residents who needed larger apartments, better daylight, improved thermal comfort, private outdoor space, and continuity of residence.",
+    "context_steps": [
+      {
+        "step": 1,
+        "subject": "existing social housing tower",
+        "relation": "is located at",
+        "object": "Porte Pouchet, Paris 17e"
+      },
+      {
+        "step": 2,
+        "subject": "peripheral urban context",
+        "relation": "creates",
+        "object": "noise, pollution, infrastructure pressure, and renewal demand"
+      },
+      {
+        "step": 3,
+        "subject": "design strategy",
+        "relation": "rejects",
+        "object": "demolition"
+      },
+      {
+        "step": 4,
+        "subject": "existing tower",
+        "relation": "receives",
+        "object": "external extension"
+      },
+      {
+        "step": 5,
+        "subject": "new floor plate",
+        "relation": "enlarges",
+        "object": "apartment unit"
+      },
+      {
+        "step": 6,
+        "subject": "winter garden",
+        "relation": "mediates",
+        "object": "interior and exterior"
+      },
+      {
+        "step": 7,
+        "subject": "balcony",
+        "relation": "extends",
+        "object": "winter garden"
+      },
+      {
+        "step": 8,
+        "subject": "non-demolition strategy",
+        "relation": "reduces",
+        "object": "waste and carbon"
+      }
+    ]
+  },
+  "Gene_B": {
+    "description": "Gene_B records the design issue, design concept, and overall design strategy.",
+    "issue": "Older social housing towers often face demolition because of poor comfort, outdated image, small apartments, weak thermal performance, and lack of outdoor space. Demolition can displace residents, erase existing communities, and waste the embodied carbon of the existing structure.",
+    "concept": "Transform the existing social housing tower through addition rather than demolition, using external extensions, winter gardens, balconies, and a new transparent facade layer to enlarge apartments and improve daily life.",
+    "strategy": "Keep the existing concrete tower, add a self-supporting external structure, enlarge each apartment with new floor plates, create winter gardens as intermediate climate buffers, add balconies as open-air extensions, and use sliding glass panels and curtains to give residents control over light, ventilation, privacy, and seasonal use.",
+    "design_intentions": [
+      "Avoid demolition and preserve the existing structure.",
+      "Improve social housing quality through additional space.",
+      "Create winter gardens as flexible seasonal rooms.",
+      "Add balconies to give residents direct outdoor access.",
+      "Improve daylight, views, thermal comfort, and acoustic comfort.",
+      "Support resident continuity and reduce displacement.",
+      "Use renovation as a low-carbon alternative to replacement.",
+      "Turn the facade into an inhabited domestic layer."
+    ]
+  },
+  "Gene_C1": {
+    "description": "Gene_C1 records the architectural vocabulary extracted from site context, drawings, diagrams, photos, and renders.",
+    "vocabulary": [
+      "existing social housing tower",
+      "existing concrete structure",
+      "existing apartment unit",
+      "existing facade",
+      "existing floor slab",
+      "existing structural frame",
+      "existing circulation core",
+      "existing stair",
+      "existing elevator",
+      "existing bathroom",
+      "existing kitchen",
+      "existing bedroom",
+      "existing living room",
+      "new extension",
+      "added floor plate",
+      "self-supporting structure",
+      "winter garden",
+      "balcony",
+      "loggia",
+      "sunroom",
+      "extended living room",
+      "enlarged apartment",
+      "new facade layer",
+      "sliding glass panels",
+      "transparent envelope",
+      "curtain layer",
+      "exterior deck",
+      "stair core",
+      "elevator core",
+      "shared landing",
+      "vertical circulation",
+      "service shaft",
+      "apartment entrance",
+      "shared corridor",
+      "fire stair",
+      "residential access",
+      "utility space",
+      "thermal buffer",
+      "solar gain space",
+      "ventilated winter garden",
+      "shading curtain",
+      "natural light",
+      "natural ventilation",
+      "acoustic buffer",
+      "pollution buffer",
+      "climate threshold",
+      "seasonal living space",
+      "energy improvement",
+      "occupied renovation",
+      "resident continuity",
+      "non-demolition strategy",
+      "social housing renewal",
+      "low-cost transformation",
+      "apartment enlargement",
+      "improved comfort",
+      "existing residents",
+      "PLUS strategy",
+      "housing rehabilitation",
+      "inhabited facade",
+      "transparent facade",
+      "Porte Pouchet",
+      "Paris 17e"
+    ]
+  },
+  "Gene_C2": {
+    "description": "Gene_C2 records semantic spatial relationships and strategy candidates. Each relation follows the format: Subject → Relation (Relation Type) → Object.",
+    "semantic_relations": [
+      {
+        "id": "C2_01",
+        "subject": "existing tower",
+        "relation": "receives",
+        "relation_type": "Transformation Relation",
+        "object": "external extension",
+        "description": "The existing tower is kept and expanded outward through a new self-supporting structure.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Avoid demolition",
+            "strategy": "Preserve the existing tower and add new space externally instead of replacing the building.",
+            "reasoning": {
+              "premise": "The existing social housing tower was structurally usable but spatially and environmentally inadequate.",
+              "analysis": "External additions can improve living quality while retaining the main structure.",
+              "conclusion": "The project transforms the tower without demolition."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Improve housing while limiting disruption",
+            "strategy": "Add a self-supporting structure around the tower to reduce the need for heavy internal demolition.",
+            "reasoning": {
+              "premise": "Residents and existing apartments are affected by invasive construction.",
+              "analysis": "An external structure allows much of the intervention to happen outside the existing envelope.",
+              "conclusion": "The renovation becomes more feasible and less destructive."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create new living quality from an existing building",
+            "strategy": "Use the old tower as a base structure and create a new residential layer around it.",
+            "reasoning": {
+              "premise": "The existing building lacked generous space and balconies.",
+              "analysis": "Adding space externally directly improves each apartment.",
+              "conclusion": "The old building gains new habitability through addition."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_02",
+        "subject": "new floor plate",
+        "relation": "enlarges",
+        "relation_type": "Spatial Relation",
+        "object": "apartment unit",
+        "description": "Added floor slabs increase the usable space of each apartment.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Increase apartment generosity",
+            "strategy": "Extend the existing floor plate outward to add extra living area to each unit.",
+            "reasoning": {
+              "premise": "Many existing apartments were too small for contemporary living standards.",
+              "analysis": "Additional floor area directly improves daily domestic comfort.",
+              "conclusion": "The apartment becomes more spacious without relocating residents."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Transform social housing quality",
+            "strategy": "Use added space to upgrade social housing rather than simply refurbishing surfaces.",
+            "reasoning": {
+              "premise": "Cosmetic renovation does not solve spatial inadequacy.",
+              "analysis": "Adding floor area changes the apartment's actual use potential.",
+              "conclusion": "The renovation creates real social value."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Make renovation visible and usable",
+            "strategy": "Allow the new floor plates to form a readable extension layer around the tower.",
+            "reasoning": {
+              "premise": "The intervention should be both functional and architecturally legible.",
+              "analysis": "The added layer visibly expresses the improvement of the existing homes.",
+              "conclusion": "The building's new image is directly tied to improved living space."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_03",
+        "subject": "winter garden",
+        "relation": "mediates",
+        "relation_type": "Environmental Relation",
+        "object": "interior and exterior",
+        "description": "The winter garden creates an intermediate climatic and spatial layer between the apartment and the outside.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Create a seasonal climate buffer",
+            "strategy": "Insert a glazed winter garden between the existing room and exterior balcony.",
+            "reasoning": {
+              "premise": "The apartments needed better thermal comfort and more usable space.",
+              "analysis": "A winter garden can collect solar gain, buffer cold air, and become an extra room.",
+              "conclusion": "The facade becomes a climate threshold rather than a thin wall."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Add flexible domestic space",
+            "strategy": "Design the winter garden as an adaptable room for storage, plants, seating, and seasonal living.",
+            "reasoning": {
+              "premise": "Residents use domestic space differently across seasons.",
+              "analysis": "A glazed intermediate room can change function throughout the year.",
+              "conclusion": "The winter garden increases the flexibility of each apartment."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Improve environmental control",
+            "strategy": "Allow residents to open or close the winter garden to regulate temperature, air, and light.",
+            "reasoning": {
+              "premise": "Comfort varies with season, weather, and individual preference.",
+              "analysis": "The winter garden provides a controllable buffer zone.",
+              "conclusion": "Residents gain more agency over their environment."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_04",
+        "subject": "balcony",
+        "relation": "extends",
+        "relation_type": "Spatial Relation",
+        "object": "winter garden",
+        "description": "The balcony provides direct open-air space beyond the winter garden.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Provide direct outdoor access",
+            "strategy": "Add balconies beyond the winter garden to give residents open-air exterior space.",
+            "reasoning": {
+              "premise": "The original apartments had limited or no usable outdoor space.",
+              "analysis": "Balconies allow residents to step outside, sit, plant, and view the city.",
+              "conclusion": "The apartment gains a new outdoor dimension."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create layered domestic edge",
+            "strategy": "Sequence the apartment edge from interior room to winter garden to balcony.",
+            "reasoning": {
+              "premise": "A single facade line offers limited spatial and climatic flexibility.",
+              "analysis": "Layering creates different degrees of enclosure and exposure.",
+              "conclusion": "The apartment edge becomes richer and more adaptable."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Improve everyday quality",
+            "strategy": "Use balconies as small outdoor rooms connected to the enlarged apartment.",
+            "reasoning": {
+              "premise": "Outdoor access strongly affects housing quality.",
+              "analysis": "Even modest balconies can improve daily experience in high-rise housing.",
+              "conclusion": "The renovation increases dignity and comfort for residents."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_05",
+        "subject": "existing rooms",
+        "relation": "open to",
+        "relation_type": "Spatial Relation",
+        "object": "new facade layer",
+        "description": "Existing living rooms and bedrooms gain new light, view, and spatial depth through the added facade.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Improve daylight and views",
+            "strategy": "Open existing rooms toward the new transparent winter garden and balcony layer.",
+            "reasoning": {
+              "premise": "The original facade limited light, view, and spatial generosity.",
+              "analysis": "The new transparent layer expands visual depth and daylight access.",
+              "conclusion": "Existing rooms become brighter and more connected to the exterior."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Transform rooms without full reconstruction",
+            "strategy": "Use the new facade layer to change the experience of existing rooms while keeping much of the original plan.",
+            "reasoning": {
+              "premise": "Complete internal reconstruction is costly and disruptive.",
+              "analysis": "Adding a new exterior layer changes room quality from the outside.",
+              "conclusion": "The project upgrades apartments with limited internal demolition."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Increase perceived spaciousness",
+            "strategy": "Use glazing and added depth to make rooms feel larger and more open.",
+            "reasoning": {
+              "premise": "Small apartments can feel constrained even after basic refurbishment.",
+              "analysis": "Visual extension through a winter garden changes spatial perception.",
+              "conclusion": "The apartment feels more generous and livable."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_06",
+        "subject": "sliding glass panels",
+        "relation": "allow",
+        "relation_type": "Environmental Relation",
+        "object": "climate control",
+        "description": "Movable glazed panels allow residents to open or close the winter garden according to season and weather.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Give residents control",
+            "strategy": "Use sliding glass panels so residents can adjust ventilation, temperature, and openness.",
+            "reasoning": {
+              "premise": "Residents have different comfort needs and seasonal preferences.",
+              "analysis": "Movable panels provide direct control over the facade condition.",
+              "conclusion": "The building supports resident agency."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Support seasonal flexibility",
+            "strategy": "Allow the winter garden to act as a warmer enclosed space in winter and a ventilated balcony-like space in summer.",
+            "reasoning": {
+              "premise": "Paris has seasonal temperature variation.",
+              "analysis": "Sliding panels allow the space to shift between closed and open conditions.",
+              "conclusion": "The winter garden becomes usable across seasons."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Improve energy behavior through passive means",
+            "strategy": "Use operable glazing to regulate solar gain and airflow before relying on mechanical systems.",
+            "reasoning": {
+              "premise": "Passive environmental control can reduce energy demand.",
+              "analysis": "Residents can manage solar gain and ventilation through the facade.",
+              "conclusion": "The building improves comfort and environmental performance through simple user-controlled devices."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_07",
+        "subject": "curtains",
+        "relation": "modulate",
+        "relation_type": "Perceptual Relation",
+        "object": "privacy and sunlight",
+        "description": "Curtains and internal layers allow residents to adjust privacy, glare, and solar exposure.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Protect privacy",
+            "strategy": "Use curtains as an adjustable layer behind the transparent facade.",
+            "reasoning": {
+              "premise": "The new facade is highly transparent.",
+              "analysis": "Curtains allow residents to control visibility from outside.",
+              "conclusion": "The transparent facade remains compatible with domestic privacy."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Control glare and solar gain",
+            "strategy": "Allow curtains to filter direct sunlight and reduce glare.",
+            "reasoning": {
+              "premise": "Glazed winter gardens can receive strong sun at certain times.",
+              "analysis": "Curtains provide simple and flexible shading.",
+              "conclusion": "Residents can tune light conditions according to need."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Express domestic occupation",
+            "strategy": "Let curtains, furniture, and personal use become visible in the facade.",
+            "reasoning": {
+              "premise": "Social housing facades often appear anonymous and repetitive.",
+              "analysis": "Resident-controlled layers reveal individuality and everyday life.",
+              "conclusion": "The facade becomes inhabited and personal."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_08",
+        "subject": "self-supporting structure",
+        "relation": "avoids",
+        "relation_type": "Construction Relation",
+        "object": "heavy internal demolition",
+        "description": "The external structure allows apartment enlargement without destroying the existing tower.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Minimize disruption to existing apartments",
+            "strategy": "Build the new extension as an independent external structure.",
+            "reasoning": {
+              "premise": "Internal demolition would be disruptive, expensive, and difficult for residents.",
+              "analysis": "A self-supporting exterior frame can be built around the existing tower.",
+              "conclusion": "The renovation improves housing with less destructive intervention."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Preserve existing structure",
+            "strategy": "Avoid altering the main load-bearing system of the original tower wherever possible.",
+            "reasoning": {
+              "premise": "The existing concrete structure has embodied material value.",
+              "analysis": "Preserving it reduces waste and structural risk.",
+              "conclusion": "The project demonstrates reuse through additive construction."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create a clear new-old relationship",
+            "strategy": "Let the external frame read as a new layer added to the existing building.",
+            "reasoning": {
+              "premise": "The project is a transformation, not a disguise.",
+              "analysis": "A visible external structure makes the renovation process legible.",
+              "conclusion": "The architecture communicates addition and reuse."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_09",
+        "subject": "renovation strategy",
+        "relation": "preserves",
+        "relation_type": "Social Relation",
+        "object": "resident continuity",
+        "description": "The project supports the possibility of residents remaining connected to their homes during transformation.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Avoid displacement",
+            "strategy": "Improve the existing tower instead of demolishing it and relocating residents.",
+            "reasoning": {
+              "premise": "Demolition-based renewal often displaces existing communities.",
+              "analysis": "Renovation allows residents to remain connected to their homes and neighborhood.",
+              "conclusion": "The project supports social continuity."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Respect existing community",
+            "strategy": "Treat residents as the primary beneficiaries of transformation rather than replacing them with a new population.",
+            "reasoning": {
+              "premise": "Social housing renewal can become a process of social erasure.",
+              "analysis": "Keeping and improving the building protects existing residents' rights and community ties.",
+              "conclusion": "The project gives dignity to existing housing."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Make renovation socially sustainable",
+            "strategy": "Use spatial improvement as a social strategy, not only a technical upgrade.",
+            "reasoning": {
+              "premise": "Housing quality affects everyday social wellbeing.",
+              "analysis": "Larger spaces, winter gardens, and balconies improve daily life without displacement.",
+              "conclusion": "The transformation is socially and spatially sustainable."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_10",
+        "subject": "facade depth",
+        "relation": "improves",
+        "relation_type": "Environmental Relation",
+        "object": "thermal and acoustic comfort",
+        "description": "The new facade layer acts as a buffer against cold, heat, wind, noise, and pollution.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Improve thermal performance",
+            "strategy": "Use the winter garden and balcony layer as a thermal buffer around the existing apartment.",
+            "reasoning": {
+              "premise": "The original facade had poor thermal performance.",
+              "analysis": "A deeper envelope can reduce direct exposure to exterior climate.",
+              "conclusion": "The apartment becomes more comfortable and energy efficient."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Improve acoustic comfort",
+            "strategy": "Use the added facade depth to buffer traffic and urban noise.",
+            "reasoning": {
+              "premise": "The building is near peripheral infrastructure and urban roads.",
+              "analysis": "A layered facade can reduce noise reaching interior rooms.",
+              "conclusion": "The transformation improves acoustic quality."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Create a healthier residential threshold",
+            "strategy": "Use the winter garden as a protective zone between apartment and polluted urban exterior.",
+            "reasoning": {
+              "premise": "Peripheral road infrastructure contributes to pollution and discomfort.",
+              "analysis": "An intermediate facade layer provides physical and perceptual buffering.",
+              "conclusion": "Residents gain a more protected living environment."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_11",
+        "subject": "apartment enlargement",
+        "relation": "improves",
+        "relation_type": "Social Relation",
+        "object": "social housing quality",
+        "description": "The added space transforms small apartments into more generous homes.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Increase dignity of social housing",
+            "strategy": "Add usable space to existing apartments rather than accepting minimal living conditions.",
+            "reasoning": {
+              "premise": "Social housing should provide quality and dignity, not only shelter.",
+              "analysis": "Larger apartments with winter gardens and balconies improve everyday life.",
+              "conclusion": "The transformation raises the standard of social housing."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Create flexible domestic use",
+            "strategy": "Use the added winter garden and balcony as adaptable spaces for different households.",
+            "reasoning": {
+              "premise": "Households use space differently over time.",
+              "analysis": "Additional flexible rooms support varied activities and lifestyles.",
+              "conclusion": "The apartments become more adaptable and livable."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Improve quality without luxury displacement",
+            "strategy": "Upgrade existing homes for existing residents instead of replacing the tower with new market-rate housing.",
+            "reasoning": {
+              "premise": "Urban renewal can improve buildings while displacing residents.",
+              "analysis": "Apartment enlargement improves quality in place.",
+              "conclusion": "The project links spatial improvement with social justice."
+            }
+          }
+        ]
+      },
+      {
+        "id": "C2_12",
+        "subject": "non-demolition strategy",
+        "relation": "reduces",
+        "relation_type": "Environmental Relation",
+        "object": "waste and carbon",
+        "description": "Keeping the existing structure reduces demolition waste and embodied carbon compared with replacement.",
+        "strategy_candidates": [
+          {
+            "id": 1,
+            "motivation": "Reduce embodied carbon",
+            "strategy": "Preserve the existing concrete structure instead of demolishing and rebuilding it.",
+            "reasoning": {
+              "premise": "Existing buildings contain embodied carbon from original construction.",
+              "analysis": "Reusing the structure avoids the carbon cost of replacement construction.",
+              "conclusion": "Non-demolition becomes a climate-conscious strategy."
+            }
+          },
+          {
+            "id": 2,
+            "motivation": "Reduce construction waste",
+            "strategy": "Avoid demolition waste by retaining the main tower structure.",
+            "reasoning": {
+              "premise": "Demolition produces large amounts of material waste.",
+              "analysis": "Transformation by addition preserves material already on site.",
+              "conclusion": "The project supports circular and resource-conscious building practice."
+            }
+          },
+          {
+            "id": 3,
+            "motivation": "Demonstrate sustainable renovation model",
+            "strategy": "Use social housing renewal as a model for low-carbon architectural transformation.",
+            "reasoning": {
+              "premise": "Many aging residential towers face demolition pressure.",
+              "analysis": "This project shows that renovation can improve quality while reducing environmental impact.",
+              "conclusion": "The strategy can inform broader housing transformation policies."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "Gene_D": {
+    "description": "Gene_D records possible resident behavior, media feedback, and design reflection. Some items are inferred from spatial configuration and should be verified with additional sources if needed.",
+    "resident_behavior": "Residents are likely to use the new winter gardens and balconies as extra rooms, storage zones, plant areas, sunspaces, sitting areas, and seasonal thresholds. The transparent facade allows residents to control curtains, ventilation, and privacy. This is an interpretation based on the drawings and exterior images.",
+    "media_feedback": "Tour Bois-le-Prêtre is widely discussed as a major social housing transformation precedent because it demonstrates a non-demolition strategy, apartment enlargement, winter gardens, balconies, occupied renovation, and low-carbon reuse.",
+    "designer_reflection": "The project demonstrates that existing housing blocks can be improved by adding space instead of demolishing them. Its key contribution is the conversion of the facade into an inhabited climatic layer that increases comfort, dignity, and flexibility for social housing residents.",
+    "limitations_or_notes": [
+      "The success of the strategy depends on the structural condition of the existing tower.",
+      "External additions require coordination of fire safety, facade performance, resident access, and construction phasing.",
+      "Resident-controlled facade layers require maintenance and long-term usability.",
+      "The strategy is most effective when the existing structure is suitable for reuse and when housing policy supports resident continuity."
+    ]
+  },
+  "case_summary": {
+    "one_sentence_summary": "Tour Bois-le-Prêtre is a social housing transformation precedent that avoids demolition by adding winter gardens, balconies, and a self-supporting facade extension to enlarge apartments and improve living quality.",
+    "key_design_problem": "How can an outdated social housing tower be improved without demolition, displacement, carbon waste, or loss of existing community?",
+    "key_design_solution": "Keep the existing tower, add an external self-supporting structure, enlarge each apartment with new floor plates, create winter gardens as climate buffers, and add balconies as open-air extensions.",
+    "transferable_strategies_for_highrise_housing": [
+      "Preserve existing towers instead of demolishing them.",
+      "Use external self-supporting structures to enlarge apartments.",
+      "Convert facades into inhabited winter gardens and balconies.",
+      "Use winter gardens as thermal, acoustic, and seasonal buffers.",
+      "Give residents control through sliding panels and curtains.",
+      "Add spatial generosity as a social housing improvement strategy.",
+      "Maintain resident continuity during housing renewal.",
+      "Use reuse and addition as low-carbon alternatives to replacement construction."
+    ]
+  },
+  "keywords": [
+    "Tour Bois-le-Prêtre",
+    "Frédéric Druot",
+    "Lacaton & Vassal",
+    "Anne Lacaton",
+    "Jean-Philippe Vassal",
+    "Paris",
+    "Paris 17e",
+    "Porte Pouchet",
+    "social housing transformation",
+    "HLM",
+    "do not demolish",
+    "non-demolition strategy",
+    "adaptive reuse",
+    "occupied renovation",
+    "winter garden",
+    "balcony extension",
+    "self-supporting structure",
+    "added floor plate",
+    "apartment enlargement",
+    "transparent facade",
+    "inhabited facade",
+    "thermal buffer",
+    "acoustic buffer",
+    "resident continuity",
+    "low-carbon renovation",
+    "social housing renewal",
+    "PLUS strategy",
+    "housing rehabilitation"
+  ],
+  "status": "preliminary_json_v1",
+  "created_for": "High-Rise Residential Precedent Knowledge Base",
+  "notes": "This JSON is based on manually prepared preprocess files for site context, drawings, photos, and renders. It is ready to be included as Case 17 in the precedent database. Exact construction phasing, resident relocation strategy, energy performance, and post-occupancy data should be checked again before final publication."
+}
