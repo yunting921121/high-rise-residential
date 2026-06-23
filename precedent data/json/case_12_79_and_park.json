@@ -1,0 +1,740 @@
+{
+"id": "case_12_79_and_park",
+"project_name": "79 & Park",
+"architect": "BIG - Bjarke Ingels Group",
+"developer": "Oscar Properties",
+"location": "Stockholm, Sweden",
+"district": "Gärdet / Östermalm edge / Royal National City Park edge",
+"address_reference": "Sandhamnsgatan 79, 115 28 Stockholm",
+"year": "2018",
+"building_type": "high-rise / mid-rise residential courtyard block",
+"area": "approximately 25000 m²",
+"number_of_units": "approximately 169 apartments; exact count should be verified before final publication",
+"main_theme": [
+"inhabitable hillside",
+"park-edge housing",
+"terraced residential block",
+"central courtyard",
+"pixelated modular massing",
+"roof landscape",
+"urban-suburban hybrid"
+],
+"source_urls": [
+"https://www.archdaily.com/905534/79-and-park-big",
+"https://big.dk/projects/79-park-residences-2557"
+],
+"data_sources": [
+"source_text.md",
+"01_site_context_analysis.md",
+"02_drawings_preprocess.md",
+"03_photos_renders_preprocess.md",
+"section_drawing.jpg",
+"east_west_facade_drawings.jpg",
+"ground_floor_plan.jpg",
+"exterior_aerial_photo.jpg"
+],
+"Gene_A": {
+"description": "Gene_A records the site conditions, urban context, environmental conditions, functional needs, and contextual reasoning of the precedent.",
+"location": "79 & Park is located at Sandhamnsgatan 79 in Stockholm's Gärdet district, at the edge of a large urban landscape connected to the Royal National City Park.",
+"urban_context": "The project sits between the open park landscape of Gärdet and Stockholm's denser residential urban fabric. It acts as a transition between park-edge nature and urban housing density.",
+"site_conditions": "The building is positioned beside a major green landscape and within a residential district. It uses stepped massing, a central courtyard, roof terraces, and wood cladding to mediate between city and park.",
+"adjacent_uses": {
+"north_northeast": "Higher building edge, urban street frontage, residential fabric, and district connections toward the harbor and city infrastructure.",
+"south_southwest": "Lower building edge, open park landscape, Gärdet / Royal National City Park direction, and green recreational space.",
+"east": "Lindarängsvägen / street edge, urban traffic, and access toward nearby district infrastructure.",
+"west": "Sandhamnsgatan residential frontage, local streets, neighboring residential blocks, and urban pedestrian connections."
+},
+"surrounding_context": {
+"park_facing_side": "Open green landscape, recreational space, long views, and the broader Royal National City Park condition.",
+"street_facing_side": "Residential streets, neighborhood buildings, pedestrian routes, and urban blocks.",
+"harbor_facing_direction": "Views toward Stockholm's harbor-related infrastructure and distant urban-industrial landscape.",
+"city_facing_direction": "Connection to Östermalm / Gärdet residential district, public transport, and local urban life."
+},
+"climate_conditions": "Stockholm's northern climate makes daylight access especially important. The project responds through a lowered corner that brings sunlight into the courtyard, a raised corner for views and identity, and roof terraces that provide outdoor space in a dense residential block.",
+"view_conditions": "The building offers park views toward Gärdet, courtyard views into the central communal garden, upper-level city views, and possible harbor or infrastructural views from higher parts of the massing.",
+"functional_needs": "The project provides residential units, a central courtyard, private and shared terraces, roof gardens, public passages, and outdoor spaces that combine urban density with landscape-oriented domestic life.",
+"density_or_height_condition": "The project uses a terraced courtyard block rather than a conventional tower. Its raised and lowered corners balance density, daylight, views, and park-edge transition.",
+"target_residents": "Urban residents seeking apartment living with access to outdoor terraces, courtyard community, park views, and a softer landscape-oriented residential environment.",
+"context_steps": [
+{
+"step": 1,
+"subject": "residential block",
+"relation": "is located at",
+"object": "Gärdet park edge"
+},
+{
+"step": 2,
+"subject": "building mass",
+"relation": "mediates",
+"object": "urban fabric and park landscape"
+},
+{
+"step": 3,
+"subject": "perimeter block",
+"relation": "surrounds",
+"object": "central courtyard"
+},
+{
+"step": 4,
+"subject": "lowered corner",
+"relation": "brings",
+"object": "daylight to courtyard"
+},
+{
+"step": 5,
+"subject": "raised corner",
+"relation": "creates",
+"object": "urban landmark and views"
+},
+{
+"step": 6,
+"subject": "roof terraces",
+"relation": "extend",
+"object": "apartment units"
+},
+{
+"step": 7,
+"subject": "roof landscape",
+"relation": "connects",
+"object": "housing and park"
+},
+{
+"step": 8,
+"subject": "wood facade",
+"relation": "softens",
+"object": "residential density"
+}
+]
+},
+"Gene_B": {
+"description": "Gene_B records the design issue, design concept, and overall design strategy.",
+"issue": "Dense residential blocks can lack private outdoor space, sufficient courtyard daylight, human scale, and landscape connection. Park-edge sites also need to mediate between urban density and open green space.",
+"concept": "Transform a residential courtyard block into an inhabitable hillside, where modular apartments, stepped massing, central courtyard, roof terraces, and wood facade create a landscape-oriented housing environment.",
+"strategy": "Use a modular grid to generate a pixelated residential block. Raise one corner to create views and landmark identity, lower the opposite corner to bring light into the courtyard, and use terraced roof landscapes and wood cladding to extend the park into the building.",
+"design_intentions": [
+"Combine urban density with park-edge domestic qualities.",
+"Transform a courtyard block into an inhabitable hillside.",
+"Use stepped massing to improve daylight, views, and outdoor space.",
+"Create a shared central courtyard as the communal heart of the project.",
+"Use modular planning to create repetition with variation.",
+"Use roof terraces and planted surfaces to connect housing with landscape.",
+"Soften the scale of a large residential block through wood facade and pixelated massing."
+]
+},
+"Gene_C1": {
+"description": "Gene_C1 records the architectural vocabulary extracted from site context, drawings, diagrams, photos, and renders.",
+"vocabulary": [
+"inhabitable hillside",
+"terraced residential block",
+"perimeter block",
+"courtyard block",
+"central courtyard",
+"green courtyard",
+"pixelated massing",
+"stepped massing",
+"modular housing block",
+"park-edge building",
+"raised corner",
+"lowered corner",
+"roof landscape",
+"residential slope",
+"urban landmark",
+"building perimeter",
+"open courtyard",
+"apartment unit",
+"modular apartment",
+"living room",
+"bedroom",
+"kitchen",
+"bathroom",
+"unit entrance",
+"private terrace",
+"shared terrace",
+"roof terrace",
+"balcony",
+"bay window",
+"outdoor room",
+"garden terrace",
+"courtyard-facing unit",
+"park-facing unit",
+"city-facing unit",
+"entrance",
+"stair core",
+"elevator core",
+"shared corridor",
+"residential access",
+"ground-level passage",
+"public passage",
+"courtyard access",
+"vertical circulation",
+"service area",
+"roof garden",
+"planted roof",
+"trees",
+"shrubs",
+"planter",
+"courtyard path",
+"outdoor seating",
+"park extension",
+"garden edge",
+"wood facade",
+"cedar cladding",
+"prefabricated module",
+"window module",
+"repetitive facade grid",
+"bay-like projection",
+"balcony edge",
+"facade depth",
+"pixelated facade",
+"light and shadow",
+"domestic-scale unit expression",
+"Gärdet",
+"Royal National City Park",
+"Sandhamnsgatan",
+"Stockholm residential fabric",
+"urban-park transition"
+]
+},
+"Gene_C2": {
+"description": "Gene_C2 records semantic spatial relationships and strategy candidates. Each relation follows the format: Subject → Relation (Relation Type) → Object.",
+"semantic_relations": [
+{
+"id": "C2_01",
+"subject": "perimeter block",
+"relation": "surrounds",
+"relation_type": "Spatial Relation",
+"object": "central courtyard",
+"description": "The building forms a courtyard block that wraps around a shared green courtyard.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Create a protected communal center",
+"strategy": "Use a perimeter block to define a shared green courtyard at the center of the residential community.",
+"reasoning": {
+"premise": "Dense residential blocks need shared outdoor space.",
+"analysis": "A courtyard creates a protected internal landscape for residents.",
+"conclusion": "The courtyard becomes the social and environmental heart of the project."
+}
+},
+{
+"id": 2,
+"motivation": "Balance urban edge and interior landscape",
+"strategy": "Let the outer perimeter respond to streets and city edges while the inner courtyard provides a calmer green environment.",
+"reasoning": {
+"premise": "The project sits between urban streets and park landscape.",
+"analysis": "A perimeter block can provide urban definition and interior landscape at the same time.",
+"conclusion": "The building mediates between city-facing and community-facing conditions."
+}
+},
+{
+"id": 3,
+"motivation": "Organize apartments around shared space",
+"strategy": "Place housing around the courtyard so residents can visually and physically relate to a common green space.",
+"reasoning": {
+"premise": "Housing blocks can feel anonymous without a shared center.",
+"analysis": "A courtyard gives the community a spatial focus.",
+"conclusion": "The block becomes more socially legible and communal."
+}
+}
+]
+},
+{
+"id": "C2_02",
+"subject": "central courtyard",
+"relation": "organizes",
+"relation_type": "Urban Relation",
+"object": "residential community",
+"description": "The courtyard becomes the communal heart of the project and provides shared landscape space for residents.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Support community life",
+"strategy": "Use the central courtyard as a shared garden and gathering space for residents.",
+"reasoning": {
+"premise": "Residential communities need shared social spaces.",
+"analysis": "A central courtyard can support encounters, relaxation, and visual connection.",
+"conclusion": "The courtyard strengthens collective residential life."
+}
+},
+{
+"id": 2,
+"motivation": "Provide landscape within density",
+"strategy": "Use the courtyard as an internal green space that complements the surrounding park.",
+"reasoning": {
+"premise": "Dense housing can reduce direct access to landscape.",
+"analysis": "A courtyard brings greenery into the building block.",
+"conclusion": "Residents gain both internal and external landscape relationships."
+}
+},
+{
+"id": 3,
+"motivation": "Create visual orientation",
+"strategy": "Let apartments face the courtyard so the shared landscape becomes a reference point for residents.",
+"reasoning": {
+"premise": "Large residential blocks need spatial clarity.",
+"analysis": "A courtyard creates an identifiable internal center.",
+"conclusion": "The building becomes easier to understand and inhabit."
+}
+}
+]
+},
+{
+"id": "C2_03",
+"subject": "modular units",
+"relation": "generate",
+"relation_type": "Typological Relation",
+"object": "pixelated massing",
+"description": "Repeated square modules create a pixelated form with varied apartment layouts, terrace depths, and facade conditions.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Create variation from repetition",
+"strategy": "Use repeated apartment modules but stack and shift them to produce a pixelated mass.",
+"reasoning": {
+"premise": "Modular housing can become monotonous if repeated uniformly.",
+"analysis": "Variation in module placement creates visual and spatial diversity.",
+"conclusion": "The building achieves both systematic planning and individual expression."
+}
+},
+{
+"id": 2,
+"motivation": "Produce domestic scale",
+"strategy": "Break the large block into smaller visible apartment-scale modules.",
+"reasoning": {
+"premise": "Large residential blocks can feel monolithic.",
+"analysis": "Pixelated units reduce the perceived scale.",
+"conclusion": "The building feels more human and domestic."
+}
+},
+{
+"id": 3,
+"motivation": "Support terraced outdoor spaces",
+"strategy": "Use modular stepping to create roof terraces, balconies, and varied exterior spaces.",
+"reasoning": {
+"premise": "Outdoor space is a key goal of the project.",
+"analysis": "Shifted modules naturally create terrace surfaces.",
+"conclusion": "The modular system becomes a terrace-generating device."
+}
+}
+]
+},
+{
+"id": "C2_04",
+"subject": "raised corner",
+"relation": "creates",
+"relation_type": "Urban Relation",
+"object": "urban landmark",
+"description": "The higher corner gives the project a stronger city-facing presence and creates broader views.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Create a stronger urban presence",
+"strategy": "Raise one corner of the block to create a taller marker facing the city.",
+"reasoning": {
+"premise": "The building sits between park and urban fabric.",
+"analysis": "A raised corner can address the city and create a visible landmark.",
+"conclusion": "The project gains a stronger urban identity."
+}
+},
+{
+"id": 2,
+"motivation": "Maximize views",
+"strategy": "Use the raised corner to provide upper apartments with broader views toward the park, city, and harbor.",
+"reasoning": {
+"premise": "Higher levels have stronger view potential.",
+"analysis": "The raised portion captures panoramic surroundings.",
+"conclusion": "The massing turns height into residential value."
+}
+},
+{
+"id": 3,
+"motivation": "Balance the lowered courtyard edge",
+"strategy": "Concentrate height in one corner while lowering another corner for daylight.",
+"reasoning": {
+"premise": "The block must balance density and courtyard light.",
+"analysis": "Raising one part preserves floor area while another part can step down.",
+"conclusion": "The massing balances density, view, and daylight."
+}
+}
+]
+},
+{
+"id": "C2_05",
+"subject": "lowered corner",
+"relation": "brings",
+"relation_type": "Environmental Relation",
+"object": "daylight to courtyard",
+"description": "The lower corner allows more daylight to enter the central courtyard and reduces enclosure.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Improve courtyard daylight",
+"strategy": "Lower one corner of the block to allow more sun and sky exposure into the courtyard.",
+"reasoning": {
+"premise": "Courtyard blocks in northern climates can become dark.",
+"analysis": "Lowering a portion of the mass increases solar access.",
+"conclusion": "The courtyard becomes brighter and more usable."
+}
+},
+{
+"id": 2,
+"motivation": "Connect building to park scale",
+"strategy": "Step the mass down toward the park-facing side.",
+"reasoning": {
+"premise": "The site borders a large open landscape.",
+"analysis": "A lower edge creates a softer transition to the park.",
+"conclusion": "The building mediates between urban block and landscape."
+}
+},
+{
+"id": 3,
+"motivation": "Reduce sense of enclosure",
+"strategy": "Use a sloping mass instead of a uniform-height courtyard wall.",
+"reasoning": {
+"premise": "Tall courtyard edges can feel enclosed and oppressive.",
+"analysis": "A lowered corner opens the block visually.",
+"conclusion": "The shared courtyard feels more open and landscape-like."
+}
+}
+]
+},
+{
+"id": "C2_06",
+"subject": "roof terraces",
+"relation": "extend",
+"relation_type": "Spatial Relation",
+"object": "apartment units",
+"description": "Roof terraces extend apartment living outdoors and create private or shared open spaces.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Provide private outdoor space",
+"strategy": "Use stepped roofs as terraces directly connected to apartment units.",
+"reasoning": {
+"premise": "Urban apartments often lack generous private outdoor space.",
+"analysis": "Stepped massing creates terrace surfaces at many levels.",
+"conclusion": "Residents gain house-like outdoor rooms within a dense block."
+}
+},
+{
+"id": 2,
+"motivation": "Create landscape-oriented living",
+"strategy": "Design roof terraces with planting, seating, and views toward the park and courtyard.",
+"reasoning": {
+"premise": "The project aims to extend the park into the building.",
+"analysis": "Terraces can become small elevated gardens.",
+"conclusion": "Apartments gain a stronger connection to landscape."
+}
+},
+{
+"id": 3,
+"motivation": "Increase unit diversity",
+"strategy": "Use terrace size, position, and orientation to create different apartment types.",
+"reasoning": {
+"premise": "Residential quality can be enhanced through variety.",
+"analysis": "Different terraces give units distinct spatial identities.",
+"conclusion": "The block avoids uniform apartment repetition."
+}
+}
+]
+},
+{
+"id": "C2_07",
+"subject": "roof landscape",
+"relation": "mediates",
+"relation_type": "Environmental Relation",
+"object": "park and housing",
+"description": "The stepped roof landscape makes the building feel like an extension of the surrounding park.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Extend park landscape upward",
+"strategy": "Use planted roofs and terraces to continue the park atmosphere onto the building.",
+"reasoning": {
+"premise": "The project is located beside Gärdet and the Royal National City Park.",
+"analysis": "Green terraces and roof gardens connect architecture to landscape.",
+"conclusion": "The building becomes a continuation of the park."
+}
+},
+{
+"id": 2,
+"motivation": "Softly transition from nature to city",
+"strategy": "Shape the roofscape as a gradual slope between park and urban edge.",
+"reasoning": {
+"premise": "The building must mediate between open landscape and dense residential fabric.",
+"analysis": "A terraced roof creates a spatial gradient.",
+"conclusion": "Housing becomes a transitional landscape."
+}
+},
+{
+"id": 3,
+"motivation": "Create shared ecological value",
+"strategy": "Use planted terraces and roof gardens to provide greenery, habitat, and visual softness.",
+"reasoning": {
+"premise": "Dense buildings can reduce green surface area.",
+"analysis": "Roof landscape restores vegetated surfaces.",
+"conclusion": "The project improves environmental and social quality."
+}
+}
+]
+},
+{
+"id": "C2_08",
+"subject": "wood facade",
+"relation": "softens",
+"relation_type": "Material Relation",
+"object": "residential block",
+"description": "The wood cladding gives the large block a warmer, more natural character.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Reduce perceived mass",
+"strategy": "Use wood cladding to make the large residential block feel warmer and less hard.",
+"reasoning": {
+"premise": "Large housing blocks can appear heavy and impersonal.",
+"analysis": "Wood adds texture, warmth, and domestic association.",
+"conclusion": "The block feels more human and residential."
+}
+},
+{
+"id": 2,
+"motivation": "Connect building to park context",
+"strategy": "Use natural material to relate the facade to nearby trees and landscape.",
+"reasoning": {
+"premise": "The building is located at the edge of a major green landscape.",
+"analysis": "Wood material visually connects architecture and nature.",
+"conclusion": "The building becomes more landscape-compatible."
+}
+},
+{
+"id": 3,
+"motivation": "Create domestic atmosphere",
+"strategy": "Use timber-like facade expression to make apartments feel more like homes than anonymous units.",
+"reasoning": {
+"premise": "Housing should communicate comfort and domesticity.",
+"analysis": "Wood cladding reinforces a residential character.",
+"conclusion": "The facade supports the project's park-edge domestic identity."
+}
+}
+]
+},
+{
+"id": "C2_09",
+"subject": "bay windows",
+"relation": "frame",
+"relation_type": "Perceptual Relation",
+"object": "views",
+"description": "Bay windows and facade projections create view conditions toward the park, city, courtyard, and harbor.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Enhance view orientation",
+"strategy": "Use bay windows to direct interior views toward park, courtyard, city, or harbor conditions.",
+"reasoning": {
+"premise": "The site provides multiple valuable views.",
+"analysis": "Bay windows can create angled or focused view conditions.",
+"conclusion": "Apartments gain stronger visual relationships to context."
+}
+},
+{
+"id": 2,
+"motivation": "Create facade depth",
+"strategy": "Use bay-like projections to add relief and inhabitable depth to the facade.",
+"reasoning": {
+"premise": "Flat facades can appear monotonous.",
+"analysis": "Bay windows create shadows, projections, and domestic expression.",
+"conclusion": "The facade becomes more varied and human-scaled."
+}
+},
+{
+"id": 3,
+"motivation": "Improve interior experience",
+"strategy": "Use bay windows to create small inhabitable edges within apartment interiors.",
+"reasoning": {
+"premise": "Interior rooms benefit from strong daylight and view moments.",
+"analysis": "Bay windows can create special seating, viewing, or light conditions.",
+"conclusion": "Apartment interiors become more spatially rich."
+}
+}
+]
+},
+{
+"id": "C2_10",
+"subject": "public passages",
+"relation": "connect",
+"relation_type": "Circulation Relation",
+"object": "street and courtyard",
+"description": "Open passages allow the courtyard to connect more directly with the surrounding urban context.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Increase courtyard porosity",
+"strategy": "Use passages to connect the central courtyard to surrounding streets and pedestrian routes.",
+"reasoning": {
+"premise": "Courtyard blocks can become closed and isolated.",
+"analysis": "Passages create movement and visual connection.",
+"conclusion": "The courtyard becomes more integrated with the neighborhood."
+}
+},
+{
+"id": 2,
+"motivation": "Support social accessibility",
+"strategy": "Let residents and visitors move through the building toward shared landscape spaces.",
+"reasoning": {
+"premise": "Shared spaces are more successful when they are easy to reach.",
+"analysis": "Passages improve access to the courtyard.",
+"conclusion": "The building supports a more active communal environment."
+}
+},
+{
+"id": 3,
+"motivation": "Connect city and landscape",
+"strategy": "Use ground-level openings to create a transition between street, courtyard, and park.",
+"reasoning": {
+"premise": "The project mediates between urban fabric and park landscape.",
+"analysis": "Passages allow this transition to be experienced spatially.",
+"conclusion": "The block becomes more porous and landscape-oriented."
+}
+}
+]
+},
+{
+"id": "C2_11",
+"subject": "apartments",
+"relation": "occupy",
+"relation_type": "Spatial Relation",
+"object": "perimeter",
+"description": "Apartment units occupy the building perimeter so that rooms can access daylight, views, and outdoor space.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Maximize daylight access",
+"strategy": "Place apartments along the exterior and courtyard perimeter to provide windows and daylight to living spaces.",
+"reasoning": {
+"premise": "Stockholm's northern daylight condition makes facade access important.",
+"analysis": "Perimeter rooms receive more daylight than internal rooms.",
+"conclusion": "The housing achieves better environmental quality."
+}
+},
+{
+"id": 2,
+"motivation": "Create multiple view types",
+"strategy": "Orient apartments toward courtyard, park, street, city, and harbor conditions.",
+"reasoning": {
+"premise": "The project has diverse surrounding contexts.",
+"analysis": "Perimeter occupation allows units to face different contextual conditions.",
+"conclusion": "The building provides varied residential experiences."
+}
+},
+{
+"id": 3,
+"motivation": "Connect units to terraces",
+"strategy": "Use perimeter apartment placement to link units with balconies, roof terraces, and outdoor rooms.",
+"reasoning": {
+"premise": "Outdoor living is central to the project concept.",
+"analysis": "Perimeter rooms can connect directly to exterior spaces.",
+"conclusion": "The apartments gain stronger indoor-outdoor continuity."
+}
+}
+]
+},
+{
+"id": "C2_12",
+"subject": "terraced massing",
+"relation": "balances",
+"relation_type": "Conceptual Relation",
+"object": "density and landscape",
+"description": "The stepped building form allows the project to maintain urban density while creating a landscape-like profile.",
+"strategy_candidates": [
+{
+"id": 1,
+"motivation": "Combine density with landscape character",
+"strategy": "Use stepped massing to maintain floor area while making the building appear like a hillside.",
+"reasoning": {
+"premise": "Urban sites require housing density, while park-edge sites require sensitivity to landscape.",
+"analysis": "Terraced massing allows both density and landscape integration.",
+"conclusion": "The building becomes an urban block and a park extension at the same time."
+}
+},
+{
+"id": 2,
+"motivation": "Create outdoor space through form",
+"strategy": "Let each step in the massing create usable roof terraces or outdoor areas.",
+"reasoning": {
+"premise": "Outdoor space is limited in dense apartment buildings.",
+"analysis": "Stepped form generates terrace surfaces naturally.",
+"conclusion": "The massing itself produces outdoor living space."
+}
+},
+{
+"id": 3,
+"motivation": "Improve environmental performance",
+"strategy": "Use sloped massing to improve courtyard daylight, views, and openness.",
+"reasoning": {
+"premise": "Uniform-height courtyard blocks can create shadow and enclosure.",
+"analysis": "Terraced massing opens the block and distributes height strategically.",
+"conclusion": "The project balances environmental quality and residential density."
+}
+}
+]
+}
+]
+},
+"Gene_D": {
+"description": "Gene_D records possible resident behavior, media feedback, and design reflection. Some items are inferred from spatial configuration and should be verified with additional sources if needed.",
+"resident_behavior": "Residents are likely to use the courtyard, roof terraces, balconies, and park-edge views as extensions of domestic life. The building supports both private outdoor use and shared courtyard community. This is an interpretation based on the drawings and exterior image.",
+"media_feedback": "79 & Park is widely discussed as a distinctive residential project because it transforms a courtyard block into an inhabitable hillside through modular stacking, terraced roofs, wood cladding, and park-edge integration.",
+"designer_reflection": "The project demonstrates how a dense residential block can be transformed into a landscape-like housing system. Its key contribution is the conversion of modular repetition into pixelated massing, roof terraces, courtyard community, and park-oriented domesticity.",
+"limitations_or_notes": [
+"Exact residential unit count should be verified with official sources before final publication.",
+"The success of roof terraces depends on climate, maintenance, privacy, access, and residents' actual use.",
+"The wood facade and roofscape require long-term material and landscape maintenance.",
+"The strategy is highly suited to park-edge or landscape-adjacent sites; adaptation to dense inner-city sites may require modification."
+]
+},
+"case_summary": {
+"one_sentence_summary": "79 & Park is a park-edge residential precedent that transforms a courtyard block into an inhabitable hillside through pixelated modular massing, roof terraces, wood facade, and a central green courtyard.",
+"key_design_problem": "How can a dense residential block provide outdoor terraces, daylight, views, human scale, and landscape continuity at the edge of a major urban park?",
+"key_design_solution": "Use modular units to create a terraced courtyard block, raise one corner for views and landmark identity, lower another corner for courtyard daylight, and extend the park into the building through roof terraces, wood facade, and planted courtyards.",
+"transferable_strategies_for_highrise_housing": [
+"Transform courtyard blocks into terraced landscapes.",
+"Use stepped massing to improve daylight and create roof terraces.",
+"Raise one corner for views and identity while lowering another for courtyard light.",
+"Use modular units to create repetition with variation.",
+"Use central courtyards as shared community landscapes.",
+"Use wood cladding and planting to soften large residential blocks.",
+"Connect apartments to terraces, balconies, bay windows, and park views.",
+"Treat park-edge housing as a transition between landscape and city."
+]
+},
+"keywords": [
+"79 & Park",
+"BIG",
+"Bjarke Ingels Group",
+"Stockholm",
+"Gärdet",
+"Sandhamnsgatan 79",
+"Royal National City Park",
+"park-edge housing",
+"inhabitable hillside",
+"terraced residential block",
+"central courtyard",
+"roof terraces",
+"roof garden",
+"modular housing",
+"3.6 m module",
+"pixelated massing",
+"pixelated facade",
+"wood facade",
+"cedar cladding",
+"raised corner",
+"lowered corner",
+"daylight strategy",
+"courtyard community",
+"urban-suburban hybrid",
+"landscape-oriented housing"
+],
+"status": "preliminary_json_v1",
+"created_for": "High-Rise Residential Precedent Knowledge Base",
+"notes": "This JSON is based on manually prepared preprocess files for site context, drawings, photos, and renders. It is ready to be included as Case 12 in the precedent database. Exact unit count, material specification, and terrace access conditions should be checked again before final publication."
+}
